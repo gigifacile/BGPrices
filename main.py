@@ -41,6 +41,24 @@ def get_price_magicmerchant(url):
         print(f"[Errore MagicMerchant] {url} → {e}")
     return None
 
+def get_price_player1(url):
+    if not url:
+        return None
+    try:
+        html = requests.get(url, timeout=10).text
+
+        # Controllo disponibilità (prodotto non disponibile)
+        if re.search(r'<p class="stock out-of-stock wd-style-default">.*?</p>', html):
+            return None
+
+        # Estrazione prezzo
+        m = re.search(r'<ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>(\d{1,3},\d{2})', html)
+        if m:
+            return float(m.group(1).replace(",", "."))
+    except Exception as e:
+        print(f"[Errore Player1] {url} → {e}")
+    return None
+
 def get_price_getyourfun(url):
     if not url: return None
     try:
@@ -95,6 +113,9 @@ def main():
             elif "getyourfun.it" in url:
                 price = get_price_getyourfun(url); 
                 fonte = "GetYourFun"
+            elif "player1.it" in url:
+                price = get_price_player1(url); 
+                fonte = "Player1"
             else:
                 continue
 
