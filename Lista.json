@@ -19,7 +19,7 @@
   },
   {
     "name": "Dune Imperium - Insurrezione",
-    "threshold": 56.3,
+    "threshold": 109.00,
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/119366-sunrise-lane.html",
       "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html",
@@ -28,11 +28,56 @@
   },
   {
     "name": "Dune Imperium",
-    "threshold": 49.99,
+    "threshold": 109.00,
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/119366-sunrise-lane.html",
       "https://www.dungeondice.it/23931-dune-imperium.html",
       "https://www.magicmerchant.it/catalogue/dune-imperium-52212/"
+    ]
+  },
+  {
+    "name": "Through The Ages",
+    "threshold": 109.00,
+    "links": [
+      "https://fantasiastore.it/it/giochi-semplici-e-family-games/119366-sunrise-lane.html",
+      "https://www.dungeondice.it/8055-through-the-ages.html",
+      "https://magicmerchant.it/catalogue/through-the-ages-la-storia-delle-civilta-3247/"
+    ]
+  },
+  {
+    "name": "Concordia",
+    "threshold": 109.00,
+    "links": [
+      "https://fantasiastore.it/it/giochi-semplici-e-family-games/119366-sunrise-lane.html",
+      "https://www.dungeondice.it/1757-concordia.html",
+      "https://magicmerchant.it/catalogue/concordia-30533/"
+    ]
+  },
+  {
+    "name": "Barrage",
+    "threshold": 109.00,
+    "links": [
+      "https://fantasiastore.it/it/giochi-semplici-e-family-games/119366-sunrise-lane.html",
+      "https://www.dungeondice.it/12981-barrage.html",
+      "https://magicmerchant.it/catalogue/barrage-40159/"
+    ]
+  },
+  {
+    "name": "Nucleum",
+    "threshold": 109.00,
+    "links": [
+      "https://fantasiastore.it/it/giochi-semplici-e-family-games/119366-sunrise-lane.html",
+      "https://www.dungeondice.it/32226-nucleum.html",
+      "https://magicmerchant.it/catalogue/nucleum-76380/"
+    ]
+  },
+  {
+    "name": "Dune Imperium",
+    "threshold": 109.00,
+    "links": [
+      "https://fantasiastore.it/it/giochi-semplici-e-family-games/119366-sunrise-lane.html",
+      "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html",
+      "https://magicmerchant.it/catalogue/le-rovine-perdute-di-arnak-50715/"
     ]
   }
 ]
