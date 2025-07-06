@@ -47,17 +47,20 @@ def get_price_player1(url):
     try:
         html = requests.get(url, timeout=10).text
 
-        # Controllo disponibilità (prodotto non disponibile)
-        if re.search(r'<p class="stock out-of-stock wd-style-default">.*?</p>', html):
-            return None
+        # Se il prodotto è "non disponibile", restituisce la scritta
+        m = re.search(r'<p class="stock out-of-stock wd-style-default">(.*?)<\/p>', html)
+        if m:
+            return None  # Oppure: return m.group(1) se vuoi il messaggio testuale
 
-        # Estrazione prezzo
+        # Cerca il prezzo nel tag <ins><span class="woocommerce-Price-amount amount"><bdi>xx,xx</bdi></span></ins>
         m = re.search(r'<ins aria-hidden="true"><span class="woocommerce-Price-amount amount"><bdi>(\d{1,3},\d{2})', html)
         if m:
-            return float(m.group(1).replace(",", "."))
+            prezzo = m.group(1).replace(",", ".")
+            return float(prezzo)
     except Exception as e:
         print(f"[Errore Player1] {url} → {e}")
     return None
+
 
 def get_price_getyourfun(url):
     if not url: return None
