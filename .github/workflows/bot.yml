@@ -5,6 +5,9 @@ on:
     - cron: "*/5 * * * *"  # ogni 5 minuti
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -37,4 +40,4 @@ jobs:
         run: |
           git add Lista.json storico_prezzi.csv
           git commit -m "Aggiorna soglia minima e storico prezzi" || echo "Nessuna modifica da salvare"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          git push origin main
