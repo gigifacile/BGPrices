@@ -1,45 +1,37 @@
-name: BG Price Tracker
+name: Price Check every 5 minutes
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
+    - cron: "*/5 * * * *"  # ogni 5 minuti
 
 jobs:
-  run-script:
+  check_prices:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout del codice
+      - name: Checkout repo
         uses: actions/checkout@v3
-        with:
-          persist-credentials: true  # ← importante
 
-      - name: Configura Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11
+          python-version: '3.11'
 
-      - name: Installa dipendenze
-        run: pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-      - name: Esegui script
+      - name: Run price check script
         run: python main.py
 
-  - name: Commit changes
-    run: |
-      git config --global user.email "andrea.delfi95@gmail.com"
-      git config --global user.name "gigifacile"
-      git pull --rebase origin main
-      git add Lista.json storico_prezzi.csv
-      git commit -m "Aggiorna soglia minima e storico prezzi"
-      git push origin main
-
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.email "andrea.delfi95@gmail.com"
+          git config --global user.name "gigifacile"
+          git pull --rebase origin main
+          git add Lista.json storico_prezzi.csv
+          git commit -m "Aggiorna soglia minima e storico prezzi" || echo "Nessuna modifica da committare"
+          git push origin main
