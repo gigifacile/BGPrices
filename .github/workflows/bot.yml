@@ -2,8 +2,8 @@ name: Esegui il bot ogni ora
 
 on:
   schedule:
-    - cron: "0 * * * *"  # ogni ora
-  workflow_dispatch:     # esecuzione manuale possibile
+    - cron: "*/5 * * * *"  # ogni 5 minuti
+  workflow_dispatch:       # esecuzione manuale possibile
 
 jobs:
   run-script:
