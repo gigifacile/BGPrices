@@ -2,7 +2,7 @@ name: BG Price Tracker
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # ogni 5 minuti
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,27 +16,25 @@ jobs:
       - name: Checkout del codice
         uses: actions/checkout@v3
         with:
-          persist-credentials: false
-          fetch-depth: 0
+          persist-credentials: true  # ← importante
 
       - name: Configura Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Imposta Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: 3.11
 
       - name: Installa dipendenze
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
-      - name: Esegui lo script
+      - name: Esegui script
         run: python main.py
 
-      - name: Fai commit e push se ci sono modifiche
+      - name: Commit e push modifiche
         run: |
           git add Lista.json storico_prezzi.csv
           git commit -m "Aggiorna soglia minima e storico prezzi" || echo "Nessuna modifica da salvare"
