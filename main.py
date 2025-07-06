@@ -75,13 +75,13 @@ def get_price_player1(url):
         disponibile = re.search(r'<p class="stock out-of-stock wd-style-default">(.*?)<\/p>', html)
         print("Disponibilità:", disponibile)
         if disponibile:
-            return disponibile.group(1)
+            return None
 
         # Parsing prezzo attuale scontato
         prezzo = re.search(r'<p class="price">.*?<ins[^>]*>.*?<bdi>(\d{1,3},\d{2})', html, re.DOTALL)
         print("Match prezzo:", prezzo)
         if not prezzo:
-            return "Prezzo non trovato"
+            return None
 
         prezzo_pulito = prezzo.group(1).replace(",", ".")
         print("Prezzo pulito:", prezzo_pulito)
