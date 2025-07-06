@@ -1,27 +1,40 @@
-name: Esegui Bot Prezzi
+name: BG Price Tracker
 
 on:
   schedule:
     - cron: "*/5 * * * *"  # ogni 5 minuti
-  workflow_dispatch:       # anche avviabile manualmente da GitHub
+  workflow_dispatch:
 
 jobs:
-  run-bot:
+  run-script:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clona il repository
+      - name: Checkout del codice
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
 
-      - name: Configura Python
+      - name: Configura Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Imposta Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.11"
+          python-version: 3.11
 
-      - name: Installa le dipendenze
+      - name: Installa dipendenze
         run: |
           pip install -r requirements.txt
 
-      - name: Avvia lo script del bot
+      - name: Esegui lo script
+        run: python main.py
+
+      - name: Fai commit e push se ci sono modifiche
         run: |
-          python main.py
+          git add Lista.json storico_prezzi.csv
+          git commit -m "Aggiorna soglia minima e storico prezzi" || echo "Nessuna modifica da salvare"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
