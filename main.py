@@ -63,6 +63,36 @@ def get_price_getyourfun(url):
         pass
     return None
 
+def get_price_player1(url):
+    if not url:
+        return "Non venduto"
+    
+    try:
+        response = requests.get(url, timeout=10)
+        html = response.text
+
+        # Controllo disponibilità
+        disponibile = re.search(r'<p class="stock out-of-stock wd-style-default">(.*?)<\/p>', html)
+        print("Disponibilità:", disponibile)
+        if disponibile:
+            return disponibile.group(1)
+
+        # Parsing prezzo attuale scontato
+        prezzo = re.search(r'<p class="price">.*?<ins[^>]*>.*?<bdi>(\d{1,3},\d{2})', html, re.DOTALL)
+        print("Match prezzo:", prezzo)
+        if not prezzo:
+            return "Prezzo non trovato"
+
+        prezzo_pulito = prezzo.group(1).replace(",", ".")
+        print("Prezzo pulito:", prezzo_pulito)
+
+        prezzo_numerico = float(prezzo_pulito)
+        return prezzo_numerico
+
+    except Exception as e:
+        print(f"[Errore Player1] {url} → {e}")
+        return "Errore"
+
 
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -95,6 +125,9 @@ def main():
             elif "getyourfun.it" in url:
                 price = get_price_getyourfun(url); 
                 fonte = "GetYourFun"
+            elif "player1.it" in url:
+                price = get_price_player1(url); 
+                fonte = "Player1"
             else:
                 continue
 
