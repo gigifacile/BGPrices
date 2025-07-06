@@ -24,4 +24,4 @@ jobs:
 
       - name: Avvia lo script del bot
         run: |
-          python Exec.py
+          python main.py
