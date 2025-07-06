@@ -93,6 +93,41 @@ def get_price_player1(url):
         print(f"[Errore Player1] {url} → {e}")
         return "Errore"
 
+import requests
+import re
+
+def get_price_feltrinelli(url):
+    if not url:
+        return "Non venduto"
+    
+    try:
+        response = requests.get(url, timeout=10)
+        html = response.text
+
+        # Controllo disponibilità (Avvisami = non disponibile)
+        disponibile = re.search(
+            r'<button[^>]*class=["\'][^"\']*cc-button--secondary[^"\']*["\'][^>]*>\s*<img[^>]*alt=["\'][^"\']*["\'][^>]*>\s*(.*?)\s*</button>',
+            html,
+            re.IGNORECASE
+        )
+        if disponibile and "Avvisami" in disponibile.group(1):
+            return None
+
+        # Estrazione prezzo
+        prezzo = re.search(
+            r'<div class="cc-buy-box-container">[\s\S]*?<span class="cc-price">([\d.,]+)\s*€</span>',
+            html
+        )
+        if not prezzo:
+            return None
+
+        prezzo_pulito = prezzo.group(1).replace(",", ".")
+        prezzo_numerico = float(prezzo_pulito)
+        return prezzo_numerico
+
+    except Exception as e:
+        print(f"[Errore Feltrinelli] {url} → {e}")
+        return "Errore"
 
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -128,6 +163,9 @@ def main():
             elif "player1.it" in url:
                 price = get_price_player1(url); 
                 fonte = "Player1"
+            elif "lafeltrinelli.it" in url:
+                price = get_price_feltrinelli(url); 
+                fonte = "LaFeltrinelli"
             else:
                 continue
 
