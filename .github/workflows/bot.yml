@@ -34,8 +34,12 @@ jobs:
       - name: Esegui script
         run: python main.py
 
-      - name: Commit e push modifiche
-        run: |
-          git add Lista.json storico_prezzi.csv
-          git commit -m "Aggiorna soglia minima e storico prezzi" || echo "Nessuna modifica da salvare"
-          git push origin main
+  - name: Commit changes
+    run: |
+      git config --global user.email "andrea.delfi95@gmail.com"
+      git config --global user.name "gigifacile"
+      git pull --rebase origin main
+      git add Lista.json storico_prezzi.csv
+      git commit -m "Aggiorna soglia minima e storico prezzi"
+      git push origin main
+
