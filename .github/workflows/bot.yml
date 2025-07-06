@@ -1,0 +1,27 @@
+name: Esegui Bot Prezzi
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"  # ogni 5 minuti
+  workflow_dispatch:       # anche avviabile manualmente da GitHub
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clona il repository
+        uses: actions/checkout@v3
+
+      - name: Configura Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+
+      - name: Installa le dipendenze
+        run: |
+          pip install -r requirements.txt
+
+      - name: Avvia lo script del bot
+        run: |
+          python Exec.py
