@@ -47,5 +47,8 @@ jobs:
           # Commit finale con messaggio vero solo se ci sono modifiche
           git diff --cached --quiet || git commit -m "Aggiorna soglia minima e storico prezzi"
 
-          # Push delle modifiche su GitHub
+          # Sostituisci l'URL remoto con uno che include il token GitHub Actions
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
+          
+          # Ora puoi fare il push in modo autenticato
           git push origin main
