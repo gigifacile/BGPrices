@@ -69,5 +69,20 @@
       "https://player1.it/prodotto/nucleum/",
       "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
     ]
+  },
+  {
+    "name": "Spirit Island",
+    "threshold": 100,
+    "links": [
+      "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
+    ]
+  },
+  {
+    "name": "Scythe",
+    "threshold": 100,
+    "links": [
+      "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
+    ]
   }
+  
 ]
