@@ -6,37 +6,67 @@ from telegram.ext import Updater, CommandHandler, CallbackContext
 
 TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
 LISTA_PATH = "Lista.json"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0"
+}
 
 def get_price_dungeondice(url):
-    if not url:
-        return None
     try:
-        html = requests.get(url, timeout=10).text
+        html = requests.get(url, headers=HEADERS, timeout=10).text
         if re.search(r'<span[^>]*>remove_shopping_cart<\/span>\s*<span>(.*?)<\/span>', html):
             return None
         if re.search(r'<span[^>]*>Preordina<\/span>', html, re.I):
             return None
-
         m = re.search(r'<div[^>]*class=["\']display-price["\'][^>]*>Prezzo(?: Speciale)?:\s*(\d+,\d+)', html)
-        if m:
-            return float(m.group(1).replace(",", "."))
+        return float(m.group(1).replace(",", ".")) if m else None
     except Exception as e:
         print(f"[Errore DungeonDice] {url} → {e}")
-    return None
+        return None
+
+def get_price_fantasiastore(url):
+    try:
+        html = requests.get(url, headers=HEADERS, timeout=10).content.decode("utf-8", errors="replace")
+        disponibile = re.search(r'<i[^>]*class=["\']fa fa-circle-o-notch[^>]*>.*?</i>\s*(.*?)\s*</button>', html)
+        if disponibile and "Aggiungi al carrello" not in disponibile.group(1):
+            return None
+        m = re.search(r'<span itemprop="price" class="product-price" content="(\d+\.\d+)">', html)
+        return float(m.group(1).replace(",", ".")) if m else None
+    except Exception as e:
+        print(f"[Errore FantasiaStore] {url} → {e}")
+        return None
 
 def get_price_magicmerchant(url):
-    if not url:
-        return None
     try:
-        html = requests.get(url, timeout=10).text
+        html = requests.get(url, headers=HEADERS, timeout=10).text
         if re.search(r'<p class="outofstock availability verbose availability-message">', html):
             return None
         m = re.search(r'<p class="price_color">(\d{1,3},\d{2})', html)
-        if m:
-            return float(m.group(1).replace(",", "."))
+        return float(m.group(1).replace(",", ".")) if m else None
     except Exception as e:
         print(f"[Errore MagicMerchant] {url} → {e}")
-    return None
+        return None
+
+def get_price_uplay(url):
+    try:
+        html = requests.get(url, headers=HEADERS, timeout=10).text
+        if re.search(r'<div class="notOrderableText[^>]*">\s*(.*?)\s*</div>', html):
+            return None
+        disponibile = re.search(r'<span class="shipping-info[^>]*">\s*(.*?)\s*</span>', html)
+        if not disponibile or "disponibile" not in disponibile.group(1).lower():
+            return None
+        m = re.search(r'<span class="price fw-bold">\s*(\d{1,3},\d{2})', html) or \
+            re.search(r'<div class="promo-price">\s*(\d{1,3},\d{2})', html)
+        return float(m.group(1).replace(",", ".")) if m else None
+    except Exception as e:
+        print(f"[Errore Uplay] {url} → {e}")
+        return None
+
+SCRAPER_MAP = {
+    "dungeondice.it": ("DungeonDice", get_price_dungeondice),
+    "fantasiastore.it": ("FantasiaStore", get_price_fantasiastore),
+    "magicmerchant.it": ("MagicMerchant", get_price_magicmerchant),
+    "uplay.it": ("Uplay", get_price_uplay)
+}
 
 def prezzo_command(update: Update, context: CallbackContext):
     if len(context.args) == 0:
@@ -44,7 +74,7 @@ def prezzo_command(update: Update, context: CallbackContext):
         return
     
     nome_ricerca = " ".join(context.args).lower()
-    
+
     try:
         with open(LISTA_PATH, "r", encoding="utf-8") as f:
             giochi = json.load(f)
@@ -52,33 +82,28 @@ def prezzo_command(update: Update, context: CallbackContext):
         update.message.reply_text("Errore nel leggere la lista giochi.")
         print(f"Errore JSON: {e}")
         return
-    
-    trovato = False
+
     for gioco in giochi:
         if gioco["name"].lower() == nome_ricerca:
-            trovato = True
             messaggio = f"Prezzi attuali per *{gioco['name']}*:\n"
             for url in gioco["links"]:
-                if "dungeondice.it" in url:
-                    prezzo = get_price_dungeondice(url)
-                    sito = "DungeonDice"
-                elif "magicmerchant.it" in url:
-                    prezzo = get_price_magicmerchant(url)
-                    sito = "MagicMerchant"
-                else:
+                trovato = False
+                for dominio, (nome_sito, scraper_func) in SCRAPER_MAP.items():
+                    if dominio in url:
+                        prezzo = scraper_func(url)
+                        trovato = True
+                        break
+                if not trovato:
+                    nome_sito = "Sito sconosciuto"
                     prezzo = None
-                    sito = "Sito sconosciuto"
-                
                 if prezzo is not None:
-                    messaggio += f"- {sito}: {prezzo:.2f} €\n{url}\n"
+                    messaggio += f"- {nome_sito}: {prezzo:.2f} €\n{url}\n"
                 else:
-                    messaggio += f"- {sito}: non disponibile\n{url}\n"
-            
+                    messaggio += f"- {nome_sito}: non disponibile\n{url}\n"
             update.message.reply_text(messaggio, parse_mode="Markdown", disable_web_page_preview=True)
-            break
-    
-    if not trovato:
-        update.message.reply_text("Gioco non trovato nella lista. Controlla il nome.")
+            return
+
+    update.message.reply_text("Gioco non trovato nella lista. Controlla il nome.")
 
 def main():
     updater = Updater(TOKEN, use_context=True)
