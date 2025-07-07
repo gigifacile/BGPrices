@@ -15,6 +15,9 @@ DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
 }
 
+def clean_surrogates(text):
+    return text.encode("utf-16", "surrogatepass").decode("utf-16", "ignore")
+    
 def send_alert(name, price, url):
     message = f"\ud83c\udfb2 *{name}* nuovo minimo storico: {price:.2f}€!\n\ud83d\udd17 {url}"
     try:
