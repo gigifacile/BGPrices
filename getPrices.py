@@ -10,6 +10,8 @@ from aiohttp import web
 
 TOKEN = os.environ.get("TOKEN")
 LISTA_PATH = "Lista.json"
+WEBHOOK_PATH = "/webhook"  # Path interno per Telegram webhook
+WEBHOOK_URL = f"https://bgprices.onrender.com{WEBHOOK_PATH}"
 
 def get_price_dungeondice(url):
     if not url:
