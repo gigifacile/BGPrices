@@ -4,7 +4,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "IL_TUO_TOKEN"  # Inserisci il token corretto
+TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"  # Inserisci il token corretto
 LISTA_PATH = "Lista.json"
 
 def get_price_dungeondice(url):
