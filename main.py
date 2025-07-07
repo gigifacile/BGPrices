@@ -187,8 +187,8 @@ def main():
                 price = get_price_dungeondice(url); 
                 fonte = "DungeonDice"
             elif "fantasiastore.it" in url:
-                price = get_price_feltrinelli(url); 
-                fonte = "LaFeltrinelli"
+                price = get_price_fantasia(url); 
+                fonte = "Fantasia"
             elif "magicmerchant.it" in url:
                 price = get_price_magicmerchant(url); 
                 fonte = "MagicMerchant"
