@@ -128,6 +128,36 @@ def get_price_feltrinelli(url):
         print(f"[Errore Feltrinelli] {url} → {e}")
     return None
 
+def get_price_uplay(url):
+    if not url:
+        return None
+    try:
+        response = requests.get(url, headers=DEFAULT_HEADERS, timeout=10)
+        html = response.text
+
+        # Controllo se non venduto (div class="notOrderableText")
+        if re.search(r'<div class="notOrderableText[^>]*">\s*(.*?)\s*</div>', html, re.DOTALL | re.IGNORECASE):
+            return None
+        
+        # Controllo disponibilità (span class="shipping-info")
+        availability = re.search(r'<span class="shipping-info[^>]*">\s*(.*?)\s*</span>', html, re.DOTALL | re.IGNORECASE)
+        if not availability or "disponibile" not in availability.group(1).lower():
+            return None
+
+        # Prezzo: primo tenta il prezzo promo, altrimenti prezzo normale
+        prezzo_promo = re.search(r'<div class="promo-price">\s*(\d{1,3},\d{2})', html, re.DOTALL | re.IGNORECASE)
+        prezzo_normale = re.search(r'<span class="price fw-bold">\s*(\d{1,3},\d{2})', html, re.DOTALL | re.IGNORECASE)
+
+        prezzo_finale = prezzo_promo or prezzo_normale
+        if not prezzo_finale:
+            return None
+
+        prezzo_pulito = prezzo_finale.group(1).replace(",", ".")
+        return float(prezzo_pulito)
+
+    except Exception:
+        return None
+
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     header = ["data", "gioco", "sito", "prezzo"]
@@ -172,6 +202,7 @@ def main():
         "getyourfun.it":     (get_price_getyourfun, "GetYourFun"),
         "player1.it":        (get_price_player1, "Player1"),
         "lafeltrinelli.it":  (get_price_feltrinelli, "LaFeltrinelli"),
+        "uplay.com":         (get_price_uplay, "UPlay"),
     }
 
     with ThreadPoolExecutor(max_workers=10) as executor:
