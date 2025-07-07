@@ -2,7 +2,7 @@ name: Controllo Prezzi
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # ogni 5 minuti
+    - cron: "0 * * * *"  # ogni ora alle .00
   workflow_dispatch:
 
 jobs:
