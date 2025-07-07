@@ -148,7 +148,6 @@ def main():
         listen=HOST,
         port=PORT,
         webhook_url=WEBHOOK_URL,
-        webhook_path=WEBHOOK_PATH,
         app=web_app
     )
 
