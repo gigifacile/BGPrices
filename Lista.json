@@ -95,5 +95,12 @@
     "links": [
       "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
     ]
+  },
+  {
+    "name": "Root",
+    "threshold": 100,
+    "links": [
+      "https://www.uplay.it/it/gioco-da-tavolo-root.html"
+    ]
   }
 ]
