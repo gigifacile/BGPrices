@@ -180,34 +180,35 @@ def main():
 
     updated = False
 
+    # Mappa dominio → (funzione, nome sito)
+    scraper_map = {
+        "dungeondice.it":    (get_price_dungeondice, "DungeonDice"),
+        "fantasiastore.it":  (get_price_fantasia, "FantasiaStore"),
+        "magicmerchant.it":  (get_price_magicmerchant, "MagicMerchant"),
+        "getyourfun.it":     (get_price_getyourfun, "GetYourFun"),
+        "player1.it":        (get_price_player1, "Player1"),
+        "lafeltrinelli.it":  (get_price_feltrinelli, "LaFeltrinelli"),
+    }
+
     for game in games:
-        name, threshold = game["name"], game["threshold"]
+        name = game["name"]
+        threshold = game["threshold"]
+
         for url in game["links"]:
-            if "dungeondice.it" in url:
-                price = get_price_dungeondice(url); 
-                fonte = "DungeonDice"
-            elif "fantasiastore.it" in url:
-                price = get_price_fantasia(url); 
-                fonte = "Fantasia"
-            elif "magicmerchant.it" in url:
-                price = get_price_magicmerchant(url); 
-                fonte = "MagicMerchant"
-            elif "getyourfun.it" in url:
-                price = get_price_getyourfun(url); 
-                fonte = "GetYourFun"
-            elif "player1.it" in url:
-                price = get_price_player1(url); 
-                fonte = "Player1"
-            elif "lafeltrinelli.it" in url:
-                price = get_price_feltrinelli(url); 
-                fonte = "LaFeltrinelli"
-            else:
-                continue
+            matched = False
+            for domain, (scraper_func, fonte) in scraper_map.items():
+                if domain in url:
+                    matched = True
+                    price = scraper_func(url)
+                    break
+
+            if not matched:
+                continue  # Skip URL non supportato
 
             if price is not None:
                 print(f"{name} - {fonte}: {price:.2f} € (soglia {threshold:.2f} €)")
                 if price < threshold:
-                    print(f"→ Nuovo minimo storico! Invio notifica e aggiorno soglia.")
+                    print("→ Nuovo minimo storico! Invio notifica e aggiorno soglia.")
                     send_alert(name, price, url)
                     game["threshold"] = price
                     append_to_storico(name, fonte, price)
