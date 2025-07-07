@@ -145,11 +145,10 @@ def main():
     web_app.router.add_post(WEBHOOK_PATH, handle_update)
 
     app.run_webhook(
-        listen=HOST,
-        port=PORT,
-        webhook_url=WEBHOOK_URL,
-        app=web_app
-    )
+    listen=HOST,
+    port=PORT,
+    webhook_url=WEBHOOK_URL,
+)
 
 if __name__ == "__main__":
     main()
