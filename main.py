@@ -27,7 +27,7 @@ def get_price_fantasia(url):
         return None
     try:
         response = requests.get(url, headers=DEFAULT_HEADERS, timeout=20)
-        html = response.text
+        html = response.content.decode("utf-8", errors="replace")
         disponibile = re.search(
             r'<i[^>]*class=["\']fa fa-circle-o-notch[^>]*>.*?</i>\s*(.*?)\s*</button>', html)
         if disponibile and "Aggiungi al carrello" not in disponibile.group(1):
