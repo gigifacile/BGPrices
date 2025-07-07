@@ -17,6 +17,38 @@ def send_alert(name, price, url):
         }
     )
 
+def get_price_fantasia(url):
+    if not url:
+        return "Non venduto"
+
+    try:
+        response = requests.get(url, timeout=10)
+        html = response.text
+
+        # Controllo disponibilità
+        disponibile = re.search(
+            r'<i[^>]*class=["\']fa fa-circle-o-notch[^>]*>.*?</i>\s*(.*?)\s*</button>',
+            html
+        )
+        if disponibile and "Aggiungi al carrello" not in disponibile.group(1):
+            return None
+
+        # Estrazione prezzo
+        prezzo = re.search(
+            r'<span itemprop="price" class="product-price" content="(\d+\.\d+)">',
+            html
+        )
+        if not prezzo:
+            return None
+
+        prezzo_pulito = prezzo.group(1).replace(",", ".")
+        prezzo_numerico = float(prezzo_pulito)
+        return prezzo_numerico
+
+    except Exception as e:
+        print(f"[Errore FantasiaStore] {url} → {e}")
+        return None
+
 def get_price_dungeondice(url):
     if not url: return None
     try:
