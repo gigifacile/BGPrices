@@ -1,21 +1,26 @@
-import re, json, requests, os
-from flask import Flask, request
+import requests
+import re
+import json
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
+from telegram.ext import ContextTypes
 
-TOKEN = os.getenv("BOT_TOKEN")
+import os
+from aiohttp import web
+
+TOKEN = os.environ.get("TOKEN")
 LISTA_PATH = "Lista.json"
 
-app = Flask(__name__)
-application = ApplicationBuilder().token(TOKEN).build()
-
 def get_price_dungeondice(url):
+    if not url:
+        return None
     try:
         html = requests.get(url, timeout=10).text
         if re.search(r'<span[^>]*>remove_shopping_cart<\/span>\s*<span>(.*?)<\/span>', html):
             return None
         if re.search(r'<span[^>]*>Preordina<\/span>', html, re.I):
             return None
+
         m = re.search(r'<div[^>]*class=["\']display-price["\'][^>]*>Prezzo(?: Speciale)?:\s*(\d+,\d+)', html)
         if m:
             return float(m.group(1).replace(",", "."))
@@ -24,6 +29,8 @@ def get_price_dungeondice(url):
     return None
 
 def get_price_magicmerchant(url):
+    if not url:
+        return None
     try:
         html = requests.get(url, timeout=10).text
         if re.search(r'<p class="outofstock availability verbose availability-message">', html):
@@ -36,11 +43,13 @@ def get_price_magicmerchant(url):
     return None
 
 def get_price_fantasiastore(url):
+    if not url:
+        return None
     try:
         html = requests.get(url, timeout=10).text
-        if 'data-stock="0"' in html:
+        if re.search(r'class="product-not-available"', html):
             return None
-        m = re.search(r'<div class="product-price">.*?(\d{1,3},\d{2})', html, re.S)
+        m = re.search(r'<span[^>]*class="price"[^>]*>(\d{1,3},\d{2})\s*€</span>', html)
         if m:
             return float(m.group(1).replace(",", "."))
     except Exception as e:
@@ -48,26 +57,32 @@ def get_price_fantasiastore(url):
     return None
 
 def get_price_uplay(url):
+    if not url:
+        return None
     try:
         html = requests.get(url, timeout=10).text
-        if re.search(r'<div class="notOrderableText[^>]*">', html):
+        if re.search(r'<div class="notOrderableText[^>]*">\s*(.*?)\s*</div>', html):
             return None
-        if not re.search(r'<span class="shipping-info[^>]*">\s*disponibile', html, re.I):
+        availability = re.search(r'<span class="shipping-info[^>]*">\s*(.*?)\s*</span>', html)
+        if availability and "disponibile" not in availability.group(1).lower():
             return None
-        m = re.search(r'<span class="price fw-bold">\s*(\d{1,3},\d{2})', html) or \
-            re.search(r'<div class="promo-price">\s*(\d{1,3},\d{2})', html)
-        if m:
-            return float(m.group(1).replace(",", "."))
+        price = re.search(r'<span class="price fw-bold">\s*(\d{1,3},\d{2})', html)
+        promo_price = re.search(r'<div class="promo-price">\s*(\d{1,3},\d{2})', html)
+        prezzo_finale = promo_price or price
+        if prezzo_finale:
+            prezzo_pulito = prezzo_finale.group(1).replace(",", ".")
+            return float(prezzo_pulito)
     except Exception as e:
-        print(f"[Errore Uplay] {url} → {e}")
+        print(f"[Errore UPlay] {url} → {e}")
     return None
 
 async def prezzo_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    if not context.args:
+    if len(context.args) == 0:
         await update.message.reply_text("Per favore usa: /prezzo <nome gioco>")
         return
-
+    
     nome_ricerca = " ".join(context.args).lower()
+    
     try:
         with open(LISTA_PATH, "r", encoding="utf-8") as f:
             giochi = json.load(f)
@@ -75,9 +90,11 @@ async def prezzo_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("Errore nel leggere la lista giochi.")
         print(f"Errore JSON: {e}")
         return
-
+    
+    trovato = False
     for gioco in giochi:
         if gioco["name"].lower() == nome_ricerca:
+            trovato = True
             messaggio = f"Prezzi attuali per *{gioco['name']}*:\n"
             for url in gioco["links"]:
                 if "dungeondice.it" in url:
@@ -89,33 +106,58 @@ async def prezzo_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 elif "fantasiastore.it" in url:
                     prezzo = get_price_fantasiastore(url)
                     sito = "FantasiaStore"
-                elif "uplay.it" in url:
+                elif "uplay.com" in url or "store.ubi.com" in url:
                     prezzo = get_price_uplay(url)
-                    sito = "Uplay"
+                    sito = "UPlay"
                 else:
                     prezzo = None
                     sito = "Sito sconosciuto"
-
+                
                 if prezzo is not None:
                     messaggio += f"- {sito}: {prezzo:.2f} €\n{url}\n"
                 else:
                     messaggio += f"- {sito}: non disponibile\n{url}\n"
-
+            
             await update.message.reply_text(messaggio, parse_mode="Markdown", disable_web_page_preview=True)
-            return
+            break
+    
+    if not trovato:
+        await update.message.reply_text("Gioco non trovato nella lista. Controlla il nome.")
 
-    await update.message.reply_text("Gioco non trovato nella lista. Controlla il nome.")
+async def handle_update(request):
+    """Riceve POST da Telegram webhook, elabora update e risponde."""
+    app = request.app['bot_app']
+    try:
+        update = Update.de_json(await request.json(), app.bot)
+        await app.update_queue.put(update)
+        return web.Response(text="ok")
+    except Exception as e:
+        print(f"Errore handle_update: {e}")
+        return web.Response(status=500)
 
-application.add_handler(CommandHandler("prezzo", prezzo_command))
+def main():
+    app = ApplicationBuilder().token(TOKEN).build()
+    app.add_handler(CommandHandler("prezzo", prezzo_command))
+    print("Bot webhook pronto...")
 
-@app.route(f"/{TOKEN}", methods=["POST"])
-async def webhook():
-    update = Update.de_json(request.get_json(force=True), application.bot)
-    await application.process_update(update)
-    return "ok"
+    web_app = web.Application()
+    web_app['bot_app'] = app
+    web_app.router.add_post(f"/{TOKEN}", handle_update)  # Telegram POST webhook path
+
+    # Porta e host Render (o usa 0.0.0.0 e PORT da env)
+    port = int(os.environ.get("PORT", "8080"))
+    host = "0.0.0.0"
+
+    # Start webhook & aiohttp server
+    app.run_webhook(
+        listen=host,
+        port=port,
+        webhook_url=f"https://<tuo-dominio-render>/{TOKEN}",
+        webhook_path=f"/{TOKEN}",
+        webhook_cert=None,  # se hai certificato SSL custom mettilo qui
+        # certificato di solito gestito da Render con https automatico
+        app=web_app
+    )
 
 if __name__ == "__main__":
-    import asyncio
-    asyncio.run(application.initialize())
-    application.bot.set_webhook(f"https://TUA-APP-RENDER.onrender.com/{TOKEN}")
-    app.run(host="0.0.0.0", port=10000)
+    main()
