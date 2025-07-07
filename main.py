@@ -1,5 +1,9 @@
 import requests, re, json, csv, datetime
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures 
+import ThreadPoolExecutor
+import sys
+import io
+sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
 TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
 CHAT_ID = "102733635"
