@@ -145,7 +145,7 @@ def process_url(game, url, scraper_func, fonte):
     try:
         price = scraper_func(url)
         if price is not None:
-            print(f"{game['name']} - {fonte}: {price:.2f} € (soglia {game['threshold']:.2f} €)")
+            print(f"{game['name']} - {fonte}: {price:.2f} € (soglia {game['threshold']:.2f} €)".encode("utf-8", "replace").decode("utf-8"))
             if price < game["threshold"]:
                 print("→ Nuovo minimo storico! Invio notifica e aggiorno soglia.")
                 send_alert(game["name"], price, url)
