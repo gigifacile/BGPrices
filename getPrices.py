@@ -1,11 +1,13 @@
-import re
-import json
-import requests
+import re, json, requests, os
+from flask import Flask, request
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"  # Inserisci il token corretto
+TOKEN = os.getenv("7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY")
 LISTA_PATH = "Lista.json"
+
+app = Flask(__name__)
+application = ApplicationBuilder().token(TOKEN).build()
 
 def get_price_dungeondice(url):
     try:
@@ -64,9 +66,8 @@ async def prezzo_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
         await update.message.reply_text("Per favore usa: /prezzo <nome gioco>")
         return
-    
-    nome_ricerca = " ".join(context.args).lower()
 
+    nome_ricerca = " ".join(context.args).lower()
     try:
         with open(LISTA_PATH, "r", encoding="utf-8") as f:
             giochi = json.load(f)
@@ -74,7 +75,7 @@ async def prezzo_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("Errore nel leggere la lista giochi.")
         print(f"Errore JSON: {e}")
         return
-    
+
     for gioco in giochi:
         if gioco["name"].lower() == nome_ricerca:
             messaggio = f"Prezzi attuali per *{gioco['name']}*:\n"
@@ -94,23 +95,27 @@ async def prezzo_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
                 else:
                     prezzo = None
                     sito = "Sito sconosciuto"
-                
+
                 if prezzo is not None:
                     messaggio += f"- {sito}: {prezzo:.2f} €\n{url}\n"
                 else:
                     messaggio += f"- {sito}: non disponibile\n{url}\n"
-            
+
             await update.message.reply_text(messaggio, parse_mode="Markdown", disable_web_page_preview=True)
             return
-    
+
     await update.message.reply_text("Gioco non trovato nella lista. Controlla il nome.")
 
-async def main():
-    app = ApplicationBuilder().token(TOKEN).build()
-    app.add_handler(CommandHandler("prezzo", prezzo_command))
-    print("Bot avviato...")
-    await app.run_polling()
+application.add_handler(CommandHandler("prezzo", prezzo_command))
+
+@app.route(f"/{TOKEN}", methods=["POST"])
+async def webhook():
+    update = Update.de_json(request.get_json(force=True), application.bot)
+    await application.process_update(update)
+    return "ok"
 
 if __name__ == "__main__":
     import asyncio
-    asyncio.run(main())
+    asyncio.run(application.initialize())
+    application.bot.set_webhook(f"https://TUA-APP-RENDER.onrender.com/{TOKEN}")
+    app.run(host="0.0.0.0", port=10000)
