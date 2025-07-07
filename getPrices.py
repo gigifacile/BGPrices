@@ -152,7 +152,7 @@ def main():
     app.run_webhook(
         listen=host,
         port=port,
-        webhook_url=f"https://<tuo-dominio-render>/{TOKEN}",
+        webhook_url=f"https://bgprices.onrender.com/{TOKEN}",
         webhook_path=f"/{TOKEN}",
         webhook_cert=None,  # se hai certificato SSL custom mettilo qui
         # certificato di solito gestito da Render con https automatico
