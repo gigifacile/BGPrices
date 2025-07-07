@@ -3,7 +3,7 @@ from flask import Flask, request
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.getenv("7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY")
+TOKEN = os.getenv("BOT_TOKEN")
 LISTA_PATH = "Lista.json"
 
 app = Flask(__name__)
