@@ -19,7 +19,7 @@ def clean_surrogates(text):
     return text.encode("utf-16", "surrogatepass").decode("utf-16", "ignore")
     
 def send_alert(name, price, url):
-    message = f"\ud83c\udfb2 *{name}* nuovo minimo storico: {price:.2f}€!\n\ud83d\udd17 {url}"
+    message = f"🎲 *{name}* nuovo minimo storico: {price:.2f}€!\n🔗 {url}"
     try:
         requests.post(
             f"https://api.telegram.org/bot{TOKEN}/sendMessage",
