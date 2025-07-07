@@ -1,12 +1,17 @@
 import requests, re, json, csv, datetime
+from concurrent.futures import ThreadPoolExecutor
 
 TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
 CHAT_ID = "102733635"
 LISTA_PATH = "Lista.json"
 STORICO_PATH = "storico_prezzi.csv"
 
+DEFAULT_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+}
+
 def send_alert(name, price, url):
-    message = f"🎲 *{name}* nuovo minimo storico: {price:.2f}€!\n🔗 {url}"
+    message = f"\ud83c\udfb2 *{name}* nuovo minimo storico: {price:.2f}€!\n\ud83d\udd17 {url}"
     requests.post(
         f"https://api.telegram.org/bot{TOKEN}/sendMessage",
         data={
@@ -19,147 +24,94 @@ def send_alert(name, price, url):
 
 def get_price_fantasia(url):
     if not url:
-        return "Non venduto"
-
+        return None
     try:
-        response = requests.get(url, timeout=20)
+        response = requests.get(url, headers=DEFAULT_HEADERS, timeout=20)
         html = response.text
-
-        # Controllo disponibilità
         disponibile = re.search(
-            r'<i[^>]*class=["\']fa fa-circle-o-notch[^>]*>.*?</i>\s*(.*?)\s*</button>',
-            html
-        )
+            r'<i[^>]*class=["\']fa fa-circle-o-notch[^>]*>.*?</i>\s*(.*?)\s*</button>', html)
         if disponibile and "Aggiungi al carrello" not in disponibile.group(1):
             return None
-
-        # Estrazione prezzo
         prezzo = re.search(
-            r'<span itemprop="price" class="product-price" content="(\d+\.\d+)">',
-            html
-        )
+            r'<span itemprop="price" class="product-price" content="(\d+\.\d+)">', html)
         if not prezzo:
             return None
-
-        prezzo_pulito = prezzo.group(1).replace(",", ".")
-        prezzo_numerico = float(prezzo_pulito)
-        return prezzo_numerico
-
-    except Exception as e:
-        print(f"[Errore FantasiaStore] {url} → {e}")
-        return "Errore"
+        return float(prezzo.group(1).replace(",", "."))
+    except:
+        return None
 
 def get_price_dungeondice(url):
-    if not url: return None
+    if not url:
+        return None
     try:
-        html = requests.get(url, timeout=10).text
-        if re.search(r'<span[^>]*>remove_shopping_cart<\/span>\s*<span>(.*?)<\/span>', html): return None
-        if re.search(r'<span[^>]*>Preordina<\/span>', html, re.I): return None
-
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
+        if re.search(r'<span[^>]*>remove_shopping_cart<\/span>\s*<span>(.*?)<\/span>', html):
+            return None
+        if re.search(r'<span[^>]*>Preordina<\/span>', html, re.I):
+            return None
         m = re.search(r'<div[^>]*class=["\']display-price["\'][^>]*>Prezzo(?: Speciale)?:\s*(\d+,\d+)', html)
-        if m: return float(m.group(1).replace(",", "."))
-    except Exception as e:
-        print(f"[Errore DungeonDice] {url} → {e}")
-    return None
+        if m:
+            return float(m.group(1).replace(",", "."))
+    except:
+        return None
 
 def get_price_magicmerchant(url):
-    if not url: return None
+    if not url:
+        return None
     try:
-        html = requests.get(url, timeout=10).text
-        if re.search(r'<p class="outofstock availability verbose availability-message">', html): return None
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
+        if re.search(r'<p class="outofstock availability verbose availability-message">', html):
+            return None
         m = re.search(r'<p class="price_color">(\d{1,3},\d{2})', html)
-        if m: return float(m.group(1).replace(",", "."))
-    except Exception as e:
-        print(f"[Errore MagicMerchant] {url} → {e}")
-    return None
+        if m:
+            return float(m.group(1).replace(",", "."))
+    except:
+        return None
 
 def get_price_getyourfun(url):
-    if not url: return None
+    if not url:
+        return None
     try:
-        html = requests.get(url, timeout=10).text
-
-        # Sezione: Non disponibile
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
         if re.search(r'<div class="mar_b6">(.*?)<\/div>', html):
             return None
-
-        # Sezione: Ristampa
         if re.search(r'<div class="st_sticker_block">\s*<div class="st_sticker layer_btn\s+st_sticker_static\s+st_sticker_14\s*">\s*<span class="st_sticker_text"[^>]*>(.*?)<\/span>', html, re.I):
             return None
-
-        # Sezione: Prezzo
         m = re.search(r'<span class="price"[^>]*content="([\d.,]+)"', html)
         if m:
-            prezzo = m.group(1).replace(",", ".")
-            return float(prezzo)
-    except Exception as e:
-        pass
-    return None
+            return float(m.group(1).replace(",", "."))
+    except:
+        return None
 
 def get_price_player1(url):
     if not url:
-        return "Non venduto"
-    
+        return None
     try:
-        response = requests.get(url, timeout=10)
-        html = response.text
-
-        # Controllo disponibilità
-        disponibile = re.search(r'<p class="stock out-of-stock wd-style-default">(.*?)<\/p>', html)
-        print("Disponibilità:", disponibile)
-        if disponibile:
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
+        if re.search(r'<p class="stock out-of-stock wd-style-default">(.*?)<\/p>', html):
             return None
-
-        # Parsing prezzo attuale scontato
         prezzo = re.search(r'<p class="price">.*?<ins[^>]*>.*?<bdi>(\d{1,3},\d{2})', html, re.DOTALL)
-        print("Match prezzo:", prezzo)
         if not prezzo:
             return None
-
-        prezzo_pulito = prezzo.group(1).replace(",", ".")
-        print("Prezzo pulito:", prezzo_pulito)
-
-        prezzo_numerico = float(prezzo_pulito)
-        return prezzo_numerico
-
-    except Exception as e:
-        print(f"[Errore Player1] {url} → {e}")
-        return "Errore"
-
-import requests
-import re
+        return float(prezzo.group(1).replace(",", "."))
+    except:
+        return None
 
 def get_price_feltrinelli(url):
     if not url:
-        return "Non venduto"
-    
+        return None
     try:
-        response = requests.get(url, timeout=10)
-        html = response.text
-
-        # Controllo disponibilità (Avvisami = non disponibile)
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
         disponibile = re.search(
-            r'<button[^>]*class=["\'][^"\']*cc-button--secondary[^"\']*["\'][^>]*>\s*<img[^>]*alt=["\'][^"\']*["\'][^>]*>\s*(.*?)\s*</button>',
-            html,
-            re.IGNORECASE
-        )
+            r'<button[^>]*class=["\'][^"\']*cc-button--secondary[^"\']*["\'][^>]*>\s*<img[^>]*alt=["\'][^"\']*["\'][^>]*>\s*(.*?)\s*</button>', html, re.IGNORECASE)
         if disponibile and "Avvisami" in disponibile.group(1):
             return None
-
-        # Estrazione prezzo
-        prezzo = re.search(
-            r'<div class="cc-buy-box-container">[\s\S]*?<span class="cc-price">([\d.,]+)\s*€</span>',
-            html
-        )
+        prezzo = re.search(r'<div class="cc-buy-box-container">[\s\S]*?<span class="cc-price">([\d.,]+)\s*€</span>', html)
         if not prezzo:
             return None
-
-        prezzo_pulito = prezzo.group(1).replace(",", ".")
-        prezzo_numerico = float(prezzo_pulito)
-        return prezzo_numerico
-
-    except Exception as e:
-        print(f"[Errore Feltrinelli] {url} → {e}")
-        return "Errore"
+        return float(prezzo.group(1).replace(",", "."))
+    except:
+        return None
 
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -174,13 +126,30 @@ def append_to_storico(name, fonte, price):
     except Exception as e:
         print(f"[Errore storico] {e}")
 
+def process_url(game, url, scraper_func, fonte):
+    try:
+        price = scraper_func(url)
+        if price is not None:
+            print(f"{game['name']} - {fonte}: {price:.2f} € (soglia {game['threshold']:.2f} €)")
+            if price < game["threshold"]:
+                print("\u2192 Nuovo minimo storico! Invio notifica e aggiorno soglia.")
+                send_alert(game["name"], price, url)
+                game["threshold"] = price
+                append_to_storico(game["name"], fonte, price)
+                return True
+        else:
+            print(f"{game['name']} - {fonte}: non disponibile")
+    except Exception as e:
+        print(f"[Errore {fonte}] {url} → {e}")
+    return False
+
 def main():
     with open(LISTA_PATH, "r", encoding="utf-8") as f:
         games = json.load(f)
 
     updated = False
+    tasks = []
 
-    # Mappa dominio → (funzione, nome sito)
     scraper_map = {
         "dungeondice.it":    (get_price_dungeondice, "DungeonDice"),
         "fantasiastore.it":  (get_price_fantasia, "FantasiaStore"),
@@ -190,36 +159,22 @@ def main():
         "lafeltrinelli.it":  (get_price_feltrinelli, "LaFeltrinelli"),
     }
 
-    for game in games:
-        name = game["name"]
-        threshold = game["threshold"]
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        for game in games:
+            for url in game["links"]:
+                for domain, (scraper_func, fonte) in scraper_map.items():
+                    if domain in url:
+                        tasks.append(executor.submit(process_url, game, url, scraper_func, fonte))
+                        break
 
-        for url in game["links"]:
-            matched = False
-            for domain, (scraper_func, fonte) in scraper_map.items():
-                if domain in url:
-                    matched = True
-                    price = scraper_func(url)
-                    break
-
-            if not matched:
-                continue  # Skip URL non supportato
-
-            if price is not None:
-                print(f"{name} - {fonte}: {price:.2f} € (soglia {threshold:.2f} €)")
-                if price < threshold:
-                    print("→ Nuovo minimo storico! Invio notifica e aggiorno soglia.")
-                    send_alert(name, price, url)
-                    game["threshold"] = price
-                    append_to_storico(name, fonte, price)
-                    updated = True
-            else:
-                print(f"{name} - {fonte}: non disponibile")
+    for task in tasks:
+        if task.result():
+            updated = True
 
     if updated:
         with open(LISTA_PATH, "w", encoding="utf-8") as f:
             json.dump(games, f, ensure_ascii=False, indent=2)
-        print("✅ Soglie aggiornate e storico salvato.")
+        print("\u2705 Soglie aggiornate e storico salvato.")
 
 if __name__ == "__main__":
     main()
