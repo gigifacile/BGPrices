@@ -8,7 +8,8 @@
       "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/",
       "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html",
       "https://player1.it/prodotto/dune-imperium-insurrezione/",
-      "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
+      "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011",
+      "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
     ]
   },
   {
@@ -20,7 +21,8 @@
       "https://www.magicmerchant.it/catalogue/dune-imperium-52212/",
       "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html",
       "https://player1.it/prodotto/dune-imperium/",
-      "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
+      "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677",
+      "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
     ]
   },
   {
@@ -55,7 +57,8 @@
       "https://magicmerchant.it/catalogue/barrage-40159/",
       "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html",
       "https://player1.it/prodotto/barrage/",
-      "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114",
+      "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
     ]
   },
   {
@@ -74,14 +77,23 @@
     "name": "Spirit Island",
     "threshold": 55.99,
     "links": [
-      "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
+      "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html",
+      "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
     ]
   },
   {
     "name": "Scythe",
     "threshold": 100,
     "links": [
-      "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
+      "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html",
+      "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
+    ]
+  },
+  {
+    "name": "Trekking Through History",
+    "threshold": 100,
+    "links": [
+      "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
     ]
   }
 ]
