@@ -1,17 +1,17 @@
-import requests
+import os
 import re
 import json
+import requests
+from aiohttp import web
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
-from telegram.ext import ContextTypes
-
-import os
-from aiohttp import web
 
 TOKEN = os.environ.get("TOKEN")
 LISTA_PATH = "Lista.json"
-WEBHOOK_PATH = "/webhook"  # Path interno per Telegram webhook
-WEBHOOK_URL = f"https://bgprices.onrender.com{WEBHOOK_PATH}"
+PORT = int(os.environ.get("PORT", "8080"))
+HOST = "0.0.0.0"
+WEBHOOK_PATH = f"/{TOKEN}"
+WEBHOOK_URL = f"https://bgprices.onrender.com{WEBHOOK_PATH}"  # Cambia con il tuo dominio Render
 
 def get_price_dungeondice(url):
     if not url:
@@ -22,7 +22,6 @@ def get_price_dungeondice(url):
             return None
         if re.search(r'<span[^>]*>Preordina<\/span>', html, re.I):
             return None
-
         m = re.search(r'<div[^>]*class=["\']display-price["\'][^>]*>Prezzo(?: Speciale)?:\s*(\d+,\d+)', html)
         if m:
             return float(m.group(1).replace(",", "."))
@@ -98,7 +97,7 @@ async def prezzo_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         if gioco["name"].lower() == nome_ricerca:
             trovato = True
             messaggio = f"Prezzi attuali per *{gioco['name']}*:\n"
-            for url in gioco["links"]:
+            for url in gioco.get("links", []):
                 if "dungeondice.it" in url:
                     prezzo = get_price_dungeondice(url)
                     sito = "DungeonDice"
@@ -127,7 +126,6 @@ async def prezzo_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("Gioco non trovato nella lista. Controlla il nome.")
 
 async def handle_update(request):
-    """Riceve POST da Telegram webhook, elabora update e risponde."""
     app = request.app['bot_app']
     try:
         update = Update.de_json(await request.json(), app.bot)
@@ -144,20 +142,13 @@ def main():
 
     web_app = web.Application()
     web_app['bot_app'] = app
-    web_app.router.add_post(f"/{TOKEN}", handle_update)  # Telegram POST webhook path
+    web_app.router.add_post(WEBHOOK_PATH, handle_update)
 
-    # Porta e host Render (o usa 0.0.0.0 e PORT da env)
-    port = int(os.environ.get("PORT", "8080"))
-    host = "0.0.0.0"
-
-    # Start webhook & aiohttp server
     app.run_webhook(
-        listen=host,
-        port=port,
-        webhook_url=f"https://bgprices.onrender.com/{TOKEN}",
-        webhook_path=f"/{TOKEN}",
-        webhook_cert=None,  # se hai certificato SSL custom mettilo qui
-        # certificato di solito gestito da Render con https automatico
+        listen=HOST,
+        port=PORT,
+        webhook_url=WEBHOOK_URL,
+        webhook_path=WEBHOOK_PATH,
         app=web_app
     )
 
