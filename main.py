@@ -22,7 +22,7 @@ def get_price_fantasia(url):
         return "Non venduto"
 
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=20)
         html = response.text
 
         # Controllo disponibilità
@@ -47,7 +47,7 @@ def get_price_fantasia(url):
 
     except Exception as e:
         print(f"[Errore FantasiaStore] {url} → {e}")
-        return None
+        return "Errore"
 
 def get_price_dungeondice(url):
     if not url: return None
