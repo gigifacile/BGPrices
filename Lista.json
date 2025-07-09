@@ -149,7 +149,8 @@
       "https://player1.it/prodotto/ratti-di-wistar/",
       "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html",
       "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375",
-      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/ratti-di-wistar.html"
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/ratti-di-wistar.html",
+      "https://www.amazon.it/Cranio-Creations-Laboratorio-Edizione-Italiana/dp/B0CQMJHDBT/"
     ]
   },
   {
@@ -164,6 +165,13 @@
       "https://www.uplay.it/it/gioco-da-tavolo-evenfall--edizione-italiana-.html",
       "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810",
       "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/evenfall.html"
+    ]
+  },
+  {
+    "name": "Crack List",
+    "threshold": 100,
+    "links": [
+      "https://www.amazon.it/CRACK-LIST-Divertente-Famiglia-Giocatori/dp/B0CHSKNNDZ/"
     ]
   }
 ]
