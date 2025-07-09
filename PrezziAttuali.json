@@ -1,1 +1,90 @@
-{}
+[
+  {
+    "name": "Dune Imperium - Insurrezione",
+    "prezzi": {
+      "FantasiaStore": 50.99
+    }
+  },
+  {
+    "name": "Dune Imperium",
+    "prezzi": {
+      "FantasiaStore": 42.49
+    }
+  },
+  {
+    "name": "Through The Ages",
+    "prezzi": {}
+  },
+  {
+    "name": "Concordia",
+    "prezzi": {
+      "FantasiaStore": 47.9
+    }
+  },
+  {
+    "name": "Barrage",
+    "prezzi": {
+      "FantasiaStore": 49.99
+    }
+  },
+  {
+    "name": "Nucleum",
+    "prezzi": {
+      "FantasiaStore": 50.99
+    }
+  },
+  {
+    "name": "Spirit Island",
+    "prezzi": {
+      "FantasiaStore": 55.99
+    }
+  },
+  {
+    "name": "Scythe",
+    "prezzi": {}
+  },
+  {
+    "name": "Trekking Through History",
+    "prezzi": {
+      "FantasiaStore": 29.99
+    }
+  },
+  {
+    "name": "Root",
+    "prezzi": {}
+  },
+  {
+    "name": "Looot: Il Bottino dei Vichinghi",
+    "prezzi": {
+      "FantasiaStore": 23.99
+    }
+  },
+  {
+    "name": "Ratti di Wistar",
+    "prezzi": {
+      "FantasiaStore": 35.99
+    }
+  },
+  {
+    "name": "Evenfall",
+    "prezzi": {
+      "FantasiaStore": 49.49
+    }
+  },
+  {
+    "name": "Crack List",
+    "prezzi": {}
+  },
+  {
+    "name": "Le Rovine Perdute di Arnak",
+    "prezzi": {}
+  },
+  {
+    "name": "El Grande",
+    "prezzi": {}
+  },
+  {
+    "name": "The Wolves",
+    "prezzi": {}
+  }
+]
