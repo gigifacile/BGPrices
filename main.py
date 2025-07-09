@@ -1,7 +1,6 @@
 import requests, re, json, csv, datetime
 from concurrent.futures import ThreadPoolExecutor
-import sys
-import io
+import sys, io
 
 # Forza l'output in UTF-8 con gestione errori
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
@@ -17,7 +16,7 @@ DEFAULT_HEADERS = {
 
 def clean_surrogates(text):
     return text.encode("utf-16", "surrogatepass").decode("utf-16", "ignore")
-    
+
 def send_alert(name, price, url):
     message = f"🎲 *{name}* nuovo minimo storico: {price:.2f}€!\n🔗 {url}"
     try:
@@ -38,15 +37,12 @@ def get_price_fantasia(url):
     if not url:
         return None
     try:
-        response = requests.get(url, headers=DEFAULT_HEADERS, timeout=20)
-        html = response.content.decode("utf-8", errors="replace")
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=20).text
         disponibile = re.search(r'<i[^>]*class=["\']fa fa-circle-o-notch[^>]*>.*?</i>\s*(.*?)\s*</button>', html)
         if disponibile and "Aggiungi al carrello" not in disponibile.group(1):
             return None
         prezzo = re.search(r'<span itemprop="price" class="product-price" content="(\d+\.\d+)">', html)
-        if not prezzo:
-            return None
-        return float(prezzo.group(1).replace(",", "."))
+        return float(prezzo.group(1).replace(",", ".")) if prezzo else None
     except Exception as e:
         print(f"[Errore FantasiaStore] {url} → {e}")
         return None
@@ -56,16 +52,14 @@ def get_price_dungeondice(url):
         return None
     try:
         html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
-        if re.search(r'<span[^>]*>remove_shopping_cart</span>\s*<span>(.*?)</span>', html):
-            return None
-        if re.search(r'<span[^>]*>Preordina</span>', html, re.I):
+        if re.search(r'<span[^>]*>remove_shopping_cart</span>\s*<span>(.*?)</span>', html) or \
+           re.search(r'<span[^>]*>Preordina</span>', html, re.I):
             return None
         m = re.search(r'<div[^>]*class=["\']display-price["\'][^>]*>Prezzo(?: Speciale)?:\s*(\d+,\d+)', html)
-        if m:
-            return float(m.group(1).replace(",", "."))
+        return float(m.group(1).replace(",", ".")) if m else None
     except Exception as e:
         print(f"[Errore DungeonDice] {url} → {e}")
-    return None
+        return None
 
 def get_price_magicmerchant(url):
     if not url:
@@ -75,27 +69,24 @@ def get_price_magicmerchant(url):
         if re.search(r'<p class="outofstock availability verbose availability-message">', html):
             return None
         m = re.search(r'<p class="price_color">(\d{1,3},\d{2})', html)
-        if m:
-            return float(m.group(1).replace(",", "."))
+        return float(m.group(1).replace(",", ".")) if m else None
     except Exception as e:
         print(f"[Errore MagicMerchant] {url} → {e}")
-    return None
+        return None
 
 def get_price_getyourfun(url):
     if not url:
         return None
     try:
         html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
-        if re.search(r'<div class="mar_b6">(.*?)</div>', html):
-            return None
-        if re.search(r'<div class="st_sticker_block">\s*<div class="st_sticker layer_btn\s+st_sticker_static\s+st_sticker_14\s*">\s*<span class="st_sticker_text"[^>]*>(.*?)</span>', html, re.I):
+        if re.search(r'<div class="mar_b6">(.*?)</div>', html) or \
+           re.search(r'<div class="st_sticker_block">.*?st_sticker_14.*?<span.*?>(.*?)</span>', html, re.I | re.DOTALL):
             return None
         m = re.search(r'<span class="price"[^>]*content="([\d.,]+)"', html)
-        if m:
-            return float(m.group(1).replace(",", "."))
+        return float(m.group(1).replace(",", ".")) if m else None
     except Exception as e:
         print(f"[Errore GetYourFun] {url} → {e}")
-    return None
+        return None
 
 def get_price_player1(url):
     if not url:
@@ -105,56 +96,38 @@ def get_price_player1(url):
         if re.search(r'<p class="stock out-of-stock wd-style-default">(.*?)</p>', html):
             return None
         prezzo = re.search(r'<p class="price">.*?<ins[^>]*>.*?<bdi>(\d{1,3},\d{2})', html, re.DOTALL)
-        if not prezzo:
-            return None
-        return float(prezzo.group(1).replace(",", "."))
+        return float(prezzo.group(1).replace(",", ".")) if prezzo else None
     except Exception as e:
         print(f"[Errore Player1] {url} → {e}")
-    return None
+        return None
 
 def get_price_feltrinelli(url):
     if not url:
         return None
     try:
         html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
-        disponibile = re.search(r'<button[^>]*class=["\'][^"\']*cc-button--secondary[^"\']*["\'][^>]*>\s*<img[^>]*alt=["\'][^"\']*["\'][^>]*>\s*(.*?)\s*</button>', html, re.IGNORECASE)
+        disponibile = re.search(r'<button[^>]*class=["\'][^"\']*cc-button--secondary[^"\']*["\'][^>]*>\s*<img[^>]*alt=["\'][^"\']*["\'][^>]*>\s*(.*?)\s*</button>', html, re.I)
         if disponibile and "Avvisami" in disponibile.group(1):
             return None
         prezzo = re.search(r'<div class="cc-buy-box-container">[\s\S]*?<span class="cc-price">([\d.,]+)\s*€</span>', html)
-        if not prezzo:
-            return None
-        return float(prezzo.group(1).replace(",", "."))
+        return float(prezzo.group(1).replace(",", ".")) if prezzo else None
     except Exception as e:
         print(f"[Errore Feltrinelli] {url} → {e}")
-    return None
+        return None
 
 def get_price_uplay(url):
     if not url:
         return None
     try:
-        response = requests.get(url, headers=DEFAULT_HEADERS, timeout=10)
-        html = response.text
-
-        # Controllo se non venduto (div class="notOrderableText")
-        if re.search(r'<div class="notOrderableText[^>]*">\s*(.*?)\s*</div>', html, re.DOTALL | re.IGNORECASE):
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
+        if re.search(r'<div class="notOrderableText[^>]*">\s*(.*?)\s*</div>', html, re.DOTALL | re.I):
             return None
-        
-        # Controllo disponibilità (span class="shipping-info")
-        availability = re.search(r'<span class="shipping-info[^>]*">\s*(.*?)\s*</span>', html, re.DOTALL | re.IGNORECASE)
+        availability = re.search(r'<span class="shipping-info[^>]*">\s*(.*?)\s*</span>', html, re.DOTALL | re.I)
         if not availability or "disponibile" not in availability.group(1).lower():
             return None
-
-        # Prezzo: primo tenta il prezzo promo, altrimenti prezzo normale
-        prezzo_promo = re.search(r'<div class="promo-price">\s*(\d{1,3},\d{2})', html, re.DOTALL | re.IGNORECASE)
-        prezzo_normale = re.search(r'<span class="price fw-bold">\s*(\d{1,3},\d{2})', html, re.DOTALL | re.IGNORECASE)
-
-        prezzo_finale = prezzo_promo or prezzo_normale
-        if not prezzo_finale:
-            return None
-
-        prezzo_pulito = prezzo_finale.group(1).replace(",", ".")
-        return float(prezzo_pulito)
-
+        prezzo = re.search(r'<div class="promo-price">\s*(\d{1,3},\d{2})', html, re.DOTALL | re.I) or \
+                 re.search(r'<span class="price fw-bold">\s*(\d{1,3},\d{2})', html, re.DOTALL | re.I)
+        return float(prezzo.group(1).replace(",", ".")) if prezzo else None
     except Exception:
         return None
 
@@ -163,40 +136,22 @@ def get_price_dadiemattoncini(url):
         return None
     try:
         html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
-
-        # Controllo disponibilità
-        availability_match = re.search(
-            r'<span\s+style="margin-left:auto;\s*margin-right:auto;\s*display:inline-block;">([^<]*)<\/span>',
-            html,
-            re.I
-        )
-        if availability_match and availability_match.group(1):
-            return None  # Non disponibile
-
-        # Estrazione del prezzo
-        price_match = re.search(
-            r'<span class="product-price"[^>]*>\s*&euro;\s*(\d+,\d+)\s*<\/span>',
-            html
-        )
-        if not price_match or not price_match.group(1):
-            return None  # Prezzo non trovato
-
-        prezzo_pulito = price_match.group(1).replace(",", ".")
-        return float(prezzo_pulito)
-
+        if re.search(r'<span\s+style="margin-left:auto;.*?display:inline-block;">([^<]*)</span>', html, re.I):
+            return None
+        price = re.search(r'<span class="product-price"[^>]*>\s*&euro;\s*(\d+,\d+)\s*</span>', html)
+        return float(price.group(1).replace(",", ".")) if price else None
     except Exception as e:
         print(f"[Errore DadiEMattoncini] {url} → {e}")
         return None
 
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    header = ["data", "gioco", "sito", "prezzo"]
     row = [now, name, fonte, f"{price:.2f}"]
     try:
         with open(STORICO_PATH, "a", newline="", encoding="utf-8") as f:
             writer = csv.writer(f)
             if f.tell() == 0:
-                writer.writerow(header)
+                writer.writerow(["data", "gioco", "sito", "prezzo"])
             writer.writerow(row)
     except Exception as e:
         print(f"[Errore storico] {e}")
@@ -226,14 +181,14 @@ def main():
     tasks = []
 
     scraper_map = {
-        "dungeondice.it":        (get_price_dungeondice, "DungeonDice"),
-        "fantasiastore.it":      (get_price_fantasia, "FantasiaStore"),
-        "magicmerchant.it":      (get_price_magicmerchant, "MagicMerchant"),
-        "getyourfun.it":         (get_price_getyourfun, "GetYourFun"),
-        "player1.it":            (get_price_player1, "Player1"),
-        "lafeltrinelli.it":      (get_price_feltrinelli, "LaFeltrinelli"),
-        "uplay.it":              (get_price_uplay, "UPlay"),
-        "dadiemattoncini.it":    (get_price_dadiemattoncini, "DadiEMattoncini",)
+        "dungeondice.it":     (get_price_dungeondice, "DungeonDice"),
+        "fantasiastore.it":   (get_price_fantasia, "FantasiaStore"),
+        "magicmerchant.it":   (get_price_magicmerchant, "MagicMerchant"),
+        "getyourfun.it":      (get_price_getyourfun, "GetYourFun"),
+        "player1.it":         (get_price_player1, "Player1"),
+        "lafeltrinelli.it":   (get_price_feltrinelli, "LaFeltrinelli"),
+        "uplay.it":           (get_price_uplay, "UPlay"),
+        "dadiemattoncini.it": (get_price_dadiemattoncini, "DadiEMattoncini")
     }
 
     with ThreadPoolExecutor(max_workers=10) as executor:
