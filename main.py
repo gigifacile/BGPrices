@@ -323,7 +323,26 @@ def main():
         "dragonstore.it":     (get_price_dragonstore, "DragonStore"),
     }
 
+    # Dizionario per salvare i prezzi attuali
+    prezzi_attuali = []
+
+    # Eseguo i controlli e raccolgo prezzi per notifiche e storico
     with ThreadPoolExecutor(max_workers=10) as executor:
+        for game in games:
+            # Per ogni gioco creo un dizionario dei prezzi per ogni store
+            prezzi_per_gioco = {"name": game["name"], "prezzi": {}}
+            for url in game["links"]:
+                for domain, (scraper_func, fonte) in scraper_map.items():
+                    if domain in url:
+                        price = scraper_func(url)
+                        if price is not None:
+                            prezzi_per_gioco["prezzi"][fonte] = price
+                        break
+            prezzi_attuali.append(prezzi_per_gioco)
+
+    # Ora eseguo di nuovo i controlli con notifiche (puoi tenerli se vuoi)
+    with ThreadPoolExecutor(max_workers=10) as executor:
+        tasks = []
         for game in games:
             for url in game["links"]:
                 for domain, (scraper_func, fonte) in scraper_map.items():
@@ -331,10 +350,15 @@ def main():
                         tasks.append(executor.submit(process_url, game, url, scraper_func, fonte))
                         break
 
-    for task in tasks:
-        if task.result():
-            updated = True
+        for task in tasks:
+            if task.result():
+                updated = True
 
+    # Salvataggio prezzi attuali in JSON, sempre sovrascrivendo
+    with open("PrezziAttuali.json", "w", encoding="utf-8") as f:
+        json.dump(prezzi_attuali, f, ensure_ascii=False, indent=2)
+
+    # Se aggiornato, riscrivo lista e storico
     if updated:
         with open(LISTA_PATH, "w", encoding="utf-8") as f:
             json.dump(games, f, ensure_ascii=False, indent=2)
