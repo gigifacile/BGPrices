@@ -154,38 +154,32 @@ def get_price_amazon(url):
         }
         response = requests.get(url, headers=headers, timeout=15)
         if response.status_code != 200:
-            print(f"[Errore Amazon] Codice HTTP {response.status_code}")
+            print(f"[Amazon] Errore HTTP: {response.status_code}")
             return None
 
-        html = response.text
+        soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Cerca prezzo normale
-        m = re.search(r'id="priceblock_ourprice".*?>(\d{1,3},\d{2})', html)
-        if not m:
-            # Cerca prezzo scontato
-            m = re.search(r'id="priceblock_dealprice".*?>(\d{1,3},\d{2})', html)
-        if not m:
-            # A volte usa priceblock_saleprice
-            m = re.search(r'id="priceblock_saleprice".*?>(\d{1,3},\d{2})', html)
-        if not m:
-            return None
+        # Cerca il blocco contenente il prezzo
+        price_whole = soup.find("span", class_="a-price-whole")
+        price_fraction = soup.find("span", class_="a-price-fraction")
 
-        return float(m.group(1).replace(",", "."))
-    except Exception as e:
-        print(f"[Errore Amazon] {url} → {e}")
+        if price_whole and price_fraction:
+            prezzo = f"{price_whole.text.strip()}.{price_fraction.text.strip()}"
+            return float(prezzo.replace(",", "."))  # per sicurezza se Amazon cambia stile
+
+        print("[Amazon] Prezzo non trovato.")
         return None
-
-def append_to_storico(name, fonte, price):
-    now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    row = [now, name, fonte, f"{price:.2f}"]
-    try:
-        with open(STORICO_PATH, "a", newline="", encoding="utf-8") as f:
-            writer = csv.writer(f)
-            if f.tell() == 0:
-                writer.writerow(["data", "gioco", "sito", "prezzo"])
-            writer.writerow(row)
     except Exception as e:
-        print(f"[Errore storico] {e}")
+        print(f"[Amazon] Errore parsing: {e}")
+        return None
+✅ Esempio di output
+Se l'HTML contiene:
+
+html
+Copia
+Modifica
+<span class="a-price-whole">18<span class="a-price-decimal">,</span></span>
+<span class="a-price-fraction">99</span>
 
 def process_url(game, url, scraper_func, fonte):
     try:
