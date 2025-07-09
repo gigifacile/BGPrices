@@ -1,5 +1,6 @@
 import requests, re, json, csv, datetime
 from concurrent.futures import ThreadPoolExecutor
+from bs4 import BeautifulSoup
 import sys, io
 
 # Forza l'output in UTF-8 con gestione errori
