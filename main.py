@@ -15,6 +15,7 @@ TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
 CHAT_ID = "102733635"
 LISTA_PATH = "Lista.json"
 STORICO_PATH = "storico_prezzi.csv"
+PREZZI_ATTUALI_PATH = "PrezziAttuali.json"
 
 DEFAULT_HEADERS = {
     "User-Agent": (
@@ -280,9 +281,12 @@ def get_price_dragonstore(url):
     except ValueError:
         return None
 
-def process_url(game, url, scraper_func, fonte):
+def process_url(game, url, scraper_func, fonte, prezzi_attuali):
     try:
         price = scraper_func(url)
+        if game["name"] not in prezzi_attuali:
+            prezzi_attuali[game["name"]] = {}
+        prezzi_attuali[game["name"]][fonte] = price
         if price is not None:
             print(
                 f"{game['name']} - {fonte}: {price:.2f} € (soglia {game['threshold']:.2f} €)"
@@ -322,12 +326,14 @@ def main():
         "dragonstore.it":     (get_price_dragonstore, "DragonStore"),
     }
 
+    prezzi_attuali = {}
+
     with ThreadPoolExecutor(max_workers=10) as executor:
         for game in games:
             for url in game["links"]:
                 for domain, (scraper_func, fonte) in scraper_map.items():
                     if domain in url:
-                        tasks.append(executor.submit(process_url, game, url, scraper_func, fonte))
+                        tasks.append(executor.submit(process_url, game, url, scraper_func, fonte, prezzi_attuali))
                         break
 
     for task in tasks:
@@ -338,6 +344,9 @@ def main():
         with open(LISTA_PATH, "w", encoding="utf-8") as f:
             json.dump(games, f, ensure_ascii=False, indent=2)
         print("✅ Soglie aggiornate e storico salvato.")
+        with open(PREZZI_ATTUALI_PATH, "w", encoding="utf-8") as f:
+            json.dump(prezzi_attuali, f, ensure_ascii=False, indent=2)
+        print("📦 Prezzi attuali salvati.")
 
 
 if __name__ == "__main__":
