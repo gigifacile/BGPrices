@@ -301,6 +301,9 @@ def process_url(game, url, scraper_func, fonte):
         print(f"[Errore {fonte}] {url} → {e}")
     return False
 
+with open(LISTA_PATH, "r", encoding="utf-8") as f:
+    games = json.load(f)
+
 def salva_prezzi_correnti(games):
     risultati = {}
     for game in games:
