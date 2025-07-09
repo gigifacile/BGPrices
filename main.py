@@ -158,6 +158,36 @@ def get_price_uplay(url):
     except Exception:
         return None
 
+def get_price_dadiemattoncini(url):
+    if not url:
+        return None
+    try:
+        html = requests.get(url, headers=HEADERS, timeout=10).text
+
+        # Controllo disponibilità
+        availability_match = re.search(
+            r'<span\s+style="margin-left:auto;\s*margin-right:auto;\s*display:inline-block;">([^<]*)<\/span>',
+            html,
+            re.I
+        )
+        if availability_match and availability_match.group(1):
+            return None  # Non disponibile
+
+        # Estrazione del prezzo
+        price_match = re.search(
+            r'<span class="product-price"[^>]*>\s*&euro;\s*(\d+,\d+)\s*<\/span>',
+            html
+        )
+        if not price_match or not price_match.group(1):
+            return None  # Prezzo non trovato
+
+        prezzo_pulito = price_match.group(1).replace(",", ".")
+        return float(prezzo_pulito)
+
+    except Exception as e:
+        print(f"[Errore DadiEMattoncini] {url} → {e}")
+        return None
+
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     header = ["data", "gioco", "sito", "prezzo"]
@@ -196,13 +226,14 @@ def main():
     tasks = []
 
     scraper_map = {
-        "dungeondice.it":    (get_price_dungeondice, "DungeonDice"),
-        "fantasiastore.it":  (get_price_fantasia, "FantasiaStore"),
-        "magicmerchant.it":  (get_price_magicmerchant, "MagicMerchant"),
-        "getyourfun.it":     (get_price_getyourfun, "GetYourFun"),
-        "player1.it":        (get_price_player1, "Player1"),
-        "lafeltrinelli.it":  (get_price_feltrinelli, "LaFeltrinelli"),
-        "uplay.it":         (get_price_uplay, "UPlay"),
+        "dungeondice.it":        (get_price_dungeondice, "DungeonDice"),
+        "fantasiastore.it":      (get_price_fantasia, "FantasiaStore"),
+        "magicmerchant.it":      (get_price_magicmerchant, "MagicMerchant"),
+        "getyourfun.it":         (get_price_getyourfun, "GetYourFun"),
+        "player1.it":            (get_price_player1, "Player1"),
+        "lafeltrinelli.it":      (get_price_feltrinelli, "LaFeltrinelli"),
+        "uplay.it":              (get_price_uplay, "UPlay"),
+        "dadiemattoncini.it":    (get_price_dadiemattoncini, 'DadiEMattoncini")
     }
 
     with ThreadPoolExecutor(max_workers=10) as executor:
