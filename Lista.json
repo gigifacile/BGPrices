@@ -9,7 +9,8 @@
       "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html",
       "https://player1.it/prodotto/dune-imperium-insurrezione/",
       "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011",
-      "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
+      "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html",
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/dune-imperium-insurrezione.html"
     ]
   },
   {
@@ -22,7 +23,8 @@
       "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html",
       "https://player1.it/prodotto/dune-imperium/",
       "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677",
-      "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
+      "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html",
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/dune-imperium.html"
     ]
   },
   {
@@ -33,7 +35,8 @@
       "https://www.dungeondice.it/8055-through-the-ages.html",
       "https://magicmerchant.it/catalogue/through-the-ages-la-storia-delle-civilta-3247/",
       "https://www.getyourfun.it/025-through-the-ages-giochi-gestionali.html",
-      "https://player1.it/prodotto/through-the-ages/"
+      "https://player1.it/prodotto/through-the-ages/",
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/through-the-ages.html"
     ]
   },
   {
@@ -45,7 +48,8 @@
       "https://magicmerchant.it/catalogue/concordia-30533/",
       "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html",
       "https://player1.it/prodotto/concordia/",
-      "https://www.lafeltrinelli.it/concordia-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055580240?queryId=eb3b6fa99828e5f24089f3d76b7f58f8"
+      "https://www.lafeltrinelli.it/concordia-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055580240?queryId=eb3b6fa99828e5f24089f3d76b7f58f8",
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/concordia.html"
     ]
   },
   {
@@ -70,7 +74,8 @@
       "https://magicmerchant.it/catalogue/nucleum-76380/",
       "https://www.getyourfun.it/019818-nucleum-giochi-gestionali.html",
       "https://player1.it/prodotto/nucleum/",
-      "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
+      "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566",
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/nucleum.html"
     ]
   },
   {
@@ -94,7 +99,8 @@
       "https://magicmerchant.it/catalogue/scythe-32495/",
       "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html",
       "https://player1.it/prodotto/scythe/",
-      "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
+      "https://www.uplay.it/it/gioco-da-tavolo-scythe.html",
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
     ]
   },
   {
@@ -117,7 +123,8 @@
       "https://magicmerchant.it/catalogue/root-38109/",
       "https://www.getyourfun.it/0304-root-giochi-di-guerra.html",
       "https://player1.it/prodotto/root/",
-      "https://www.uplay.it/it/gioco-da-tavolo-root.html"
+      "https://www.uplay.it/it/gioco-da-tavolo-root.html",
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
     ]
   },
   {
@@ -129,6 +136,20 @@
       "https://magicmerchant.it/catalogue/looot-il-bottino-dei-vichinghi-78445/",
       "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html",
       "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
+    ]
+  },
+  {
+    "name": "Ratti di Wistar",
+    "threshold": 100,
+    "links": [
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/ratti-di-wistar.html"
+    ]
+  },
+  {
+    "name": "Evenfall",
+    "threshold": 100,
+    "links": [
+      "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/evenfall.html"
     ]
   }
 ]
