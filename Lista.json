@@ -230,5 +230,19 @@
       "https://www.lsgiochi.it/product/10086794/le-rovine-perdute-di-arnak",
       "https://www.dragonstore.it/gestionali-le-rovine-perdute-di-arnak.1.1.385.gp.28660.uw"
     ]
+  },
+  {
+    "name": "El Grande",
+    "threshold": 100,
+    "links": [
+      "https://www.dragonstore.it/classici-famiglia-el-grande-nuova-edizione-italiana-2-mini-espansioni.1.1.115.gp.32239.uw"
+    ]
+  },
+  {
+    "name": "The Wolves",
+    "threshold": 100,
+    "links": [
+      "https://www.dragonstore.it/classici-famiglia-the-wolves-italiano.1.1.115.gp.31990.uw"
+    ]
   }
 ]
