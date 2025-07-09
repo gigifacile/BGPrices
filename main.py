@@ -344,9 +344,9 @@ def main():
         with open(LISTA_PATH, "w", encoding="utf-8") as f:
             json.dump(games, f, ensure_ascii=False, indent=2)
         print("✅ Soglie aggiornate e storico salvato.")
-        with open(PREZZI_ATTUALI_PATH, "w", encoding="utf-8") as f:
-            json.dump(prezzi_attuali, f, ensure_ascii=False, indent=2)
-        print("📦 Prezzi attuali salvati.")
+    with open(PREZZI_ATTUALI_PATH, "w", encoding="utf-8") as f:
+        json.dump(prezzi_attuali, f, ensure_ascii=False, indent=2)
+    print("📦 Prezzi attuali salvati.")
 
 
 if __name__ == "__main__":
