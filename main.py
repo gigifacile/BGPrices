@@ -360,3 +360,6 @@ def main():
     with open("PrezziAttuali.json", "w", encoding="utf-8") as f:
         json.dump(prezzi_attuali, f, ensure_ascii=False, indent=2)
     print("✅ Prezzi attuali salvati in PrezziAttuali.json")
+
+if __name__ == "__main__":
+    main()
