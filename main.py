@@ -160,13 +160,15 @@ def get_price_amazon(url):
 
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Cerca il blocco contenente il prezzo
-        price_whole = soup.find("span", class_="a-price-whole")
-        price_fraction = soup.find("span", class_="a-price-fraction")
-
-        if price_whole and price_fraction:
-            prezzo = f"{price_whole.text.strip()}.{price_fraction.text.strip()}"
-            return float(prezzo.replace(",", "."))  # per sicurezza se Amazon cambia stile
+        # Cerca il blocco del prezzo
+        price_span = soup.find("span", class_="a-price")
+        if price_span:
+            full_price = price_span.find("span", class_="a-offscreen")
+            if full_price:
+                raw_price = full_price.text.strip()  # es: '16,39 €' o '16,39€'
+                # Pulisce e converte in float
+                cleaned = raw_price.replace("€", "").replace(".", "").replace(",", ".").strip()
+                return float(cleaned)
 
         print("[Amazon] Prezzo non trovato.")
         return None
