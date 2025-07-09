@@ -358,7 +358,7 @@ def main():
         print("✅ Soglie aggiornate e storico salvato.")
 
 salva_prezzi_correnti(games)
-    print("📦 File prezzi_correnti.json aggiornato.")
+print("📦 File prezzi_correnti.json aggiornato.")
 
 if __name__ == "__main__":
     main()
