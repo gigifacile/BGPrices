@@ -340,28 +340,6 @@ def main():
             json.dump(games, f, ensure_ascii=False, indent=2)
         print("✅ Soglie aggiornate e storico salvato.")
 
-with open(LISTA_PATH, "r", encoding="utf-8") as f:
-    games = json.load(f)
-
-def salva_prezzi_correnti(games):
-    risultati = {}
-    for game in games:
-        nome = game["name"]
-        risultati[nome] = {}
-        for url in game["links"]:
-            for dominio, (scraper_func, fonte) in scraper_map.items():
-                if dominio in url:
-                    prezzo = scraper_func(url)
-                    risultati[nome][fonte] = {
-                        "url": url,
-                        "prezzo": prezzo
-                    }
-                    break
-    with open(PREZZI_CORRENTI_PATH, "w", encoding="utf-8") as f:
-        json.dump(risultati, f, ensure_ascii=False, indent=2)
-
-salva_prezzi_correnti(games)
-print("📦 File prezzi_correnti.json aggiornato.")
 
 if __name__ == "__main__":
     main()
