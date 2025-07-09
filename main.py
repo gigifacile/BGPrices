@@ -145,34 +145,6 @@ def get_price_dadiemattoncini(url):
         print(f"[Errore DadiEMattoncini] {url} → {e}")
         return None
 
-def get_price_amazon(url):
-    if not url:
-        return None
-    try:
-        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
-
-        # Verifica se la pagina mostra un messaggio tipo "non disponibile"
-        if re.search(r'Attualmente non disponibile', html, re.I):
-            return None
-
-        # Regex precisa per estrarre il prezzo
-        pattern = re.compile(
-            r'<span class="a-price-whole">(\d+)<span class="a-price-decimal">,</span></span>\s*'
-            r'<span class="a-price-fraction">(\d+)</span>',
-            re.DOTALL
-        )
-
-        match = pattern.search(html)
-        if match:
-            prezzo = f"{match.group(1)},{match.group(2)}"
-            return float(prezzo.replace(",", "."))
-        else:
-            return None
-
-    except Exception as e:
-        print(f"[Errore Amazon] {url} → {e}")
-        return None
-
 def process_url(game, url, scraper_func, fonte):
     try:
         price = scraper_func(url)
