@@ -229,7 +229,7 @@ def get_price_covo_del_nerd(url):
 
 def get_price_lsgiochi(url):
     if not url:
-        return "Non venduto"
+        return None
     
     response = requests.get(url, timeout=10)
     html = response.text
@@ -237,7 +237,7 @@ def get_price_lsgiochi(url):
     # Verifica se è esaurito
     sold_out_match = re.search(r'<div class="product-sticker product-sticker--sold-out">\s*(.*?)\s*</div>', html)
     if sold_out_match:
-        return sold_out_match.group(1).strip()
+        return None
 
     # Estrai il prezzo
     price_match = re.search(r'product__price__price">([\d.,]+)', html)
@@ -246,9 +246,9 @@ def get_price_lsgiochi(url):
         try:
             return float(prezzo_pulito)
         except ValueError:
-            return "Errore conversione prezzo"
+            return None
 
-    return "Prezzo non trovato"
+    return None
 
 def process_url(game, url, scraper_func, fonte):
     try:
