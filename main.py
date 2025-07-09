@@ -172,14 +172,6 @@ def get_price_amazon(url):
     except Exception as e:
         print(f"[Amazon] Errore parsing: {e}")
         return None
-✅ Esempio di output
-Se l'HTML contiene:
-
-html
-Copia
-Modifica
-<span class="a-price-whole">18<span class="a-price-decimal">,</span></span>
-<span class="a-price-fraction">99</span>
 
 def process_url(game, url, scraper_func, fonte):
     try:
