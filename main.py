@@ -25,10 +25,8 @@ DEFAULT_HEADERS = {
     )
 }
 
-
 def clean_surrogates(text):
     return text.encode("utf-16", "surrogatepass").decode("utf-16", "ignore")
-
 
 def send_alert(name, price, url):
     message = f"🎲 *{name}* nuovo minimo storico: {price:.2f}€!\n🔗 {url}"
@@ -45,7 +43,6 @@ def send_alert(name, price, url):
         )
     except Exception as e:
         print(f"[Errore Telegram] {e}")
-
 
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -281,9 +278,17 @@ def get_price_dragonstore(url):
     except ValueError:
         return None
 
-def process_url(game, url, scraper_func, fonte):
+def save_prezzi_correnti(prezzi_correnti):
+    try:
+        with open(PREZZI_CORRENTI_PATH, "w", encoding="utf-8") as f:
+            json.dump(prezzi_correnti, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"[Errore salvataggio prezzi correnti] {e}")
+
+def process_url(game, url, scraper_func, fonte, prezzi_correnti):
     try:
         price = scraper_func(url)
+        prezzi_correnti.setdefault(game["name"], {})[fonte] = price  # salva prezzo anche se None
         if price is not None:
             print(
                 f"{game['name']} - {fonte}: {price:.2f} € (soglia {game['threshold']:.2f} €)"
@@ -301,13 +306,12 @@ def process_url(game, url, scraper_func, fonte):
         print(f"[Errore {fonte}] {url} → {e}")
     return False
 
-
 def main():
     with open(LISTA_PATH, "r", encoding="utf-8") as f:
         games = json.load(f)
 
     updated = False
-    tasks = []
+    prezzi_correnti = {}
 
     scraper_map = {
         "dungeondice.it":     (get_price_dungeondice, "DungeonDice"),
@@ -323,23 +327,27 @@ def main():
         "dragonstore.it":     (get_price_dragonstore, "DragonStore"),
     }
 
+    from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(max_workers=10) as executor:
+        futures = []
         for game in games:
             for url in game["links"]:
                 for domain, (scraper_func, fonte) in scraper_map.items():
                     if domain in url:
-                        tasks.append(executor.submit(process_url, game, url, scraper_func, fonte))
+                        futures.append(executor.submit(process_url, game, url, scraper_func, fonte, prezzi_correnti))
                         break
 
-    for task in tasks:
-        if task.result():
-            updated = True
+        for future in futures:
+            if future.result():
+                updated = True
+
+    # Salvataggio prezzi correnti in JSON ad ogni esecuzione
+    save_prezzi_correnti(prezzi_correnti)
 
     if updated:
         with open(LISTA_PATH, "w", encoding="utf-8") as f:
             json.dump(games, f, ensure_ascii=False, indent=2)
         print("✅ Soglie aggiornate e storico salvato.")
-
 
 if __name__ == "__main__":
     main()
