@@ -286,13 +286,17 @@ def save_prezzi_correnti(prezzi_correnti):
         print(f"[Errore salvataggio prezzi correnti] {e}")
 
 def process_url(game, url, scraper_func, fonte, prezzi_correnti):
+    print(f"Controllo prezzo per {game['name']} su {fonte} -> {url}")
     try:
         price = scraper_func(url)
-        prezzi_correnti.setdefault(game["name"], {})[fonte] = price  # salva prezzo anche se None
+        print(f"Prezzo trovato: {price}")
+        if game["name"] not in prezzi_correnti:
+            prezzi_correnti[game["name"]] = {}
+        prezzi_correnti[game["name"]][fonte] = price
+
         if price is not None:
             print(
                 f"{game['name']} - {fonte}: {price:.2f} € (soglia {game['threshold']:.2f} €)"
-                .encode("utf-8", "replace").decode("utf-8")
             )
             if price < game["threshold"]:
                 print("→ Nuovo minimo storico! Invio notifica e aggiorno soglia.")
@@ -301,7 +305,7 @@ def process_url(game, url, scraper_func, fonte, prezzi_correnti):
                 append_to_storico(game["name"], fonte, price)
                 return True
         else:
-            print(f"{game['name']} - {fonte}: non disponibile")
+            print(f"{game['name']} - {fonte}: prezzo non disponibile")
     except Exception as e:
         print(f"[Errore {fonte}] {url} → {e}")
     return False
