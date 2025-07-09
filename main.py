@@ -15,6 +15,7 @@ TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
 CHAT_ID = "102733635"
 LISTA_PATH = "Lista.json"
 STORICO_PATH = "storico_prezzi.csv"
+PREZZI_CORRENTI_PATH = "prezzi_correnti.json"
 
 DEFAULT_HEADERS = {
     "User-Agent": (
@@ -356,8 +357,8 @@ def main():
             json.dump(games, f, ensure_ascii=False, indent=2)
         print("✅ Soglie aggiornate e storico salvato.")
 
-    salva_prezzi_correnti(games)
-        print("📦 File prezzi_correnti.json aggiornato.")
+salva_prezzi_correnti(games)
+    print("📦 File prezzi_correnti.json aggiornato.")
 
 if __name__ == "__main__":
     main()
