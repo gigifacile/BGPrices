@@ -311,6 +311,7 @@ def main():
         games = json.load(f)
 
     updated = False
+    tasks = []
     prezzi_correnti = {}
 
     scraper_map = {
@@ -341,13 +342,19 @@ def main():
             if future.result():
                 updated = True
 
-    # Salvataggio prezzi correnti in JSON ad ogni esecuzione
-    save_prezzi_correnti(prezzi_correnti)
 
     if updated:
         with open(LISTA_PATH, "w", encoding="utf-8") as f:
             json.dump(games, f, ensure_ascii=False, indent=2)
         print("✅ Soglie aggiornate e storico salvato.")
+
+# Salva sempre i prezzi correnti su file JSON
+    try:
+        with open(PREZZI_CORRENTI_PATH, "w", encoding="utf-8") as f:
+            json.dump(prezzi_correnti, f, ensure_ascii=False, indent=2)
+        print(f"✅ Prezzi correnti salvati in {PREZZI_CORRENTI_PATH}")
+    except Exception as e:
+        print(f"[Errore salvataggio prezzi correnti] {e}")
 
 if __name__ == "__main__":
     main()
