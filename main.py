@@ -178,7 +178,6 @@ def main():
         "lafeltrinelli.it":   (get_price_feltrinelli, "LaFeltrinelli"),
         "uplay.it":           (get_price_uplay, "UPlay"),
         "dadiemattoncini.it": (get_price_dadiemattoncini, "DadiEMattoncini"),
-        "amazon.it":          (get_price_amazon, "Amazon"),
     }
 
     with ThreadPoolExecutor(max_workers=10) as executor:
