@@ -149,31 +149,28 @@ def get_price_amazon(url):
     if not url:
         return None
     try:
-        headers = {
-            "User-Agent": DEFAULT_HEADERS["User-Agent"],
-            "Accept-Language": "it-IT,it;q=0.9",
-        }
-        response = requests.get(url, headers=headers, timeout=15)
-        if response.status_code != 200:
-            print(f"[Amazon] Errore HTTP: {response.status_code}")
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
+
+        # Verifica se la pagina mostra un messaggio tipo "non disponibile"
+        if re.search(r'Attualmente non disponibile', html, re.I):
             return None
 
-        soup = BeautifulSoup(response.text, 'html.parser')
+        # Regex precisa per estrarre il prezzo
+        pattern = re.compile(
+            r'<span class="a-price-whole">(\d+)<span class="a-price-decimal">,</span></span>\s*'
+            r'<span class="a-price-fraction">(\d+)</span>',
+            re.DOTALL
+        )
 
-        # Cerca il blocco del prezzo
-        price_span = soup.find("span", class_="a-price")
-        if price_span:
-            full_price = price_span.find("span", class_="a-offscreen")
-            if full_price:
-                raw_price = full_price.text.strip()  # es: '16,39 €' o '16,39€'
-                # Pulisce e converte in float
-                cleaned = raw_price.replace("€", "").replace(".", "").replace(",", ".").strip()
-                return float(cleaned)
+        match = pattern.search(html)
+        if match:
+            prezzo = f"{match.group(1)},{match.group(2)}"
+            return float(prezzo.replace(",", "."))
+        else:
+            return None
 
-        print("[Amazon] Prezzo non trovato.")
-        return None
     except Exception as e:
-        print(f"[Amazon] Errore parsing: {e}")
+        print(f"[Errore Amazon] {url} → {e}")
         return None
 
 def process_url(game, url, scraper_func, fonte):
