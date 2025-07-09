@@ -145,6 +145,35 @@ def get_price_dadiemattoncini(url):
         print(f"[Errore DadiEMattoncini] {url} → {e}")
         return None
 
+def get_price_covo_del_nerd(url):
+    if not url:
+        return None
+    try:
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
+
+        # Controlla se è esaurito
+        if re.search(r'<p class="stock out-of-stock">\s*(.*?)\s*</p>', html, re.I):
+            return "Non disponibile"
+
+        # Controlla se è in riassortimento (es. "Ordina Ora (disponibile tra X giorni)")
+        riass = re.search(r'Ordina Ora \(([^)]+)\)</button>', html)
+        if riass:
+            return riass.group(1)
+
+        # Cerca tutti i prezzi e prendi l'ultimo
+        matches = re.findall(
+            r'<\s*span[^>]*class\s*=\s*"woocommerce-Price-amount amount"[^>]*>\s*<\s*bdi[^>]*>\s*([\d]+,[\d]+)',
+            html
+        )
+        if matches:
+            last_price = matches[-1].replace(",", ".")
+            return float(last_price)
+
+        return None
+    except Exception as e:
+        print(f"[Errore CovoDelNerd] {url} → {e}")
+        return None
+
 def process_url(game, url, scraper_func, fonte):
     try:
         price = scraper_func(url)
@@ -178,6 +207,7 @@ def main():
         "lafeltrinelli.it":   (get_price_feltrinelli, "LaFeltrinelli"),
         "uplay.it":           (get_price_uplay, "UPlay"),
         "dadiemattoncini.it": (get_price_dadiemattoncini, "DadiEMattoncini"),
+        "ilcovodelnerd.com":  (get_price_covo_del_nerd, "IlCovoDelNerd")
     }
 
     with ThreadPoolExecutor(max_workers=10) as executor:
