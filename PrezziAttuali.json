@@ -2,51 +2,108 @@
   {
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
-      "FantasiaStore": 50.99
+      "FantasiaStore": 50.99,
+      "DungeonDice": 59.99,
+      "MagicMerchant": 56.3,
+      "GetYourFun": 50.99,
+      "Player1": 43.9,
+      "LaFeltrinelli": 59.99,
+      "UPlay": 50.99,
+      "LSGiochi": 59.99,
+      "DragonStore": 59.99
     }
   },
   {
     "name": "Dune Imperium",
     "prezzi": {
-      "FantasiaStore": 42.49
+      "FantasiaStore": 42.49,
+      "DungeonDice": 49.99,
+      "GetYourFun": 42.49,
+      "Player1": 34.9,
+      "LaFeltrinelli": 49.99,
+      "UPlay": 42.49,
+      "DadiEMattoncini": 39.99,
+      "IlCovoDelNerd": 43.0,
+      "LSGiochi": 49.99,
+      "DragonStore": 49.9
     }
   },
   {
     "name": "Through The Ages",
-    "prezzi": {}
+    "prezzi": {
+      "GetYourFun": 69.99
+    }
   },
   {
     "name": "Concordia",
     "prezzi": {
-      "FantasiaStore": 47.9
+      "FantasiaStore": 47.9,
+      "DungeonDice": 59.99,
+      "MagicMerchant": 59.89,
+      "GetYourFun": 52.79,
+      "Player1": 44.9,
+      "LSGiochi": 59.99,
+      "DragonStore": 59.95
     }
   },
   {
     "name": "Barrage",
     "prezzi": {
-      "FantasiaStore": 49.99
+      "FantasiaStore": 49.99,
+      "DungeonDice": 78.99,
+      "MagicMerchant": 67.06,
+      "GetYourFun": 69.51,
+      "Player1": 49.9,
+      "LaFeltrinelli": 69.99,
+      "UPlay": 71.09,
+      "DragonStore": 78.99
     }
   },
   {
     "name": "Nucleum",
     "prezzi": {
-      "FantasiaStore": 50.99
+      "FantasiaStore": 50.99,
+      "DungeonDice": 41.99,
+      "MagicMerchant": 56.3,
+      "GetYourFun": 35.99,
+      "Player1": 45.9,
+      "LaFeltrinelli": 52.99,
+      "IlCovoDelNerd": 51.5,
+      "DragonStore": 59.99
     }
   },
   {
     "name": "Spirit Island",
     "prezzi": {
-      "FantasiaStore": 55.99
+      "FantasiaStore": 55.99,
+      "MagicMerchant": 74.3,
+      "GetYourFun": 63.92,
+      "UPlay": 67.92,
+      "IlCovoDelNerd": 60.0,
+      "LSGiochi": 59.99
     }
   },
   {
     "name": "Scythe",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": 89.99,
+      "MagicMerchant": 80.91,
+      "GetYourFun": 89.9,
+      "UPlay": 76.42,
+      "DadiEMattoncini": 89.99,
+      "IlCovoDelNerd": 77.3
+    }
   },
   {
     "name": "Trekking Through History",
     "prezzi": {
-      "FantasiaStore": 29.99
+      "FantasiaStore": 29.99,
+      "DungeonDice": 39.99,
+      "MagicMerchant": 39.89,
+      "GetYourFun": 31.99,
+      "UPlay": 33.99,
+      "LSGiochi": 39.99,
+      "DragonStore": 39.9
     }
   },
   {
@@ -56,32 +113,57 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
-      "FantasiaStore": 23.99
+      "FantasiaStore": 23.99,
+      "DungeonDice": 29.99,
+      "MagicMerchant": 29.89,
+      "GetYourFun": 23.99,
+      "LaFeltrinelli": 23.55,
+      "LSGiochi": 29.99,
+      "DragonStore": 29.99
     }
   },
   {
     "name": "Ratti di Wistar",
     "prezzi": {
-      "FantasiaStore": 35.99
+      "FantasiaStore": 35.99,
+      "DungeonDice": 59.99,
+      "GetYourFun": 52.79,
+      "Player1": 44.9,
+      "UPlay": 50.99,
+      "LaFeltrinelli": 52.99,
+      "LSGiochi": 59.99,
+      "DragonStore": 59.99
     }
   },
   {
     "name": "Evenfall",
     "prezzi": {
-      "FantasiaStore": 49.49
+      "FantasiaStore": 49.49,
+      "DungeonDice": 54.99,
+      "LaFeltrinelli": 54.9,
+      "DadiEMattoncini": 39.99,
+      "LSGiochi": 54.9
     }
   },
   {
     "name": "Crack List",
-    "prezzi": {}
+    "prezzi": {
+      "LSGiochi": 22.99
+    }
   },
   {
     "name": "Le Rovine Perdute di Arnak",
-    "prezzi": {}
+    "prezzi": {
+      "IlCovoDelNerd": 51.5,
+      "LSGiochi": 59.99,
+      "DragonStore": 59.99
+    }
   },
   {
     "name": "El Grande",
-    "prezzi": {}
+    "prezzi": {
+      "DragonStore": 49.99
+    }
   },
   {
     "name": "The Wolves",
