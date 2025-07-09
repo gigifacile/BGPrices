@@ -5,7 +5,6 @@ import csv
 import json
 import datetime
 import requests
-from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 
 # Forza l'output in UTF-8 con gestione errori
@@ -25,10 +24,8 @@ DEFAULT_HEADERS = {
     )
 }
 
-
 def clean_surrogates(text):
     return text.encode("utf-16", "surrogatepass").decode("utf-16", "ignore")
-
 
 def send_alert(name, price, url):
     message = f"🎲 *{name}* nuovo minimo storico: {price:.2f}€!\n🔗 {url}"
@@ -46,7 +43,6 @@ def send_alert(name, price, url):
     except Exception as e:
         print(f"[Errore Telegram] {e}")
 
-
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     header = ["data", "gioco", "sito", "prezzo"]
@@ -59,7 +55,6 @@ def append_to_storico(name, fonte, price):
             writer.writerow(row)
     except Exception as e:
         print(f"[Errore storico] {e}")
-
 
 def get_price_fantasia(url):
     if not url:
@@ -80,7 +75,6 @@ def get_price_fantasia(url):
         print(f"[Errore FantasiaStore] {url} → {e}")
         return None
 
-
 def get_price_dungeondice(url):
     if not url:
         return None
@@ -98,7 +92,6 @@ def get_price_dungeondice(url):
         print(f"[Errore DungeonDice] {url} → {e}")
         return None
 
-
 def get_price_magicmerchant(url):
     if not url:
         return None
@@ -114,7 +107,6 @@ def get_price_magicmerchant(url):
         print(f"[Errore MagicMerchant] {url} → {e}")
         return None
 
-
 def get_price_getyourfun(url):
     if not url:
         return None
@@ -128,7 +120,6 @@ def get_price_getyourfun(url):
     except Exception as e:
         print(f"[Errore GetYourFun] {url} → {e}")
         return None
-
 
 def get_price_player1(url):
     if not url:
@@ -146,7 +137,6 @@ def get_price_player1(url):
     except Exception as e:
         print(f"[Errore Player1] {url} → {e}")
         return None
-
 
 def get_price_feltrinelli(url):
     if not url:
@@ -169,7 +159,6 @@ def get_price_feltrinelli(url):
         print(f"[Errore Feltrinelli] {url} → {e}")
         return None
 
-
 def get_price_uplay(url):
     if not url:
         return None
@@ -191,7 +180,6 @@ def get_price_uplay(url):
     except Exception:
         return None
 
-
 def get_price_dadiemattoncini(url):
     if not url:
         return None
@@ -206,7 +194,6 @@ def get_price_dadiemattoncini(url):
     except Exception as e:
         print(f"[Errore DadiEMattoncini] {url} → {e}")
         return None
-
 
 def get_price_covo_del_nerd(url):
     if not url:
@@ -231,36 +218,33 @@ def get_price_covo_del_nerd(url):
 def get_price_lsgiochi(url):
     if not url:
         return None
-    
-    response = requests.get(url, timeout=10)
-    html = response.text
-
-    # Verifica se è esaurito
-    sold_out_match = re.search(r'<div class="product-sticker product-sticker--sold-out">\s*(.*?)\s*</div>', html)
-    if sold_out_match:
-        return None
-
-    # Estrai il prezzo
-    price_match = re.search(r'product__price__price">([\d.,]+)', html)
-    if price_match:
-        prezzo_pulito = price_match.group(1).replace(',', '.')
-        try:
-            return float(prezzo_pulito)
-        except ValueError:
+    try:
+        response = requests.get(url, timeout=10)
+        html = response.text
+        # Verifica se è esaurito
+        sold_out_match = re.search(r'<div class="product-sticker product-sticker--sold-out">\s*(.*?)\s*</div>', html)
+        if sold_out_match:
             return None
-
-    return None
+        # Estrai il prezzo
+        price_match = re.search(r'product__price__price">([\d.,]+)', html)
+        if price_match:
+            prezzo_pulito = price_match.group(1).replace(',', '.')
+            try:
+                return float(prezzo_pulito)
+            except ValueError:
+                return None
+        return None
+    except Exception:
+        return None
 
 def get_price_dragonstore(url):
     if not url:
         return None
-
     try:
         response = requests.get(url, timeout=10)
         html = response.text
     except Exception:
         return None
-
     # Verifica disponibilità
     disponibilita_match = re.search(
         r'<td[^>]*class=["\']availability["\'][^>]*>\s*<span class=["\']fullAV["\'][^>]*>(.*?)</span>\s*</td>',
@@ -269,12 +253,10 @@ def get_price_dragonstore(url):
     )
     if not disponibilita_match:
         return None
-
     # Estrai il prezzo
     prezzo_match = re.search(r'<span class="mainPriceAmount">([\d,]+)</span>', html)
     if not prezzo_match:
         return None
-
     try:
         prezzo_pulito = prezzo_match.group(1).replace(',', '.')
         return float(prezzo_pulito)
@@ -284,10 +266,12 @@ def get_price_dragonstore(url):
 def process_url(game, url, scraper_func, fonte, prezzi_attuali):
     try:
         price = scraper_func(url)
-        if game["name"] not in prezzi_attuali:
-            prezzi_attuali[game["name"]] = {}
-        prezzi_attuali[game["name"]][fonte] = price
+        # Aggiorno prezzi attuali anche se None (per chiarezza, salvo solo prezzi validi)
         if price is not None:
+            if game["name"] not in prezzi_attuali:
+                prezzi_attuali[game["name"]] = {}
+            prezzi_attuali[game["name"]][fonte] = price
+
             print(
                 f"{game['name']} - {fonte}: {price:.2f} € (soglia {game['threshold']:.2f} €)"
                 .encode("utf-8", "replace").decode("utf-8")
@@ -304,13 +288,15 @@ def process_url(game, url, scraper_func, fonte, prezzi_attuali):
         print(f"[Errore {fonte}] {url} → {e}")
     return False
 
-
 def main():
     with open(LISTA_PATH, "r", encoding="utf-8") as f:
         games = json.load(f)
 
     updated = False
     tasks = []
+
+    # Dizionario dove accumulare i prezzi trovati
+    prezzi_attuali = {}
 
     scraper_map = {
         "dungeondice.it":     (get_price_dungeondice, "DungeonDice"),
@@ -326,28 +312,60 @@ def main():
         "dragonstore.it":     (get_price_dragonstore, "DragonStore"),
     }
 
-    prezzi_attuali = {}
+    def process_url_collect(game, url, scraper_func, fonte):
+        try:
+            price = scraper_func(url)
+            # Aggiorniamo prezzi_attuali in ogni caso (anche None)
+            if game["name"] not in prezzi_attuali:
+                prezzi_attuali[game["name"]] = {}
+            prezzi_attuali[game["name"]][fonte] = price
+
+            if price is not None:
+                print(
+                    f"{game['name']} - {fonte}: {price:.2f} € (soglia {game['threshold']:.2f} €)"
+                    .encode("utf-8", "replace").decode("utf-8")
+                )
+                if price < game["threshold"]:
+                    print("→ Nuovo minimo storico! Invio notifica e aggiorno soglia.")
+                    send_alert(game["name"], price, url)
+                    game["threshold"] = price
+                    append_to_storico(game["name"], fonte, price)
+                    return (game["name"], fonte, price, True)
+            else:
+                print(f"{game['name']} - {fonte}: non disponibile")
+            return (game["name"], fonte, price, False)
+        except Exception as e:
+            print(f"[Errore {fonte}] {url} → {e}")
+            return (game["name"], fonte, None, False)
 
     with ThreadPoolExecutor(max_workers=10) as executor:
+        future_to_info = []
         for game in games:
             for url in game["links"]:
                 for domain, (scraper_func, fonte) in scraper_map.items():
                     if domain in url:
-                        tasks.append(executor.submit(process_url, game, url, scraper_func, fonte, prezzi_attuali))
+                        future = executor.submit(process_url_collect, game, url, scraper_func, fonte)
+                        future_to_info.append(future)
                         break
 
-    for task in tasks:
-        if task.result():
-            updated = True
+        for future in future_to_info:
+            name, fonte, price, changed = future.result()
+            if changed:
+                updated = True
 
     if updated:
+        # Aggiorna il file Lista.json con nuove soglie
         with open(LISTA_PATH, "w", encoding="utf-8") as f:
             json.dump(games, f, ensure_ascii=False, indent=2)
         print("✅ Soglie aggiornate e storico salvato.")
-    with open(PREZZI_ATTUALI_PATH, "w", encoding="utf-8") as f:
-        json.dump(prezzi_attuali, f, ensure_ascii=False, indent=2)
-    print("📦 Prezzi attuali salvati.")
 
+    # Scrivi sempre il file PrezziAttuali.json con gli ultimi prezzi
+    try:
+        with open(PREZZI_ATTUALI_PATH, "w", encoding="utf-8") as f:
+            json.dump(prezzi_attuali, f, ensure_ascii=False, indent=2)
+        print(f"✅ Prezzi attuali salvati su {PREZZI_ATTUALI_PATH}")
+    except Exception as e:
+        print(f"[Errore salvataggio prezzi attuali] {e}")
 
 if __name__ == "__main__":
     main()
