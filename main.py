@@ -5,6 +5,7 @@ import csv
 import json
 import datetime
 import requests
+import os
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 
