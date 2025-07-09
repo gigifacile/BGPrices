@@ -162,7 +162,7 @@ def get_price_dadiemattoncini(url):
     if not url:
         return None
     try:
-        html = requests.get(url, headers=HEADERS, timeout=10).text
+        html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
 
         # Controllo disponibilità
         availability_match = re.search(
