@@ -250,6 +250,36 @@ def get_price_lsgiochi(url):
 
     return None
 
+def get_price_dragonstore(url):
+    if not url:
+        return None
+
+    try:
+        response = requests.get(url, timeout=10)
+        html = response.text
+    except Exception:
+        return None
+
+    # Verifica disponibilità
+    disponibilita_match = re.search(
+        r'<td[^>]*class=["\']availability["\'][^>]*>\s*<span class=["\']fullAV["\'][^>]*>(.*?)</span>\s*</td>',
+        html,
+        re.IGNORECASE
+    )
+    if not disponibilita_match:
+        return None
+
+    # Estrai il prezzo
+    prezzo_match = re.search(r'<span class="mainPriceAmount">([\d,]+)</span>', html)
+    if not prezzo_match:
+        return None
+
+    try:
+        prezzo_pulito = prezzo_match.group(1).replace(',', '.')
+        return float(prezzo_pulito)
+    except ValueError:
+        return None
+
 def process_url(game, url, scraper_func, fonte):
     try:
         price = scraper_func(url)
@@ -289,6 +319,7 @@ def main():
         "dadiemattoncini.it": (get_price_dadiemattoncini, "DadiEMattoncini"),
         "ilcovodelnerd.com":  (get_price_covo_del_nerd, "IlCovoDelNerd"),
         "lsgiochi.it":        (get_price_lsgiochi, "LSGiochi"),
+        "dragonstore.it":     (get_price_dragonstore, "DragonStore"),
     }
 
     with ThreadPoolExecutor(max_workers=10) as executor:
