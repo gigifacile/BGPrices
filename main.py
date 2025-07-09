@@ -144,6 +144,37 @@ def get_price_dadiemattoncini(url):
         print(f"[Errore DadiEMattoncini] {url} → {e}")
         return None
 
+def get_price_amazon(url):
+    if not url:
+        return None
+    try:
+        headers = {
+            "User-Agent": DEFAULT_HEADERS["User-Agent"],
+            "Accept-Language": "it-IT,it;q=0.9",
+        }
+        response = requests.get(url, headers=headers, timeout=15)
+        if response.status_code != 200:
+            print(f"[Errore Amazon] Codice HTTP {response.status_code}")
+            return None
+
+        html = response.text
+
+        # Cerca prezzo normale
+        m = re.search(r'id="priceblock_ourprice".*?>(\d{1,3},\d{2})', html)
+        if not m:
+            # Cerca prezzo scontato
+            m = re.search(r'id="priceblock_dealprice".*?>(\d{1,3},\d{2})', html)
+        if not m:
+            # A volte usa priceblock_saleprice
+            m = re.search(r'id="priceblock_saleprice".*?>(\d{1,3},\d{2})', html)
+        if not m:
+            return None
+
+        return float(m.group(1).replace(",", "."))
+    except Exception as e:
+        print(f"[Errore Amazon] {url} → {e}")
+        return None
+
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     row = [now, name, fonte, f"{price:.2f}"]
@@ -188,7 +219,8 @@ def main():
         "player1.it":         (get_price_player1, "Player1"),
         "lafeltrinelli.it":   (get_price_feltrinelli, "LaFeltrinelli"),
         "uplay.it":           (get_price_uplay, "UPlay"),
-        "dadiemattoncini.it": (get_price_dadiemattoncini, "DadiEMattoncini")
+        "dadiemattoncini.it": (get_price_dadiemattoncini, "DadiEMattoncini"),
+        "amazon.it":          (get_price_amazon, "Amazon"),
     }
 
     with ThreadPoolExecutor(max_workers=10) as executor:
