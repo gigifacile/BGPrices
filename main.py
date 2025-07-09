@@ -15,7 +15,6 @@ TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
 CHAT_ID = "102733635"
 LISTA_PATH = "Lista.json"
 STORICO_PATH = "storico_prezzi.csv"
-PREZZI_CORRENTI_PATH = "prezzi_correnti.json"
 
 DEFAULT_HEADERS = {
     "User-Agent": (
@@ -25,8 +24,10 @@ DEFAULT_HEADERS = {
     )
 }
 
+
 def clean_surrogates(text):
     return text.encode("utf-16", "surrogatepass").decode("utf-16", "ignore")
+
 
 def send_alert(name, price, url):
     message = f"🎲 *{name}* nuovo minimo storico: {price:.2f}€!\n🔗 {url}"
@@ -43,6 +44,7 @@ def send_alert(name, price, url):
         )
     except Exception as e:
         print(f"[Errore Telegram] {e}")
+
 
 def append_to_storico(name, fonte, price):
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
@@ -278,25 +280,13 @@ def get_price_dragonstore(url):
     except ValueError:
         return None
 
-def save_prezzi_correnti(prezzi_correnti):
-    try:
-        with open(PREZZI_CORRENTI_PATH, "w", encoding="utf-8") as f:
-            json.dump(prezzi_correnti, f, ensure_ascii=False, indent=2)
-    except Exception as e:
-        print(f"[Errore salvataggio prezzi correnti] {e}")
-
-def process_url(game, url, scraper_func, fonte, prezzi_correnti):
-    print(f"Controllo prezzo per {game['name']} su {fonte} -> {url}")
+def process_url(game, url, scraper_func, fonte):
     try:
         price = scraper_func(url)
-        print(f"Prezzo trovato: {price}")
-        if game["name"] not in prezzi_correnti:
-            prezzi_correnti[game["name"]] = {}
-        prezzi_correnti[game["name"]][fonte] = price
-
         if price is not None:
             print(
                 f"{game['name']} - {fonte}: {price:.2f} € (soglia {game['threshold']:.2f} €)"
+                .encode("utf-8", "replace").decode("utf-8")
             )
             if price < game["threshold"]:
                 print("→ Nuovo minimo storico! Invio notifica e aggiorno soglia.")
@@ -305,10 +295,11 @@ def process_url(game, url, scraper_func, fonte, prezzi_correnti):
                 append_to_storico(game["name"], fonte, price)
                 return True
         else:
-            print(f"{game['name']} - {fonte}: prezzo non disponibile")
+            print(f"{game['name']} - {fonte}: non disponibile")
     except Exception as e:
         print(f"[Errore {fonte}] {url} → {e}")
     return False
+
 
 def main():
     with open(LISTA_PATH, "r", encoding="utf-8") as f:
@@ -316,7 +307,6 @@ def main():
 
     updated = False
     tasks = []
-    prezzi_correnti = {}
 
     scraper_map = {
         "dungeondice.it":     (get_price_dungeondice, "DungeonDice"),
@@ -332,33 +322,23 @@ def main():
         "dragonstore.it":     (get_price_dragonstore, "DragonStore"),
     }
 
-    from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(max_workers=10) as executor:
-        futures = []
         for game in games:
             for url in game["links"]:
                 for domain, (scraper_func, fonte) in scraper_map.items():
                     if domain in url:
-                        futures.append(executor.submit(process_url, game, url, scraper_func, fonte, prezzi_correnti))
+                        tasks.append(executor.submit(process_url, game, url, scraper_func, fonte))
                         break
 
-        for future in futures:
-            if future.result():
-                updated = True
-
+    for task in tasks:
+        if task.result():
+            updated = True
 
     if updated:
         with open(LISTA_PATH, "w", encoding="utf-8") as f:
             json.dump(games, f, ensure_ascii=False, indent=2)
         print("✅ Soglie aggiornate e storico salvato.")
 
-# Salva sempre i prezzi correnti su file JSON
-    try:
-        with open(PREZZI_CORRENTI_PATH, "w", encoding="utf-8") as f:
-            json.dump(prezzi_correnti, f, ensure_ascii=False, indent=2)
-        print(f"✅ Prezzi correnti salvati in {PREZZI_CORRENTI_PATH}")
-    except Exception as e:
-        print(f"[Errore salvataggio prezzi correnti] {e}")
 
 if __name__ == "__main__":
     main()
