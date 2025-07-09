@@ -34,6 +34,14 @@ def send_alert(name, price, url):
     except Exception as e:
         print(f"[Errore Telegram] {e}")
 
+def append_to_storico(nome, fonte, prezzo):
+    try:
+        with open(STORICO_PATH, "a", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+            writer.writerow([datetime.datetime.now().isoformat(), nome, fonte, f"{prezzo:.2f}"])
+    except Exception as e:
+        print(f"[Errore salvataggio storico] {e}")
+
 def get_price_fantasia(url):
     if not url:
         return None
@@ -150,16 +158,13 @@ def get_price_covo_del_nerd(url):
         return None
     try:
         html = requests.get(url, headers=DEFAULT_HEADERS, timeout=10).text
-
         # Controlla se è esaurito
         if re.search(r'<p class="stock out-of-stock">\s*(.*?)\s*</p>', html, re.I):
             return None
-
         # Controlla se è in riassortimento (es. "Ordina Ora (disponibile tra X giorni)")
         riass = re.search(r'Ordina Ora \(([^)]+)\)</button>', html)
         if riass:
             return None
-
         # Cerca tutti i prezzi e prendi l'ultimo
         matches = re.findall(
             r'<\s*span[^>]*class\s*=\s*"woocommerce-Price-amount amount"[^>]*>\s*<\s*bdi[^>]*>\s*([\d]+,[\d]+)',
@@ -168,7 +173,6 @@ def get_price_covo_del_nerd(url):
         if matches:
             last_price = matches[-1].replace(",", ".")
             return float(last_price)
-
         return None
     except Exception as e:
         print(f"[Errore CovoDelNerd] {url} → {e}")
