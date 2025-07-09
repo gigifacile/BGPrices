@@ -303,9 +303,6 @@ def process_url(game, url, scraper_func, fonte):
 
 
 def main():
-    if not os.path.exists("PrezziAttuali.json"):
-        with open("PrezziAttuali.json", "w", encoding="utf-8") as f:
-            json.dump({}, f, ensure_ascii=False, indent=2)
     with open(LISTA_PATH, "r", encoding="utf-8") as f:
         games = json.load(f)
 
