@@ -227,6 +227,28 @@ def get_price_covo_del_nerd(url):
         print(f"[Errore CovoDelNerd] {url} → {e}")
         return None
 
+def get_price_lsgiochi(url):
+    if not url:
+        return "Non venduto"
+    
+    response = requests.get(url, timeout=10)
+    html = response.text
+
+    # Verifica se è esaurito
+    sold_out_match = re.search(r'<div class="product-sticker product-sticker--sold-out">\s*(.*?)\s*</div>', html)
+    if sold_out_match:
+        return sold_out_match.group(1).strip()
+
+    # Estrai il prezzo
+    price_match = re.search(r'product__price__price">([\d.,]+)', html)
+    if price_match:
+        prezzo_pulito = price_match.group(1).replace(',', '.')
+        try:
+            return float(prezzo_pulito)
+        except ValueError:
+            return "Errore conversione prezzo"
+
+    return "Prezzo non trovato"
 
 def process_url(game, url, scraper_func, fonte):
     try:
@@ -266,6 +288,7 @@ def main():
         "uplay.it":           (get_price_uplay, "UPlay"),
         "dadiemattoncini.it": (get_price_dadiemattoncini, "DadiEMattoncini"),
         "ilcovodelnerd.com":  (get_price_covo_del_nerd, "IlCovoDelNerd"),
+        "lsgiochi.it":        (get_price_lsgiochi, "LSGiochi"),
     }
 
     with ThreadPoolExecutor(max_workers=10) as executor:
