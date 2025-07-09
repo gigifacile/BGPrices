@@ -153,12 +153,12 @@ def get_price_covo_del_nerd(url):
 
         # Controlla se è esaurito
         if re.search(r'<p class="stock out-of-stock">\s*(.*?)\s*</p>', html, re.I):
-            return "Non disponibile"
+            return None
 
         # Controlla se è in riassortimento (es. "Ordina Ora (disponibile tra X giorni)")
         riass = re.search(r'Ordina Ora \(([^)]+)\)</button>', html)
         if riass:
-            return riass.group(1)
+            return None
 
         # Cerca tutti i prezzi e prendi l'ultimo
         matches = re.findall(
