@@ -233,7 +233,7 @@ def main():
         "player1.it":            (get_price_player1, "Player1"),
         "lafeltrinelli.it":      (get_price_feltrinelli, "LaFeltrinelli"),
         "uplay.it":              (get_price_uplay, "UPlay"),
-        "dadiemattoncini.it":    (get_price_dadiemattoncini, 'DadiEMattoncini")
+        "dadiemattoncini.it":    (get_price_dadiemattoncini, "DadiEMattoncini",)
     }
 
     with ThreadPoolExecutor(max_workers=10) as executor:
