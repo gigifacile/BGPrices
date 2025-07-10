@@ -350,9 +350,12 @@ def main():
                 for domain, (scraper_func, fonte) in scraper_map.items():
                     if domain in url:
                         price = scraper_func(url)
-                        if price is not None:
-                            prezzi_per_gioco["prezzi"][fonte] = price
-                        break
+                    if price is not None:
+                        prezzi_per_gioco["prezzi"][fonte] = {
+                            "price": price,
+                            "url": url
+                        }
+                    break
             prezzi_attuali.append(prezzi_per_gioco)
 
     # Ora eseguo di nuovo i controlli con notifiche (puoi tenerli se vuoi)
