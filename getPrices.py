@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from prezzi import get_prezzo_gioco
 
-TOKEN = 'INSERISCI_QUI_IL_TUO_TOKEN_BOT'
+TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
 
 async def prezzo_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if context.args:
