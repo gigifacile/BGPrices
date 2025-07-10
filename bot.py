@@ -1,5 +1,6 @@
 import json
 import csv
+from datetime import datetime
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 from collections import defaultdict
@@ -32,7 +33,14 @@ def get_storico_prezzi(nome_gioco: str) -> dict:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 if row["gioco"].lower() == nome_gioco.lower():
-                    data = row["data"]
+                    # Converti la data da YYYY-MM-DD HH:MM:SS ➜ DD/MM/YYYY
+                    try:
+                        raw_date = row["data"]
+                        date_obj = datetime.strptime(raw_date, "%Y-%m-%d %H:%M:%S")
+                        data = date_obj.strftime("%d/%m/%Y")
+                    except Exception:
+                        data = row["data"]  # fallback se fallisce la conversione
+
                     sito = row["sito"]
                     prezzo = row["prezzo"]
                     storico[sito].append((data, prezzo))
