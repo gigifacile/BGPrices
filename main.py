@@ -309,8 +309,11 @@ def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
     for gioco in dati:
         if gioco["name"].lower() == nome_gioco.lower():
             prezzi = gioco.get("prezzi", {})
-            # Ordina per prezzo crescente e ritorna lista di tuple (store, prezzo)
-            return sorted(prezzi.items(), key=lambda x: x[1])
+            # Ordina per prezzo crescente e ritorna lista di tuple (store, prezzo, url)
+            return sorted(
+                [(store, info["price"], info["url"]) for store, info in prezzi.items()],
+                key=lambda x: x[1]
+            )
     
     # Se non trova il gioco
     return None
