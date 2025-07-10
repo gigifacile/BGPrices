@@ -22,6 +22,26 @@ def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
             )
     return None
 
+def get_storico_prezzi(nome_gioco: str) -> dict:
+    storico = defaultdict(list)
+
+    try:
+        with open("storico_prezzi.csv", newline="", encoding="utf-8") as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                if row["gioco"].lower() == nome_gioco.lower():
+                    timestamp = row["timestamp"]
+                    store = row["store"]
+                    prezzo = row["prezzo"]
+                    storico[store].append((timestamp, prezzo))
+
+        return dict(storico)
+
+    except FileNotFoundError:
+        return {"errore": "File storico_prezzi.csv non trovato."}
+    except Exception as e:
+        return {"errore": str(e)}
+
 # Storico dei prezzi
 async def storico(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
