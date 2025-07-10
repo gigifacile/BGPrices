@@ -3,8 +3,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 COMMANDS_INFO = {
-    "/info": "Descrizione del bot",
-    "/prezzi": "Controlla i prezzi di un gioco: usa `/prezzi <nome>`."
+    "info": "Descrizione del bot",
+    "prezzi": "Controlla i prezzi di un gioco: usa `/prezzi <nome>`."
 }
 
 # La tua funzione
