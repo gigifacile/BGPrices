@@ -1,6 +1,8 @@
 beautifulsoup4
-python-telegram-bot>=20.7
 Flask==2.3.3
 requests
 aiohttp
-pytz
+python-telegram-bot==20.8
+apscheduler==3.9.1
+pytz==2023.3
+tzlocal==4.3
