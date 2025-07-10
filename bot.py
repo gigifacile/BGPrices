@@ -21,6 +21,31 @@ def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
             )
     return None
 
+# Storico dei prezzi
+async def storico(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if not context.args:
+        await update.message.reply_text("📌 Usa il comando così: /storico <nome gioco>")
+        return
+
+    nome = " ".join(context.args)
+    dati = get_storico_prezzi(nome)
+
+    if "errore" in dati:
+        await update.message.reply_text(f"⚠️ Errore: {dati['errore']}")
+        return
+
+    if not dati:
+        await update.message.reply_text(f"Nessun dato trovato per *{nome}*", parse_mode="Markdown")
+        return
+
+    msg = f"*Storico prezzi per '{nome}'*\n"
+    for store, records in dati.items():
+        msg += f"\n📦 {store}:\n"
+        for timestamp, prezzo in records[-5:]:  # mostra solo gli ultimi 5
+            msg += f"  - {timestamp}: {prezzo} €\n"
+
+    await update.message.reply_text(msg, parse_mode="Markdown")
+
 # Elenco dei comandi disponibili
 async def commands(update: Update, context: ContextTypes.DEFAULT_TYPE):
     testo = "🤖 *Comandi disponibili:*\n\n"
