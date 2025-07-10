@@ -35,7 +35,7 @@ def get_storico_prezzi(nome_gioco: str) -> dict:
                     data = row["timestamp"]
                     sito = row["store"]
                     prezzo = row["prezzo"]
-                    storico[store].append((timestamp, prezzo))
+                    storico[store].append((data, prezzo))
 
         return dict(storico)
 
