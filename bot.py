@@ -16,6 +16,10 @@ def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
             )
     return None
 
+# Informazioni relative al bot
+async def info(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    await update.message.reply_text("Questo bot controlla i prezzi dei giochi da tavolo ogni ora e notifica l'utente se un gioco raggiunge il suo minimo storico.")
+
 # Funzione handler per il comando /prezzi
 async def prezzi(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
