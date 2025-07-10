@@ -85,6 +85,7 @@ if __name__ == "__main__":
     app.add_handler(CommandHandler("prezzi", prezzi))
     app.add_handler(CommandHandler("info", info))
     app.add_handler(CommandHandler("commands", commands))
+    app.add_handler(CommandHandler("storico", storico))
 
     print("Bot in esecuzione...")
     app.run_polling()
