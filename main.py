@@ -8,6 +8,7 @@ import requests
 import os
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
+from collections import defaultdict
 
 # Forza l'output in UTF-8 con gestione errori
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
@@ -317,6 +318,26 @@ def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
     
     # Se non trova il gioco
     return None
+
+def get_storico_prezzi(nome_gioco: str) -> dict:
+    storico = defaultdict(list)
+
+    try:
+        with open("storico_prezzi.csv", newline="", encoding="utf-8") as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                if row["gioco"].lower() == nome_gioco.lower():
+                    timestamp = row["timestamp"]
+                    store = row["store"]
+                    prezzo = row["prezzo"]
+                    storico[store].append((timestamp, prezzo))
+
+        return dict(storico)
+
+    except FileNotFoundError:
+        return {"errore": "File storico_prezzi.csv non trovato."}
+    except Exception as e:
+        return {"errore": str(e)}
 
 def main():
     with open(LISTA_PATH, "r", encoding="utf-8") as f:
