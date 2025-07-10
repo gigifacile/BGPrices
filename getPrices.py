@@ -4,6 +4,8 @@ from main import get_prezzo_gioco
 import pytz
 
 TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
+rome = pytz.timezone("Europe/Rome")
+now = datetime.now(rome)
 
 async def prezzo_handler(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if context.args:
