@@ -38,7 +38,7 @@ async def prezzi(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Avvio del bot
 if __name__ == "__main__":
-    TOKEN = "INSERISCI_IL_TUO_TOKEN_BOT"
+    TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
 
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler("prezzi", prezzi))
