@@ -8,8 +8,6 @@ import requests
 import os
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime
-import pytz
 
 # Forza l'output in UTF-8 con gestione errori
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", errors="replace")
