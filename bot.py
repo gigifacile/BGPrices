@@ -55,7 +55,7 @@ def get_storico_prezzi(nome_gioco: str) -> dict:
 # Storico dei prezzi
 async def storico(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
-        await update.message.reply_text("📌 Usa il comando così: /storico <nome gioco>")
+        await update.message.reply_text("📌 Scrivi il nome del gioco dopo /storico, es: /storico Scythe")
         return
 
     nome = " ".join(context.args)
@@ -91,7 +91,7 @@ async def info(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # Funzione handler per il comando /prezzi
 async def prezzi(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
-        await update.message.reply_text("Scrivi il nome del gioco dopo /prezzi, es: /prezzi Scythe")
+        await update.message.reply_text("📌 Scrivi il nome del gioco dopo /prezzi, es: /prezzi Scythe")
         return
     
     nome_gioco = " ".join(context.args)
