@@ -8,7 +8,7 @@ from collections import defaultdict
 COMMANDS_INFO = {
     "info": "Descrizione del bot",
     "prezzi": "Controlla i prezzi di un gioco: usa `/prezzi <nome>`",
-    "storico": "Storico dei prezzi di un gioco: usa `/prezzi <nome>`"
+    "storico": "Storico dei prezzi di un gioco: usa `/storico <nome>`"
 }
 
 # La tua funzione
