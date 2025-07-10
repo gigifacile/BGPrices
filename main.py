@@ -303,29 +303,6 @@ def process_url(game, url, scraper_func, fonte):
         print(f"[Errore {fonte}] {url} → {e}")
     return False
 
-def get_prezzo_gioco(nome_gioco: str, path_file='PrezziAttuali.json') -> str:
-    try:
-        with open(path_file, 'r', encoding='utf-8') as file:
-            dati = json.load(file)
-        
-        for gioco in dati:
-            if gioco["name"].lower() == nome_gioco.lower():
-                prezzi_ordinati = sorted(gioco["prezzi"].items(), key=lambda x: x[1])
-                messaggio = f"💰 Prezzi per *{gioco['name']}* (dal più economico):\n"
-                for store, prezzo in prezzi_ordinati:
-                    messaggio += f"• {store}: €{prezzo:.2f}\n"
-                return messaggio
-        
-        return f"❌ Gioco \"{nome_gioco}\" non trovato nei dati."
-    
-    except FileNotFoundError:
-        return "❌ Errore: file 'PrezziAttuali.json' non trovato."
-    except json.JSONDecodeError:
-        return "❌ Errore nel parsing del file JSON."
-    except Exception as e:
-        return f"❌ Errore imprevisto: {str(e)}"
-
-
 def main():
     with open(LISTA_PATH, "r", encoding="utf-8") as f:
         games = json.load(f)
