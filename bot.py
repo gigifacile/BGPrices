@@ -31,8 +31,8 @@ def get_storico_prezzi(nome_gioco: str) -> dict:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 if row["gioco"].lower() == nome_gioco.lower():
-                    timestamp = row["timestamp"]
-                    store = row["store"]
+                    data = row["timestamp"]
+                    sito = row["store"]
                     prezzo = row["prezzo"]
                     storico[store].append((timestamp, prezzo))
 
