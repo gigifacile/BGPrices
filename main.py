@@ -303,6 +303,20 @@ def process_url(game, url, scraper_func, fonte):
         print(f"[Errore {fonte}] {url} → {e}")
     return False
 
+def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
+    with open(filename, "r", encoding="utf-8") as f:
+        dati = json.load(f)
+
+    # Cerca il gioco nel JSON
+    for gioco in dati:
+        if gioco["name"].lower() == nome_gioco.lower():
+            prezzi = gioco.get("prezzi", {})
+            # Ordina per prezzo crescente e ritorna lista di tuple (store, prezzo)
+            return sorted(prezzi.items(), key=lambda x: x[1])
+    
+    # Se non trova il gioco
+    return None
+
 def main():
     with open(LISTA_PATH, "r", encoding="utf-8") as f:
         games = json.load(f)
