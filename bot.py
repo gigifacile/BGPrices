@@ -46,6 +46,7 @@ if __name__ == "__main__":
 
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler("prezzi", prezzi))
+    app.add_handler(CommandHandler("info", info))
 
     print("Bot in esecuzione...")
     app.run_polling()
