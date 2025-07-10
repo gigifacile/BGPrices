@@ -428,6 +428,11 @@
   },
   {
     "name": "The Wolves",
-    "prezzi": {}
+    "prezzi": {
+      "FantasiaStore": {
+        "price": 50.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/21212-the-wolves-ita.html"
+      }
+    }
   }
 ]
