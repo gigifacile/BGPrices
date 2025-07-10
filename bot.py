@@ -4,7 +4,8 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 COMMANDS_INFO = {
     "info": "Descrizione del bot",
-    "prezzi": "Controlla i prezzi di un gioco: usa `/prezzi <nome>`."
+    "prezzi": "Controlla i prezzi di un gioco: usa `/prezzi <nome>`",
+    "storico": "Mostra lo storico dei prezzi minimi di un gioco: usa /storico <nome>"
 }
 
 # La tua funzione
