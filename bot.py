@@ -2,6 +2,11 @@ import json
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
+COMMANDS_INFO = {
+    "/info": "Descrizione del bot",
+    "/prezzi": "Controlla i prezzi di un gioco: usa `/prezzi <nome>`."
+}
+
 # La tua funzione
 def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
     with open(filename, "r", encoding="utf-8") as f:
@@ -15,6 +20,13 @@ def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
                 key=lambda x: x[1]
             )
     return None
+
+# Elenco dei comandi disponibili
+async def commands(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    testo = "🤖 *Comandi disponibili:*\n\n"
+    for cmd, desc in COMMANDS_INFO.items():
+        testo += f"/{cmd} — {desc}\n"
+    await update.message.reply_text(testo, parse_mode="Markdown")
 
 # Informazioni relative al bot
 async def info(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -47,6 +59,7 @@ if __name__ == "__main__":
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler("prezzi", prezzi))
     app.add_handler(CommandHandler("info", info))
+    app.add_handler(CommandHandler("commands", commands))
 
     print("Bot in esecuzione...")
     app.run_polling()
