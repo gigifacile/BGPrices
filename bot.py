@@ -1,6 +1,7 @@
 import json
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
+from collections import defaultdict
 
 COMMANDS_INFO = {
     "info": "Descrizione del bot",
