@@ -2,108 +2,294 @@
   {
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
-      "FantasiaStore": 50.99,
-      "DungeonDice": 59.99,
-      "MagicMerchant": 56.3,
-      "GetYourFun": 50.99,
-      "Player1": 43.9,
-      "LaFeltrinelli": 59.99,
-      "UPlay": 50.99,
-      "LSGiochi": 59.99,
-      "DragonStore": 59.99
+      "FantasiaStore": {
+        "price": 50.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/135803-dune-imperium-insurrezione-ita.html"
+      },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
+      },
+      "MagicMerchant": {
+        "price": 56.3,
+        "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
+      },
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
+      },
+      "Player1": {
+        "price": 43.9,
+        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/15142450/dune-imperium-insurrezione"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/wargames-dune-imperium-insurrezione.1.1.117.gp.33393.uw"
+      }
     }
   },
   {
     "name": "Dune Imperium",
     "prezzi": {
-      "FantasiaStore": 42.49,
-      "DungeonDice": 49.99,
-      "GetYourFun": 42.49,
-      "Player1": 34.9,
-      "LaFeltrinelli": 49.99,
-      "UPlay": 42.49,
-      "DadiEMattoncini": 39.99,
-      "IlCovoDelNerd": 43.0,
-      "LSGiochi": 49.99,
-      "DragonStore": 49.9
+      "FantasiaStore": {
+        "price": 42.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/10327-dune-imperium-ita.html"
+      },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/23931-dune-imperium.html"
+      },
+      "GetYourFun": {
+        "price": 42.49,
+        "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
+      },
+      "Player1": {
+        "price": 34.9,
+        "url": "https://player1.it/prodotto/dune-imperium/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
+      },
+      "UPlay": {
+        "price": 42.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
+      },
+      "DadiEMattoncini": {
+        "price": 39.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/dune-imperium.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 43.0,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/dune-imperium/"
+      },
+      "LSGiochi": {
+        "price": 49.99,
+        "url": "https://www.lsgiochi.it/product/10140576/dune-imperium"
+      },
+      "DragonStore": {
+        "price": 49.9,
+        "url": "https://www.dragonstore.it/gestionali-dune-imperium-il-gioco-da-tavolo.1.1.385.gp.28573.uw"
+      }
     }
   },
   {
     "name": "Through The Ages",
     "prezzi": {
-      "GetYourFun": 69.99
+      "GetYourFun": {
+        "price": 69.99,
+        "url": "https://www.getyourfun.it/025-through-the-ages-giochi-gestionali.html"
+      }
     }
   },
   {
     "name": "Concordia",
     "prezzi": {
-      "FantasiaStore": 47.9,
-      "DungeonDice": 59.99,
-      "MagicMerchant": 59.89,
-      "GetYourFun": 52.79,
-      "Player1": 44.9,
-      "LSGiochi": 59.99,
-      "DragonStore": 59.95
+      "FantasiaStore": {
+        "price": 47.9,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
+      },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/1757-concordia.html"
+      },
+      "MagicMerchant": {
+        "price": 59.89,
+        "url": "https://magicmerchant.it/catalogue/concordia-30533/"
+      },
+      "GetYourFun": {
+        "price": 52.79,
+        "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
+      },
+      "Player1": {
+        "price": 44.9,
+        "url": "https://player1.it/prodotto/concordia/"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/18304559/concordia"
+      },
+      "DragonStore": {
+        "price": 59.95,
+        "url": "https://www.dragonstore.it/gestionali-concordia-edizione-italiana.1.1.385.gp.17773.uw"
+      }
     }
   },
   {
     "name": "Barrage",
     "prezzi": {
-      "FantasiaStore": 49.99,
-      "DungeonDice": 78.99,
-      "MagicMerchant": 67.06,
-      "GetYourFun": 69.51,
-      "Player1": 49.9,
-      "LaFeltrinelli": 78.99,
-      "UPlay": 71.09,
-      "DragonStore": 78.99
+      "FantasiaStore": {
+        "price": 49.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
+      },
+      "DungeonDice": {
+        "price": 78.99,
+        "url": "https://www.dungeondice.it/12981-barrage.html"
+      },
+      "MagicMerchant": {
+        "price": 67.06,
+        "url": "https://magicmerchant.it/catalogue/barrage-40159/"
+      },
+      "GetYourFun": {
+        "price": 69.51,
+        "url": "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html"
+      },
+      "Player1": {
+        "price": 49.9,
+        "url": "https://player1.it/prodotto/barrage/"
+      },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      },
+      "UPlay": {
+        "price": 71.09,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
+      },
+      "DragonStore": {
+        "price": 78.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-barrage-italiano.1.1.115.gp.26729.uw"
+      }
     }
   },
   {
     "name": "Nucleum",
     "prezzi": {
-      "FantasiaStore": 50.99,
-      "DungeonDice": 41.99,
-      "MagicMerchant": 56.3,
-      "GetYourFun": 35.99,
-      "Player1": 45.9,
-      "LaFeltrinelli": 59.9,
-      "IlCovoDelNerd": 51.5,
-      "DragonStore": 59.99
+      "FantasiaStore": {
+        "price": 50.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
+      },
+      "DungeonDice": {
+        "price": 41.99,
+        "url": "https://www.dungeondice.it/32226-nucleum.html"
+      },
+      "MagicMerchant": {
+        "price": 56.3,
+        "url": "https://magicmerchant.it/catalogue/nucleum-76380/"
+      },
+      "GetYourFun": {
+        "price": 35.99,
+        "url": "https://www.getyourfun.it/019818-nucleum-giochi-gestionali.html"
+      },
+      "Player1": {
+        "price": 45.9,
+        "url": "https://player1.it/prodotto/nucleum/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.9,
+        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
+      },
+      "IlCovoDelNerd": {
+        "price": 51.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/gestionali-nucleum-italiano.1.1.385.gp.32562.uw"
+      }
     }
   },
   {
     "name": "Spirit Island",
     "prezzi": {
-      "FantasiaStore": 55.99,
-      "MagicMerchant": 74.3,
-      "GetYourFun": 63.92,
-      "UPlay": 67.92,
-      "IlCovoDelNerd": 60.0,
-      "LSGiochi": 59.99
+      "FantasiaStore": {
+        "price": 55.99,
+        "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
+      },
+      "MagicMerchant": {
+        "price": 74.3,
+        "url": "https://magicmerchant.it/catalogue/spirit-island-46745/"
+      },
+      "GetYourFun": {
+        "price": 63.92,
+        "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
+      },
+      "UPlay": {
+        "price": 67.92,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 60.0,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/spirit-island/"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/10018403/spirit-island"
+      }
     }
   },
   {
     "name": "Scythe",
     "prezzi": {
-      "DungeonDice": 89.99,
-      "MagicMerchant": 80.91,
-      "GetYourFun": 89.9,
-      "UPlay": 76.42,
-      "DadiEMattoncini": 89.99,
-      "IlCovoDelNerd": 77.3
+      "DungeonDice": {
+        "price": 89.99,
+        "url": "https://www.dungeondice.it/6038-scythe.html"
+      },
+      "MagicMerchant": {
+        "price": 80.91,
+        "url": "https://magicmerchant.it/catalogue/scythe-32495/"
+      },
+      "GetYourFun": {
+        "price": 89.9,
+        "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
+      },
+      "UPlay": {
+        "price": 76.42,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
+      },
+      "DadiEMattoncini": {
+        "price": 89.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 77.3,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/scythe/"
+      }
     }
   },
   {
     "name": "Trekking Through History",
     "prezzi": {
-      "FantasiaStore": 29.99,
-      "DungeonDice": 39.99,
-      "MagicMerchant": 39.89,
-      "GetYourFun": 33.99,
-      "UPlay": 33.99,
-      "LSGiochi": 39.99,
-      "DragonStore": 39.9
+      "FantasiaStore": {
+        "price": 29.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/100248-trekking-through-history.html"
+      },
+      "DungeonDice": {
+        "price": 39.99,
+        "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "MagicMerchant": {
+        "price": 39.89,
+        "url": "https://magicmerchant.it/catalogue/trekking-through-history-76507/"
+      },
+      "GetYourFun": {
+        "price": 33.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
+      },
+      "UPlay": {
+        "price": 33.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
+      },
+      "LSGiochi": {
+        "price": 39.99,
+        "url": "https://www.lsgiochi.it/product/14392861/trekking-through-history"
+      },
+      "DragonStore": {
+        "price": 39.9,
+        "url": "https://www.dragonstore.it/classici-famiglia-trekking-through-history-edizione-italiana.1.1.115.gp.33033.uw"
+      }
     }
   },
   {
@@ -113,56 +299,131 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
-      "FantasiaStore": 23.99,
-      "DungeonDice": 29.99,
-      "MagicMerchant": 29.89,
-      "GetYourFun": 23.99,
-      "LaFeltrinelli": 23.55,
-      "LSGiochi": 29.99,
-      "DragonStore": 29.99
+      "FantasiaStore": {
+        "price": 23.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/136132-looot-il-bottino-dei-vichinghi.html"
+      },
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
+      },
+      "MagicMerchant": {
+        "price": 29.89,
+        "url": "https://magicmerchant.it/catalogue/looot-il-bottino-dei-vichinghi-78445/"
+      },
+      "GetYourFun": {
+        "price": 23.99,
+        "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
+      },
+      "LaFeltrinelli": {
+        "price": 23.55,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
+      },
+      "LSGiochi": {
+        "price": 29.99,
+        "url": "https://www.lsgiochi.it/product/16941892/looot-il-bottino-dei-vichinghi"
+      },
+      "DragonStore": {
+        "price": 29.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-looot-il-bottino-dei-vichinghi.1.1.115.gp.33422.uw"
+      }
     }
   },
   {
     "name": "Ratti di Wistar",
     "prezzi": {
-      "FantasiaStore": 35.99,
-      "DungeonDice": 59.99,
-      "GetYourFun": 52.79,
-      "Player1": 44.9,
-      "UPlay": 50.99,
-      "LaFeltrinelli": 59.9,
-      "LSGiochi": 59.99,
-      "DragonStore": 59.99
+      "FantasiaStore": {
+        "price": 35.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
+      },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
+      },
+      "GetYourFun": {
+        "price": 52.79,
+        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
+      },
+      "Player1": {
+        "price": 44.9,
+        "url": "https://player1.it/prodotto/ratti-di-wistar/"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.9,
+        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/11986021/ratti-di-wistar"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/gestionali-ratti-di-wistar-italiano.1.1.385.gp.32401.uw"
+      }
     }
   },
   {
     "name": "Evenfall",
     "prezzi": {
-      "FantasiaStore": 49.49,
-      "DungeonDice": 54.99,
-      "LaFeltrinelli": 54.9,
-      "DadiEMattoncini": 39.99,
-      "LSGiochi": 54.9
+      "FantasiaStore": {
+        "price": 49.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
+      },
+      "DungeonDice": {
+        "price": 54.99,
+        "url": "https://www.dungeondice.it/32740-evenfall.html"
+      },
+      "LaFeltrinelli": {
+        "price": 54.9,
+        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
+      },
+      "DadiEMattoncini": {
+        "price": 39.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/evenfall.html"
+      },
+      "LSGiochi": {
+        "price": 54.9,
+        "url": "https://www.lsgiochi.it/product/13163981/evenfall-italiano"
+      }
     }
   },
   {
     "name": "Crack List",
     "prezzi": {
-      "LSGiochi": 22.99
+      "LSGiochi": {
+        "price": 22.99,
+        "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
+      }
     }
   },
   {
     "name": "Le Rovine Perdute di Arnak",
     "prezzi": {
-      "IlCovoDelNerd": 51.5,
-      "LSGiochi": 59.99,
-      "DragonStore": 59.99
+      "IlCovoDelNerd": {
+        "price": 51.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/le-rovine-perdute-di-arnak/"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/10086794/le-rovine-perdute-di-arnak"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/gestionali-le-rovine-perdute-di-arnak.1.1.385.gp.28660.uw"
+      }
     }
   },
   {
     "name": "El Grande",
     "prezzi": {
-      "DragonStore": 49.99
+      "DragonStore": {
+        "price": 49.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-el-grande-nuova-edizione-italiana-2-mini-espansioni.1.1.115.gp.32239.uw"
+      }
     }
   },
   {
