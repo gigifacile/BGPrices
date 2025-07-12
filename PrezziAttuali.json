@@ -356,10 +356,6 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 59.9,
-        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
-      },
       "LSGiochi": {
         "price": 59.99,
         "url": "https://www.lsgiochi.it/product/11986021/ratti-di-wistar"
@@ -380,6 +376,10 @@
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
+      },
+      "LaFeltrinelli": {
+        "price": 54.9,
+        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       },
       "DadiEMattoncini": {
         "price": 39.99,
