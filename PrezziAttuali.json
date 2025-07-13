@@ -171,10 +171,6 @@
         "price": 41.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
-      "MagicMerchant": {
-        "price": 56.3,
-        "url": "https://magicmerchant.it/catalogue/nucleum-76380/"
-      },
       "GetYourFun": {
         "price": 35.99,
         "url": "https://www.getyourfun.it/019818-nucleum-giochi-gestionali.html"
@@ -207,6 +203,10 @@
       "MagicMerchant": {
         "price": 74.3,
         "url": "https://magicmerchant.it/catalogue/spirit-island-46745/"
+      },
+      "GetYourFun": {
+        "price": 63.92,
+        "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 67.92,
@@ -302,6 +302,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
+      },
+      "MagicMerchant": {
+        "price": 29.89,
+        "url": "https://magicmerchant.it/catalogue/looot-il-bottino-dei-vichinghi-78445/"
       },
       "GetYourFun": {
         "price": 23.99,
