@@ -10,10 +10,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
-      "MagicMerchant": {
-        "price": 56.3,
-        "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
-      },
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
@@ -339,6 +335,10 @@
       "FantasiaStore": {
         "price": 35.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
+      },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "GetYourFun": {
         "price": 52.79,
