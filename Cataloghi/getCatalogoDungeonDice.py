@@ -30,30 +30,30 @@ def estrai_giochi_dungeondice():
     print(f"Trovate {last_page} pagine nel catalogo.")
 
     for pagina in range(1, last_page + 1):
-    if pagina == 1:
-        url = base_url
-    else:
-        url = f"{base_url}&page={pagina}"  # usa & invece di ?
-        
-    print(f"Scarico pagina {pagina}...")
-    driver.get(url)
-    time.sleep(2)
-
-    soup = BeautifulSoup(driver.page_source, "html.parser")
-    giochi = soup.select("div.e-list-product-in")
-
-    if not giochi:
-        print(f"Nessun gioco trovato nella pagina {pagina}, interrompo.")
-        break
-
-    for gioco in giochi:
-        titolo_tag = gioco.select_one("h3.e-list-product-title")
-        link_tag = gioco.select_one("a.thumbnail.product-thumbnail")
-
-        if titolo_tag and link_tag:
-            nome = titolo_tag.get_text(strip=True)
-            link = link_tag["href"]
-            tutti_giochi.append({"nome": nome, "link": link})
+        if pagina == 1:
+            url = base_url
+        else:
+            url = f"{base_url}&page={pagina}"  # usa & invece di ?
+            
+        print(f"Scarico pagina {pagina}...")
+        driver.get(url)
+        time.sleep(2)
+    
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        giochi = soup.select("div.e-list-product-in")
+    
+        if not giochi:
+            print(f"Nessun gioco trovato nella pagina {pagina}, interrompo.")
+            break
+    
+        for gioco in giochi:
+            titolo_tag = gioco.select_one("h3.e-list-product-title")
+            link_tag = gioco.select_one("a.thumbnail.product-thumbnail")
+    
+            if titolo_tag and link_tag:
+                nome = titolo_tag.get_text(strip=True)
+                link = link_tag["href"]
+                tutti_giochi.append({"nome": nome, "link": link})
 
     driver.quit()
     return tutti_giochi
