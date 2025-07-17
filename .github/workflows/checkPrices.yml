@@ -1,0 +1,38 @@
+name: Controllo Prezzi
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # ogni ora alle .00
+  workflow_dispatch:
+
+jobs:
+  controllo-prezzi:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Configura Git
+        run: |
+          git config --global user.name "gigifacile"
+          git config --global user.email "andrea.delfi95@gmail.com"
+
+      - name: Installa Python e dipendenze
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt || true  # se c'è un file requirements.txt
+
+      - name: Esegui script Python
+        run: python3 main.py
+
+      - name: Commit e push dei file aggiornati
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git add Lista.json storico_prezzi.csv PrezziAttuali.json || true
+          git commit -m "Aggiorna soglia minima, storico prezzi e prezzi attuali" || echo "Niente da committare"
+
+          git pull --rebase origin main || echo "Niente da pullare"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} main
