@@ -930,7 +930,7 @@
   },
   {
     "name": "Taco Gatto Capra Cacio Pizza - Waterproof",
-    "threshold": 1000,
+    "threshold": 14.99,
     "links": [
       "https://www.dungeondice.it/37041-taco-gatto-capra-cacio-pizza-waterproof.html"
     ]
@@ -1154,7 +1154,7 @@
   },
   {
     "name": "Bambini Contro Genitori - 10 Secondi Kids",
-    "threshold": 1000,
+    "threshold": 14.99,
     "links": [
       "https://www.dungeondice.it/36678-bambini-contro-genitori-10-secondi-kids.html"
     ]
@@ -1182,7 +1182,7 @@
   },
   {
     "name": "Zombicide - White Death",
-    "threshold": 1000,
+    "threshold": 109.99,
     "links": [
       "https://www.dungeondice.it/36743-zombicide-white-death.html"
     ]
@@ -1224,7 +1224,7 @@
   },
   {
     "name": "Jungle Speed Giant",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/36754-jungle-speed-giant.html"
     ]
@@ -1238,7 +1238,7 @@
   },
   {
     "name": "Hidden Games Junior - La Spada Perduta",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/36508-hidden-games-junior-la-spada-perduta.html"
     ]
@@ -1525,7 +1525,7 @@
   },
   {
     "name": "Escape Room - 2 Giocatori Horror",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/23880-escape-room-2-giocatori-horror.html"
     ]
@@ -1546,7 +1546,7 @@
   },
   {
     "name": "Piles!",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/36242-piles.html"
     ]
@@ -1638,7 +1638,7 @@
   },
   {
     "name": "GraviTrax - The Game - Course",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/27555-gravitrax-the-game-course.html"
     ]
@@ -1652,7 +1652,7 @@
   },
   {
     "name": "ISS Vanguard - Almanacco Galattico",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/36235-iss-vanguard-almanacco-galattico.html"
     ]
@@ -1680,7 +1680,7 @@
   },
   {
     "name": "Make 'n' Break Circus - Travel",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/36073-make-n-break-circus-travel.html"
     ]
@@ -1729,7 +1729,7 @@
   },
   {
     "name": "Pictoo - Disney",
-    "threshold": 7.99,
+    "threshold": 5.59,
     "links": [
       "https://www.dungeondice.it/36098-pictoo-disney.html"
     ]
@@ -1743,7 +1743,7 @@
   },
   {
     "name": "Minecraft - Builders & Biomes Junior",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/36116-minecraft-builders-biomes-junior.html"
     ]
@@ -1785,7 +1785,7 @@
   },
   {
     "name": "The Breach - Il Gioco da Tavolo",
-    "threshold": 128.99,
+    "threshold": 90.29,
     "links": [
       "https://www.dungeondice.it/36196-the-breach-il-gioco-da-tavolo.html"
     ]
@@ -1862,7 +1862,7 @@
   },
   {
     "name": "Salva il Tesoro",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/36048-salva-il-tesoro.html"
     ]
@@ -1939,7 +1939,7 @@
   },
   {
     "name": "Monopoly Deal - Refresh",
-    "threshold": 8.99,
+    "threshold": 6.29,
     "links": [
       "https://www.dungeondice.it/35854-monopoly-deal-refresh.html"
     ]
@@ -2002,7 +2002,7 @@
   },
   {
     "name": "Shards of Infinity - Into the Horizon",
-    "threshold": 10.99,
+    "threshold": 7.69,
     "links": [
       "https://www.dungeondice.it/35883-shards-of-infinity-into-the-horizon.html"
     ]
@@ -2016,14 +2016,14 @@
   },
   {
     "name": "Cardline - Dinosauri",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/35888-cardline-dinosauri.html"
     ]
   },
   {
     "name": "Domande Stupide da Fare ai Vostri Amici",
-    "threshold": 18.74,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/35889-domande-stupide-da-fare-ai-vostri-amici.html"
     ]
@@ -2058,7 +2058,7 @@
   },
   {
     "name": "Numeri in Cammino",
-    "threshold": 18.5,
+    "threshold": 12.95,
     "links": [
       "https://www.dungeondice.it/34949-numeri-in-cammino.html"
     ]
@@ -2079,7 +2079,7 @@
   },
   {
     "name": "Survive The Island - Monster Pack",
-    "threshold": 1000,
+    "threshold": 12.99,
     "links": [
       "https://www.dungeondice.it/35019-survive-the-island-monster-pack.html"
     ]
@@ -2303,7 +2303,7 @@
   },
   {
     "name": "Coco Rido 2 - La Vendemmia - Versione 2.0",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/34581-coco-rido-2-la-vendemmia-versione-20.html"
     ]
@@ -2436,7 +2436,7 @@
   },
   {
     "name": "Sounds Fishy",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/24509-sounds-fishy.html"
     ]
@@ -2485,7 +2485,7 @@
   },
   {
     "name": "Sapientino Parlante",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/23338-sapientino-parlante.html"
     ]
@@ -2499,7 +2499,7 @@
   },
   {
     "name": "Sapientino Animali",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/23390-sapientino-animali.html"
     ]
@@ -2527,7 +2527,7 @@
   },
   {
     "name": "Sapientino - La Penna Interattiva - Piccoli Astronauti",
-    "threshold": 10.99,
+    "threshold": 7.69,
     "links": [
       "https://www.dungeondice.it/23399-sapientino-la-penna-interattiva-piccoli-astronauti.html"
     ]
@@ -2639,14 +2639,14 @@
   },
   {
     "name": "Sapientino Testa a Testa - Geografia",
-    "threshold": 7.99,
+    "threshold": 5.59,
     "links": [
       "https://www.dungeondice.it/23732-sapientino-testa-a-testa-geografia.html"
     ]
   },
   {
     "name": "Sapientino Testa a Testa - Matematica",
-    "threshold": 7.99,
+    "threshold": 5.59,
     "links": [
       "https://www.dungeondice.it/23735-sapientino-testa-a-testa-matematica.html"
     ]
@@ -2681,7 +2681,7 @@
   },
   {
     "name": "Scienza e Gioco Lab - La Scienza in Serra",
-    "threshold": 11.24,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/23764-scienza-e-gioco-lab-la-scienza-in-serra.html"
     ]
@@ -2723,7 +2723,7 @@
   },
   {
     "name": "Scienza e Gioco Lab - Fossili e Minerali",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/23814-scienza-e-gioco-lab-fossili-e-minerali.html"
     ]
@@ -2835,7 +2835,7 @@
   },
   {
     "name": "Tale of Carrot - L'Ascesa degli Eroi",
-    "threshold": 1000,
+    "threshold": 29.99,
     "links": [
       "https://www.dungeondice.it/24087-tale-of-carrot-l-ascesa-degli-eroi.html"
     ]
@@ -2905,7 +2905,7 @@
   },
   {
     "name": "6 Fuori",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/24382-6-fuori.html"
     ]
@@ -2947,7 +2947,7 @@
   },
   {
     "name": "Memorabile",
-    "threshold": 10.99,
+    "threshold": 7.69,
     "links": [
       "https://www.dungeondice.it/24421-memorabile.html"
     ]
@@ -2989,7 +2989,7 @@
   },
   {
     "name": "50 Giochi Riuniti",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/24601-50-giochi-riuniti.html"
     ]
@@ -3003,7 +3003,7 @@
   },
   {
     "name": "Chi sono?",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/24604-chi-sono.html"
     ]
@@ -3045,7 +3045,7 @@
   },
   {
     "name": "Carte Yoga",
-    "threshold": 6.99,
+    "threshold": 4.89,
     "links": [
       "https://www.dungeondice.it/24649-carte-yoga.html"
     ]
@@ -3108,14 +3108,14 @@
   },
   {
     "name": "Mimo",
-    "threshold": 6.99,
+    "threshold": 4.89,
     "links": [
       "https://www.dungeondice.it/23305-mimo.html"
     ]
   },
   {
     "name": "Mimo - Mestieri",
-    "threshold": 6.99,
+    "threshold": 4.89,
     "links": [
       "https://www.dungeondice.it/23308-mimo-mestieri.html"
     ]
@@ -3234,7 +3234,7 @@
   },
   {
     "name": "Tower Stacks",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/23344-tower-stacks.html"
     ]
@@ -3283,7 +3283,7 @@
   },
   {
     "name": "Exploding Kittens - Edizione VM18 - Pink Edition",
-    "threshold": 22.99,
+    "threshold": 16.09,
     "links": [
       "https://www.dungeondice.it/23074-exploding-kittens-edizione-vm18-pink-edition.html"
     ]
@@ -3304,7 +3304,7 @@
   },
   {
     "name": "Perspectives Blue",
-    "threshold": 1000,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/22964-perspectives-blue.html"
     ]
@@ -3374,7 +3374,7 @@
   },
   {
     "name": "Superstore 3000",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/23029-superstore-3000.html"
     ]
@@ -3388,7 +3388,7 @@
   },
   {
     "name": "Il Regalo Bizzarro",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/22857-il-regalo-bizzarro.html"
     ]
@@ -3675,7 +3675,7 @@
   },
   {
     "name": "Marvel United - Il Multiverso",
-    "threshold": 1000,
+    "threshold": 23.99,
     "links": [
       "https://www.dungeondice.it/22259-marvel-united-il-multiverso.html"
     ]
@@ -3689,14 +3689,14 @@
   },
   {
     "name": "Marvel United - Maximum Carnage",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/22351-marvel-united-maximum-carnage.html"
     ]
   },
   {
     "name": "Marvel United - World War Hulk",
-    "threshold": 1000,
+    "threshold": 29.99,
     "links": [
       "https://www.dungeondice.it/22360-marvel-united-world-war-hulk.html"
     ]
@@ -3745,7 +3745,7 @@
   },
   {
     "name": "Unlock! Kids 3 - Storie Leggendarie",
-    "threshold": 25.99,
+    "threshold": 18.19,
     "links": [
       "https://www.dungeondice.it/22204-unlock-kids-3-storie-leggendarie.html"
     ]
@@ -4025,7 +4025,7 @@
   },
   {
     "name": "Hidden Games - Delitto sotto la Neve",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/24619-hidden-games-delitto-sotto-la-neve.html"
     ]
@@ -4088,14 +4088,14 @@
   },
   {
     "name": "BANG! - Most Wanted",
-    "threshold": 1000,
+    "threshold": 7.99,
     "links": [
       "https://www.dungeondice.it/21810-bang-most-wanted.html"
     ]
   },
   {
     "name": "Procioni in Cassa 4!",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/22359-procioni-in-cassa-4.html"
     ]
@@ -4417,7 +4417,7 @@
   },
   {
     "name": "IQ Twins",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/26173-iq-twins.html"
     ]
@@ -4501,7 +4501,7 @@
   },
   {
     "name": "Endless Winter | Mythic Bundle",
-    "threshold": 1000,
+    "threshold": 83.46,
     "links": [
       "https://www.dungeondice.it/30066-endless-winter.html"
     ]
@@ -4515,7 +4515,7 @@
   },
   {
     "name": "3 Giochi Riuniti - Scacchi, Dama e Backgammon in Legno",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/21564-3-giochi-riuniti-scacchi-dama-e-backgammon-in-legno.html"
     ]
@@ -4557,7 +4557,7 @@
   },
   {
     "name": "Dobble Stitch",
-    "threshold": 1000,
+    "threshold": 16.99,
     "links": [
       "https://www.dungeondice.it/21654-dobble-stitch.html"
     ]
@@ -4669,14 +4669,14 @@
   },
   {
     "name": "Dress Code",
-    "threshold": 21.24,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/20759-dress-code.html"
     ]
   },
   {
     "name": "Safari Park Jr.",
-    "threshold": 27.99,
+    "threshold": 19.59,
     "links": [
       "https://www.dungeondice.it/20760-safari-park-jr.html"
     ]
@@ -4788,7 +4788,7 @@
   },
   {
     "name": "Orion Duel",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/20860-orion-duel.html"
     ]
@@ -4879,7 +4879,7 @@
   },
   {
     "name": "Message in a Bottle",
-    "threshold": 1000,
+    "threshold": 12.99,
     "links": [
       "https://www.dungeondice.it/22974-message-in-a-bottle.html"
     ]
@@ -4893,7 +4893,7 @@
   },
   {
     "name": "Time's Up! Family",
-    "threshold": 20.99,
+    "threshold": 14.69,
     "links": [
       "https://www.dungeondice.it/24080-time-s-up-family.html"
     ]
@@ -4949,14 +4949,14 @@
   },
   {
     "name": "Murder Mystery Party - Ricetta per un Delitto",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/26590-murder-mystery-party-ricetta-per-un-delitto.html"
     ]
   },
   {
     "name": "Flower Fields",
-    "threshold": 1000,
+    "threshold": 29.99,
     "links": [
       "https://www.dungeondice.it/26656-flower-fields.html"
     ]
@@ -4970,7 +4970,7 @@
   },
   {
     "name": "You Can't Say  UMM",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/26665-you-can-t-say-umm.html"
     ]
@@ -5089,7 +5089,7 @@
   },
   {
     "name": "Dune - La Guerra per Arrakis - La Gilda Spaziale",
-    "threshold": 1000,
+    "threshold": 49.99,
     "links": [
       "https://www.dungeondice.it/20383-dune-la-guerra-per-arrakis-la-gilda-spaziale.html"
     ]
@@ -5103,7 +5103,7 @@
   },
   {
     "name": "Tic Tac K.O. - Adorabili Vs. Malvagi",
-    "threshold": 1000,
+    "threshold": 19.99,
     "links": [
       "https://www.dungeondice.it/20629-tic-tac-ko-adorabili-vs-malvagi.html"
     ]
@@ -5187,14 +5187,14 @@
   },
   {
     "name": "Star Wars - The Deckbuilding Game - Clone Wars",
-    "threshold": 1000,
+    "threshold": 37.99,
     "links": [
       "https://www.dungeondice.it/22352-star-wars-the-deckbuilding-game-clone-wars.html"
     ]
   },
   {
     "name": "Unlock! - Supernatural Adventures",
-    "threshold": 31.99,
+    "threshold": 22.39,
     "links": [
       "https://www.dungeondice.it/23655-unlock-supernatural-adventures.html"
     ]
@@ -5215,7 +5215,7 @@
   },
   {
     "name": "Exploding Kittens Party Pack",
-    "threshold": 1000,
+    "threshold": 26.99,
     "links": [
       "https://www.dungeondice.it/32637-exploding-kittens-party-pack.html"
     ]
@@ -5243,7 +5243,7 @@
   },
   {
     "name": "Paper App Dungeon",
-    "threshold": 1000,
+    "threshold": 9.99,
     "links": [
       "https://www.dungeondice.it/20294-paper-app-dungeon.html"
     ]
@@ -5292,7 +5292,7 @@
   },
   {
     "name": "Landomy",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/34305-landomy.html"
     ]
@@ -5320,7 +5320,7 @@
   },
   {
     "name": "What the Bug?",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/19987-what-the-bug.html"
     ]
@@ -5719,7 +5719,7 @@
   },
   {
     "name": "Bonsai - Wabi Sabi",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/19928-bonsai-wabi-sabi.html"
     ]
@@ -5768,7 +5768,7 @@
   },
   {
     "name": "Horizons of Spirit Island",
-    "threshold": 1000,
+    "threshold": 39.99,
     "links": [
       "https://www.dungeondice.it/19796-horizons-of-spirit-island.html"
     ]
@@ -5852,7 +5852,7 @@
   },
   {
     "name": "Bambini Contro Genitori - Cosa non Sapevate di Voi?",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/13108-bambini-contro-genitori-cosa-non-sapevate-di-voi.html"
     ]
@@ -5901,7 +5901,7 @@
   },
   {
     "name": "Pero Pera",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/18549-pero-pera.html"
     ]
@@ -6013,7 +6013,7 @@
   },
   {
     "name": "Gigantosaurus - La Gioco Avventura",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/19024-gigantosaurus-la-gioco-avventura.html"
     ]
@@ -6027,14 +6027,14 @@
   },
   {
     "name": "Maialini Salterini",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/19025-maialini-salterini.html"
     ]
   },
   {
     "name": "Gregge Fuorilegge",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/19039-gregge-fuorilegge.html"
     ]
@@ -6125,7 +6125,7 @@
   },
   {
     "name": "Pathfinder Arena - Era delle Ceneri",
-    "threshold": 29.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/19236-pathfinder-arena-era-delle-ceneri.html"
     ]
@@ -6216,7 +6216,7 @@
   },
   {
     "name": "Telesketch - After Dark",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/20083-telesketch-after-dark.html"
     ]
@@ -6244,7 +6244,7 @@
   },
   {
     "name": "Mantis - Grab & Game",
-    "threshold": 7.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/20100-mantis-grab-game.html"
     ]
@@ -6265,14 +6265,14 @@
   },
   {
     "name": "Exploding Kittens - Grab & Game",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/20192-exploding-kittens-grab-game.html"
     ]
   },
   {
     "name": "Star Wars - The Mandalorian - Adventures",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/20230-star-wars-the-mandalorian-adventures.html"
     ]
@@ -6328,14 +6328,14 @@
   },
   {
     "name": "Star Wars - Bounty Hunters",
-    "threshold": 22.99,
+    "threshold": 16.09,
     "links": [
       "https://www.dungeondice.it/20575-star-wars-bounty-hunters.html"
     ]
   },
   {
     "name": "Puerto Banana",
-    "threshold": 1000,
+    "threshold": 15.99,
     "links": [
       "https://www.dungeondice.it/20703-puerto-banana.html"
     ]
@@ -6370,7 +6370,7 @@
   },
   {
     "name": "BANG! Dice Explosion",
-    "threshold": 1000,
+    "threshold": 39.99,
     "links": [
       "https://www.dungeondice.it/21688-bang-dice-explosion.html"
     ]
@@ -6384,7 +6384,7 @@
   },
   {
     "name": "Wild Wild Pattern",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/21696-wild-wild-pattern.html"
     ]
@@ -6748,7 +6748,7 @@
   },
   {
     "name": "What the F!",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/25639-what-the-f.html"
     ]
@@ -6832,7 +6832,7 @@
   },
   {
     "name": "Micromacro - Crime City - Bonus Box",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/26166-micromacro-crime-city-bonus-box.html"
     ]
@@ -6993,7 +6993,7 @@
   },
   {
     "name": "Kepler-3042",
-    "threshold": 49.99,
+    "threshold": 29.99,
     "links": [
       "https://www.dungeondice.it/27407-kepler-3042.html"
     ]
@@ -7077,7 +7077,7 @@
   },
   {
     "name": "War Chest - 2 Espansioni | Small Bundle",
-    "threshold": 1000,
+    "threshold": 44.98,
     "links": [
       "https://www.dungeondice.it/29956-war-chest-2-espansioni.html"
     ]
@@ -7126,7 +7126,7 @@
   },
   {
     "name": "War Chest | Medium Bundle",
-    "threshold": 1000,
+    "threshold": 89.97,
     "links": [
       "https://www.dungeondice.it/29955-war-chest.html"
     ]
@@ -7154,7 +7154,7 @@
   },
   {
     "name": "Bang! - Legends",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/32361-bang-legends.html"
     ]
@@ -7224,7 +7224,7 @@
   },
   {
     "name": "Cards VS Gravity",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/32615-cards-vs-gravity.html"
     ]
@@ -7252,7 +7252,7 @@
   },
   {
     "name": "Le 5 Torri",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/32783-le-5-torri.html"
     ]
@@ -7301,7 +7301,7 @@
   },
   {
     "name": "Bubble Stories - Tales",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/32866-bubble-stories-tales.html"
     ]
@@ -7343,14 +7343,14 @@
   },
   {
     "name": "Ticket To Ride - Parigi",
-    "threshold": 1000,
+    "threshold": 22.99,
     "links": [
       "https://www.dungeondice.it/32958-ticket-to-ride-parigi.html"
     ]
   },
   {
     "name": "Hotel",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/32961-hotel.html"
     ]
@@ -7448,7 +7448,7 @@
   },
   {
     "name": "A Peaceful Garden",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/33032-a-peaceful-garden.html"
     ]
@@ -7630,7 +7630,7 @@
   },
   {
     "name": "Saltinmente Refresh",
-    "threshold": 29.74,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/33004-saltinmente-refresh.html"
     ]
@@ -7651,7 +7651,7 @@
   },
   {
     "name": "Mind Up!",
-    "threshold": 16.99,
+    "threshold": 10.19,
     "links": [
       "https://www.dungeondice.it/31594-mind-up.html"
     ]
@@ -7672,7 +7672,7 @@
   },
   {
     "name": "Zombie Kittens",
-    "threshold": 1000,
+    "threshold": 22.99,
     "links": [
       "https://www.dungeondice.it/29884-zombie-kittens.html"
     ]
@@ -7700,7 +7700,7 @@
   },
   {
     "name": "Mantis",
-    "threshold": 22.99,
+    "threshold": 16.09,
     "links": [
       "https://www.dungeondice.it/29883-mantis.html"
     ]
@@ -7805,7 +7805,7 @@
   },
   {
     "name": "Paladini del Regno Occidentale - La Città delle Corone",
-    "threshold": 21.24,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/25908-paladini-del-regno-occidentale-la-citta-delle-corone.html"
     ]
@@ -7896,7 +7896,7 @@
   },
   {
     "name": "The Hunger - High Stakes",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/32510-the-hunger-high-stakes.html"
     ]
@@ -7931,14 +7931,14 @@
   },
   {
     "name": "Evergreen",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/29387-evergreen.html"
     ]
   },
   {
     "name": "Aeon's End - Seconda Edizione",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
     ]
@@ -8078,7 +8078,7 @@
   },
   {
     "name": "Throw Throw Avocado",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/28488-throw-throw-avocado.html"
     ]
@@ -8239,7 +8239,7 @@
   },
   {
     "name": "Malebranche",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/28928-malebranche.html"
     ]
@@ -8337,7 +8337,7 @@
   },
   {
     "name": "Il Signore degli Anelli - Viaggi nella TdM - Venti di Guerra",
-    "threshold": 79.99,
+    "threshold": 55.99,
     "links": [
       "https://www.dungeondice.it/25432-il-signore-degli-anelli-viaggi-nella-tdm-venti-di-guerra.html"
     ]
@@ -8372,7 +8372,7 @@
   },
   {
     "name": "Bang - The Dice Game - Old Saloon",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/588-bang-the-dice-game-old-saloon.html"
     ]
@@ -8407,7 +8407,7 @@
   },
   {
     "name": "Cubeez",
-    "threshold": 21.99,
+    "threshold": 15.39,
     "links": [
       "https://www.dungeondice.it/18662-cubeez.html"
     ]
@@ -8470,7 +8470,7 @@
   },
   {
     "name": "Port Royal Big Box",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/29996-port-royal-big-box.html"
     ]
@@ -8547,7 +8547,7 @@
   },
   {
     "name": "Small Samurai Empires - Seconda Edizione",
-    "threshold": 36.99,
+    "threshold": 25.89,
     "links": [
       "https://www.dungeondice.it/30838-small-samurai-empires-seconda-edizione.html"
     ]
@@ -8603,7 +8603,7 @@
   },
   {
     "name": "Little Tavern",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/32718-little-tavern.html"
     ]
@@ -8652,7 +8652,7 @@
   },
   {
     "name": "Taco Dorso Capra Cacio Pizza",
-    "threshold": 1000,
+    "threshold": 12.99,
     "links": [
       "https://www.dungeondice.it/32403-taco-dorso-capra-cacio-pizza.html"
     ]
@@ -8673,7 +8673,7 @@
   },
   {
     "name": "Takenoko - Chibis",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/7497-takenoko-chibis.html"
     ]
@@ -8694,7 +8694,7 @@
   },
   {
     "name": "Draftosaurus - Aerial Show",
-    "threshold": 1000,
+    "threshold": 14.99,
     "links": [
       "https://www.dungeondice.it/24800-draftosaurus-aerial-show.html"
     ]
@@ -8736,7 +8736,7 @@
   },
   {
     "name": "Timeline - Eventi Storici",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/27515-timeline-eventi-storici.html"
     ]
@@ -8750,7 +8750,7 @@
   },
   {
     "name": "Judge Your Friends",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/25930-judge-your-friends.html"
     ]
@@ -8764,14 +8764,14 @@
   },
   {
     "name": "Easy Peasy Lemon Squeaky",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/30117-easy-peasy-lemon-squeaky.html"
     ]
   },
   {
     "name": "Dobble Anarchy Pancakes",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/32753-dobble-anarchy-pancakes.html"
     ]
@@ -8792,7 +8792,7 @@
   },
   {
     "name": "Tichu",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/8067-tichu.html"
     ]
@@ -8820,7 +8820,7 @@
   },
   {
     "name": "Pylos",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/5365-pylos.html"
     ]
@@ -8834,28 +8834,28 @@
   },
   {
     "name": "Unfold - Dark Story",
-    "threshold": 1000,
+    "threshold": 14.99,
     "links": [
       "https://www.dungeondice.it/25126-unfold-dark-story.html"
     ]
   },
   {
     "name": "Marvel United - Spider-Geddon",
-    "threshold": 1000,
+    "threshold": 39.99,
     "links": [
       "https://www.dungeondice.it/32723-marvel-united-spider-geddon.html"
     ]
   },
   {
     "name": "Pozioni Esplosive",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/5270-pozioni-esplosive.html"
     ]
   },
   {
     "name": "Viticulture - Tuscany Essential Edition",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/8436-viticulture-tuscany-essential-edition.html"
     ]
@@ -8869,7 +8869,7 @@
   },
   {
     "name": "I Palazzi di Carrara - Seconda Edizione",
-    "threshold": 59.99,
+    "threshold": 41.99,
     "links": [
       "https://www.dungeondice.it/28626-i-palazzi-di-carrara-seconda-edizione.html"
     ]
@@ -8890,7 +8890,7 @@
   },
   {
     "name": "Scythe - Promo Kit",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/6045-scythe-promo-kit.html"
     ]
@@ -8967,28 +8967,28 @@
   },
   {
     "name": "Meadow - Downstream",
-    "threshold": 1000,
+    "threshold": 29.99,
     "links": [
       "https://www.dungeondice.it/29228-meadow-downstream.html"
     ]
   },
   {
     "name": "Viticulture - Rhine Valley",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/30498-viticulture-rhine-valley.html"
     ]
   },
   {
     "name": "Timeline Twist",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/30508-timeline-twist.html"
     ]
   },
   {
     "name": "Zombicide - The Boys Pack 2",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/32139-zombicide-the-boys-pack-2.html"
     ]
@@ -9058,7 +9058,7 @@
   },
   {
     "name": "Cthulhu - Death May Die - Stagione 2",
-    "threshold": 74.99,
+    "threshold": 52.49,
     "links": [
       "https://www.dungeondice.it/20878-cthulhu-death-may-die-stagione-2.html"
     ]
@@ -9135,7 +9135,7 @@
   },
   {
     "name": "Deckscape - Fuga da Alcatraz",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/21623-deckscape-fuga-da-alcatraz.html"
     ]
@@ -9156,14 +9156,14 @@
   },
   {
     "name": "Unlock! - Star Wars Escape Game",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/22813-unlock-star-wars-escape-game.html"
     ]
   },
   {
     "name": "Deckscape - Il Castello di Dracula",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/25586-deckscape-il-castello-di-dracula.html"
     ]
@@ -9198,7 +9198,7 @@
   },
   {
     "name": "Undaunted - North Africa",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/29595-undaunted-north-africa.html"
     ]
@@ -9261,7 +9261,7 @@
   },
   {
     "name": "Tiny Epic Defenders",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/8153-tiny-epic-defenders.html"
     ]
@@ -9380,14 +9380,14 @@
   },
   {
     "name": "Small Railroad Empires - KS",
-    "threshold": 36.99,
+    "threshold": 25.89,
     "links": [
       "https://www.dungeondice.it/25290-small-railroad-empires-ks.html"
     ]
   },
   {
     "name": "Jamaica - The Crew",
-    "threshold": 20.99,
+    "threshold": 14.69,
     "links": [
       "https://www.dungeondice.it/27128-libertalia-temp.html"
     ]
@@ -9457,7 +9457,7 @@
   },
   {
     "name": "Codex Naturalis",
-    "threshold": 21.99,
+    "threshold": 15.39,
     "links": [
       "https://www.dungeondice.it/23878-codex-naturalis.html"
     ]
@@ -9499,7 +9499,7 @@
   },
   {
     "name": "Quarto",
-    "threshold": 1000,
+    "threshold": 39.99,
     "links": [
       "https://www.dungeondice.it/5392-quarto.html"
     ]
@@ -9548,7 +9548,7 @@
   },
   {
     "name": "Insert Coin to Play",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/26468-insert-coin-to-play.html"
     ]
@@ -9779,7 +9779,7 @@
   },
   {
     "name": "Triqueta",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/30311-triqueta.html"
     ]
@@ -9793,14 +9793,14 @@
   },
   {
     "name": "Samurai Sword - Rising Sun",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/5991-samurai-sword-rising-sun.html"
     ]
   },
   {
     "name": "Stay Away! - Revised Edition",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/7303-stay-away-revised-edition.html"
     ]
@@ -9842,7 +9842,7 @@
   },
   {
     "name": "Juduku - Vizio Capitale",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/32341-juduku-vizio-capitale.html"
     ]
@@ -9856,7 +9856,7 @@
   },
   {
     "name": "It's a Bomb",
-    "threshold": 1000,
+    "threshold": 24.99,
     "links": [
       "https://www.dungeondice.it/26586-it-s-a-bomb.html"
     ]
@@ -9891,7 +9891,7 @@
   },
   {
     "name": "Legend Raiders",
-    "threshold": 29.99,
+    "threshold": 9.0,
     "links": [
       "https://www.dungeondice.it/28355-legend-raiders.html"
     ]
@@ -9954,7 +9954,7 @@
   },
   {
     "name": "Similo - Fiabe",
-    "threshold": 1000,
+    "threshold": 11.99,
     "links": [
       "https://www.dungeondice.it/26813-similo-fiabe.html"
     ]
@@ -10101,7 +10101,7 @@
   },
   {
     "name": "Timeline - Invenzioni",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/27514-timeline-invenzioni.html"
     ]
@@ -10157,7 +10157,7 @@
   },
   {
     "name": "Paleo - Un Nuovo Inizio",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/31335-paleo-un-nuovo-inizio.html"
     ]
@@ -10213,7 +10213,7 @@
   },
   {
     "name": "Zombicide - Washington Z.C.",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/27135-zombicide-washington-zc.html"
     ]
@@ -10262,7 +10262,7 @@
   },
   {
     "name": "Affonda la Flotta - I Gioca Ovunque Refresh",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/30678-affonda-la-flotta-i-gioca-ovunque-refresh.html"
     ]
@@ -10290,7 +10290,7 @@
   },
   {
     "name": "Basta Così",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/31332-basta-cosi.html"
     ]
@@ -10458,7 +10458,7 @@
   },
   {
     "name": "Scythe - Promo Kit 3",
-    "threshold": 4.99,
+    "threshold": 3.49,
     "links": [
       "https://www.dungeondice.it/27586-scythe-promo-kit-3.html"
     ]
@@ -10535,7 +10535,7 @@
   },
   {
     "name": "Dixit - Disney Edition",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/30786-dixit-disney-edition.html"
     ]
@@ -10591,7 +10591,7 @@
   },
   {
     "name": "Dungeons & Dragons - The Yawning Portal",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/29131-dungeons-dragons-the-yawning-portal.html"
     ]
@@ -10612,14 +10612,14 @@
   },
   {
     "name": "Hive - Coccinella",
-    "threshold": 6.99,
+    "threshold": 4.89,
     "links": [
       "https://www.dungeondice.it/2939-hive-coccinella.html"
     ]
   },
   {
     "name": "Samurai Sword",
-    "threshold": 21.99,
+    "threshold": 15.39,
     "links": [
       "https://www.dungeondice.it/5990-samurai-sword.html"
     ]
@@ -10640,7 +10640,7 @@
   },
   {
     "name": "Top Ten",
-    "threshold": 1000,
+    "threshold": 22.99,
     "links": [
       "https://www.dungeondice.it/26102-top-ten.html"
     ]
@@ -10668,7 +10668,7 @@
   },
   {
     "name": "Haunted Lands",
-    "threshold": 48.99,
+    "threshold": 34.29,
     "links": [
       "https://www.dungeondice.it/32648-haunted-lands.html"
     ]
@@ -10682,7 +10682,7 @@
   },
   {
     "name": "Alta Tensione - Mappa - Europa, Nord America",
-    "threshold": 10.99,
+    "threshold": 7.69,
     "links": [
       "https://www.dungeondice.it/25800-alta-tensione-mappa-europa-nord-america.html"
     ]
@@ -10703,7 +10703,7 @@
   },
   {
     "name": "Circadians - Caos e Ordine",
-    "threshold": 84.99,
+    "threshold": 59.49,
     "links": [
       "https://www.dungeondice.it/30155-circadians-caos-e-ordine.html"
     ]
@@ -10745,7 +10745,7 @@
   },
   {
     "name": "Unlock - Triple Pack 1 | Medium Bundle",
-    "threshold": 1000,
+    "threshold": 86.37,
     "links": [
       "https://www.dungeondice.it/25157-unlock-triple-pack-1.html"
     ]
@@ -10857,14 +10857,14 @@
   },
   {
     "name": "War Chest - Assedio",
-    "threshold": 1000,
+    "threshold": 24.99,
     "links": [
       "https://www.dungeondice.it/29636-war-chest-assedio.html"
     ]
   },
   {
     "name": "War Chest - Nobiltà",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/29637-war-chest-nobilta.html"
     ]
@@ -10962,7 +10962,7 @@
   },
   {
     "name": "Escape Room - L'Oro di Barbarossa",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/31612-escape-room-l-oro-di-barbarossa.html"
     ]
@@ -11053,7 +11053,7 @@
   },
   {
     "name": "Unstable Unicorns - Dragons",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/27184-unstable-unicorns-dragons.html"
     ]
@@ -11081,7 +11081,7 @@
   },
   {
     "name": "Hexodus",
-    "threshold": 66.99,
+    "threshold": 46.89,
     "links": [
       "https://www.dungeondice.it/31737-hexodus.html"
     ]
@@ -11123,7 +11123,7 @@
   },
   {
     "name": "Disney Villainous - Despicable Plots",
-    "threshold": 44.99,
+    "threshold": 31.49,
     "links": [
       "https://www.dungeondice.it/26428-disney-villainous-despicable-plots.html"
     ]
@@ -11165,7 +11165,7 @@
   },
   {
     "name": "Dominion - Avventure",
-    "threshold": 44.99,
+    "threshold": 31.49,
     "links": [
       "https://www.dungeondice.it/2138-dominion-avventure.html"
     ]
@@ -11186,14 +11186,14 @@
   },
   {
     "name": "The Mind",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/10773-the-mind.html"
     ]
   },
   {
     "name": "Draftosaurus",
-    "threshold": 1000,
+    "threshold": 24.99,
     "links": [
       "https://www.dungeondice.it/19622-draftosaurus.html"
     ]
@@ -11235,7 +11235,7 @@
   },
   {
     "name": "Dungeons, Dice & Danger",
-    "threshold": 24.99,
+    "threshold": 12.5,
     "links": [
       "https://www.dungeondice.it/27783-dungeons-dice-danger.html"
     ]
@@ -11312,21 +11312,21 @@
   },
   {
     "name": "Frantic",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/32360-frantic.html"
     ]
   },
   {
     "name": "Mascarade - Seconda Edizione",
-    "threshold": 14.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/4171-mascarade.html"
     ]
   },
   {
     "name": "Takenoko",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/7494-takenoko.html"
     ]
@@ -11361,7 +11361,7 @@
   },
   {
     "name": "Flamecraft",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/28634-flamecraft.html"
     ]
@@ -11543,7 +11543,7 @@
   },
   {
     "name": "In Giallo",
-    "threshold": 31.49,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/26351-in-giallo.html"
     ]
@@ -11606,7 +11606,7 @@
   },
   {
     "name": "Everdell - Mistwood",
-    "threshold": 59.99,
+    "threshold": 41.99,
     "links": [
       "https://www.dungeondice.it/31479-everdell-mistwood.html"
     ]
@@ -11655,7 +11655,7 @@
   },
   {
     "name": "Harry Potter - Hogwarts Battle - Incanti e Pozioni",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/26393-harry-potter-hogwarts-battle-incanti-e-pozioni.html"
     ]
@@ -11767,7 +11767,7 @@
   },
   {
     "name": "Bonfire",
-    "threshold": 54.99,
+    "threshold": 38.49,
     "links": [
       "https://www.dungeondice.it/22342-bonfire.html"
     ]
@@ -11788,7 +11788,7 @@
   },
   {
     "name": "Shinkansen Zero-Kei",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/25615-shinkansen-zero-kei.html"
     ]
@@ -11816,7 +11816,7 @@
   },
   {
     "name": "Endless Winter - Aurora Borealis",
-    "threshold": 1000,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/29289-endless-winter-aurora-borealis.html"
     ]
@@ -11830,7 +11830,7 @@
   },
   {
     "name": "Giovanna d'Arco - Orléans Draw & Write",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/30462-giovanna-d-arco-orleans-draw-write.html"
     ]
@@ -11865,7 +11865,7 @@
   },
   {
     "name": "Terraforming Mars - Venus Next",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/7885-terraforming-mars-venus-next.html"
     ]
@@ -11893,7 +11893,7 @@
   },
   {
     "name": "Su Una Scala da 1 a T-Rex",
-    "threshold": 1000,
+    "threshold": 5.0,
     "links": [
       "https://www.dungeondice.it/20366-su-una-scala-da-1-a-t-rex.html"
     ]
@@ -11942,14 +11942,14 @@
   },
   {
     "name": "Il Labirinto Magico",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/27082-labirinto-magico.html"
     ]
   },
   {
     "name": "Endless Winter - Canine Familiars",
-    "threshold": 1000,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/29290-endless-winter-canine-familiars.html"
     ]
@@ -11977,7 +11977,7 @@
   },
   {
     "name": "Stranger Things - Il Sottosopra",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/31131-stranger-things-il-sottosopra.html"
     ]
@@ -12061,14 +12061,14 @@
   },
   {
     "name": "I Cattivissimi 7",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/11464-i-cattivissimi-7.html"
     ]
   },
   {
     "name": "Newton - Grandi Scoperte",
-    "threshold": 4.99,
+    "threshold": 3.49,
     "links": [
       "https://www.dungeondice.it/19878-newton-grandi-scoperte.html"
     ]
@@ -12096,7 +12096,7 @@
   },
   {
     "name": "Visconti del Regno Occidentale",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/22757-visconti-del-regno-occidentale.html"
     ]
@@ -12215,7 +12215,7 @@
   },
   {
     "name": "What do You Meme? - Fresh Memes 2 Espansione",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/29840-what-do-you-meme-fresh-memes-2-espansione.html"
     ]
@@ -12271,28 +12271,28 @@
   },
   {
     "name": "Smart10",
-    "threshold": 29.5,
+    "threshold": 20.65,
     "links": [
       "https://www.dungeondice.it/32145-smart10.html"
     ]
   },
   {
     "name": "Next Station - Tokyo",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/32294-next-station-tokyo.html"
     ]
   },
   {
     "name": "John Company - Seconda Edizione",
-    "threshold": 103.99,
+    "threshold": 90.99,
     "links": [
       "https://www.dungeondice.it/28621-john-company-seconda-edizione.html"
     ]
   },
   {
     "name": "Earth",
-    "threshold": 53.99,
+    "threshold": 37.79,
     "links": [
       "https://www.dungeondice.it/30284-earth.html"
     ]
@@ -12306,7 +12306,7 @@
   },
   {
     "name": "Bang - The Dice Game",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/587-bang-the-dice-game.html"
     ]
@@ -12341,7 +12341,7 @@
   },
   {
     "name": "Endless Winter - Ancestors",
-    "threshold": 1000,
+    "threshold": 23.99,
     "links": [
       "https://www.dungeondice.it/30009-endless-winter-ancestors.html"
     ]
@@ -12411,7 +12411,7 @@
   },
   {
     "name": "Bang! - La Pallottola",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/591-bang-la-pallottola.html"
     ]
@@ -12425,7 +12425,7 @@
   },
   {
     "name": "Azul",
-    "threshold": 44.99,
+    "threshold": 31.49,
     "links": [
       "https://www.dungeondice.it/10719-azul.html"
     ]
@@ -12460,7 +12460,7 @@
   },
   {
     "name": "Nemesis - Cronache Perdute 2",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/32621-nemesis-cronache-perdute-2.html"
     ]
@@ -12495,7 +12495,7 @@
   },
   {
     "name": "Le Rovine Perdute di Arnak - La Spedizione Scomparsa",
-    "threshold": 31.99,
+    "threshold": 22.39,
     "links": [
       "https://www.dungeondice.it/30760-le-rovine-perdute-di-arnak-la-spedizione-scomparsa.html"
     ]
@@ -12572,7 +12572,7 @@
   },
   {
     "name": "Expeditions - Un Sequel di Scythe",
-    "threshold": 1000,
+    "threshold": 89.99,
     "links": [
       "https://www.dungeondice.it/30442-expeditions-un-sequel-di-scythe.html"
     ]
@@ -12628,7 +12628,7 @@
   },
   {
     "name": "Fields of Arle - Big Box",
-    "threshold": 79.99,
+    "threshold": 55.99,
     "links": [
       "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
     ]
@@ -12663,7 +12663,7 @@
   },
   {
     "name": "Terraforming Mars - Colonies",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/11857-terraforming-mars-colonies.html"
     ]
@@ -12684,7 +12684,7 @@
   },
   {
     "name": "Terraforming Mars - Promo Kit 4",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/26091-terraforming-mars-promo-kit-4.html"
     ]
@@ -12845,7 +12845,7 @@
   },
   {
     "name": "Nimalia",
-    "threshold": 1000,
+    "threshold": 19.99,
     "links": [
       "https://www.dungeondice.it/30486-nimalia.html"
     ]
@@ -12887,7 +12887,7 @@
   },
   {
     "name": "Vudù - Comics VS Manga",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/32143-vudu-comics-vs-manga.html"
     ]
@@ -13084,7 +13084,7 @@
   },
   {
     "name": "Jaipur",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/3405-jaipur.html"
     ]
@@ -13098,7 +13098,7 @@
   },
   {
     "name": "Terraforming Mars - Turmoil",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/18890-terraforming-mars-turmoil.html"
     ]
@@ -13189,14 +13189,14 @@
   },
   {
     "name": "Kids Chronicles - A Caccia delle Pietre Lunari",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/29508-kids-chronicles-a-caccia-delle-pietre-lunari.html"
     ]
   },
   {
     "name": "Skytear Horde",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/29836-skytear-horde.html"
     ]
@@ -13224,7 +13224,7 @@
   },
   {
     "name": "Alibi",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/30904-alibi.html"
     ]
@@ -13259,7 +13259,7 @@
   },
   {
     "name": "La Furia di Dracula",
-    "threshold": 59.99,
+    "threshold": 41.99,
     "links": [
       "https://www.dungeondice.it/3670-la-furia-di-dracula.html"
     ]
@@ -13315,7 +13315,7 @@
   },
   {
     "name": "Marvel Il Guanto dell'Infinito - Un Gioco Love Letter",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/21785-marvel-il-guanto-dell-infinito-un-gioco-love-letter.html"
     ]
@@ -13329,7 +13329,7 @@
   },
   {
     "name": "Hive Carbon - Onisco",
-    "threshold": 5.99,
+    "threshold": 4.19,
     "links": [
       "https://www.dungeondice.it/23046-hive-carbon-onisco.html"
     ]
@@ -13413,7 +13413,7 @@
   },
   {
     "name": "Ticket to Ride - San Francisco",
-    "threshold": 22.99,
+    "threshold": 16.09,
     "links": [
       "https://www.dungeondice.it/28246-ticket-to-ride-san-francisco.html"
     ]
@@ -13448,7 +13448,7 @@
   },
   {
     "name": "Murder Party Pocket - Peccato Capitale",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/31443-murder-party-pocket-peccato-capitale.html"
     ]
@@ -13539,7 +13539,7 @@
   },
   {
     "name": "Hidden Games - Veleno Verde",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/29976-hidden-games-veleno-verde.html"
     ]
@@ -13637,14 +13637,14 @@
   },
   {
     "name": "A Dance of Spiders",
-    "threshold": 12.74,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/25206-a-dance-of-spiders.html"
     ]
   },
   {
     "name": "Four Gardens",
-    "threshold": 47.99,
+    "threshold": 33.59,
     "links": [
       "https://www.dungeondice.it/25360-four-gardens.html"
     ]
@@ -13735,14 +13735,14 @@
   },
   {
     "name": "Bang - Armed & Dangerous",
-    "threshold": 14.39,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/590-bang-armed-dangerous.html"
     ]
   },
   {
     "name": "Bang - Gold Rush",
-    "threshold": 14.39,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/594-bang-gold-rush.html"
     ]
@@ -13791,7 +13791,7 @@
   },
   {
     "name": "Deckscape - Ciurma contro Ciurma",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/23215-deckscape-ciurma-contro-ciurma.html"
     ]
@@ -13945,7 +13945,7 @@
   },
   {
     "name": "La Foresta Misteriosa",
-    "threshold": 16.49,
+    "threshold": 15.39,
     "links": [
       "https://www.dungeondice.it/9191-la-foresta-misteriosa.html"
     ]
@@ -14078,7 +14078,7 @@
   },
   {
     "name": "Cafè",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/25466-cafe.html"
     ]
@@ -14106,7 +14106,7 @@
   },
   {
     "name": "Root - Il Bosco Meccanico",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/27348-root-il-bosco-meccanico.html"
     ]
@@ -14162,14 +14162,14 @@
   },
   {
     "name": "Terra Mare",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/31001-terra-mare.html"
     ]
   },
   {
     "name": "The Expanse",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/12043-the-expanse.html"
     ]
@@ -14225,7 +14225,7 @@
   },
   {
     "name": "Let's Go! To Japan",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/33000-let-s-go-to-japan.html"
     ]
@@ -14288,7 +14288,7 @@
   },
   {
     "name": "Karvi",
-    "threshold": 59.99,
+    "threshold": 41.99,
     "links": [
       "https://www.dungeondice.it/33277-karvi.html"
     ]
@@ -14372,7 +14372,7 @@
   },
   {
     "name": "Unlock! - Epic Adventures",
-    "threshold": 31.99,
+    "threshold": 22.39,
     "links": [
       "https://www.dungeondice.it/20486-unlock-epic-adventures.html"
     ]
@@ -14540,7 +14540,7 @@
   },
   {
     "name": "War Chest",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/22401-war-chest.html"
     ]
@@ -14554,7 +14554,7 @@
   },
   {
     "name": "Project L",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/24123-project-l.html"
     ]
@@ -14589,35 +14589,35 @@
   },
   {
     "name": "Hive",
-    "threshold": 22.39,
+    "threshold": 19.59,
     "links": [
       "https://www.dungeondice.it/2938-hive.html"
     ]
   },
   {
     "name": "Lewis & Clark",
-    "threshold": 49.99,
+    "threshold": 24.99,
     "links": [
       "https://www.dungeondice.it/3844-lewis-clark.html"
     ]
   },
   {
     "name": "Quoridor Mini",
-    "threshold": 1000,
+    "threshold": 24.99,
     "links": [
       "https://www.dungeondice.it/5419-quoridor-mini.html"
     ]
   },
   {
     "name": "Detective",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/11686-detective.html"
     ]
   },
   {
     "name": "Sherlock Holmes C.I. - Jack lo Squartatore e Avventure nel West...",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/18636-sherlock-holmes-ci-jack-lo-squartatore-e-avventure-nel-west-end.html"
     ]
@@ -14666,7 +14666,7 @@
   },
   {
     "name": "Everdell - Spirecrest",
-    "threshold": 59.99,
+    "threshold": 41.99,
     "links": [
       "https://www.dungeondice.it/27464-everdell-spirecrest.html"
     ]
@@ -14778,7 +14778,7 @@
   },
   {
     "name": "Carcassonne - Abbazie e Borgomastri",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/1313-carcassonne-abbazie-e-borgomastri.html"
     ]
@@ -14904,7 +14904,7 @@
   },
   {
     "name": "Papageno",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/21762-papageno.html"
     ]
@@ -14925,7 +14925,7 @@
   },
   {
     "name": "Witchstone",
-    "threshold": 54.99,
+    "threshold": 38.49,
     "links": [
       "https://www.dungeondice.it/25127-witchstone.html"
     ]
@@ -15058,7 +15058,7 @@
   },
   {
     "name": "Aqualin",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/27930-aqualin.html"
     ]
@@ -15142,7 +15142,7 @@
   },
   {
     "name": "When I Dream",
-    "threshold": 31.99,
+    "threshold": 22.39,
     "links": [
       "https://www.dungeondice.it/8596-when-i-dream.html"
     ]
@@ -15163,7 +15163,7 @@
   },
   {
     "name": "Puerto Rico 1897",
-    "threshold": 54.99,
+    "threshold": 32.99,
     "links": [
       "https://www.dungeondice.it/28203-puerto-rico-1897.html"
     ]
@@ -15226,7 +15226,7 @@
   },
   {
     "name": "Onirim",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/29205-onirim.html"
     ]
@@ -15240,7 +15240,7 @@
   },
   {
     "name": "Honeycombs",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/29659-honeycombs.html"
     ]
@@ -15317,7 +15317,7 @@
   },
   {
     "name": "Escape Room Puzzle Adventures - Missione di Salvataggio",
-    "threshold": 18.99,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/32514-escape-room-puzzle-adventures-missione-di-salvataggio.html"
     ]
@@ -15380,7 +15380,7 @@
   },
   {
     "name": "Drinkopoly",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/33075-drinkopoly.html"
     ]
@@ -15415,7 +15415,7 @@
   },
   {
     "name": "Fjords",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/27381-fjords.html"
     ]
@@ -15478,7 +15478,7 @@
   },
   {
     "name": "Bad Choices - L'hai mai fatto?",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/30115-bad-choices-l-hai-mai-fatto.html"
     ]
@@ -15513,7 +15513,7 @@
   },
   {
     "name": "Zombicide - Complete Upgrade Kit",
-    "threshold": 1000,
+    "threshold": 15.99,
     "links": [
       "https://www.dungeondice.it/27594-zombicide-complete-upgrade-kit.html"
     ]
@@ -15527,7 +15527,7 @@
   },
   {
     "name": "Zombicide - Black Plague - Thundercats Pack 1",
-    "threshold": 21.24,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/28499-zombicide-black-plague-thundercats-pack-1.html"
     ]
@@ -15555,14 +15555,14 @@
   },
   {
     "name": "Bang - The Duel - Renegades",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/19738-bang-the-duel-renegades.html"
     ]
   },
   {
     "name": "Unstable Unicorns",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/22366-unstable-unicorns.html"
     ]
@@ -15667,14 +15667,14 @@
   },
   {
     "name": "Alta Tensione - Mappa - Russia, Giappone",
-    "threshold": 13.99,
+    "threshold": 9.79,
     "links": [
       "https://www.dungeondice.it/269-alta-tensione-mappa-russia-giappone.html"
     ]
   },
   {
     "name": "Bang!",
-    "threshold": 21.99,
+    "threshold": 15.39,
     "links": [
       "https://www.dungeondice.it/586-bang.html"
     ]
@@ -15737,14 +15737,14 @@
   },
   {
     "name": "Timeline Twist - Pop Culture",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/30509-timeline-twist-pop-culture.html"
     ]
   },
   {
     "name": "Bang - Dodge City",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/593-bang-dodge-city.html"
     ]
@@ -15779,7 +15779,7 @@
   },
   {
     "name": "Dixit - Harmonies",
-    "threshold": 21.99,
+    "threshold": 15.39,
     "links": [
       "https://www.dungeondice.it/2117-dixit-harmonies.html"
     ]
@@ -15843,14 +15843,14 @@
   },
   {
     "name": "5-Minute Dungeon",
-    "threshold": 1000,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/28575-5-minute-dungeon.html"
     ]
   },
   {
     "name": "Imperial Steam",
-    "threshold": 79.99,
+    "threshold": 55.99,
     "links": [
       "https://www.dungeondice.it/29008-imperial-steam.html"
     ]
@@ -15899,7 +15899,7 @@
   },
   {
     "name": "Carcassonne - Cacciatori e Raccoglitori",
-    "threshold": 31.99,
+    "threshold": 22.39,
     "links": [
       "https://www.dungeondice.it/26429-carcassonne-cacciatori-e-raccoglitori.html"
     ]
@@ -15934,7 +15934,7 @@
   },
   {
     "name": "Sipario",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/31333-sipario.html"
     ]
@@ -15983,7 +15983,7 @@
   },
   {
     "name": "Deckscape - La Maledizione della Sfinge",
-    "threshold": 1000,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/19315-deckscape-la-maledizione-della-sfinge.html"
     ]
@@ -16004,7 +16004,7 @@
   },
   {
     "name": "Imagine - Family",
-    "threshold": 27.99,
+    "threshold": 19.59,
     "links": [
       "https://www.dungeondice.it/22818-imagine-family.html"
     ]
@@ -16018,35 +16018,35 @@
   },
   {
     "name": "Frostpunk - Il Gioco da Tavolo",
-    "threshold": 106.24,
+    "threshold": 87.49,
     "links": [
       "https://www.dungeondice.it/29869-frostpunk-il-gioco-da-tavolo.html"
     ]
   },
   {
     "name": "Unstable Unicorns VM18",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/30718-unstable-unicorns-vm18.html"
     ]
   },
   {
     "name": "Ticket to Ride - Berlino",
-    "threshold": 22.99,
+    "threshold": 16.09,
     "links": [
       "https://www.dungeondice.it/30787-ticket-to-ride-berlino.html"
     ]
   },
   {
     "name": "I Tre Porcellini - Deluxe",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/8053-i-tre-porcellini-deluxe.html"
     ]
   },
   {
     "name": "Ghost Hunters",
-    "threshold": 16.14,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/13181-ghost-hunters.html"
     ]
@@ -16060,7 +16060,7 @@
   },
   {
     "name": "Squirrels Go Nuts!",
-    "threshold": 18.99,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/13197-squirrels-go-nuts.html"
     ]
@@ -16088,7 +16088,7 @@
   },
   {
     "name": "Endless Winter - Rivers & Rafts",
-    "threshold": 1000,
+    "threshold": 23.99,
     "links": [
       "https://www.dungeondice.it/30011-endless-winter-rivers-rafts.html"
     ]
@@ -16200,14 +16200,14 @@
   },
   {
     "name": "Pandemic Legacy - Season 2 (Scatola Gialla)",
-    "threshold": 79.99,
+    "threshold": 55.99,
     "links": [
       "https://www.dungeondice.it/11762-pandemic-legacy-season-2-scatola-gialla.html"
     ]
   },
   {
     "name": "Concordia - Balearica - Cyprus",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/20666-concordia-balearica-cyprus.html"
     ]
@@ -16319,7 +16319,7 @@
   },
   {
     "name": "BANG! - The Great Train Robbery",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/29877-bang-the-great-train-robbery.html"
     ]
@@ -16340,14 +16340,14 @@
   },
   {
     "name": "Zombicide - Supernatural Pack 1",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/32134-zombicide-supernatural-pack-1.html"
     ]
   },
   {
     "name": "Zombicide - Supernatural Pack 2",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/32135-zombicide-supernatural-pack-2.html"
     ]
@@ -16382,7 +16382,7 @@
   },
   {
     "name": "Sherlock Holmes C.I. - Carlton House e Queen’s Park",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/18635-sherlock-holmes-ci-carlton-house-e-queens-park.html"
     ]
@@ -16417,14 +16417,14 @@
   },
   {
     "name": "Escape the Dark Castle - 2 - Scourge of the Undead Queen",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/24802-escape-the-dark-castle-2-scourge-of-the-undead-queen.html"
     ]
   },
   {
     "name": "Escape the Dark Castle - 3 - Blight of the Plague Lord",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/24803-escape-the-dark-castle-3-blight-of-the-plague-lord.html"
     ]
@@ -16606,7 +16606,7 @@
   },
   {
     "name": "Run, Ghost, Run!",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/26543-run-ghost-run.html"
     ]
@@ -16627,7 +16627,7 @@
   },
   {
     "name": "Magnetic Line - Scacchi Tascabile",
-    "threshold": 6.99,
+    "threshold": 4.89,
     "links": [
       "https://www.dungeondice.it/28840-magnetic-line-scacchi-tascabile.html"
     ]
@@ -16641,7 +16641,7 @@
   },
   {
     "name": "Spirit Island - Jagged Earth",
-    "threshold": 69.99,
+    "threshold": 48.99,
     "links": [
       "https://www.dungeondice.it/32610-spirit-island-jagged-earth.html"
     ]
@@ -16662,7 +16662,7 @@
   },
   {
     "name": "Rory's Story Cubes - Original (Arancione)",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/7349-rory-s-story-cubes-original-arancione.html"
     ]
@@ -16690,7 +16690,7 @@
   },
   {
     "name": "Dobble - Harry Potter",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/19871-dobble-harry-potter.html"
     ]
@@ -16704,7 +16704,7 @@
   },
   {
     "name": "Mystery House - La Base Abbandonata",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/24714-mystery-house-la-base-abbandonata.html"
     ]
@@ -16732,7 +16732,7 @@
   },
   {
     "name": "Tabannusi - I Costruttori di Ur",
-    "threshold": 59.99,
+    "threshold": 41.99,
     "links": [
       "https://www.dungeondice.it/27181-tabannusi-i-costruttori-di-ur.html"
     ]
@@ -16795,7 +16795,7 @@
   },
   {
     "name": "Endless Winter - Ceremonial Grounds",
-    "threshold": 1000,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/30022-endless-winter-ceremonial-grounds-.html"
     ]
@@ -16816,7 +16816,7 @@
   },
   {
     "name": "Marvel Zombies - Heroes' Resistance - Un Gioco Zombicide",
-    "threshold": 59.99,
+    "threshold": 41.99,
     "links": [
       "https://www.dungeondice.it/30503-marvel-zombies-heroes-resistance-un-gioco-zombicide.html"
     ]
@@ -17005,7 +17005,7 @@
   },
   {
     "name": "Unlock! - Escape Adventures",
-    "threshold": 1000,
+    "threshold": 31.99,
     "links": [
       "https://www.dungeondice.it/8318-unlock-escape-adventures.html"
     ]
@@ -17096,7 +17096,7 @@
   },
   {
     "name": "Unlock! - Timeless Adventures",
-    "threshold": 31.99,
+    "threshold": 22.39,
     "links": [
       "https://www.dungeondice.it/19579-unlock-timeless-adventures.html"
     ]
@@ -17131,7 +17131,7 @@
   },
   {
     "name": "Adventure Games - Il Dungeon",
-    "threshold": 21.99,
+    "threshold": 15.39,
     "links": [
       "https://www.dungeondice.it/21586-adventure-games-il-dungeon.html"
     ]
@@ -17180,7 +17180,7 @@
   },
   {
     "name": "Beccato",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/22318-beccato.html"
     ]
@@ -17201,7 +17201,7 @@
   },
   {
     "name": "Marvel United",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/22556-marvel-united.html"
     ]
@@ -17285,14 +17285,14 @@
   },
   {
     "name": "Sock Monsters",
-    "threshold": 31.99,
+    "threshold": 22.39,
     "links": [
       "https://www.dungeondice.it/24715-sock-monsters.html"
     ]
   },
   {
     "name": "Escape Tales - I Bambini di Wyrmwoods",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/24837-escape-tales-i-bambini-di-wyrmwoods.html"
     ]
@@ -17320,7 +17320,7 @@
   },
   {
     "name": "Olé! Guacamole",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/24993-ole-guacamole.html"
     ]
@@ -17390,7 +17390,7 @@
   },
   {
     "name": "Kamisado",
-    "threshold": 31.99,
+    "threshold": 22.39,
     "links": [
       "https://www.dungeondice.it/26074-kamisado.html"
     ]
@@ -17425,7 +17425,7 @@
   },
   {
     "name": "Pocket Detective - Conto alla Rovescia",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/26540-pocket-detective-caso-3.html"
     ]
@@ -17460,7 +17460,7 @@
   },
   {
     "name": "Unlock! Kids 1 - Detective Stories",
-    "threshold": 25.99,
+    "threshold": 18.19,
     "links": [
       "https://www.dungeondice.it/27134-unlock-kids-1-detective-stories.html"
     ]
@@ -17474,14 +17474,14 @@
   },
   {
     "name": "Unstable Unicorns - Adventures",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/27187-unstable-unicorns-adventures.html"
     ]
   },
   {
     "name": "Cardline - Animali",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/27293-cardline-animali.html"
     ]
@@ -17502,7 +17502,7 @@
   },
   {
     "name": "Otto Game Over",
-    "threshold": 37.99,
+    "threshold": 26.59,
     "links": [
       "https://www.dungeondice.it/27729--otto-game-over.html"
     ]
@@ -17523,7 +17523,7 @@
   },
   {
     "name": "5-Minute Mystery",
-    "threshold": 1000,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/28576-5-minute-mystery.html"
     ]
@@ -17614,7 +17614,7 @@
   },
   {
     "name": "Scooby-Doo: Il Gioco da Tavolo",
-    "threshold": 59.99,
+    "threshold": 41.99,
     "links": [
       "https://www.dungeondice.it/29598-scooby-doo-il-gioco-da-tavolo.html"
     ]
@@ -17705,7 +17705,7 @@
   },
   {
     "name": "Magic Rabbit",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/30463-magic-rabbit.html"
     ]
@@ -17754,7 +17754,7 @@
   },
   {
     "name": "Zicke Zacke - Spenna il Pollo! - Nuova Edizione",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/30729-zicke-zacke-spenna-il-pollo-nuova-edizione.html"
     ]
@@ -17789,7 +17789,7 @@
   },
   {
     "name": "Classic Art",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/31565-classic-art.html"
     ]
@@ -17817,7 +17817,7 @@
   },
   {
     "name": "Sagrada - Espansione 5-6 Giocatori",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/12980-sagrada-espansione-5-6-giocatori.html"
     ]
@@ -17859,7 +17859,7 @@
   },
   {
     "name": "Hitster - La Sfida Musicale del Secolo",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/30114-hitster-la-sfida-musicale-del-secolo.html"
     ]
@@ -17936,7 +17936,7 @@
   },
   {
     "name": "Sunrise Lane",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/32512-sunrise-lane.html"
     ]
@@ -18118,7 +18118,7 @@
   },
   {
     "name": "Feed-Rex",
-    "threshold": 19.5,
+    "threshold": 13.65,
     "links": [
       "https://www.dungeondice.it/29417-feed-rex.html"
     ]
@@ -18132,7 +18132,7 @@
   },
   {
     "name": "Bears vs Babies",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/12266-bears-vs-babies.html"
     ]
@@ -18223,7 +18223,7 @@
   },
   {
     "name": "Aquatica",
-    "threshold": 1000,
+    "threshold": 59.99,
     "links": [
       "https://www.dungeondice.it/21461-aquatica.html"
     ]
@@ -18363,7 +18363,7 @@
   },
   {
     "name": "IQ Link",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/13206-iq-link.html"
     ]
@@ -18391,7 +18391,7 @@
   },
   {
     "name": "IQ Circuit",
-    "threshold": 13.99,
+    "threshold": 9.79,
     "links": [
       "https://www.dungeondice.it/29396-iq-circuit.html"
     ]
@@ -18412,14 +18412,14 @@
   },
   {
     "name": "IQ Six Pro",
-    "threshold": 13.99,
+    "threshold": 9.79,
     "links": [
       "https://www.dungeondice.it/29402-iq-six-pro.html"
     ]
   },
   {
     "name": "IQ Stixx",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/29403-iq-stixx.html"
     ]
@@ -18538,7 +18538,7 @@
   },
   {
     "name": "Lupi Mannari di Roccascura",
-    "threshold": 10.99,
+    "threshold": 7.69,
     "links": [
       "https://www.dungeondice.it/3031-lupi-mannari-di-roccascura.html"
     ]
@@ -18615,7 +18615,7 @@
   },
   {
     "name": "Pandemic Legacy - Season 2 (Scatola Nera)",
-    "threshold": 79.99,
+    "threshold": 55.99,
     "links": [
       "https://www.dungeondice.it/11763-pandemic-legacy-season-2-scatola-nera.html"
     ]
@@ -18692,7 +18692,7 @@
   },
   {
     "name": "Bad People",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/25924-bad-people.html"
     ]
@@ -18755,7 +18755,7 @@
   },
   {
     "name": "Minecraft - Portal Dash",
-    "threshold": 32.24,
+    "threshold": 30.09,
     "links": [
       "https://www.dungeondice.it/28200-minecraft-portal-dash.html"
     ]
@@ -18769,14 +18769,14 @@
   },
   {
     "name": "Left Right Dilemma",
-    "threshold": 18.69,
+    "threshold": 15.39,
     "links": [
       "https://www.dungeondice.it/28489-left-right-dilemma.html"
     ]
   },
   {
     "name": "Zombicide - Black Plague - Thundercats Pack 2",
-    "threshold": 1000,
+    "threshold": 14.99,
     "links": [
       "https://www.dungeondice.it/28500-zombicide-black-plague-thundercats-pack-2.html"
     ]
@@ -19007,7 +19007,7 @@
   },
   {
     "name": "Penny Dreadfuls - Gli Orrori di Londra",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/31180-penny-dreadfuls-gli-orrori-di-londra.html"
     ]
@@ -19119,7 +19119,7 @@
   },
   {
     "name": "Timeline Twist - Star Wars",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/32328-timeline-twist-star-wars.html"
     ]
@@ -19182,7 +19182,7 @@
   },
   {
     "name": "OK Boomer!",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/28062-ok-boomer.html"
     ]
@@ -19294,7 +19294,7 @@
   },
   {
     "name": "My Shelfie - The Dice Game",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/32673-my-shelfie-the-dice-game.html"
     ]
@@ -19588,7 +19588,7 @@
   },
   {
     "name": "Rory's Story Cubes - Astro  (Ottanio)",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/19886-rory-s-story-cubes-astro-ottanio.html"
     ]
@@ -19665,7 +19665,7 @@
   },
   {
     "name": "Newton & Great Discoveries",
-    "threshold": 44.99,
+    "threshold": 31.49,
     "links": [
       "https://www.dungeondice.it/26036-newton-great-discoveries.html"
     ]
@@ -19749,7 +19749,7 @@
   },
   {
     "name": "That's Not a Hat",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/29855-that-s-not-a-hat-.html"
     ]
@@ -19777,14 +19777,14 @@
   },
   {
     "name": "Harry Potter - Hogwarts Battle - La Scatola Mostro dei Mostri",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/11094-harry-potter-hogwarts-battle-la-scatola-mostro-dei-mostri.html"
     ]
   },
   {
     "name": "Picto Rush",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/28061-picto-rush.html"
     ]
@@ -20058,7 +20058,7 @@
   },
   {
     "name": "Ticket to Ride - Nederland",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/8082-ticket-to-ride-nederland.html"
     ]
@@ -20163,7 +20163,7 @@
   },
   {
     "name": "Western Legends - Il Selvaggio Mucchio di Extra",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/31113-western-legends-il-selvaggio-mucchio-di-extra.html"
     ]
@@ -20660,7 +20660,7 @@
   },
   {
     "name": "Punchline",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/30717-punchline.html"
     ]
@@ -20744,7 +20744,7 @@
   },
   {
     "name": "Crime Zoom - L'Ultima Carta",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/24990-crime-zoom-l-ultima-carta.html"
     ]
@@ -20835,7 +20835,7 @@
   },
   {
     "name": "Coatl",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/23873-coatl.html"
     ]
@@ -20884,7 +20884,7 @@
   },
   {
     "name": "Unlock! - Short Adventures - I Segreti della Piovra",
-    "threshold": 6.99,
+    "threshold": 4.89,
     "links": [
       "https://www.dungeondice.it/31140-unlock-short-adventures-i-segreti-della-piovra.html"
     ]
@@ -21059,7 +21059,7 @@
   },
   {
     "name": "Alta Tensione - Mappa - Benelux, Europa Centrale",
-    "threshold": 13.99,
+    "threshold": 9.79,
     "links": [
       "https://www.dungeondice.it/261-alta-tensione-mappa-benelux-europa-centrale.html"
     ]
@@ -22172,7 +22172,7 @@
   },
   {
     "name": "Cthulhu - Death May Die - Capro Nero dei Boschi",
-    "threshold": 1000,
+    "threshold": 29.99,
     "links": [
       "https://www.dungeondice.it/20877-cthulhu-death-may-die-capro-nero-dei-boschi.html"
     ]
@@ -22585,7 +22585,7 @@
   },
   {
     "name": "Cyberion",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/31608-cyberion.html"
     ]
@@ -23047,7 +23047,7 @@
   },
   {
     "name": "Can't Stop",
-    "threshold": 27.99,
+    "threshold": 19.59,
     "links": [
       "https://www.dungeondice.it/1289-can-t-stop.html"
     ]
@@ -23404,7 +23404,7 @@
   },
   {
     "name": "Dominion - Nuovi Orizzonti",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/2142-dominion-nuovi-orizzonti.html"
     ]
@@ -23880,7 +23880,7 @@
   },
   {
     "name": "Il Buono, il Brutto e il Munchkin",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/3055-il-buono-il-brutto-e-il-munchkin.html"
     ]
@@ -26218,7 +26218,7 @@
   },
   {
     "name": "Unlock! - Mystery Adventures",
-    "threshold": 31.99,
+    "threshold": 22.39,
     "links": [
       "https://www.dungeondice.it/11238-unlock-mystery-adventures.html"
     ]
@@ -26897,7 +26897,7 @@
   },
   {
     "name": "Mysterium",
-    "threshold": 44.99,
+    "threshold": 31.49,
     "links": [
       "https://www.dungeondice.it/12926-mysterium.html"
     ]
@@ -28143,7 +28143,7 @@
   },
   {
     "name": "Tsuro",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/22197-tsuro.html"
     ]
@@ -28248,7 +28248,7 @@
   },
   {
     "name": "Minecraft - Builders & Biomes",
-    "threshold": 42.99,
+    "threshold": 30.09,
     "links": [
       "https://www.dungeondice.it/22643-minecraft-builders-biomes.html"
     ]
@@ -28535,7 +28535,7 @@
   },
   {
     "name": "Top Spot",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/23452-top-spot.html"
     ]
@@ -28991,14 +28991,14 @@
   },
   {
     "name": "Monopoly - One Piece",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/24877-monopoly-one-piece.html"
     ]
   },
   {
     "name": "Monopoly - The Nightmare Before Christmas",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/24879-monopoly-the-nightmare-before-christmas.html",
       "https://www.dungeondice.it/36829-monopoly-the-nightmare-before-christmas.html"
@@ -29006,7 +29006,7 @@
   },
   {
     "name": "Borgo Parmigiano",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/25052-borgo-parmigiano.html"
     ]
@@ -29322,7 +29322,7 @@
   },
   {
     "name": "Dragon Inferno",
-    "threshold": 22.94,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/26316-dragon-inferno.html"
     ]
@@ -29371,7 +29371,7 @@
   },
   {
     "name": "Vektorace",
-    "threshold": 33.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/26698-vektorace.html"
     ]
@@ -30001,14 +30001,14 @@
   },
   {
     "name": "Crime Zoom - L'Uccello del Malaugurio",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/28962-crime-zoom-l-uccello-del-malaugurio.html"
     ]
   },
   {
     "name": "Crime Zoom - Uno Scrittore Letale",
-    "threshold": 11.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/28963-crime-zoom-uno-scrittore-letale.html"
     ]
@@ -30197,7 +30197,7 @@
   },
   {
     "name": "Dobble - Disney Princess",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/29570-dobble-disney-princess.html"
     ]
@@ -30295,7 +30295,7 @@
   },
   {
     "name": "Cold Case 1 - La Verità Non Muore Mai",
-    "threshold": 10.99,
+    "threshold": 7.69,
     "links": [
       "https://www.dungeondice.it/29865-cold-case-1-la-verita-non-muore-mai.html"
     ]
@@ -30351,7 +30351,7 @@
   },
   {
     "name": "Disney Villainous - Bigger and Badder",
-    "threshold": 44.99,
+    "threshold": 31.49,
     "links": [
       "https://www.dungeondice.it/30059-disney-villainous-bigger-and-badder.html"
     ]
@@ -30379,7 +30379,7 @@
   },
   {
     "name": "Overbooking",
-    "threshold": 27.5,
+    "threshold": 19.25,
     "links": [
       "https://www.dungeondice.it/30186-overbooking.html"
     ]
@@ -30505,7 +30505,7 @@
   },
   {
     "name": "Skyjo",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/30494--skyjo.html"
     ]
@@ -30526,7 +30526,7 @@
   },
   {
     "name": "Turing Machine",
-    "threshold": 1000,
+    "threshold": 39.99,
     "links": [
       "https://www.dungeondice.it/30716-turing-machine.html"
     ]
@@ -30631,7 +30631,7 @@
   },
   {
     "name": "Silver Mine",
-    "threshold": 22.99,
+    "threshold": 16.09,
     "links": [
       "https://www.dungeondice.it/31610-silver-mine.html"
     ]
@@ -30645,7 +30645,7 @@
   },
   {
     "name": "Scarabeo - Edizione Deluxe 60° Anniversario",
-    "threshold": 46.99,
+    "threshold": 32.89,
     "links": [
       "https://www.dungeondice.it/31659-scarabeo-edizione-deluxe-60-anniversario.html"
     ]
@@ -30708,7 +30708,7 @@
   },
   {
     "name": "Qwirkle",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/27934-qwirkle.html"
     ]
@@ -30834,7 +30834,7 @@
   },
   {
     "name": "Activity",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/156-activity.html"
     ]
@@ -30911,7 +30911,7 @@
   },
   {
     "name": "Castle Logix",
-    "threshold": 32.99,
+    "threshold": 23.09,
     "links": [
       "https://www.dungeondice.it/1410-castle-logix.html"
     ]
@@ -30981,7 +30981,7 @@
   },
   {
     "name": "Dinosaurs - Mystic Islands",
-    "threshold": 22.94,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/2090-dinosaurs-mystic-islands.html"
     ]
@@ -31135,7 +31135,7 @@
   },
   {
     "name": "Cappuccetto Rosso - Deluxe",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/3860-cappuccetto-rosso-deluxe.html"
     ]
@@ -31429,7 +31429,7 @@
   },
   {
     "name": "Road Block",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/5790-road-block.html"
     ]
@@ -31674,7 +31674,7 @@
   },
   {
     "name": "Brain Cheeser",
-    "threshold": 11.04,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/8227-brain-cheeser.html"
     ]
@@ -31933,7 +31933,7 @@
   },
   {
     "name": "MiMiQ",
-    "threshold": 10.99,
+    "threshold": 7.69,
     "links": [
       "https://www.dungeondice.it/10412-mimiq.html"
     ]
@@ -32346,21 +32346,21 @@
   },
   {
     "name": "Colour Code",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/13189-colour-code.html"
     ]
   },
   {
     "name": "Temple Connection",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/13191-temple-connection.html"
     ]
   },
   {
     "name": "Parking Puzzler",
-    "threshold": 18.99,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/13192-parking-puzzler.html"
     ]
@@ -32374,7 +32374,7 @@
   },
   {
     "name": "Jumpin'",
-    "threshold": 18.99,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/13196-jumpin-.html"
     ]
@@ -32395,14 +32395,14 @@
   },
   {
     "name": "Cube Puzzler - Go",
-    "threshold": 16.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/13202-cube-puzzler-go.html"
     ]
   },
   {
     "name": "Cube Puzzler - Pro",
-    "threshold": 19.99,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/13203-cube-puzzler-pro.html"
     ]
@@ -32864,21 +32864,21 @@
   },
   {
     "name": "Day & Night",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/23429-day-night.html"
     ]
   },
   {
     "name": "Atlantis Escape",
-    "threshold": 18.99,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/23436-atlantis-escape.html"
     ]
   },
   {
     "name": "Smart Farmer",
-    "threshold": 21.24,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/23440-smart-farmer.html"
     ]
@@ -34852,7 +34852,7 @@
   },
   {
     "name": "Crack!",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/30106-crack.html"
     ]
@@ -34929,7 +34929,7 @@
   },
   {
     "name": "Who's The Dude?",
-    "threshold": 29.99,
+    "threshold": 20.99,
     "links": [
       "https://www.dungeondice.it/30493-who-s-the-dude.html"
     ]
@@ -35125,7 +35125,7 @@
   },
   {
     "name": "By The Book",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/31582-by-the-book.html"
     ]
@@ -35538,7 +35538,7 @@
   },
   {
     "name": "Gipf",
-    "threshold": 34.99,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/2773-gipf.html"
     ]
@@ -36322,7 +36322,7 @@
   },
   {
     "name": "Mostri vs Eroi - I Racconti di Cthulhu",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/18631-mostri-vs-eroi-i-racconti-di-cthulhu.html"
     ]
@@ -36399,7 +36399,7 @@
   },
   {
     "name": "Pandemic - Reazione Rapida",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/18987-pandemic-reazione-rapida.html"
     ]
@@ -36826,7 +36826,7 @@
   },
   {
     "name": "Santa Monica",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/23087-santa-monica.html"
     ]
@@ -37225,7 +37225,7 @@
   },
   {
     "name": "Anti-Virus",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/388-anti-virus.html"
     ]
@@ -37358,7 +37358,7 @@
   },
   {
     "name": "Penguins on Ice",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/4922-penguins-on-ice.html"
     ]
@@ -37386,7 +37386,7 @@
   },
   {
     "name": "Magic Forest",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/8230-magic-forest.html"
     ]
@@ -37729,7 +37729,7 @@
   },
   {
     "name": "Plug & Play Puzzler",
-    "threshold": 10.99,
+    "threshold": 7.69,
     "links": [
       "https://www.dungeondice.it/23438-plug-play-puzzler.html"
     ]
@@ -37743,14 +37743,14 @@
   },
   {
     "name": "Flippin' Dolphins",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/23445-flippin-dolphins.html"
     ]
   },
   {
     "name": "Tangoes Animals",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/23447-tangoes-animals.html"
     ]
@@ -38429,7 +38429,7 @@
   },
   {
     "name": "Pirata Pop-Up!",
-    "threshold": 21.99,
+    "threshold": 15.39,
     "links": [
       "https://www.dungeondice.it/30098-pirata-pop-up.html"
     ]
@@ -38527,7 +38527,7 @@
   },
   {
     "name": "Lorenzo il Magnifico - Leader Salviati - Carlo VIII",
-    "threshold": 2.5,
+    "threshold": 1.75,
     "links": [
       "https://www.dungeondice.it/10421-lorenzo-il-magnifico-leader-salviati-carlo-viii.html"
     ]
@@ -38569,14 +38569,14 @@
   },
   {
     "name": "Undaunted - Normandy",
-    "threshold": 29.74,
+    "threshold": 24.49,
     "links": [
       "https://www.dungeondice.it/23388-undaunted-normandy.html"
     ]
   },
   {
     "name": "La Cucaracha - Travel",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/23364-la-cucaracha-travel.html"
     ]
@@ -38709,7 +38709,7 @@
   },
   {
     "name": "Brain Freeze 2 - Il Party Game che ti Congela il Cervello",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/34473-brain-freeze-2-il-party-game-che-ti-congela-il-cervello.html"
     ]
@@ -38730,7 +38730,7 @@
   },
   {
     "name": "Terra Pyramides + 2 Espansioni",
-    "threshold": 49.99,
+    "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/34927-terra-pyramides-2-espansioni.html"
     ]
@@ -38765,7 +38765,7 @@
   },
   {
     "name": "Occhio alle Lettere",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/34956-occhio-alle-lettere.html"
     ]
@@ -39003,7 +39003,7 @@
   },
   {
     "name": "Tutti in Coro - Giocare per Crescere",
-    "threshold": 17.99,
+    "threshold": 12.59,
     "links": [
       "https://www.dungeondice.it/34994-tutti-in-coro-giocare-per-crescere.html"
     ]
@@ -39157,7 +39157,7 @@
   },
   {
     "name": "Karak - Seconda Edizione",
-    "threshold": 39.99,
+    "threshold": 27.99,
     "links": [
       "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
     ]
@@ -39192,7 +39192,7 @@
   },
   {
     "name": "Super Mario - Malefiz Barricade",
-    "threshold": 9.99,
+    "threshold": 6.99,
     "links": [
       "https://www.dungeondice.it/36077-super-mario-malefiz-barricade.html"
     ]
@@ -39248,7 +39248,7 @@
   },
   {
     "name": "Level 8 - Stitch",
-    "threshold": 8.99,
+    "threshold": 8.39,
     "links": [
       "https://www.dungeondice.it/36095-level-8-stitch.html"
     ]
@@ -39360,7 +39360,7 @@
   },
   {
     "name": "Burraco Junior",
-    "threshold": 7.99,
+    "threshold": 5.59,
     "links": [
       "https://www.dungeondice.it/36280-burraco-junior.html"
     ]
@@ -39612,7 +39612,7 @@
   },
   {
     "name": "Stupor Mundi - Frederick's Sons + \"Gates\" Mini-expansion",
-    "threshold": 5.99,
+    "threshold": 4.19,
     "links": [
       "https://www.dungeondice.it/37426-stupor-mundi-frederick-s-sons-gates-mini-expansion.html"
     ]
@@ -39633,14 +39633,14 @@
   },
   {
     "name": "Genius Star",
-    "threshold": 25.99,
+    "threshold": 18.19,
     "links": [
       "https://www.dungeondice.it/37439-genius-star.html"
     ]
   },
   {
     "name": "Genius Gems",
-    "threshold": 25.99,
+    "threshold": 18.19,
     "links": [
       "https://www.dungeondice.it/37440-genius-gems.html"
     ]
@@ -39836,7 +39836,7 @@
   },
   {
     "name": "Fishtricks",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/37543-fishtricks.html"
     ]
@@ -39857,7 +39857,7 @@
   },
   {
     "name": "Apple Puzzler",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/37546-apple-puzzler.html"
     ]
@@ -39913,42 +39913,42 @@
   },
   {
     "name": "5 Little Birds",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/37556-5-little-birds.html"
     ]
   },
   {
     "name": "IQ Waves",
-    "threshold": 12.99,
+    "threshold": 9.09,
     "links": [
       "https://www.dungeondice.it/37557-iq-waves.html"
     ]
   },
   {
     "name": "Break-Out - Escape The Dungeon",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/37558-break-out-escape-the-dungeon.html"
     ]
   },
   {
     "name": "Dropzone",
-    "threshold": 26.99,
+    "threshold": 18.89,
     "links": [
       "https://www.dungeondice.it/37559-dropzone.html"
     ]
   },
   {
     "name": "Smart Dog",
-    "threshold": 18.99,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/37560-smart-dog.html"
     ]
   },
   {
     "name": "LogiBugs",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/37561-logibugs.html"
     ]
@@ -39962,7 +39962,7 @@
   },
   {
     "name": "IQ Gears",
-    "threshold": 15.99,
+    "threshold": 11.19,
     "links": [
       "https://www.dungeondice.it/37564-iq-gears.html"
     ]
@@ -40144,14 +40144,14 @@
   },
   {
     "name": "Diamond Quest",
-    "threshold": 24.99,
+    "threshold": 17.49,
     "links": [
       "https://www.dungeondice.it/37679-diamond-quest.html"
     ]
   },
   {
     "name": "Apple Twist",
-    "threshold": 18.99,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/37680-apple-twist.html"
     ]
@@ -40165,14 +40165,14 @@
   },
   {
     "name": "Monster Hide & Seek",
-    "threshold": 18.99,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/37682-monster-hide-seek.html"
     ]
   },
   {
     "name": "Robot Factory",
-    "threshold": 18.99,
+    "threshold": 13.29,
     "links": [
       "https://www.dungeondice.it/37684-robot-factory.html"
     ]
@@ -40186,14 +40186,14 @@
   },
   {
     "name": "Criss Cross Cube",
-    "threshold": 16.99,
+    "threshold": 11.89,
     "links": [
       "https://www.dungeondice.it/37686-criss-cross-cube.html"
     ]
   },
   {
     "name": "MiMiQ Farm",
-    "threshold": 10.99,
+    "threshold": 7.69,
     "links": [
       "https://www.dungeondice.it/37687-mimiq-farm.html"
     ]
@@ -40214,28 +40214,28 @@
   },
   {
     "name": "Turtle Tactics",
-    "threshold": 14.99,
+    "threshold": 10.49,
     "links": [
       "https://www.dungeondice.it/37690-turtle-tactics.html"
     ]
   },
   {
     "name": "Gooal!",
-    "threshold": 13.99,
+    "threshold": 9.79,
     "links": [
       "https://www.dungeondice.it/37691-gooal.html"
     ]
   },
   {
     "name": "Yatzy Train",
-    "threshold": 8.99,
+    "threshold": 6.29,
     "links": [
       "https://www.dungeondice.it/37692-yatzy-train.html"
     ]
   },
   {
     "name": "Yatzy Zoo",
-    "threshold": 8.99,
+    "threshold": 6.29,
     "links": [
       "https://www.dungeondice.it/37693-yatzy-zoo.html"
     ]
@@ -40277,7 +40277,7 @@
   },
   {
     "name": "Catan - Marinai - Nuova Edizione 2025",
-    "threshold": 36.99,
+    "threshold": 25.89,
     "links": [
       "https://www.dungeondice.it/37704-catan-marinai-nuova-edizione-2025.html"
     ]
