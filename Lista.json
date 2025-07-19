@@ -951,7 +951,7 @@
   },
   {
     "name": "Forest First",
-    "threshold": 17.24,
+    "threshold": 11.5,
     "links": [
       "https://www.dungeondice.it/36874-forest-first.html"
     ]
@@ -1939,7 +1939,7 @@
   },
   {
     "name": "Monopoly Deal - Refresh",
-    "threshold": 6.29,
+    "threshold": 4.5,
     "links": [
       "https://www.dungeondice.it/35854-monopoly-deal-refresh.html"
     ]
@@ -1988,7 +1988,7 @@
   },
   {
     "name": "Why Are You Like This?",
-    "threshold": 22.99,
+    "threshold": 11.5,
     "links": [
       "https://www.dungeondice.it/35878-why-are-you-like-this.html"
     ]
@@ -2023,7 +2023,7 @@
   },
   {
     "name": "Domande Stupide da Fare ai Vostri Amici",
-    "threshold": 17.49,
+    "threshold": 12.5,
     "links": [
       "https://www.dungeondice.it/35889-domande-stupide-da-fare-ai-vostri-amici.html"
     ]
@@ -2170,7 +2170,7 @@
   },
   {
     "name": "Il Campionato dei Piccoli Geni",
-    "threshold": 11.99,
+    "threshold": 9.99,
     "links": [
       "https://www.dungeondice.it/34469-il-campionato-dei-piccoli-geni.html"
     ]
@@ -2583,7 +2583,7 @@
   },
   {
     "name": "Sapientino - La Penna Interattiva - Vado al Nido",
-    "threshold": 6.59,
+    "threshold": 5.5,
     "links": [
       "https://www.dungeondice.it/23536-sapientino-la-penna-interattiva-vado-al-nido.html"
     ]
@@ -2681,7 +2681,7 @@
   },
   {
     "name": "Scienza e Gioco Lab - La Scienza in Serra",
-    "threshold": 10.49,
+    "threshold": 7.5,
     "links": [
       "https://www.dungeondice.it/23764-scienza-e-gioco-lab-la-scienza-in-serra.html"
     ]
@@ -2730,7 +2730,7 @@
   },
   {
     "name": "Scienza e Gioco Lab - Archeogiocando T-Rex e Smilodon 2 in 1",
-    "threshold": 8.99,
+    "threshold": 7.5,
     "links": [
       "https://www.dungeondice.it/23815-scienza-e-gioco-lab-archeogiocando-t-rex-e-smilodon-2-in-1.html"
     ]
@@ -2772,7 +2772,7 @@
   },
   {
     "name": "Scienza e Gioco Lab - Il Laboratorio di Chimica",
-    "threshold": 13.79,
+    "threshold": 11.5,
     "links": [
       "https://www.dungeondice.it/23833-scienza-e-gioco-lab-il-laboratorio-di-chimica.html"
     ]
@@ -2947,7 +2947,7 @@
   },
   {
     "name": "Memorabile",
-    "threshold": 7.69,
+    "threshold": 5.5,
     "links": [
       "https://www.dungeondice.it/24421-memorabile.html"
     ]
@@ -3003,7 +3003,7 @@
   },
   {
     "name": "Chi sono?",
-    "threshold": 8.39,
+    "threshold": 6.0,
     "links": [
       "https://www.dungeondice.it/24604-chi-sono.html"
     ]
@@ -3045,7 +3045,7 @@
   },
   {
     "name": "Carte Yoga",
-    "threshold": 4.89,
+    "threshold": 3.5,
     "links": [
       "https://www.dungeondice.it/24649-carte-yoga.html"
     ]
@@ -3115,7 +3115,7 @@
   },
   {
     "name": "Mimo - Mestieri",
-    "threshold": 4.89,
+    "threshold": 3.5,
     "links": [
       "https://www.dungeondice.it/23308-mimo-mestieri.html"
     ]
@@ -4382,7 +4382,7 @@
   },
   {
     "name": "Push - Naruto Shippuden",
-    "threshold": 10.99,
+    "threshold": 5.5,
     "links": [
       "https://www.dungeondice.it/26060-push-naruto-shippuden.html"
     ]
@@ -4655,7 +4655,7 @@
   },
   {
     "name": "It's a Match!",
-    "threshold": 17.99,
+    "threshold": 9.0,
     "links": [
       "https://www.dungeondice.it/21203-it-s-a-match.html"
     ]
@@ -5901,7 +5901,7 @@
   },
   {
     "name": "Pero Pera",
-    "threshold": 10.49,
+    "threshold": 7.5,
     "links": [
       "https://www.dungeondice.it/18549-pero-pera.html"
     ]
@@ -6013,7 +6013,7 @@
   },
   {
     "name": "Gigantosaurus - La Gioco Avventura",
-    "threshold": 13.99,
+    "threshold": 9.99,
     "links": [
       "https://www.dungeondice.it/19024-gigantosaurus-la-gioco-avventura.html"
     ]
@@ -7805,7 +7805,7 @@
   },
   {
     "name": "Paladini del Regno Occidentale - La Città delle Corone",
-    "threshold": 17.49,
+    "threshold": 12.5,
     "links": [
       "https://www.dungeondice.it/25908-paladini-del-regno-occidentale-la-citta-delle-corone.html"
     ]
@@ -8050,7 +8050,7 @@
   },
   {
     "name": "Ensemble",
-    "threshold": 20.79,
+    "threshold": 13.0,
     "links": [
       "https://www.dungeondice.it/25220-ensemble.html"
     ]
@@ -8078,7 +8078,7 @@
   },
   {
     "name": "Throw Throw Avocado",
-    "threshold": 20.99,
+    "threshold": 15.0,
     "links": [
       "https://www.dungeondice.it/28488-throw-throw-avocado.html"
     ]
@@ -8169,7 +8169,7 @@
   },
   {
     "name": "Ticket to Ride - United Kingdom + Pennsylvania",
-    "threshold": 1000,
+    "threshold": 39.99,
     "links": [
       "https://www.dungeondice.it/8092-ticket-to-ride-united-kingdom-pennsylvania.html"
     ]
@@ -8869,7 +8869,7 @@
   },
   {
     "name": "I Palazzi di Carrara - Seconda Edizione",
-    "threshold": 41.99,
+    "threshold": 29.99,
     "links": [
       "https://www.dungeondice.it/28626-i-palazzi-di-carrara-seconda-edizione.html"
     ]
@@ -8981,7 +8981,7 @@
   },
   {
     "name": "Timeline Twist",
-    "threshold": 11.19,
+    "threshold": 8.0,
     "links": [
       "https://www.dungeondice.it/30508-timeline-twist.html"
     ]
@@ -9163,7 +9163,7 @@
   },
   {
     "name": "Deckscape - Il Castello di Dracula",
-    "threshold": 9.09,
+    "threshold": 6.5,
     "links": [
       "https://www.dungeondice.it/25586-deckscape-il-castello-di-dracula.html"
     ]
@@ -9296,7 +9296,7 @@
   },
   {
     "name": "Ticket to Ride - Italia & Giappone",
-    "threshold": 1000,
+    "threshold": 44.99,
     "links": [
       "https://www.dungeondice.it/19658-ticket-to-ride-italia-giappone.html"
     ]
@@ -10290,7 +10290,7 @@
   },
   {
     "name": "Basta Così",
-    "threshold": 11.89,
+    "threshold": 8.49,
     "links": [
       "https://www.dungeondice.it/31332-basta-cosi.html"
     ]
@@ -10346,7 +10346,7 @@
   },
   {
     "name": "Carcassonne - Il Circo",
-    "threshold": 17.99,
+    "threshold": 8.99,
     "links": [
       "https://www.dungeondice.it/18809-carcassonne-il-circo.html"
     ]
@@ -10430,7 +10430,7 @@
   },
   {
     "name": "Dixit - Anniversary",
-    "threshold": 21.99,
+    "threshold": 11.0,
     "links": [
       "https://www.dungeondice.it/11750-dixit-anniversary.html"
     ]
@@ -11312,14 +11312,14 @@
   },
   {
     "name": "Frantic",
-    "threshold": 11.89,
+    "threshold": 8.49,
     "links": [
       "https://www.dungeondice.it/32360-frantic.html"
     ]
   },
   {
     "name": "Mascarade - Seconda Edizione",
-    "threshold": 13.99,
+    "threshold": 10.0,
     "links": [
       "https://www.dungeondice.it/4171-mascarade.html"
     ]
@@ -12005,7 +12005,7 @@
   },
   {
     "name": "Fantasmi",
-    "threshold": 13.5,
+    "threshold": 11.25,
     "links": [
       "https://www.dungeondice.it/2538-fantasmi.html"
     ]
@@ -12061,7 +12061,7 @@
   },
   {
     "name": "I Cattivissimi 7",
-    "threshold": 8.39,
+    "threshold": 6.0,
     "links": [
       "https://www.dungeondice.it/11464-i-cattivissimi-7.html"
     ]
@@ -13455,7 +13455,7 @@
   },
   {
     "name": "Unstable Unicorns - Christmas Special",
-    "threshold": 14.99,
+    "threshold": 7.5,
     "links": [
       "https://www.dungeondice.it/31564-unstable-unicorns-christmas-special.html"
     ]
@@ -13742,7 +13742,7 @@
   },
   {
     "name": "Bang - Gold Rush",
-    "threshold": 12.59,
+    "threshold": 9.0,
     "links": [
       "https://www.dungeondice.it/594-bang-gold-rush.html"
     ]
@@ -13791,7 +13791,7 @@
   },
   {
     "name": "Deckscape - Ciurma contro Ciurma",
-    "threshold": 9.09,
+    "threshold": 6.5,
     "links": [
       "https://www.dungeondice.it/23215-deckscape-ciurma-contro-ciurma.html"
     ]
@@ -14169,7 +14169,7 @@
   },
   {
     "name": "The Expanse",
-    "threshold": 27.99,
+    "threshold": 20.0,
     "links": [
       "https://www.dungeondice.it/12043-the-expanse.html"
     ]
@@ -15415,7 +15415,7 @@
   },
   {
     "name": "Fjords",
-    "threshold": 27.99,
+    "threshold": 20.0,
     "links": [
       "https://www.dungeondice.it/27381-fjords.html"
     ]
@@ -15667,7 +15667,7 @@
   },
   {
     "name": "Alta Tensione - Mappa - Russia, Giappone",
-    "threshold": 9.79,
+    "threshold": 7.0,
     "links": [
       "https://www.dungeondice.it/269-alta-tensione-mappa-russia-giappone.html"
     ]
@@ -15737,7 +15737,7 @@
   },
   {
     "name": "Timeline Twist - Pop Culture",
-    "threshold": 11.19,
+    "threshold": 8.0,
     "links": [
       "https://www.dungeondice.it/30509-timeline-twist-pop-culture.html"
     ]
@@ -16676,7 +16676,7 @@
   },
   {
     "name": "Rory's Story Cubes - Voyages",
-    "threshold": 9.74,
+    "threshold": 6.5,
     "links": [
       "https://www.dungeondice.it/7374-rory-s-story-cubes-voyages.html"
     ]
@@ -17789,7 +17789,7 @@
   },
   {
     "name": "Classic Art",
-    "threshold": 27.99,
+    "threshold": 20.0,
     "links": [
       "https://www.dungeondice.it/31565-classic-art.html"
     ]
@@ -17845,7 +17845,7 @@
   },
   {
     "name": "Pick It Up",
-    "threshold": 9.99,
+    "threshold": 4.99,
     "links": [
       "https://www.dungeondice.it/28558-pick-it-up.html"
     ]
@@ -18692,7 +18692,7 @@
   },
   {
     "name": "Bad People",
-    "threshold": 20.99,
+    "threshold": 15.0,
     "links": [
       "https://www.dungeondice.it/25924-bad-people.html"
     ]
@@ -18755,7 +18755,7 @@
   },
   {
     "name": "Minecraft - Portal Dash",
-    "threshold": 30.09,
+    "threshold": 21.49,
     "links": [
       "https://www.dungeondice.it/28200-minecraft-portal-dash.html"
     ]
@@ -18783,7 +18783,7 @@
   },
   {
     "name": "Zombicide - Black Plague - Thundercats Pack 3",
-    "threshold": 1000,
+    "threshold": 24.99,
     "links": [
       "https://www.dungeondice.it/28501-zombicide-black-plague-thundercats-pack-3.html"
     ]
@@ -19182,7 +19182,7 @@
   },
   {
     "name": "OK Boomer!",
-    "threshold": 11.89,
+    "threshold": 8.49,
     "links": [
       "https://www.dungeondice.it/28062-ok-boomer.html"
     ]
@@ -28248,7 +28248,7 @@
   },
   {
     "name": "Minecraft - Builders & Biomes",
-    "threshold": 30.09,
+    "threshold": 21.49,
     "links": [
       "https://www.dungeondice.it/22643-minecraft-builders-biomes.html"
     ]
@@ -29203,7 +29203,7 @@
   },
   {
     "name": "Taffo - Con Me nella Tomba",
-    "threshold": 20.99,
+    "threshold": 15.0,
     "links": [
       "https://www.dungeondice.it/25960-con-me-nella-tomba.html"
     ]
@@ -29903,7 +29903,7 @@
   },
   {
     "name": "Marvel Villainous - Mischief & Malice",
-    "threshold": 44.99,
+    "threshold": 22.49,
     "links": [
       "https://www.dungeondice.it/28198-marvel-villainous-mischief-malice.html"
     ]
@@ -30001,14 +30001,14 @@
   },
   {
     "name": "Crime Zoom - L'Uccello del Malaugurio",
-    "threshold": 8.39,
+    "threshold": 6.0,
     "links": [
       "https://www.dungeondice.it/28962-crime-zoom-l-uccello-del-malaugurio.html"
     ]
   },
   {
     "name": "Crime Zoom - Uno Scrittore Letale",
-    "threshold": 8.39,
+    "threshold": 6.0,
     "links": [
       "https://www.dungeondice.it/28963-crime-zoom-uno-scrittore-letale.html"
     ]
@@ -33158,7 +33158,7 @@
   },
   {
     "name": "Dieci",
-    "threshold": 9.59,
+    "threshold": 8.0,
     "links": [
       "https://www.dungeondice.it/24473-dieci.html"
     ]
@@ -33389,7 +33389,7 @@
   },
   {
     "name": "Monopoly - Rick and Morty",
-    "threshold": 29.99,
+    "threshold": 20.0,
     "links": [
       "https://www.dungeondice.it/24878-monopoly-rick-and-morty.html"
     ]
@@ -34859,7 +34859,7 @@
   },
   {
     "name": "Super Mario Pop-Up",
-    "threshold": 16.79,
+    "threshold": 13.99,
     "links": [
       "https://www.dungeondice.it/30107-super-mario-pop-up.html"
     ]
@@ -38576,7 +38576,7 @@
   },
   {
     "name": "La Cucaracha - Travel",
-    "threshold": 6.99,
+    "threshold": 4.99,
     "links": [
       "https://www.dungeondice.it/23364-la-cucaracha-travel.html"
     ]
@@ -38709,7 +38709,7 @@
   },
   {
     "name": "Brain Freeze 2 - Il Party Game che ti Congela il Cervello",
-    "threshold": 11.89,
+    "threshold": 8.5,
     "links": [
       "https://www.dungeondice.it/34473-brain-freeze-2-il-party-game-che-ti-congela-il-cervello.html"
     ]
@@ -39003,7 +39003,7 @@
   },
   {
     "name": "Tutti in Coro - Giocare per Crescere",
-    "threshold": 12.59,
+    "threshold": 9.0,
     "links": [
       "https://www.dungeondice.it/34994-tutti-in-coro-giocare-per-crescere.html"
     ]
@@ -39465,7 +39465,7 @@
   },
   {
     "name": "UNO Junior",
-    "threshold": 7.79,
+    "threshold": 6.5,
     "links": [
       "https://www.dungeondice.it/36596-uno-junior.html"
     ]
