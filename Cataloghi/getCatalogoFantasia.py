@@ -30,7 +30,7 @@ def estrai_giochi_fantasiastore():
     print(f"Trovate {last_page} pagine nel catalogo.")
 
     for pagina in range(1, last_page + 1):
-        url = f"{base_url}?page={pagina}"
+        url = f"{base_url}&page={pagina}"
         print(f"Scarico pagina {pagina}...")
         driver.get(url)
         time.sleep(2)
