@@ -1105,7 +1105,7 @@
     "name": "Mission Savane",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.79,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/36873-mission-savane.html"
       }
     }
@@ -1360,7 +1360,7 @@
     "name": "Jungle Speed Giant",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/36754-jungle-speed-giant.html"
       }
     }
@@ -1378,7 +1378,7 @@
     "name": "Hidden Games Junior - La Spada Perduta",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/36508-hidden-games-junior-la-spada-perduta.html"
       }
     }
@@ -1662,7 +1662,7 @@
     "name": "Escape Room - 2 Giocatori Horror",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.19,
+        "price": 15.99,
         "url": "https://www.dungeondice.it/23880-escape-room-2-giocatori-horror.html"
       }
     }
@@ -1684,7 +1684,7 @@
     "name": "Piles!",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/36242-piles.html"
       }
     }
@@ -1766,7 +1766,7 @@
     "name": "GraviTrax - The Game - Course",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/27555-gravitrax-the-game-course.html"
       }
     }
@@ -1784,7 +1784,7 @@
     "name": "ISS Vanguard - Almanacco Galattico",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/36235-iss-vanguard-almanacco-galattico.html"
       }
     }
@@ -1815,7 +1815,7 @@
     "name": "Make 'n' Break Circus - Travel",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/36073-make-n-break-circus-travel.html"
       }
     }
@@ -1863,7 +1863,7 @@
     "name": "Pictoo - Disney",
     "prezzi": {
       "DungeonDice": {
-        "price": 5.59,
+        "price": 7.99,
         "url": "https://www.dungeondice.it/36098-pictoo-disney.html"
       }
     }
@@ -1881,7 +1881,7 @@
     "name": "Minecraft - Builders & Biomes Junior",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/36116-minecraft-builders-biomes-junior.html"
       }
     }
@@ -1994,7 +1994,7 @@
     "name": "Salva il Tesoro",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.19,
+        "price": 15.99,
         "url": "https://www.dungeondice.it/36048-salva-il-tesoro.html"
       }
     }
@@ -2024,7 +2024,7 @@
     "name": "Escape the Labyrinth - Travel",
     "prezzi": {
       "DungeonDice": {
-        "price": 5.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/36069-escape-the-labyrinth-travel.html"
       }
     }
@@ -2055,7 +2055,7 @@
     "name": "Simple&Madama - Dimmi di Sì - Il Gioco da Tavolo",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/35847-simplemadama-dimmi-di-si-il-gioco-da-tavolo.html"
       }
     }
@@ -2142,7 +2142,7 @@
     "name": "Cardline - Dinosauri",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.19,
+        "price": 15.99,
         "url": "https://www.dungeondice.it/35888-cardline-dinosauri.html"
       }
     }
@@ -2191,7 +2191,7 @@
     "name": "Numeri in Cammino",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.95,
+        "price": 18.5,
         "url": "https://www.dungeondice.it/34949-numeri-in-cammino.html"
       }
     }
@@ -2332,7 +2332,7 @@
     "name": "Brain Freeze 1 - Il Party Game che ti Congela il Cervello",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.19,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/34472-brain-freeze-1-il-party-game-che-ti-congela-il-cervello.html"
       }
     }
@@ -2461,7 +2461,7 @@
     "name": "Coco Rido 2 - La Vendemmia - Versione 2.0",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/34581-coco-rido-2-la-vendemmia-versione-20.html"
       }
     }
@@ -2580,12 +2580,7 @@
   },
   {
     "name": "Sounds Fishy",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 17.49,
-        "url": "https://www.dungeondice.it/24509-sounds-fishy.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "La Magia del Mentalismo - 30 Trucchi per Piccoli Maghi",
@@ -2635,7 +2630,7 @@
     "name": "Sapientino Parlante",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/23338-sapientino-parlante.html"
       }
     }
@@ -2644,7 +2639,7 @@
     "name": "Sapientino Bambina",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.99,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/23389-sapientino-bambina.html"
       }
     }
@@ -2653,7 +2648,7 @@
     "name": "Sapientino Animali",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/23390-sapientino-animali.html"
       }
     }
@@ -2684,7 +2679,7 @@
     "name": "Sapientino - La Penna Interattiva - Piccoli Astronauti",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.69,
+        "price": 10.99,
         "url": "https://www.dungeondice.it/23399-sapientino-la-penna-interattiva-piccoli-astronauti.html"
       }
     }
@@ -2718,7 +2713,7 @@
     "name": "Sapientino - La Penna Interattiva - Scuola dell'Infanzia 3-5",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.59,
+        "price": 10.99,
         "url": "https://www.dungeondice.it/23531-sapientino-la-penna-interattiva-scuola-dell-infanzia-3-5.html"
       }
     }
@@ -2758,7 +2753,7 @@
     "name": "Sapientino Più - Parole e Vocabolario",
     "prezzi": {
       "DungeonDice": {
-        "price": 5.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/23727-sapientino-piu-parole-e-vocabolario.html"
       }
     }
@@ -2794,7 +2789,7 @@
     "name": "Sapientino Testa a Testa - Storia e Preistoria",
     "prezzi": {
       "DungeonDice": {
-        "price": 4.79,
+        "price": 7.99,
         "url": "https://www.dungeondice.it/23731-sapientino-testa-a-testa-storia-e-preistoria.html"
       }
     }
@@ -2803,7 +2798,7 @@
     "name": "Sapientino Testa a Testa - Geografia",
     "prezzi": {
       "DungeonDice": {
-        "price": 5.59,
+        "price": 7.99,
         "url": "https://www.dungeondice.it/23732-sapientino-testa-a-testa-geografia.html"
       }
     }
@@ -2812,7 +2807,7 @@
     "name": "Sapientino Testa a Testa - Matematica",
     "prezzi": {
       "DungeonDice": {
-        "price": 5.59,
+        "price": 7.99,
         "url": "https://www.dungeondice.it/23735-sapientino-testa-a-testa-matematica.html"
       }
     }
@@ -2821,7 +2816,7 @@
     "name": "Sapientino Testa a Testa - Italiano",
     "prezzi": {
       "DungeonDice": {
-        "price": 4.79,
+        "price": 7.99,
         "url": "https://www.dungeondice.it/23758-sapientino-testa-a-testa-italiano.html"
       }
     }
@@ -2830,7 +2825,7 @@
     "name": "Scienza e Gioco Lab - Mini Laboratorio dei Profumi",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/23759-scienza-e-gioco-lab-mini-laboratorio-dei-profumi.html"
       }
     }
@@ -2848,7 +2843,7 @@
     "name": "Scienza e Gioco Lab - Laboratorio dei Profumi",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.99,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/23761-scienza-e-gioco-lab-laboratorio-dei-profumi.html"
       }
     }
@@ -2875,7 +2870,7 @@
     "name": "Scienza e Gioco Lab - La Mia Prima Chimica",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.5,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/23766-scienza-e-gioco-lab-la-mia-prima-chimica.html"
       }
     }
@@ -2911,7 +2906,7 @@
     "name": "Scienza e Gioco Lab - Fossili e Minerali",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/23814-scienza-e-gioco-lab-fossili-e-minerali.html"
       }
     }
@@ -2956,7 +2951,7 @@
     "name": "Scienza e Gioco - Il Sistema Solare",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/23831-scienza-e-gioco-il-sistema-solare.html"
       }
     }
@@ -3105,7 +3100,7 @@
     "name": "6 Fuori",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/24382-6-fuori.html"
       }
     }
@@ -3193,7 +3188,7 @@
     "name": "50 Giochi Riuniti",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/24601-50-giochi-riuniti.html"
       }
     }
@@ -3229,7 +3224,7 @@
     "name": "Battaglia navale",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.19,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/24606-battaglia-navale.html"
       }
     }
@@ -3238,7 +3233,7 @@
     "name": "Scacchi e Dama",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.19,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/24608-scacchi-e-dama.html"
       }
     }
@@ -3331,19 +3326,14 @@
     "name": "Mimo",
     "prezzi": {
       "DungeonDice": {
-        "price": 4.89,
+        "price": 6.99,
         "url": "https://www.dungeondice.it/23305-mimo.html"
       }
     }
   },
   {
     "name": "Mimo - Mestieri",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 3.5,
-        "url": "https://www.dungeondice.it/23308-mimo-mestieri.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Rubamazzo",
@@ -3392,19 +3382,14 @@
     "name": "Affari Tuoi",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/23159-affari-tuoi.html"
       }
     }
   },
   {
     "name": "Port Arthur",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 17.99,
-        "url": "https://www.dungeondice.it/23160-port-arthur.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Unconscious Mind - Nightmares Expansion",
@@ -3463,7 +3448,7 @@
     "name": "Tower Stacks",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/23344-tower-stacks.html"
       }
     }
@@ -3502,7 +3487,7 @@
     "name": "Halli Galli - Edizione 2024",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.59,
+        "price": 15.99,
         "url": "https://www.dungeondice.it/24246-halli-galli-edizione-2024.html"
       }
     }
@@ -3511,7 +3496,7 @@
     "name": "Exploding Kittens - Edizione VM18 - Pink Edition",
     "prezzi": {
       "DungeonDice": {
-        "price": 16.09,
+        "price": 22.99,
         "url": "https://www.dungeondice.it/23074-exploding-kittens-edizione-vm18-pink-edition.html"
       }
     }
@@ -3593,7 +3578,7 @@
     "name": "Superstore 3000",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/23029-superstore-3000.html"
       }
     }
@@ -3611,7 +3596,7 @@
     "name": "Il Regalo Bizzarro",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/22857-il-regalo-bizzarro.html"
       }
     }
@@ -3916,12 +3901,7 @@
   },
   {
     "name": "Marvel United - Maximum Carnage",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 20.99,
-        "url": "https://www.dungeondice.it/22351-marvel-united-maximum-carnage.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Marvel United - World War Hulk",
@@ -4280,7 +4260,7 @@
     "name": "Procioni in Cassa 4!",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/22359-procioni-in-cassa-4.html"
       }
     }
@@ -4338,7 +4318,7 @@
     "name": "Monopoly - In Viaggio con Touring Club",
     "prezzi": {
       "DungeonDice": {
-        "price": 23.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/25372-monopoly-in-viaggio-con-touring-club.html"
       }
     }
@@ -4604,7 +4584,7 @@
     "name": "IQ Twins",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/26173-iq-twins.html"
       }
     }
@@ -4705,7 +4685,7 @@
     "name": "3 Giochi Riuniti - Scacchi, Dama e Backgammon in Legno",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/21564-3-giochi-riuniti-scacchi-dama-e-backgammon-in-legno.html"
       }
     }
@@ -4853,7 +4833,7 @@
     "name": "Dress Code",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/20759-dress-code.html"
       }
     }
@@ -4862,7 +4842,7 @@
     "name": "Safari Park Jr.",
     "prezzi": {
       "DungeonDice": {
-        "price": 19.59,
+        "price": 27.99,
         "url": "https://www.dungeondice.it/20760-safari-park-jr.html"
       }
     }
@@ -4981,19 +4961,14 @@
     "name": "Orion Duel",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/20860-orion-duel.html"
       }
     }
   },
   {
     "name": "L'Impiccione - Cacca di Piccione",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 2.99,
-        "url": "https://www.dungeondice.it/21181-l-impiccione-cacca-di-piccione.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Survive The Island - BFF (Promo Hobby Next)",
@@ -5086,7 +5061,7 @@
     "name": "Time's Up! Family",
     "prezzi": {
       "DungeonDice": {
-        "price": 14.69,
+        "price": 20.99,
         "url": "https://www.dungeondice.it/24080-time-s-up-family.html"
       }
     }
@@ -5123,7 +5098,7 @@
     "name": "Murder Mystery Party - Ricetta per un Delitto",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/26590-murder-mystery-party-ricetta-per-un-delitto.html"
       }
     }
@@ -5150,7 +5125,7 @@
     "name": "You Can't Say  UMM",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/26665-you-can-t-say-umm.html"
       }
     }
@@ -5403,7 +5378,7 @@
     "name": "Unlock! - Supernatural Adventures",
     "prezzi": {
       "DungeonDice": {
-        "price": 22.39,
+        "price": 31.99,
         "url": "https://www.dungeondice.it/23655-unlock-supernatural-adventures.html"
       }
     }
@@ -5412,7 +5387,7 @@
     "name": "Super Miao",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.99,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/24079--super-miao.html"
       }
     }
@@ -5520,7 +5495,7 @@
     "name": "What the Bug?",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/19987-what-the-bug.html"
       }
     }
@@ -5926,12 +5901,7 @@
   },
   {
     "name": "Bonsai - Wabi Sabi",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 12.59,
-        "url": "https://www.dungeondice.it/19928-bonsai-wabi-sabi.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Looot - Il Bottino dei Vichinghi",
@@ -6059,7 +6029,7 @@
     "name": "Bambini Contro Genitori - Cosa non Sapevate di Voi?",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/13108-bambini-contro-genitori-cosa-non-sapevate-di-voi.html"
       }
     }
@@ -6068,7 +6038,7 @@
     "name": "Bambini Contro Genitori - Vero o Falso?",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.99,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/13126-bambini-contro-genitori-vero-o-falso.html"
       }
     }
@@ -6109,12 +6079,7 @@
   },
   {
     "name": "Taco Micio Pizza",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 12.99,
-        "url": "https://www.dungeondice.it/18791-taco-micio-pizza.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Descent | Small Bundle",
@@ -6232,18 +6197,13 @@
   },
   {
     "name": "Maialini Salterini",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 20.99,
-        "url": "https://www.dungeondice.it/19025-maialini-salterini.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Gregge Fuorilegge",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/19039-gregge-fuorilegge.html"
       }
     }
@@ -6317,7 +6277,7 @@
     "name": "Pathfinder Arena - Sfida Finale",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/19221-pathfinder-arena-sfida-finale.html"
       }
     }
@@ -6330,7 +6290,7 @@
     "name": "Pathfinder Arena - Era delle Ceneri",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/19236-pathfinder-arena-era-delle-ceneri.html"
       }
     }
@@ -6427,7 +6387,7 @@
     "name": "Telesketch - After Dark",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/20083-telesketch-after-dark.html"
       }
     }
@@ -6458,7 +6418,7 @@
     "name": "Mantis - Grab & Game",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/20100-mantis-grab-game.html"
       }
     }
@@ -6467,7 +6427,7 @@
     "name": "Dixit Universe Access+",
     "prezzi": {
       "DungeonDice": {
-        "price": 14.99,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/20101-dixit-universe-access.html"
       }
     }
@@ -6485,7 +6445,7 @@
     "name": "Exploding Kittens - Grab & Game",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/20192-exploding-kittens-grab-game.html"
       }
     }
@@ -6494,7 +6454,7 @@
     "name": "Star Wars - The Mandalorian - Adventures",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/20230-star-wars-the-mandalorian-adventures.html"
       }
     }
@@ -6536,7 +6496,7 @@
     "name": "Star Wars - Bounty Hunters",
     "prezzi": {
       "DungeonDice": {
-        "price": 16.09,
+        "price": 22.99,
         "url": "https://www.dungeondice.it/20575-star-wars-bounty-hunters.html"
       }
     }
@@ -6561,12 +6521,7 @@
   },
   {
     "name": "Takenoko | Small Bundle",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 53.98,
-        "url": "https://www.dungeondice.it/25628-takenoko.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Dodos Riding Dinos - Dodo Dash",
@@ -6578,12 +6533,7 @@
   },
   {
     "name": "BANG! Dice Explosion",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 39.99,
-        "url": "https://www.dungeondice.it/21688-bang-dice-explosion.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Star Wars - Orlo Esterno | Small Bundle",
@@ -6593,7 +6543,7 @@
     "name": "Wild Wild Pattern",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/21696-wild-wild-pattern.html"
       }
     }
@@ -6891,7 +6841,7 @@
     "name": "What the F!",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.89,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/25639-what-the-f.html"
       }
     }
@@ -7278,7 +7228,7 @@
     "name": "Bang! - Legends",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/32361-bang-legends.html"
       }
     }
@@ -7353,7 +7303,7 @@
     "name": "Cards VS Gravity",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.89,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/32615-cards-vs-gravity.html"
       }
     }
@@ -7377,12 +7327,7 @@
   },
   {
     "name": "Le 5 Torri",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 9.09,
-        "url": "https://www.dungeondice.it/32783-le-5-torri.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Qawale Mini",
@@ -7437,7 +7382,7 @@
     "name": "Bubble Stories - Tales",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/32866-bubble-stories-tales.html"
       }
     }
@@ -7490,7 +7435,7 @@
     "name": "Hotel",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/32961-hotel.html"
       }
     }
@@ -7571,7 +7516,7 @@
     "name": "A Peaceful Garden",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/33032-a-peaceful-garden.html"
       }
     }
@@ -7745,7 +7690,7 @@
     "name": "Saltinmente Refresh",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/33004-saltinmente-refresh.html"
       }
     }
@@ -7820,7 +7765,7 @@
     "name": "Mantis",
     "prezzi": {
       "DungeonDice": {
-        "price": 16.09,
+        "price": 22.99,
         "url": "https://www.dungeondice.it/29883-mantis.html"
       }
     }
@@ -8027,7 +7972,7 @@
     "name": "The Hunger - High Stakes",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/32510-the-hunger-high-stakes.html"
       }
     }
@@ -8069,12 +8014,7 @@
   },
   {
     "name": "Aeon's End - Seconda Edizione",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 34.99,
-        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Trio",
@@ -8091,12 +8031,7 @@
   },
   {
     "name": "Revive",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 79.99,
-        "url": "https://www.dungeondice.it/30317-revive.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Block Block Burrito",
@@ -8270,7 +8205,7 @@
     "name": "Abbasso i Carciofi - un Gioco di Carte Senza Cuore",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/29784-abbasso-i-carciofi-un-gioco-di-carte-senza-cuore.html"
       }
     }
@@ -8464,7 +8399,7 @@
     "name": "Bang - The Dice Game - Old Saloon",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.19,
+        "price": 15.99,
         "url": "https://www.dungeondice.it/588-bang-the-dice-game-old-saloon.html"
       }
     }
@@ -8494,7 +8429,7 @@
     "name": "Cubeez",
     "prezzi": {
       "DungeonDice": {
-        "price": 15.39,
+        "price": 21.99,
         "url": "https://www.dungeondice.it/18662-cubeez.html"
       }
     }
@@ -8604,7 +8539,7 @@
     "name": "Small Samurai Empires - Seconda Edizione",
     "prezzi": {
       "DungeonDice": {
-        "price": 25.89,
+        "price": 36.99,
         "url": "https://www.dungeondice.it/30838-small-samurai-empires-seconda-edizione.html"
       }
     }
@@ -8671,7 +8606,7 @@
     "name": "Little Tavern",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.89,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/32718-little-tavern.html"
       }
     }
@@ -8744,12 +8679,7 @@
   },
   {
     "name": "Takenoko - Chibis",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 13.99,
-        "url": "https://www.dungeondice.it/7497-takenoko-chibis.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Sagrada + Espansione 5-6 Giocatori | Small Bundle",
@@ -8812,7 +8742,7 @@
     "name": "Timeline - Eventi Storici",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/27515-timeline-eventi-storici.html"
       }
     }
@@ -8825,7 +8755,7 @@
     "name": "Judge Your Friends",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/25930-judge-your-friends.html"
       }
     }
@@ -8838,7 +8768,7 @@
     "name": "Easy Peasy Lemon Squeaky",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/30117-easy-peasy-lemon-squeaky.html"
       }
     }
@@ -8847,7 +8777,7 @@
     "name": "Dobble Anarchy Pancakes",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.89,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/32753-dobble-anarchy-pancakes.html"
       }
     }
@@ -8869,7 +8799,7 @@
     "name": "Tichu",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/8067-tichu.html"
       }
     }
@@ -8890,7 +8820,7 @@
     "name": "Pylos",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/5365-pylos.html"
       }
     }
@@ -8928,12 +8858,7 @@
   },
   {
     "name": "Viticulture - Tuscany Essential Edition",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 27.99,
-        "url": "https://www.dungeondice.it/8436-viticulture-tuscany-essential-edition.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "XCOM - Il Gioco da Tavolo",
@@ -8978,7 +8903,7 @@
     "name": "Mostri vs Eroi - Incubi Vittoriani",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.99,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/9398-mostri-vs-eroi-incubi-vittoriani.html"
       }
     }
@@ -9061,7 +8986,7 @@
     "name": "Zombicide - The Boys Pack 2",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/32139-zombicide-the-boys-pack-2.html"
       }
     }
@@ -9109,12 +9034,7 @@
   },
   {
     "name": "Cthulhu - Death May Die - Stagione 2",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 52.49,
-        "url": "https://www.dungeondice.it/20878-cthulhu-death-may-die-stagione-2.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Everdell - Bellfaire",
@@ -9175,7 +9095,7 @@
     "name": "Deckscape - Fuga da Alcatraz",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/21623-deckscape-fuga-da-alcatraz.html"
       }
     }
@@ -9197,19 +9117,14 @@
     "name": "Unlock! - Star Wars Escape Game",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/22813-unlock-star-wars-escape-game.html"
       }
     }
   },
   {
     "name": "Deckscape - Il Castello di Dracula",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 6.5,
-        "url": "https://www.dungeondice.it/25586-deckscape-il-castello-di-dracula.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Similo - Harry Potter",
@@ -9302,7 +9217,7 @@
     "name": "Tiny Epic Defenders",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/8153-tiny-epic-defenders.html"
       }
     }
@@ -9425,7 +9340,7 @@
     "name": "Small Railroad Empires - KS",
     "prezzi": {
       "DungeonDice": {
-        "price": 25.89,
+        "price": 36.99,
         "url": "https://www.dungeondice.it/25290-small-railroad-empires-ks.html"
       }
     }
@@ -9487,12 +9402,7 @@
   },
   {
     "name": "Codex Naturalis",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 15.39,
-        "url": "https://www.dungeondice.it/23878-codex-naturalis.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Pampero + Nature + Clear Skies | Medium Bundle",
@@ -9576,7 +9486,7 @@
     "name": "Insert Coin to Play",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/26468-insert-coin-to-play.html"
       }
     }
@@ -9828,7 +9738,7 @@
     "name": "Triqueta",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/30311-triqueta.html"
       }
     }
@@ -9894,7 +9804,7 @@
     "name": "Juduku - Vizio Capitale",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/32341-juduku-vizio-capitale.html"
       }
     }
@@ -10152,7 +10062,7 @@
     "name": "Timeline - Invenzioni",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/27514-timeline-invenzioni.html"
       }
     }
@@ -10266,7 +10176,7 @@
     "name": "Zombicide - Washington Z.C.",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/27135-zombicide-washington-zc.html"
       }
     }
@@ -10324,7 +10234,7 @@
     "name": "Affonda la Flotta - I Gioca Ovunque Refresh",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/30678-affonda-la-flotta-i-gioca-ovunque-refresh.html"
       }
     }
@@ -10442,21 +10352,11 @@
   },
   {
     "name": "Pandemic Star Wars - The Clone Wars",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/29051-pandemic-star-wars-the-clone-wars.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Coffee Rush",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 34.99,
-        "url": "https://www.dungeondice.it/32412-coffee-rush.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Carcassonne - La Principessa e il Drago",
@@ -10539,12 +10439,7 @@
   },
   {
     "name": "Scythe - Promo Kit 3",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 3.49,
-        "url": "https://www.dungeondice.it/27586-scythe-promo-kit-3.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Yak",
@@ -10556,12 +10451,7 @@
   },
   {
     "name": "Tilt",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 19.99,
-        "url": "https://www.dungeondice.it/29010-tilt.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Obsession",
@@ -10615,7 +10505,7 @@
     "name": "Dixit - Disney Edition",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/30786-dixit-disney-edition.html"
       }
     }
@@ -10687,7 +10577,7 @@
     "name": "Dungeons & Dragons - The Yawning Portal",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/29131-dungeons-dragons-the-yawning-portal.html"
       }
     }
@@ -10716,12 +10606,7 @@
   },
   {
     "name": "Samurai Sword",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 15.39,
-        "url": "https://www.dungeondice.it/5990-samurai-sword.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Dragomino",
@@ -10766,7 +10651,7 @@
     "name": "Haunted Lands",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.29,
+        "price": 48.99,
         "url": "https://www.dungeondice.it/32648-haunted-lands.html"
       }
     }
@@ -10784,7 +10669,7 @@
     "name": "Alta Tensione - Mappa - Europa, Nord America",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.69,
+        "price": 10.99,
         "url": "https://www.dungeondice.it/25800-alta-tensione-mappa-europa-nord-america.html"
       }
     }
@@ -10806,7 +10691,7 @@
     "name": "Circadians - Caos e Ordine",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.49,
+        "price": 84.99,
         "url": "https://www.dungeondice.it/30155-circadians-caos-e-ordine.html"
       }
     }
@@ -10905,7 +10790,7 @@
     "name": "Marvel United - Guardians of the Galaxy Remix",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/24119-marvel-united-guardians-of-the-galaxy-remix.html"
       }
     }
@@ -11079,7 +10964,7 @@
     "name": "Escape Room - L'Oro di Barbarossa",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/31612-escape-room-l-oro-di-barbarossa.html"
       }
     }
@@ -11106,7 +10991,7 @@
     "name": "Bag of Chips",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.59,
+        "price": 10.99,
         "url": "https://www.dungeondice.it/25429-bag-of-chips.html"
       }
     }
@@ -11176,7 +11061,7 @@
     "name": "Unstable Unicorns - Dragons",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/27184-unstable-unicorns-dragons.html"
       }
     }
@@ -11202,7 +11087,7 @@
     "name": "Hexodus",
     "prezzi": {
       "DungeonDice": {
-        "price": 46.89,
+        "price": 66.99,
         "url": "https://www.dungeondice.it/31737-hexodus.html"
       }
     }
@@ -11239,12 +11124,7 @@
   },
   {
     "name": "Disney Villainous - Despicable Plots",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 31.49,
-        "url": "https://www.dungeondice.it/26428-disney-villainous-despicable-plots.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Le 1001 Isole",
@@ -11280,7 +11160,7 @@
     "name": "Dominion - Avventure",
     "prezzi": {
       "DungeonDice": {
-        "price": 31.49,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/2138-dominion-avventure.html"
       }
     }
@@ -11297,7 +11177,7 @@
     "name": "The Mind",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/10773-the-mind.html"
       }
     }
@@ -11324,7 +11204,7 @@
     "name": "Marvel United - L'Ascesa di Black Panther",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/24121-marvel-united-l-ascesa-di-black-panther.html"
       }
     }
@@ -11414,7 +11294,7 @@
     "name": "Marvel Zombies - Un Gioco Zombicide",
     "prezzi": {
       "DungeonDice": {
-        "price": 98.0,
+        "price": 139.99,
         "url": "https://www.dungeondice.it/30502-marvel-zombies-un-gioco-zombicide.html"
       }
     }
@@ -11451,21 +11331,11 @@
   },
   {
     "name": "Mascarade - Seconda Edizione",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 10.0,
-        "url": "https://www.dungeondice.it/4171-mascarade.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Takenoko",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 27.99,
-        "url": "https://www.dungeondice.it/7494-takenoko.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Wavelength",
@@ -11666,7 +11536,7 @@
     "name": "In Giallo",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/26351-in-giallo.html"
       }
     }
@@ -11688,7 +11558,7 @@
     "name": "Sherlock Medioevo - Il Posseduto",
     "prezzi": {
       "DungeonDice": {
-        "price": 5.39,
+        "price": 8.99,
         "url": "https://www.dungeondice.it/27361-sherlock-medioevo-il-posseduto.html"
       }
     }
@@ -11728,7 +11598,7 @@
     "name": "Ticket to Ride Legacy - Leggende del Vecchio West",
     "prezzi": {
       "DungeonDice": {
-        "price": 76.99,
+        "price": 109.99,
         "url": "https://www.dungeondice.it/30785-ticket-to-ride-legacy-leggende-del-vecchio-west.html"
       }
     }
@@ -11737,7 +11607,7 @@
     "name": "Everdell - Mistwood",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31479-everdell-mistwood.html"
       }
     }
@@ -11785,7 +11655,7 @@
     "name": "Harry Potter - Hogwarts Battle - Incanti e Pozioni",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/26393-harry-potter-hogwarts-battle-incanti-e-pozioni.html"
       }
     }
@@ -11904,7 +11774,7 @@
     "name": "Bonfire",
     "prezzi": {
       "DungeonDice": {
-        "price": 38.49,
+        "price": 54.99,
         "url": "https://www.dungeondice.it/22342-bonfire.html"
       }
     }
@@ -11926,7 +11796,7 @@
     "name": "Shinkansen Zero-Kei",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/25615-shinkansen-zero-kei.html"
       }
     }
@@ -11975,7 +11845,7 @@
     "name": "Giovanna d'Arco - Orléans Draw & Write",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/30462-giovanna-d-arco-orleans-draw-write.html"
       }
     }
@@ -12006,7 +11876,7 @@
     "name": "Power Hungry Pets",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.19,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/33010-power-hungry-pets.html"
       }
     }
@@ -12015,7 +11885,7 @@
     "name": "Terraforming Mars - Venus Next",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/7885-terraforming-mars-venus-next.html"
       }
     }
@@ -12099,7 +11969,7 @@
     "name": "Il Labirinto Magico",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/27082-labirinto-magico.html"
       }
     }
@@ -12139,7 +12009,7 @@
     "name": "Stranger Things - Il Sottosopra",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/31131-stranger-things-il-sottosopra.html"
       }
     }
@@ -12163,12 +12033,7 @@
   },
   {
     "name": "Fantasmi",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 11.25,
-        "url": "https://www.dungeondice.it/2538-fantasmi.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Hive Pocket",
@@ -12226,7 +12091,7 @@
     "name": "Newton - Grandi Scoperte",
     "prezzi": {
       "DungeonDice": {
-        "price": 3.49,
+        "price": 4.99,
         "url": "https://www.dungeondice.it/19878-newton-grandi-scoperte.html"
       }
     }
@@ -12257,7 +12122,7 @@
     "name": "Visconti del Regno Occidentale",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/22757-visconti-del-regno-occidentale.html"
       }
     }
@@ -12266,7 +12131,7 @@
     "name": "Duplik - Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 19.79,
+        "price": 32.99,
         "url": "https://www.dungeondice.it/23533-duplik-big-box.html"
       }
     }
@@ -12308,12 +12173,7 @@
   },
   {
     "name": "Adventure Games - Grand Hotel Abaddon",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 11.0,
-        "url": "https://www.dungeondice.it/26418-adventure-games-grand-hotel-abaddon.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Betrayal at House on the Hill - Terza Edizione",
@@ -12370,7 +12230,7 @@
     "name": "What do You Meme? - Fresh Memes 2 Espansione",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/29840-what-do-you-meme-fresh-memes-2-espansione.html"
       }
     }
@@ -12436,25 +12296,20 @@
     "name": "Next Station - Tokyo",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.19,
+        "price": 15.99,
         "url": "https://www.dungeondice.it/32294-next-station-tokyo.html"
       }
     }
   },
   {
     "name": "John Company - Seconda Edizione",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 90.99,
-        "url": "https://www.dungeondice.it/28621-john-company-seconda-edizione.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Earth",
     "prezzi": {
       "DungeonDice": {
-        "price": 37.79,
+        "price": 53.99,
         "url": "https://www.dungeondice.it/30284-earth.html"
       }
     }
@@ -12467,7 +12322,7 @@
     "name": "Bang - The Dice Game",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/587-bang-the-dice-game.html"
       }
     }
@@ -12536,12 +12391,7 @@
   },
   {
     "name": "BANG! - Dynamite Box",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 99.99,
-        "url": "https://www.dungeondice.it/30902-bang-dynamite-box.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Black Rose Wars Rebirth - Apocalypse",
@@ -12577,7 +12427,7 @@
     "name": "Bang! - La Pallottola",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/591-bang-la-pallottola.html"
       }
     }
@@ -12625,7 +12475,7 @@
     "name": "Nemesis - Cronache Perdute 2",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/32621-nemesis-cronache-perdute-2.html"
       }
     }
@@ -12638,7 +12488,7 @@
     "name": "Stay Cool",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.19,
+        "price": 21.99,
         "url": "https://www.dungeondice.it/21687-stay-cool.html"
       }
     }
@@ -12831,7 +12681,7 @@
     "name": "Terraforming Mars - Colonies",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/11857-terraforming-mars-colonies.html"
       }
     }
@@ -13044,7 +12894,7 @@
     "name": "Vudù - Comics VS Manga",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/32143-vudu-comics-vs-manga.html"
       }
     }
@@ -13178,7 +13028,7 @@
     "name": "Unmatched - Robin Hood vs Bigfoot",
     "prezzi": {
       "DungeonDice": {
-        "price": 19.59,
+        "price": 27.99,
         "url": "https://www.dungeondice.it/23800-unmatched-robin-hood-vs-bigfoot.html"
       }
     }
@@ -13222,12 +13072,7 @@
   },
   {
     "name": "Terraforming Mars - Turmoil",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 17.49,
-        "url": "https://www.dungeondice.it/18890-terraforming-mars-turmoil.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Unicorn Fever",
@@ -13277,7 +13122,7 @@
     "name": "Twilight Inscription",
     "prezzi": {
       "DungeonDice": {
-        "price": 45.49,
+        "price": 64.99,
         "url": "https://www.dungeondice.it/28493-twilight-inscription.html"
       }
     }
@@ -13286,7 +13131,7 @@
     "name": "Kids Chronicles - A Caccia delle Pietre Lunari",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/29508-kids-chronicles-a-caccia-delle-pietre-lunari.html"
       }
     }
@@ -13295,7 +13140,7 @@
     "name": "Skytear Horde",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/29836-skytear-horde.html"
       }
     }
@@ -13321,7 +13166,7 @@
     "name": "Alibi",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/30904-alibi.html"
       }
     }
@@ -13361,7 +13206,7 @@
     "name": "La Furia di Dracula",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/3670-la-furia-di-dracula.html"
       }
     }
@@ -13413,7 +13258,7 @@
     "name": "Marvel Il Guanto dell'Infinito - Un Gioco Love Letter",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.89,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/21785-marvel-il-guanto-dell-infinito-un-gioco-love-letter.html"
       }
     }
@@ -13426,7 +13271,7 @@
     "name": "Hive Carbon - Onisco",
     "prezzi": {
       "DungeonDice": {
-        "price": 4.19,
+        "price": 5.99,
         "url": "https://www.dungeondice.it/23046-hive-carbon-onisco.html"
       }
     }
@@ -13504,7 +13349,7 @@
     "name": "Ticket to Ride - San Francisco",
     "prezzi": {
       "DungeonDice": {
-        "price": 16.09,
+        "price": 22.99,
         "url": "https://www.dungeondice.it/28246-ticket-to-ride-san-francisco.html"
       }
     }
@@ -13540,7 +13385,7 @@
     "name": "Circle The Wagons",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.79,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/31161-circle-the-wagons.html"
       }
     }
@@ -13549,7 +13394,7 @@
     "name": "Murder Party Pocket - Peccato Capitale",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/31443-murder-party-pocket-peccato-capitale.html"
       }
     }
@@ -13717,7 +13562,7 @@
     "name": "A Dance of Spiders",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/25206-a-dance-of-spiders.html"
       }
     }
@@ -13726,7 +13571,7 @@
     "name": "Four Gardens",
     "prezzi": {
       "DungeonDice": {
-        "price": 33.59,
+        "price": 47.99,
         "url": "https://www.dungeondice.it/25360-four-gardens.html"
       }
     }
@@ -13813,7 +13658,7 @@
     "name": "Bang - Armed & Dangerous",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/590-bang-armed-dangerous.html"
       }
     }
@@ -14008,7 +13853,7 @@
     "name": "La Foresta Misteriosa",
     "prezzi": {
       "DungeonDice": {
-        "price": 15.39,
+        "price": 21.99,
         "url": "https://www.dungeondice.it/9191-la-foresta-misteriosa.html"
       }
     }
@@ -14134,7 +13979,7 @@
     "name": "Cafè",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/25466-cafe.html"
       }
     }
@@ -14160,7 +14005,7 @@
     "name": "Root - Il Bosco Meccanico",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/27348-root-il-bosco-meccanico.html"
       }
     }
@@ -14329,18 +14174,28 @@
     "name": "Karvi",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/33277-karvi.html"
       }
     }
   },
   {
     "name": "7 Rosso",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 13.99,
+        "url": "https://www.dungeondice.it/94-7-rosso.html"
+      }
+    }
   },
   {
     "name": "Le Leggende di Andor",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 39.99,
+        "url": "https://www.dungeondice.it/3784-le-leggende-di-andor.html"
+      }
+    }
   },
   {
     "name": "Shogun no Katana - Monete in Metallo",
@@ -14367,7 +14222,7 @@
     "name": "Ant-Tomic",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.79,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/30307-ant-tomic.html"
       }
     }
@@ -14556,7 +14411,7 @@
     "name": "Project L",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/24123-project-l.html"
       }
     }
@@ -14591,7 +14446,7 @@
     "name": "Hive",
     "prezzi": {
       "DungeonDice": {
-        "price": 19.59,
+        "price": 27.99,
         "url": "https://www.dungeondice.it/2938-hive.html"
       }
     }
@@ -14618,7 +14473,7 @@
     "name": "Detective",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/11686-detective.html"
       }
     }
@@ -14627,7 +14482,7 @@
     "name": "Sherlock Holmes C.I. - Jack lo Squartatore e Avventure nel West...",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/18636-sherlock-holmes-ci-jack-lo-squartatore-e-avventure-nel-west-end.html"
       }
     }
@@ -14680,7 +14535,7 @@
     "name": "Everdell - Spirecrest",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/27464-everdell-spirecrest.html"
       }
     }
@@ -14804,7 +14659,7 @@
     "name": "Carcassonne - Abbazie e Borgomastri",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/1313-carcassonne-abbazie-e-borgomastri.html"
       }
     }
@@ -14848,7 +14703,7 @@
     "name": "Masters of Renaissance - Maestri del Rinascimento",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/19112-masters-of-renaissance-maestri-del-rinascimento.html"
       }
     }
@@ -14911,7 +14766,7 @@
     "name": "Raccontami una Storia - Halloween",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/5509-raccontami-una-storia-halloween.html"
       }
     }
@@ -14946,7 +14801,7 @@
     "name": "Papageno",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/21762-papageno.html"
       }
     }
@@ -14963,7 +14818,7 @@
     "name": "Witchstone",
     "prezzi": {
       "DungeonDice": {
-        "price": 38.49,
+        "price": 54.99,
         "url": "https://www.dungeondice.it/25127-witchstone.html"
       }
     }
@@ -15099,7 +14954,7 @@
     "name": "Aqualin",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/27930-aqualin.html"
       }
     }
@@ -15187,7 +15042,7 @@
     "name": "When I Dream",
     "prezzi": {
       "DungeonDice": {
-        "price": 22.39,
+        "price": 31.99,
         "url": "https://www.dungeondice.it/8596-when-i-dream.html"
       }
     }
@@ -15227,7 +15082,7 @@
     "name": "Marvel United - Deadpool",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/29701-marvel-united-deadpool.html"
       }
     }
@@ -15285,7 +15140,7 @@
     "name": "Onirim",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.89,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/29205-onirim.html"
       }
     }
@@ -15298,7 +15153,7 @@
     "name": "Honeycombs",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/29659-honeycombs.html"
       }
     }
@@ -15362,7 +15217,7 @@
     "name": "Escape Room Puzzle Adventures - Missione di Salvataggio",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/32514-escape-room-puzzle-adventures-missione-di-salvataggio.html"
       }
     }
@@ -15423,7 +15278,7 @@
     "name": "Drinkopoly",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/33075-drinkopoly.html"
       }
     }
@@ -15505,7 +15360,7 @@
     "name": "New Phone, Who Dis?",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/29841-new-phone-who-dis.html"
       }
     }
@@ -15514,7 +15369,7 @@
     "name": "Bad Choices - L'hai mai fatto?",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/30115-bad-choices-l-hai-mai-fatto.html"
       }
     }
@@ -15532,7 +15387,7 @@
     "name": "Sierra West",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/20023-sierra-west.html"
       }
     }
@@ -15583,7 +15438,7 @@
     "name": "Bang - The Duel - Renegades",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/19738-bang-the-duel-renegades.html"
       }
     }
@@ -15592,7 +15447,7 @@
     "name": "Unstable Unicorns",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/22366-unstable-unicorns.html"
       }
     }
@@ -15696,7 +15551,7 @@
     "name": "Bang!",
     "prezzi": {
       "DungeonDice": {
-        "price": 15.39,
+        "price": 21.99,
         "url": "https://www.dungeondice.it/586-bang.html"
       }
     }
@@ -15761,7 +15616,7 @@
     "name": "Bang - Dodge City",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/593-bang-dodge-city.html"
       }
     }
@@ -15804,12 +15659,7 @@
   },
   {
     "name": "Dixit - Harmonies",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 15.39,
-        "url": "https://www.dungeondice.it/2117-dixit-harmonies.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Labirinto",
@@ -15871,7 +15721,7 @@
     "name": "Imperial Steam",
     "prezzi": {
       "DungeonDice": {
-        "price": 55.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/29008-imperial-steam.html"
       }
     }
@@ -15904,7 +15754,7 @@
     "name": "Carcassonne - Cacciatori e Raccoglitori",
     "prezzi": {
       "DungeonDice": {
-        "price": 22.39,
+        "price": 31.99,
         "url": "https://www.dungeondice.it/26429-carcassonne-cacciatori-e-raccoglitori.html"
       }
     }
@@ -15937,12 +15787,7 @@
   },
   {
     "name": "Sipario",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 11.89,
-        "url": "https://www.dungeondice.it/31333-sipario.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Ratti di Wistar",
@@ -15968,18 +15813,13 @@
   },
   {
     "name": "Deckscape - Il Destino di Londra",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 6.5,
-        "url": "https://www.dungeondice.it/1991-deckscape-il-destino-di-londra.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Rory's Story Cubes - Fantasia",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.79,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/7354-rory-s-story-cubes-fantasia.html"
       }
     }
@@ -16009,7 +15849,7 @@
     "name": "Imagine - Family",
     "prezzi": {
       "DungeonDice": {
-        "price": 19.59,
+        "price": 27.99,
         "url": "https://www.dungeondice.it/22818-imagine-family.html"
       }
     }
@@ -16026,7 +15866,7 @@
     "name": "Unstable Unicorns VM18",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/30718-unstable-unicorns-vm18.html"
       }
     }
@@ -16035,7 +15875,7 @@
     "name": "Ticket to Ride - Berlino",
     "prezzi": {
       "DungeonDice": {
-        "price": 16.09,
+        "price": 22.99,
         "url": "https://www.dungeondice.it/30787-ticket-to-ride-berlino.html"
       }
     }
@@ -16044,7 +15884,7 @@
     "name": "I Tre Porcellini - Deluxe",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/8053-i-tre-porcellini-deluxe.html"
       }
     }
@@ -16053,7 +15893,7 @@
     "name": "Ghost Hunters",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/13181-ghost-hunters.html"
       }
     }
@@ -16062,7 +15902,7 @@
     "name": "Trappola nel Tempio",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.5,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/13184-trappola-nel-tempio.html"
       }
     }
@@ -16071,7 +15911,7 @@
     "name": "Squirrels Go Nuts!",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/13197-squirrels-go-nuts.html"
       }
     }
@@ -16206,7 +16046,7 @@
     "name": "Pandemic Legacy - Season 2 (Scatola Gialla)",
     "prezzi": {
       "DungeonDice": {
-        "price": 55.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/11762-pandemic-legacy-season-2-scatola-gialla.html"
       }
     }
@@ -16314,7 +16154,7 @@
     "name": "BANG! - The Great Train Robbery",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/29877-bang-the-great-train-robbery.html"
       }
     }
@@ -16336,7 +16176,7 @@
     "name": "Zombicide - Supernatural Pack 1",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/32134-zombicide-supernatural-pack-1.html"
       }
     }
@@ -16345,7 +16185,7 @@
     "name": "Zombicide - Supernatural Pack 2",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/32135-zombicide-supernatural-pack-2.html"
       }
     }
@@ -16385,7 +16225,7 @@
     "name": "Sherlock Holmes C.I. - Carlton House e Queen’s Park",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/18635-sherlock-holmes-ci-carlton-house-e-queens-park.html"
       }
     }
@@ -16413,18 +16253,13 @@
   },
   {
     "name": "Escape the Dark Castle - 2 - Scourge of the Undead Queen",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 17.49,
-        "url": "https://www.dungeondice.it/24802-escape-the-dark-castle-2-scourge-of-the-undead-queen.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Escape the Dark Castle - 3 - Blight of the Plague Lord",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/24803-escape-the-dark-castle-3-blight-of-the-plague-lord.html"
       }
     }
@@ -16549,12 +16384,7 @@
   },
   {
     "name": "Alchimisti",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 49.99,
-        "url": "https://www.dungeondice.it/222-alchimisti.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "King of Tokyo",
@@ -16603,7 +16433,7 @@
     "name": "Run, Ghost, Run!",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/26543-run-ghost-run.html"
       }
     }
@@ -16630,7 +16460,7 @@
     "name": "Magnetic Line - Scacchi Tascabile",
     "prezzi": {
       "DungeonDice": {
-        "price": 4.89,
+        "price": 6.99,
         "url": "https://www.dungeondice.it/28840-magnetic-line-scacchi-tascabile.html"
       }
     }
@@ -16646,12 +16476,7 @@
   },
   {
     "name": "Spirit Island - Jagged Earth",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 48.99,
-        "url": "https://www.dungeondice.it/32610-spirit-island-jagged-earth.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "3 Desideri - Promo Genietti Dispettosi",
@@ -16670,7 +16495,7 @@
     "name": "Rory's Story Cubes - Original (Arancione)",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/7349-rory-s-story-cubes-original-arancione.html"
       }
     }
@@ -16706,7 +16531,7 @@
     "name": "Dobble - Harry Potter",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.89,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/19871-dobble-harry-potter.html"
       }
     }
@@ -16719,7 +16544,7 @@
     "name": "Mystery House - La Base Abbandonata",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/24714-mystery-house-la-base-abbandonata.html"
       }
     }
@@ -16745,7 +16570,7 @@
     "name": "Tabannusi - I Costruttori di Ur",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/27181-tabannusi-i-costruttori-di-ur.html"
       }
     }
@@ -16828,7 +16653,7 @@
     "name": "Marvel Zombies - Heroes' Resistance - Un Gioco Zombicide",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/30503-marvel-zombies-heroes-resistance-un-gioco-zombicide.html"
       }
     }
@@ -16864,7 +16689,7 @@
     "name": "Project L - Finesse Expansion",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.99,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/32330-project-l-finesse-expansion.html"
       }
     }
@@ -17098,7 +16923,7 @@
     "name": "Unlock! - Timeless Adventures",
     "prezzi": {
       "DungeonDice": {
-        "price": 22.39,
+        "price": 31.99,
         "url": "https://www.dungeondice.it/19579-unlock-timeless-adventures.html"
       }
     }
@@ -17128,7 +16953,7 @@
     "name": "Adventure Games - Il Dungeon",
     "prezzi": {
       "DungeonDice": {
-        "price": 15.39,
+        "price": 21.99,
         "url": "https://www.dungeondice.it/21586-adventure-games-il-dungeon.html"
       }
     }
@@ -17176,7 +17001,7 @@
     "name": "Beccato",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/22318-beccato.html"
       }
     }
@@ -17203,7 +17028,7 @@
     "name": "Marvel United",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/22556-marvel-united.html"
       }
     }
@@ -17276,7 +17101,7 @@
     "name": "Sock Monsters",
     "prezzi": {
       "DungeonDice": {
-        "price": 22.39,
+        "price": 31.99,
         "url": "https://www.dungeondice.it/24715-sock-monsters.html"
       }
     }
@@ -17285,7 +17110,7 @@
     "name": "Escape Tales - I Bambini di Wyrmwoods",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/24837-escape-tales-i-bambini-di-wyrmwoods.html"
       }
     }
@@ -17306,7 +17131,7 @@
     "name": "Olé! Guacamole",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/24993-ole-guacamole.html"
       }
     }
@@ -17373,7 +17198,7 @@
     "name": "Decktective - Il Testamento senza Erede",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.79,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/25587-decktective-il-testamento-senza-erede.html"
       }
     }
@@ -17391,7 +17216,7 @@
     "name": "Kamisado",
     "prezzi": {
       "DungeonDice": {
-        "price": 22.39,
+        "price": 31.99,
         "url": "https://www.dungeondice.it/26074-kamisado.html"
       }
     }
@@ -17421,7 +17246,7 @@
     "name": "Pocket Detective - Conto alla Rovescia",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/26540-pocket-detective-caso-3.html"
       }
     }
@@ -17456,7 +17281,7 @@
     "name": "Unlock! Kids 1 - Detective Stories",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.19,
+        "price": 25.99,
         "url": "https://www.dungeondice.it/27134-unlock-kids-1-detective-stories.html"
       }
     }
@@ -17465,7 +17290,7 @@
     "name": "Unstable Unicorns - Unicorns of Legend",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/27186--unstable-unicorns-unicorns-of-legend.html"
       }
     }
@@ -17474,7 +17299,7 @@
     "name": "Unstable Unicorns - Adventures",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/27187-unstable-unicorns-adventures.html"
       }
     }
@@ -17483,7 +17308,7 @@
     "name": "Cardline - Animali",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.19,
+        "price": 15.99,
         "url": "https://www.dungeondice.it/27293-cardline-animali.html"
       }
     }
@@ -17500,7 +17325,7 @@
     "name": "Otto Game Over",
     "prezzi": {
       "DungeonDice": {
-        "price": 26.59,
+        "price": 37.99,
         "url": "https://www.dungeondice.it/27729--otto-game-over.html"
       }
     }
@@ -17560,7 +17385,7 @@
     "name": "Not That Movie!",
     "prezzi": {
       "DungeonDice": {
-        "price": 14.99,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/29084-not-that-movie.html"
       }
     }
@@ -17604,7 +17429,7 @@
     "name": "Scooby-Doo: Il Gioco da Tavolo",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/29598-scooby-doo-il-gioco-da-tavolo.html"
       }
     }
@@ -17674,7 +17499,7 @@
     "name": "Colourbrain",
     "prezzi": {
       "DungeonDice": {
-        "price": 14.99,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/30094-colourbrain.html"
       }
     }
@@ -17701,7 +17526,7 @@
     "name": "Magic Rabbit",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/30463-magic-rabbit.html"
       }
     }
@@ -17719,7 +17544,7 @@
     "name": "Cangaceiros",
     "prezzi": {
       "DungeonDice": {
-        "price": 38.99,
+        "price": 64.99,
         "url": "https://www.dungeondice.it/30501-cangaceiros.html"
       }
     }
@@ -17749,7 +17574,7 @@
     "name": "Zicke Zacke - Spenna il Pollo! - Nuova Edizione",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/30729-zicke-zacke-spenna-il-pollo-nuova-edizione.html"
       }
     }
@@ -17776,7 +17601,7 @@
     "name": "Hickory Dickory",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31130-hickory-dickory.html"
       }
     }
@@ -17813,12 +17638,7 @@
   },
   {
     "name": "Sagrada - Espansione 5-6 Giocatori",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 17.49,
-        "url": "https://www.dungeondice.it/12980-sagrada-espansione-5-6-giocatori.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Escape the Dark Castle",
@@ -17928,7 +17748,7 @@
     "name": "Sunrise Lane",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/32512-sunrise-lane.html"
       }
     }
@@ -18043,12 +17863,7 @@
   },
   {
     "name": "Viking Raiders",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 19.99,
-        "url": "https://www.dungeondice.it/32773-viking-raiders.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "A Spasso nel Bosco",
@@ -18137,7 +17952,7 @@
     "name": "Feed-Rex",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.65,
+        "price": 19.5,
         "url": "https://www.dungeondice.it/29417-feed-rex.html"
       }
     }
@@ -18150,7 +17965,7 @@
     "name": "Bears vs Babies",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/12266-bears-vs-babies.html"
       }
     }
@@ -18357,7 +18172,7 @@
     "name": "IQ Link",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/13206-iq-link.html"
       }
     }
@@ -18366,7 +18181,7 @@
     "name": "IQ Twist",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.79,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/13209-iq-twist.html"
       }
     }
@@ -18383,7 +18198,7 @@
     "name": "IQ Circuit",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.79,
+        "price": 13.99,
         "url": "https://www.dungeondice.it/29396-iq-circuit.html"
       }
     }
@@ -18410,7 +18225,7 @@
     "name": "IQ Six Pro",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.79,
+        "price": 13.99,
         "url": "https://www.dungeondice.it/29402-iq-six-pro.html"
       }
     }
@@ -18419,7 +18234,7 @@
     "name": "IQ Stixx",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.19,
+        "price": 15.99,
         "url": "https://www.dungeondice.it/29403-iq-stixx.html"
       }
     }
@@ -18522,7 +18337,7 @@
     "name": "Lupi Mannari di Roccascura",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.69,
+        "price": 10.99,
         "url": "https://www.dungeondice.it/3031-lupi-mannari-di-roccascura.html"
       }
     }
@@ -18601,7 +18416,7 @@
     "name": "Pandemic Legacy - Season 2 (Scatola Nera)",
     "prezzi": {
       "DungeonDice": {
-        "price": 55.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/11763-pandemic-legacy-season-2-scatola-nera.html"
       }
     }
@@ -18744,7 +18559,7 @@
     "name": "Left Right Dilemma",
     "prezzi": {
       "DungeonDice": {
-        "price": 15.39,
+        "price": 21.99,
         "url": "https://www.dungeondice.it/28489-left-right-dilemma.html"
       }
     }
@@ -18970,7 +18785,7 @@
     "name": "Penny Dreadfuls - Gli Orrori di Londra",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/31180-penny-dreadfuls-gli-orrori-di-londra.html"
       }
     }
@@ -18988,7 +18803,7 @@
     "name": "Parapiglia",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.79,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/31209-parapiglia.html"
       }
     }
@@ -19059,7 +18874,7 @@
     "name": "Timeline Twist - Star Wars",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/32328-timeline-twist-star-wars.html"
       }
     }
@@ -19244,7 +19059,7 @@
     "name": "My Shelfie - The Dice Game",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/32673-my-shelfie-the-dice-game.html"
       }
     }
@@ -19512,7 +19327,7 @@
     "name": "Rory's Story Cubes - Astro  (Ottanio)",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/19886-rory-s-story-cubes-astro-ottanio.html"
       }
     }
@@ -19537,7 +19352,7 @@
     "name": "Zombicide - La Notte dei Morti Viventi",
     "prezzi": {
       "DungeonDice": {
-        "price": 45.0,
+        "price": 89.99,
         "url": "https://www.dungeondice.it/22815-zombicide-la-notte-dei-morti-viventi.html"
       }
     }
@@ -19571,7 +19386,7 @@
     "name": "Newton & Great Discoveries",
     "prezzi": {
       "DungeonDice": {
-        "price": 31.49,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/26036-newton-great-discoveries.html"
       }
     }
@@ -19639,7 +19454,7 @@
     "name": "That's Not a Hat",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/29855-that-s-not-a-hat-.html"
       }
     }
@@ -19665,7 +19480,7 @@
     "name": "Harry Potter - Hogwarts Battle - La Scatola Mostro dei Mostri",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/11094-harry-potter-hogwarts-battle-la-scatola-mostro-dei-mostri.html"
       }
     }
@@ -19813,7 +19628,7 @@
     "name": "Twins",
     "prezzi": {
       "DungeonDice": {
-        "price": 5.99,
+        "price": 9.99,
         "url": "https://www.dungeondice.it/29857-twins.html"
       }
     }
@@ -19895,7 +19710,7 @@
     "name": "Ticket to Ride - Nederland",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/8082-ticket-to-ride-nederland.html"
       }
     }
@@ -19980,7 +19795,7 @@
     "name": "Western Legends - Il Selvaggio Mucchio di Extra",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/31113-western-legends-il-selvaggio-mucchio-di-extra.html"
       }
     }
@@ -20182,7 +19997,7 @@
     "name": "Polynesia",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/28847-polynesia.html"
       }
     }
@@ -20341,7 +20156,7 @@
     "name": "Risiko! - Oceano",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/33024-risiko-oceano.html"
       }
     }
@@ -20398,18 +20213,13 @@
   },
   {
     "name": "Western Legends - L'Uomo in Nero Variante Multigiocatore",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 3.59,
-        "url": "https://www.dungeondice.it/31117-western-legends-l-uomo-in-nero-variante-multigiocatore.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Punchline",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/30717-punchline.html"
       }
     }
@@ -20467,7 +20277,7 @@
     "name": "Crime Zoom - L'Ultima Carta",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/24990-crime-zoom-l-ultima-carta.html"
       }
     }
@@ -20539,7 +20349,7 @@
     "name": "Coatl",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/23873-coatl.html"
       }
     }
@@ -20582,7 +20392,7 @@
     "name": "Unlock! - Short Adventures - I Segreti della Piovra",
     "prezzi": {
       "DungeonDice": {
-        "price": 4.89,
+        "price": 6.99,
         "url": "https://www.dungeondice.it/31140-unlock-short-adventures-i-segreti-della-piovra.html"
       }
     }
@@ -20693,12 +20503,7 @@
   },
   {
     "name": "Kroko Loko",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 8.49,
-        "url": "https://www.dungeondice.it/31516-kroko-loko.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Above and Below - Foresta Sotterranea e Labirinto del Deserto",
@@ -20712,7 +20517,7 @@
     "name": "Alta Tensione - Mappa - Benelux, Europa Centrale",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.79,
+        "price": 13.99,
         "url": "https://www.dungeondice.it/261-alta-tensione-mappa-benelux-europa-centrale.html"
       }
     }
@@ -21953,7 +21758,7 @@
     "name": "Can't Stop",
     "prezzi": {
       "DungeonDice": {
-        "price": 19.59,
+        "price": 27.99,
         "url": "https://www.dungeondice.it/1289-can-t-stop.html"
       }
     }
@@ -22172,7 +21977,7 @@
     "name": "Dominion - Nuovi Orizzonti",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/2142-dominion-nuovi-orizzonti.html"
       }
     }
@@ -22469,7 +22274,7 @@
     "name": "Il Buono, il Brutto e il Munchkin",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/3055-il-buono-il-brutto-e-il-munchkin.html"
       }
     }
@@ -23634,7 +23439,7 @@
     "name": "Occhio alla Scimmia",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.79,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/9193-occhio-alla-scimmia.html"
       }
     }
@@ -23905,7 +23710,7 @@
     "name": "Unlock! - Mystery Adventures",
     "prezzi": {
       "DungeonDice": {
-        "price": 22.39,
+        "price": 31.99,
         "url": "https://www.dungeondice.it/11238-unlock-mystery-adventures.html"
       }
     }
@@ -24303,7 +24108,7 @@
     "name": "Mysterium",
     "prezzi": {
       "DungeonDice": {
-        "price": 31.49,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/12926-mysterium.html"
       }
     }
@@ -25061,19 +24866,14 @@
     "name": "Robbi Robot",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.79,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/22196-robbi-robot.html"
       }
     }
   },
   {
     "name": "Tsuro",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 24.49,
-        "url": "https://www.dungeondice.it/22197-tsuro.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Undo - 600 Secondi",
@@ -25319,7 +25119,7 @@
     "name": "Top Spot",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/23452-top-spot.html"
       }
     }
@@ -25614,7 +25414,7 @@
     "name": "Monopoly - One Piece",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/24877-monopoly-one-piece.html"
       }
     }
@@ -25623,7 +25423,7 @@
     "name": "Monopoly - The Nightmare Before Christmas",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/36829-monopoly-the-nightmare-before-christmas.html"
       }
     }
@@ -25632,7 +25432,7 @@
     "name": "Borgo Parmigiano",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/25052-borgo-parmigiano.html"
       }
     }
@@ -25872,7 +25672,7 @@
     "name": "Dragon Inferno",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.89,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/26316-dragon-inferno.html"
       }
     }
@@ -25915,7 +25715,7 @@
     "name": "Vektorace",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/26698-vektorace.html"
       }
     }
@@ -26487,7 +26287,7 @@
     "name": "Dobble - Disney Princess",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.89,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/29570-dobble-disney-princess.html"
       }
     }
@@ -26558,7 +26358,7 @@
     "name": "Cold Case 1 - La Verità Non Muore Mai",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.69,
+        "price": 10.99,
         "url": "https://www.dungeondice.it/29865-cold-case-1-la-verita-non-muore-mai.html"
       }
     }
@@ -26600,7 +26400,7 @@
     "name": "Disney Villainous - Bigger and Badder",
     "prezzi": {
       "DungeonDice": {
-        "price": 31.49,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/30059-disney-villainous-bigger-and-badder.html"
       }
     }
@@ -26609,7 +26409,7 @@
     "name": "Sblocca la Porta Pocket",
     "prezzi": {
       "DungeonDice": {
-        "price": 4.79,
+        "price": 7.99,
         "url": "https://www.dungeondice.it/30068-sblocca-la-porta-pocket.html"
       }
     }
@@ -26626,7 +26426,7 @@
     "name": "Overbooking",
     "prezzi": {
       "DungeonDice": {
-        "price": 19.25,
+        "price": 27.5,
         "url": "https://www.dungeondice.it/30186-overbooking.html"
       }
     }
@@ -26731,12 +26531,7 @@
   },
   {
     "name": "Skyjo",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 11.19,
-        "url": "https://www.dungeondice.it/30494--skyjo.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Set & Match XL - Volley",
@@ -26855,7 +26650,7 @@
     "name": "Silver Mine",
     "prezzi": {
       "DungeonDice": {
-        "price": 16.09,
+        "price": 22.99,
         "url": "https://www.dungeondice.it/31610-silver-mine.html"
       }
     }
@@ -26871,12 +26666,7 @@
   },
   {
     "name": "Scarabeo - Edizione Deluxe 60° Anniversario",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 32.89,
-        "url": "https://www.dungeondice.it/31659-scarabeo-edizione-deluxe-60-anniversario.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Unlock! Kids 2 - Storie dal Passato",
@@ -27002,12 +26792,7 @@
   },
   {
     "name": "Sfido Fido - Il Rompicapo dei Cani",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/25205-sfido-fido-il-rompicapo-dei-cani.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "IQ Xoxo",
@@ -27031,7 +26816,7 @@
     "name": "Activity",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.89,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/156-activity.html"
       }
     }
@@ -27080,7 +26865,7 @@
     "name": "Castle Logix",
     "prezzi": {
       "DungeonDice": {
-        "price": 23.09,
+        "price": 32.99,
         "url": "https://www.dungeondice.it/1410-castle-logix.html"
       }
     }
@@ -27125,7 +26910,7 @@
     "name": "Dinosaurs - Mystic Islands",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.89,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/2090-dinosaurs-mystic-islands.html"
       }
     }
@@ -27223,7 +27008,7 @@
     "name": "Cappuccetto Rosso - Deluxe",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/3860-cappuccetto-rosso-deluxe.html"
       }
     }
@@ -27406,7 +27191,7 @@
     "name": "Road Block",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/5790-road-block.html"
       }
     }
@@ -27551,7 +27336,7 @@
     "name": "Brain Cheeser",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/8227-brain-cheeser.html"
       }
     }
@@ -27724,7 +27509,7 @@
     "name": "MiMiQ",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.69,
+        "price": 10.99,
         "url": "https://www.dungeondice.it/10412-mimiq.html"
       }
     }
@@ -27970,7 +27755,7 @@
     "name": "Colour Code",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.89,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/13189-colour-code.html"
       }
     }
@@ -27979,7 +27764,7 @@
     "name": "Temple Connection",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.89,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/13191-temple-connection.html"
       }
     }
@@ -27988,7 +27773,7 @@
     "name": "Parking Puzzler",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/13192-parking-puzzler.html"
       }
     }
@@ -28001,7 +27786,7 @@
     "name": "Jumpin'",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/13196-jumpin-.html"
       }
     }
@@ -28018,7 +27803,7 @@
     "name": "Cube Puzzler - Go",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/13202-cube-puzzler-go.html"
       }
     }
@@ -28027,7 +27812,7 @@
     "name": "Cube Puzzler - Pro",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.99,
+        "price": 19.99,
         "url": "https://www.dungeondice.it/13203-cube-puzzler-pro.html"
       }
     }
@@ -28301,7 +28086,7 @@
     "name": "Day & Night",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/23429-day-night.html"
       }
     }
@@ -28310,7 +28095,7 @@
     "name": "Atlantis Escape",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/23436-atlantis-escape.html"
       }
     }
@@ -28319,7 +28104,7 @@
     "name": "Smart Farmer",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/23440-smart-farmer.html"
       }
     }
@@ -28588,12 +28373,7 @@
   },
   {
     "name": "Chronicles of Crime - 1900",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 15.0,
-        "url": "https://www.dungeondice.it/24793-chronicles-of-crime-1900.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Canate",
@@ -28667,7 +28447,7 @@
     "name": "Monopoly - My Hero Academia",
     "prezzi": {
       "DungeonDice": {
-        "price": 23.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/24876-monopoly-my-hero-academia.html"
       }
     }
@@ -29564,7 +29344,7 @@
     "name": "Avanti un Altro",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/29856-avanti-un-altro.html"
       }
     }
@@ -29642,7 +29422,7 @@
     "name": "Crack!",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/30106-crack.html"
       }
     }
@@ -29696,7 +29476,7 @@
     "name": "Who's The Dude?",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/30493-who-s-the-dude.html"
       }
     }
@@ -29833,7 +29613,7 @@
     "name": "By The Book",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/31582-by-the-book.html"
       }
     }
@@ -29877,12 +29657,7 @@
   },
   {
     "name": "Combinazioni Segrete In Alta Quota",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 8.0,
-        "url": "https://www.dungeondice.it/31727-combinazioni-segrete-in-alta-quota.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "MusicalMente",
@@ -30094,7 +29869,7 @@
     "name": "Gipf",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.49,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/2773-gipf.html"
       }
     }
@@ -30577,7 +30352,7 @@
     "name": "Mostri vs Eroi - I Racconti di Cthulhu",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/18631-mostri-vs-eroi-i-racconti-di-cthulhu.html"
       }
     }
@@ -30626,7 +30401,7 @@
     "name": "Pandemic - Reazione Rapida",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/18987-pandemic-reazione-rapida.html"
       }
     }
@@ -30740,7 +30515,7 @@
     "name": "Azul - Summer Pavilion",
     "prezzi": {
       "DungeonDice": {
-        "price": 31.49,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/20831-azul-summer-pavilion.html"
       }
     }
@@ -30903,12 +30678,7 @@
   },
   {
     "name": "Santa Monica",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 27.99,
-        "url": "https://www.dungeondice.it/23087-santa-monica.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Bresk!",
@@ -31138,7 +30908,7 @@
     "name": "Anti-Virus",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/388-anti-virus.html"
       }
     }
@@ -31219,7 +30989,7 @@
     "name": "Penguins on Ice",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.89,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/4922-penguins-on-ice.html"
       }
     }
@@ -31228,7 +30998,7 @@
     "name": "Quadrillion",
     "prezzi": {
       "DungeonDice": {
-        "price": 16.19,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/5373-quadrillion.html"
       }
     }
@@ -31245,7 +31015,7 @@
     "name": "Magic Forest",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/8230-magic-forest.html"
       }
     }
@@ -31461,7 +31231,7 @@
     "name": "Plug & Play Puzzler",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.69,
+        "price": 10.99,
         "url": "https://www.dungeondice.it/23438-plug-play-puzzler.html"
       }
     }
@@ -31474,7 +31244,7 @@
     "name": "Flippin' Dolphins",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/23445-flippin-dolphins.html"
       }
     }
@@ -31483,7 +31253,7 @@
     "name": "Tangoes Animals",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/23447-tangoes-animals.html"
       }
     }
@@ -31874,7 +31644,7 @@
     "name": "Make A Mooove",
     "prezzi": {
       "DungeonDice": {
-        "price": 12.59,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/29563-make-a-mooove.html"
       }
     }
@@ -31936,7 +31706,7 @@
     "name": "Pirata Pop-Up!",
     "prezzi": {
       "DungeonDice": {
-        "price": 15.39,
+        "price": 21.99,
         "url": "https://www.dungeondice.it/30098-pirata-pop-up.html"
       }
     }
@@ -32022,7 +31792,7 @@
     "name": "Lorenzo il Magnifico - Leader Salviati - Carlo VIII",
     "prezzi": {
       "DungeonDice": {
-        "price": 1.75,
+        "price": 2.5,
         "url": "https://www.dungeondice.it/10421-lorenzo-il-magnifico-leader-salviati-carlo-viii.html"
       }
     }
@@ -32049,12 +31819,7 @@
   },
   {
     "name": "Undaunted - Normandy",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 24.49,
-        "url": "https://www.dungeondice.it/23388-undaunted-normandy.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "La Cucaracha - Travel",
@@ -32171,12 +31936,7 @@
   },
   {
     "name": "Terra Pyramides + 2 Espansioni",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 34.99,
-        "url": "https://www.dungeondice.it/34927-terra-pyramides-2-espansioni.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Jungo",
@@ -32535,12 +32295,7 @@
   },
   {
     "name": "Super Mario - Malefiz Barricade",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 6.99,
-        "url": "https://www.dungeondice.it/36077-super-mario-malefiz-barricade.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Miraculous Dice-Duel",
@@ -32594,7 +32349,7 @@
     "name": "Level 8 - Stitch",
     "prezzi": {
       "DungeonDice": {
-        "price": 8.39,
+        "price": 11.99,
         "url": "https://www.dungeondice.it/36095-level-8-stitch.html"
       }
     }
@@ -32678,7 +32433,7 @@
     "name": "Burraco Junior",
     "prezzi": {
       "DungeonDice": {
-        "price": 5.59,
+        "price": 7.99,
         "url": "https://www.dungeondice.it/36280-burraco-junior.html"
       }
     }
@@ -32927,7 +32682,7 @@
     "name": "Stupor Mundi - Frederick's Sons + \"Gates\" Mini-expansion",
     "prezzi": {
       "DungeonDice": {
-        "price": 4.19,
+        "price": 5.99,
         "url": "https://www.dungeondice.it/37426-stupor-mundi-frederick-s-sons-gates-mini-expansion.html"
       }
     }
@@ -32944,7 +32699,7 @@
     "name": "Genius Star",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.19,
+        "price": 25.99,
         "url": "https://www.dungeondice.it/37439-genius-star.html"
       }
     }
@@ -32953,7 +32708,7 @@
     "name": "Genius Gems",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.19,
+        "price": 25.99,
         "url": "https://www.dungeondice.it/37440-genius-gems.html"
       }
     }
@@ -33130,7 +32885,7 @@
     "name": "Fishtricks",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/37543-fishtricks.html"
       }
     }
@@ -33157,7 +32912,7 @@
     "name": "Apple Puzzler",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.89,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/37546-apple-puzzler.html"
       }
     }
@@ -33199,7 +32954,7 @@
     "name": "5 Little Birds",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.89,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/37556-5-little-birds.html"
       }
     }
@@ -33208,7 +32963,7 @@
     "name": "IQ Waves",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.09,
+        "price": 12.99,
         "url": "https://www.dungeondice.it/37557-iq-waves.html"
       }
     }
@@ -33221,7 +32976,7 @@
     "name": "Dropzone",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.89,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/37559-dropzone.html"
       }
     }
@@ -33230,7 +32985,7 @@
     "name": "Smart Dog",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/37560-smart-dog.html"
       }
     }
@@ -33239,7 +32994,7 @@
     "name": "LogiBugs",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/37561-logibugs.html"
       }
     }
@@ -33257,7 +33012,7 @@
     "name": "IQ Gears",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.19,
+        "price": 15.99,
         "url": "https://www.dungeondice.it/37564-iq-gears.html"
       }
     }
@@ -33441,7 +33196,7 @@
     "name": "Diamond Quest",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/37679-diamond-quest.html"
       }
     }
@@ -33450,7 +33205,7 @@
     "name": "Apple Twist",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/37680-apple-twist.html"
       }
     }
@@ -33463,7 +33218,7 @@
     "name": "Monster Hide & Seek",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/37682-monster-hide-seek.html"
       }
     }
@@ -33472,7 +33227,7 @@
     "name": "Robot Factory",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.29,
+        "price": 18.99,
         "url": "https://www.dungeondice.it/37684-robot-factory.html"
       }
     }
@@ -33485,7 +33240,7 @@
     "name": "Criss Cross Cube",
     "prezzi": {
       "DungeonDice": {
-        "price": 11.89,
+        "price": 16.99,
         "url": "https://www.dungeondice.it/37686-criss-cross-cube.html"
       }
     }
@@ -33494,7 +33249,7 @@
     "name": "MiMiQ Farm",
     "prezzi": {
       "DungeonDice": {
-        "price": 7.69,
+        "price": 10.99,
         "url": "https://www.dungeondice.it/37687-mimiq-farm.html"
       }
     }
@@ -33516,7 +33271,7 @@
     "name": "Turtle Tactics",
     "prezzi": {
       "DungeonDice": {
-        "price": 10.49,
+        "price": 14.99,
         "url": "https://www.dungeondice.it/37690-turtle-tactics.html"
       }
     }
@@ -33525,7 +33280,7 @@
     "name": "Gooal!",
     "prezzi": {
       "DungeonDice": {
-        "price": 9.79,
+        "price": 13.99,
         "url": "https://www.dungeondice.it/37691-gooal.html"
       }
     }
@@ -33534,7 +33289,7 @@
     "name": "Yatzy Train",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.29,
+        "price": 8.99,
         "url": "https://www.dungeondice.it/37692-yatzy-train.html"
       }
     }
@@ -33543,7 +33298,7 @@
     "name": "Yatzy Zoo",
     "prezzi": {
       "DungeonDice": {
-        "price": 6.29,
+        "price": 8.99,
         "url": "https://www.dungeondice.it/37693-yatzy-zoo.html"
       }
     }
@@ -33587,7 +33342,7 @@
     "name": "Catan - Marinai - Nuova Edizione 2025",
     "prezzi": {
       "DungeonDice": {
-        "price": 25.89,
+        "price": 36.99,
         "url": "https://www.dungeondice.it/37704-catan-marinai-nuova-edizione-2025.html"
       }
     }
