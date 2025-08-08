@@ -5,7 +5,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/174298-castle-combo.html",
       "https://www.dungeondice.it/34459-castle-combo.html",
-      "https://magicmerchant.it/catalogue/castle-combo-82014/"
+      "https://magicmerchant.it/catalogue/castle-combo-82014/",
+      "https://www.getyourfun.it/036033-castle-combo-giochi-di-carte.html"
     ]
   },
   {
@@ -14,7 +15,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html",
       "https://www.dungeondice.it/24508-everdell-farshore.html",
-      "https://magicmerchant.it/catalogue/everdell-farshore-80736/"
+      "https://magicmerchant.it/catalogue/everdell-farshore-80736/",
+      "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html",
+      "https://player1.it/prodotto/everdell-farshore/"
     ]
   },
   {
@@ -23,16 +26,19 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/159676-seti-ricerca-di-intelligenza-extraterrestre-ita.html",
       "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html",
-      "https://magicmerchant.it/catalogue/seti-ricerca-di-intelligenza-extraterrestre-79766/"
+      "https://magicmerchant.it/catalogue/seti-ricerca-di-intelligenza-extraterrestre-79766/",
+      "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html",
+      "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
     ]
   },
   {
     "name": "Arcs",
-    "threshold": 57.19,
+    "threshold": 55.24,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/186086-arcs-conflitti-e-collasso-nellorlo-ita.html",
       "https://www.dungeondice.it/22972-arcs.html",
-      "https://magicmerchant.it/catalogue/arcs-83629/"
+      "https://magicmerchant.it/catalogue/arcs-83629/",
+      "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
     ]
   },
   {
@@ -41,30 +47,20 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/164464-cyclades-edizione-leggendaria.html",
       "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html",
-      "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
+      "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/",
+      "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html",
+      "https://player1.it/prodotto/cyclades-edizione-leggendaria/"
     ]
   },
   {
     "name": "Harmonies",
-    "threshold": 34.89,
+    "threshold": 27.9,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/100246-harmonies.html",
       "https://www.dungeondice.it/27178-harmonies.html",
-      "https://magicmerchant.it/catalogue/harmonies-76471/"
-    ]
-  },
-  {
-    "name": "Root | Big Bundle",
-    "threshold": 1000,
-    "links": [
-      "https://www.dungeondice.it/28631-root.html"
-    ]
-  },
-  {
-    "name": "Le Rovine Perdute di Arnak | Big Bundle",
-    "threshold": 1000,
-    "links": [
-      "https://www.dungeondice.it/32232-le-rovine-perdute-di-arnak.html"
+      "https://magicmerchant.it/catalogue/harmonies-76471/",
+      "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html",
+      "https://player1.it/prodotto/harmonies/"
     ]
   },
   {
@@ -73,16 +69,19 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/125151-horrified.html",
       "https://www.dungeondice.it/32494-horrified.html",
-      "https://magicmerchant.it/catalogue/horrified-75434/"
+      "https://magicmerchant.it/catalogue/horrified-75434/",
+      "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
     ]
   },
   {
     "name": "Great Western Trail - Nuova Zelanda",
-    "threshold": 41.99,
+    "threshold": 41.9,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/38932-great-western-trail-nuova-zelanda.html",
       "https://www.dungeondice.it/31628-great-western-trail-nuova-zelanda.html",
-      "https://magicmerchant.it/catalogue/great-western-trail-nuova-zelanda-71226/"
+      "https://magicmerchant.it/catalogue/great-western-trail-nuova-zelanda-71226/",
+      "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html",
+      "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
     ]
   },
   {
@@ -91,7 +90,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/21270-aeons-end-ita.html",
       "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html",
-      "https://magicmerchant.it/catalogue/aeons-end-66441/"
+      "https://magicmerchant.it/catalogue/aeons-end-66441/",
+      "https://player1.it/prodotto/aeons-end-seconda-edizione/"
     ]
   },
   {
@@ -100,16 +100,20 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html",
       "https://www.dungeondice.it/30317-revive.html",
-      "https://magicmerchant.it/catalogue/revive-66446/"
+      "https://magicmerchant.it/catalogue/revive-66446/",
+      "https://www.getyourfun.it/018894-revive-giochi-gestionali.html",
+      "https://player1.it/prodotto/revive/"
     ]
   },
   {
     "name": "It's a Wonderful World",
-    "threshold": 33.99,
+    "threshold": 31.49,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/12659-its-a-wonderful-world.html",
       "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html",
-      "https://magicmerchant.it/catalogue/its-a-wonderful-world-46827/"
+      "https://magicmerchant.it/catalogue/its-a-wonderful-world-46827/",
+      "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html",
+      "https://player1.it/prodotto/its-a-wonderful-world/"
     ]
   },
   {
@@ -117,7 +121,9 @@
     "threshold": 1000,
     "links": [
       "https://www.dungeondice.it/27380-race-for-the-galaxy.html",
-      "https://magicmerchant.it/catalogue/race-for-the-galaxy-60036/"
+      "https://magicmerchant.it/catalogue/race-for-the-galaxy-60036/",
+      "https://www.getyourfun.it/04974-race-for-the-galaxy-seconda-edizione-giochi-gestionali.html",
+      "https://player1.it/prodotto/race-for-the-galaxy-seconda-edizione/"
     ]
   },
   {
@@ -126,7 +132,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html",
       "https://www.dungeondice.it/31282-trajan-deluxe.html",
-      "https://magicmerchant.it/catalogue/trajan-deluxe-68316/"
+      "https://magicmerchant.it/catalogue/trajan-deluxe-68316/",
+      "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html",
+      "https://player1.it/prodotto/trajan-deluxe/"
     ]
   },
   {
@@ -134,7 +142,8 @@
     "threshold": 1000,
     "links": [
       "https://www.dungeondice.it/26519-arboretum.html",
-      "https://magicmerchant.it/catalogue/arboretum-57785/"
+      "https://magicmerchant.it/catalogue/arboretum-57785/",
+      "https://www.getyourfun.it/03905-arboretum-en-giochi-di-carte.html"
     ]
   },
   {
@@ -143,7 +152,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/84908-captain-flip.html",
       "https://www.dungeondice.it/32757-captain-flip.html",
-      "https://magicmerchant.it/catalogue/captain-flip-75355/"
+      "https://magicmerchant.it/catalogue/captain-flip-75355/",
+      "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
     ]
   },
   {
@@ -152,7 +162,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html",
       "https://www.dungeondice.it/29996-port-royal-big-box.html",
-      "https://magicmerchant.it/catalogue/port-royal-big-box-65013/"
+      "https://magicmerchant.it/catalogue/port-royal-big-box-65013/",
+      "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html",
+      "https://player1.it/prodotto/port-royal-big-box/"
     ]
   },
   {
@@ -161,16 +173,20 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html",
       "https://www.dungeondice.it/29880-heat.html",
-      "https://magicmerchant.it/catalogue/heat-64960/"
+      "https://magicmerchant.it/catalogue/heat-64960/",
+      "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html",
+      "https://player1.it/prodotto/heat/"
     ]
   },
   {
     "name": "Forest Shuffle",
-    "threshold": 23.99,
+    "threshold": 22.9,
     "links": [
       "https://fantasiastore.it/it/giochi-di-carte/29233-forest-shuffle.html",
       "https://www.dungeondice.it/31284-forest-shuffle.html",
-      "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
+      "https://magicmerchant.it/catalogue/forest-shuffle-70170/",
+      "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html",
+      "https://player1.it/prodotto/forest-shuffle/"
     ]
   },
   {
@@ -178,24 +194,29 @@
     "threshold": 89.99,
     "links": [
       "https://www.dungeondice.it/26097-beyond-the-sun.html",
-      "https://magicmerchant.it/catalogue/beyond-the-sun-56873/"
+      "https://magicmerchant.it/catalogue/beyond-the-sun-56873/",
+      "https://www.getyourfun.it/04154-beyond-the-sun-giochi-gestionali.html"
     ]
   },
   {
     "name": "Agricola",
-    "threshold": 38.99,
+    "threshold": 38.9,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/2566-agricola.html",
       "https://www.dungeondice.it/21782-agricola.html",
-      "https://magicmerchant.it/catalogue/agricola-47772/"
+      "https://magicmerchant.it/catalogue/agricola-47772/",
+      "https://www.getyourfun.it/029-agricola-giochi-gestionali.html",
+      "https://player1.it/prodotto/agricola/"
     ]
   },
   {
     "name": "Terra Mystica - L'Era delle Scoperte",
-    "threshold": 67.91,
+    "threshold": 55.9,
     "links": [
       "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html",
-      "https://magicmerchant.it/catalogue/terra-mystica-lera-delle-scoperte-68297/"
+      "https://magicmerchant.it/catalogue/terra-mystica-lera-delle-scoperte-68297/",
+      "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html",
+      "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
     ]
   },
   {
@@ -204,16 +225,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html",
       "https://www.dungeondice.it/28624-tiletum.html",
-      "https://magicmerchant.it/catalogue/tiletum-64073/"
-    ]
-  },
-  {
-    "name": "Cthulhu - Death May Die",
-    "threshold": 79.99,
-    "links": [
-      "https://fantasiastore.it/it/giochi-per-esperti/9414-cthulhu-death-may-die.html",
-      "https://www.dungeondice.it/19870-cthulhu-death-may-die.html",
-      "https://magicmerchant.it/catalogue/cthulhu-death-may-die-44697/"
+      "https://magicmerchant.it/catalogue/tiletum-64073/",
+      "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
     ]
   },
   {
@@ -221,7 +234,9 @@
     "threshold": 1000,
     "links": [
       "https://www.dungeondice.it/23874-hansa-teutonica-big-box.html",
-      "https://magicmerchant.it/catalogue/hansa-teutonica-big-box-49716/"
+      "https://magicmerchant.it/catalogue/hansa-teutonica-big-box-49716/",
+      "https://www.getyourfun.it/03160-hansa-teutonica-big-box-giochi-gestionali.html",
+      "https://player1.it/prodotto/hansa-teutonica-big-box/"
     ]
   },
   {
@@ -230,7 +245,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-di-carte/10991-nidavellir.html",
       "https://www.dungeondice.it/23035-nidavellir.html",
-      "https://magicmerchant.it/catalogue/nidavellir-49570/"
+      "https://magicmerchant.it/catalogue/nidavellir-49570/",
+      "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
     ]
   },
   {
@@ -239,7 +255,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html",
       "https://www.dungeondice.it/2141-dominion-seconda-edizione.html",
-      "https://magicmerchant.it/catalogue/dominion-seconda-edizione-52378/"
+      "https://magicmerchant.it/catalogue/dominion-seconda-edizione-52378/",
+      "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
     ]
   },
   {
@@ -248,7 +265,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/63952-obsession.html",
       "https://www.dungeondice.it/30862-obsession.html",
-      "https://magicmerchant.it/catalogue/obsession-65384/"
+      "https://magicmerchant.it/catalogue/obsession-65384/",
+      "https://www.getyourfun.it/019679-obsession-giochi-gestionali.html"
     ]
   },
   {
@@ -256,7 +274,9 @@
     "threshold": 44.99,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/378-viticulture-essential-edition.html",
-      "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
+      "https://www.dungeondice.it/8432-viticulture-essential-edition.html",
+      "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html",
+      "https://player1.it/prodotto/viticulture-essential-edition/"
     ]
   },
   {
@@ -264,7 +284,8 @@
     "threshold": 32.49,
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/7320-stone-age-linizio-del-viaggio.html",
-      "https://www.dungeondice.it/7315-stone-age.html"
+      "https://www.dungeondice.it/7315-stone-age.html",
+      "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
     ]
   },
   {
@@ -273,7 +294,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/1476-rising-sun.html",
       "https://www.dungeondice.it/10533-rising-sun.html",
-      "https://magicmerchant.it/catalogue/rising-sun-34500/"
+      "https://magicmerchant.it/catalogue/rising-sun-34500/",
+      "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
     ]
   },
   {
@@ -282,7 +304,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/12977-bonfire.html",
       "https://www.dungeondice.it/22342-bonfire.html",
-      "https://magicmerchant.it/catalogue/bonfire-47895/"
+      "https://magicmerchant.it/catalogue/bonfire-47895/",
+      "https://www.getyourfun.it/01097-bonfire-giochi-gestionali.html"
     ]
   },
   {
@@ -290,7 +313,9 @@
     "threshold": 1000,
     "links": [
       "https://www.dungeondice.it/11900-architetti-del-regno-occidentale.html",
-      "https://magicmerchant.it/catalogue/architetti-del-regno-occidentale-38117/"
+      "https://magicmerchant.it/catalogue/architetti-del-regno-occidentale-38117/",
+      "https://www.getyourfun.it/0274-architetti-del-regno-occidentale-giochi-gestionali.html",
+      "https://player1.it/prodotto/architetti-del-regno-occidentale/"
     ]
   },
   {
@@ -298,7 +323,9 @@
     "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/22757-visconti-del-regno-occidentale.html",
-      "https://magicmerchant.it/catalogue/visconti-del-regno-occidentale-47984/"
+      "https://magicmerchant.it/catalogue/visconti-del-regno-occidentale-47984/",
+      "https://www.getyourfun.it/01498-visconti-del-regno-occidentale-giochi-gestionali.html",
+      "https://player1.it/prodotto/visconti-del-regno-occidentale/"
     ]
   },
   {
@@ -307,7 +334,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html",
       "https://www.dungeondice.it/30284-earth.html",
-      "https://magicmerchant.it/catalogue/earth-66410/"
+      "https://magicmerchant.it/catalogue/earth-66410/",
+      "https://www.getyourfun.it/018905-earth-giochi-gestionali.html",
+      "https://player1.it/prodotto/earth/"
     ]
   },
   {
@@ -316,7 +345,9 @@
     "links": [
       "https://fantasiastore.it/it/grandi-classici/67024-azul.html",
       "https://www.dungeondice.it/10719-azul.html",
-      "https://magicmerchant.it/catalogue/azul-35255/"
+      "https://magicmerchant.it/catalogue/azul-35255/",
+      "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html",
+      "https://player1.it/prodotto/azul/"
     ]
   },
   {
@@ -325,7 +356,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html",
       "https://www.dungeondice.it/6052-seasons.html",
-      "https://magicmerchant.it/catalogue/seasons-2951/"
+      "https://magicmerchant.it/catalogue/seasons-2951/",
+      "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html",
+      "https://player1.it/prodotto/seasons/"
     ]
   },
   {
@@ -334,16 +367,20 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/62777-fields-of-arle-big-box.html",
       "https://www.dungeondice.it/30756-fields-of-arle-big-box.html",
-      "https://magicmerchant.it/catalogue/fields-of-arle-big-box-67381/"
+      "https://magicmerchant.it/catalogue/fields-of-arle-big-box-67381/",
+      "https://www.getyourfun.it/019576-fields-of-arle-big-box-giochi-gestionali.html",
+      "https://player1.it/prodotto/fields-of-arle-big-box/"
     ]
   },
   {
     "name": "Studiosi a Sud del Tigri",
-    "threshold": 24.45,
+    "threshold": 22.5,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/60634-studiosi-a-sud-del-tigri-ita.html",
       "https://www.dungeondice.it/32255-studiosi-a-sud-del-tigri.html",
-      "https://magicmerchant.it/catalogue/studiosi-a-sud-del-tigri-72002/"
+      "https://magicmerchant.it/catalogue/studiosi-a-sud-del-tigri-72002/",
+      "https://www.getyourfun.it/019772-studiosi-a-sud-del-tigri-giochi-gestionali.html",
+      "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
     ]
   },
   {
@@ -352,7 +389,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/5846-western-legends-ita.html",
       "https://www.dungeondice.it/19813-western-legends.html",
-      "https://magicmerchant.it/catalogue/western-legends-44681/"
+      "https://magicmerchant.it/catalogue/western-legends-44681/",
+      "https://www.getyourfun.it/0623-western-legends-giochi-di-avventura.html"
     ]
   },
   {
@@ -361,7 +399,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/15226-grand-austria-hotel-edizione-2022.html",
       "https://www.dungeondice.it/27950-grand-austria-hotel.html",
-      "https://magicmerchant.it/catalogue/grand-austria-hotel-61025/"
+      "https://magicmerchant.it/catalogue/grand-austria-hotel-61025/",
+      "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html",
+      "https://player1.it/prodotto/grand-austria-hotel-2/"
     ]
   },
   {
@@ -370,7 +410,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html",
       "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html",
-      "https://magicmerchant.it/catalogue/kutna-hora-la-citta-dellargento-72001/"
+      "https://magicmerchant.it/catalogue/kutna-hora-la-citta-dellargento-72001/",
+      "https://www.getyourfun.it/019780-kutna-hora-la-citta-dell-argento-giochi-gestionali.html",
+      "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
     ]
   },
   {
@@ -379,7 +421,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/93101-hegemony-versione-estesa-ita.html",
       "https://www.dungeondice.it/33072-hegemony-versione-estesa.html",
-      "https://magicmerchant.it/catalogue/hegemony-versione-estesa-76479/"
+      "https://magicmerchant.it/catalogue/hegemony-versione-estesa-76479/",
+      "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html",
+      "https://player1.it/prodotto/hegemony-versione-estesa/"
     ]
   },
   {
@@ -388,7 +432,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/19464-village-big-box.html",
       "https://www.dungeondice.it/29882-village-big-box.html",
-      "https://magicmerchant.it/catalogue/village-big-box-64991/"
+      "https://magicmerchant.it/catalogue/village-big-box-64991/",
+      "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html",
+      "https://player1.it/prodotto/village-big-box/"
     ]
   },
   {
@@ -397,16 +443,20 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html",
       "https://www.dungeondice.it/32351-apiary.html",
-      "https://magicmerchant.it/catalogue/apiary-72048/"
+      "https://magicmerchant.it/catalogue/apiary-72048/",
+      "https://www.getyourfun.it/019812--apiary-giochi-gestionali.html",
+      "https://player1.it/prodotto/apiary/"
     ]
   },
   {
     "name": "Viandanti a Sud del Tigri",
-    "threshold": 24.45,
+    "threshold": 22.5,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/19320-viandanti-a-sud-del-tigri.html",
       "https://www.dungeondice.it/29871-viandanti-a-sud-del-tigri.html",
-      "https://magicmerchant.it/catalogue/viandanti-a-sud-del-tigri-64965/"
+      "https://magicmerchant.it/catalogue/viandanti-a-sud-del-tigri-64965/",
+      "https://www.getyourfun.it/013185-viandanti-a-sud-del-tigri-giochi-gestionali.html",
+      "https://player1.it/prodotto/viandanti-a-sud-del-tigri/"
     ]
   },
   {
@@ -415,16 +465,18 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/20462-lisola-dei-gatti.html",
       "https://www.dungeondice.it/30137-l-isola-dei-gatti.html",
-      "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
+      "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/",
+      "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
     ]
   },
   {
     "name": "Alta Tensione - Recharged",
-    "threshold": 37.59,
+    "threshold": 37.52,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/2634-alta-tensione-recharged.html",
       "https://www.dungeondice.it/19629-alta-tensione-recharged.html",
-      "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
+      "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/",
+      "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
     ]
   },
   {
@@ -433,7 +485,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/23241-le-havre.html",
       "https://www.dungeondice.it/3780-le-havre.html",
-      "https://magicmerchant.it/catalogue/le-havre-66594/"
+      "https://magicmerchant.it/catalogue/le-havre-66594/",
+      "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html",
+      "https://player1.it/prodotto/le-havre/"
     ]
   },
   {
@@ -442,7 +496,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/8597-dune.html",
       "https://www.dungeondice.it/22774-dune.html",
-      "https://magicmerchant.it/catalogue/dune-49568/"
+      "https://magicmerchant.it/catalogue/dune-49568/",
+      "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html",
+      "https://player1.it/prodotto/dune/"
     ]
   },
   {
@@ -451,7 +507,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/21004-great-western-trail-argentina-ita.html",
       "https://www.dungeondice.it/30320-great-western-trail-argentina.html",
-      "https://magicmerchant.it/catalogue/great-western-trail-argentina-66413/"
+      "https://magicmerchant.it/catalogue/great-western-trail-argentina-66413/",
+      "https://www.getyourfun.it/018897-great-western-trail-argentina-giochi-gestionali.html",
+      "https://player1.it/prodotto/great-western-trail-argentina/"
     ]
   },
   {
@@ -459,7 +517,9 @@
     "threshold": 34.25,
     "links": [
       "https://www.dungeondice.it/30757-federation.html",
-      "https://magicmerchant.it/catalogue/federation-67380/"
+      "https://magicmerchant.it/catalogue/federation-67380/",
+      "https://www.getyourfun.it/019577-federation-giochi-gestionali.html",
+      "https://player1.it/prodotto/federation/"
     ]
   },
   {
@@ -468,16 +528,19 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html",
       "https://www.dungeondice.it/25648-inis-big-box.html",
-      "https://magicmerchant.it/catalogue/inis-big-box-56819/"
+      "https://magicmerchant.it/catalogue/inis-big-box-56819/",
+      "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
     ]
   },
   {
     "name": "Cascadia",
-    "threshold": 29.99,
+    "threshold": 28.9,
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/12292-cascadia.html",
       "https://www.dungeondice.it/25072-cascadia.html",
-      "https://magicmerchant.it/catalogue/cascadia-55641/"
+      "https://magicmerchant.it/catalogue/cascadia-55641/",
+      "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html",
+      "https://player1.it/prodotto/cascadia/"
     ]
   },
   {
@@ -486,16 +549,20 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/145764-endeavor-abissi-marini.html",
       "https://www.dungeondice.it/32822-endeavor-abissi-marini.html",
-      "https://magicmerchant.it/catalogue/endeavor-abissi-marini-78467/"
+      "https://magicmerchant.it/catalogue/endeavor-abissi-marini-78467/",
+      "https://www.getyourfun.it/019900-endeavor-abissi-marini-giochi-gestionali.html",
+      "https://player1.it/prodotto/endeavor-abissi-marini/"
     ]
   },
   {
     "name": "Starship Captains",
-    "threshold": 14.99,
+    "threshold": 12.5,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html",
       "https://www.dungeondice.it/28831-starship-captains.html",
-      "https://magicmerchant.it/catalogue/starship-captains-62729/"
+      "https://magicmerchant.it/catalogue/starship-captains-62729/",
+      "https://www.getyourfun.it/08435-starship-captains-giochi-gestionali.html",
+      "https://player1.it/prodotto/starship-captains/"
     ]
   },
   {
@@ -504,16 +571,20 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html",
       "https://www.dungeondice.it/25620-golem.html",
-      "https://magicmerchant.it/catalogue/golem-55633/"
+      "https://magicmerchant.it/catalogue/golem-55633/",
+      "https://www.getyourfun.it/03826-golem-giochi-gestionali.html",
+      "https://player1.it/prodotto/golem/"
     ]
   },
   {
     "name": "Terra Nova",
-    "threshold": 35.99,
+    "threshold": 35.9,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/23473-terra-nova-ita.html",
       "https://www.dungeondice.it/30238-terra-nova.html",
-      "https://magicmerchant.it/catalogue/terra-nova-65070/"
+      "https://magicmerchant.it/catalogue/terra-nova-65070/",
+      "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html",
+      "https://player1.it/prodotto/terra-nova/"
     ]
   },
   {
@@ -522,7 +593,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-di-carte/10048-res-arcana.html",
       "https://www.dungeondice.it/23263-res-arcana.html",
-      "https://magicmerchant.it/catalogue/res-arcana-49698/"
+      "https://magicmerchant.it/catalogue/res-arcana-49698/",
+      "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
     ]
   },
   {
@@ -531,16 +603,19 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html",
       "https://www.dungeondice.it/32771-yokohama-seconda-edizione.html",
-      "https://magicmerchant.it/catalogue/yokohama-seconda-edizione-78753/"
+      "https://magicmerchant.it/catalogue/yokohama-seconda-edizione-78753/",
+      "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
     ]
   },
   {
     "name": "Calico",
-    "threshold": 1000,
+    "threshold": 39.99,
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/9978-calico.html",
       "https://www.dungeondice.it/23086-calico.html",
-      "https://magicmerchant.it/catalogue/calico-49447/"
+      "https://magicmerchant.it/catalogue/calico-49447/",
+      "https://www.getyourfun.it/03081-calico-giochi-per-famiglia.html",
+      "https://player1.it/prodotto/calico/"
     ]
   },
   {
@@ -549,7 +624,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/136077-the-white-castle.html",
       "https://www.dungeondice.it/31788-the-white-castle.html",
-      "https://magicmerchant.it/catalogue/the-white-castle-71210/"
+      "https://magicmerchant.it/catalogue/the-white-castle-71210/",
+      "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html",
+      "https://player1.it/prodotto/the-white-castle/"
     ]
   },
   {
@@ -558,7 +635,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/142897-faraway-cover-blu.html",
       "https://www.dungeondice.it/32506-faraway-cover-blu.html",
-      "https://magicmerchant.it/catalogue/faraway-cover-blu-78433/"
+      "https://magicmerchant.it/catalogue/faraway-cover-blu-78433/",
+      "https://www.getyourfun.it/027907-faraway-cover-blu-giochi-per-famiglia.html"
     ]
   },
   {
@@ -567,7 +645,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/142898-faraway-cover-verde.html",
       "https://www.dungeondice.it/32517-faraway-cover-verde.html",
-      "https://magicmerchant.it/catalogue/faraway-cover-verde-78434/"
+      "https://magicmerchant.it/catalogue/faraway-cover-verde-78434/",
+      "https://www.getyourfun.it/027908-faraway-cover-verde-giochi-per-famiglia.html"
     ]
   },
   {
@@ -576,7 +655,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/72292-mlem-agenzia-spaziale.html",
       "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html",
-      "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
+      "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/",
+      "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
     ]
   },
   {
@@ -584,7 +664,8 @@
     "threshold": 1000,
     "links": [
       "https://www.dungeondice.it/23412-istanbul-big-box.html",
-      "https://magicmerchant.it/catalogue/istanbul-big-box-47867/"
+      "https://magicmerchant.it/catalogue/istanbul-big-box-47867/",
+      "https://www.getyourfun.it/0978-istanbul-big-box-en-giochi-gestionali.html"
     ]
   },
   {
@@ -600,7 +681,8 @@
     "threshold": 1000,
     "links": [
       "https://www.dungeondice.it/19881-paladini-del-regno-occidentale.html",
-      "https://magicmerchant.it/catalogue/paladini-del-regno-occidentale-40826/"
+      "https://magicmerchant.it/catalogue/paladini-del-regno-occidentale-40826/",
+      "https://www.getyourfun.it/0610-paladini-del-regno-occidentale-giochi-gestionali.html"
     ]
   },
   {
@@ -609,7 +691,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html",
       "https://www.dungeondice.it/32383-faraway-cover-arancione.html",
-      "https://magicmerchant.it/catalogue/faraway-cover-arancione-78432/"
+      "https://magicmerchant.it/catalogue/faraway-cover-arancione-78432/",
+      "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
     ]
   },
   {
@@ -617,7 +700,9 @@
     "threshold": 1000,
     "links": [
       "https://www.dungeondice.it/27335-carnegie.html",
-      "https://magicmerchant.it/catalogue/carnegie-60046/"
+      "https://magicmerchant.it/catalogue/carnegie-60046/",
+      "https://www.getyourfun.it/04963-carnegie-giochi-gestionali.html",
+      "https://player1.it/prodotto/carnegie/"
     ]
   },
   {
@@ -626,7 +711,8 @@
     "links": [
       "https://fantasiastore.it/it/cooperativi/8556-the-crew.html",
       "https://www.dungeondice.it/22687-the-crew.html",
-      "https://magicmerchant.it/catalogue/the-crew-47988/"
+      "https://magicmerchant.it/catalogue/the-crew-47988/",
+      "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
     ]
   },
   {
@@ -635,7 +721,9 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/9239-ciarlatani-di-quedlinburgo.html",
       "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html",
-      "https://magicmerchant.it/catalogue/ciarlatani-di-quedlinburgo-42287/"
+      "https://magicmerchant.it/catalogue/ciarlatani-di-quedlinburgo-42287/",
+      "https://www.getyourfun.it/0396-ciarlatani-di-quedlinburgo-giochi-per-famiglia.html",
+      "https://player1.it/prodotto/ciarlatani-di-quedlinburgo/"
     ]
   },
   {
@@ -669,7 +757,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/13634-cryptid.html",
       "https://www.dungeondice.it/13172-cryptid.html",
-      "https://magicmerchant.it/catalogue/cryptid-40822/"
+      "https://magicmerchant.it/catalogue/cryptid-40822/",
+      "https://www.getyourfun.it/0281-cryptid-giochi-di-investigazione.html"
     ]
   },
   {
@@ -677,7 +766,8 @@
     "threshold": 79.99,
     "links": [
       "https://www.dungeondice.it/24577-hallertau.html",
-      "https://magicmerchant.it/catalogue/hallertau-53843/"
+      "https://magicmerchant.it/catalogue/hallertau-53843/",
+      "https://www.getyourfun.it/03509-hallertau-giochi-gestionali.html"
     ]
   },
   {
@@ -685,7 +775,8 @@
     "threshold": 1000,
     "links": [
       "https://www.dungeondice.it/25078-catan-big-box.html",
-      "https://magicmerchant.it/catalogue/catan-big-box-30702/"
+      "https://magicmerchant.it/catalogue/catan-big-box-30702/",
+      "https://www.getyourfun.it/03876-catan-big-box-giochi-per-famiglia.html"
     ]
   },
   {
@@ -693,16 +784,8 @@
     "threshold": 34.99,
     "links": [
       "https://www.dungeondice.it/25656-mantis-falls.html",
-      "https://magicmerchant.it/catalogue/mantis-falls-55635/"
-    ]
-  },
-  {
-    "name": "El Dorado",
-    "threshold": 39.59,
-    "links": [
-      "https://fantasiastore.it/it/giochi-semplici-e-family-games/23440-el-dorado-edizione-2022.html",
-      "https://www.dungeondice.it/30403-el-dorado-seconda-edizione.html",
-      "https://magicmerchant.it/catalogue/the-legendary-el-dorado-seconda-edizione-70186/"
+      "https://magicmerchant.it/catalogue/mantis-falls-55635/",
+      "https://www.getyourfun.it/03881-mantis-falls-giochi-di-investigazione.html"
     ]
   },
   {
@@ -711,7 +794,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/166725-orleans.html",
       "https://www.dungeondice.it/4725-orleans-seconda-edizione.html",
-      "https://magicmerchant.it/catalogue/orleans-seconda-edizione-2645/"
+      "https://magicmerchant.it/catalogue/orleans-seconda-edizione-2645/",
+      "https://www.getyourfun.it/0651-orleans-giochi-gestionali.html"
     ]
   },
   {
@@ -720,7 +804,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/179639-dorfromantik-sakura.html",
       "https://www.dungeondice.it/36987-dorfromantik-sakura.html",
-      "https://magicmerchant.it/catalogue/dorfromantik-sakura-82301/"
+      "https://magicmerchant.it/catalogue/dorfromantik-sakura-82301/",
+      "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
     ]
   },
   {
@@ -728,7 +813,8 @@
     "threshold": 99.99,
     "links": [
       "https://www.dungeondice.it/19473-tapestry.html",
-      "https://magicmerchant.it/catalogue/tapestry-43633/"
+      "https://magicmerchant.it/catalogue/tapestry-43633/",
+      "https://www.getyourfun.it/0557-tapestry-giochi-gestionali.html"
     ]
   },
   {
@@ -737,7 +823,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/9250-alhambra.html",
       "https://www.dungeondice.it/228-alhambra.html",
-      "https://magicmerchant.it/catalogue/alhambra-49836/"
+      "https://magicmerchant.it/catalogue/alhambra-49836/",
+      "https://www.getyourfun.it/03529-alhambra-giochi-per-famiglia.html"
     ]
   },
   {
@@ -746,7 +833,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-per-bambini/176733-karak-nuova-edizione.html",
       "https://www.dungeondice.it/35972-karak-seconda-edizione.html",
-      "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
+      "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/",
+      "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
     ]
   },
   {
@@ -764,7 +852,8 @@
     "links": [
       "https://fantasiastore.it/it/giochi-semplici-e-family-games/185685-thunder-road-vendetta-ita.html",
       "https://www.dungeondice.it/37657-thunder-road-vendetta.html",
-      "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
+      "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/",
+      "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
     ]
   },
   {
@@ -819,7 +908,7 @@
   },
   {
     "name": "Concordia",
-    "threshold": 42.99,
+    "threshold": 41.99,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html",
       "https://www.dungeondice.it/1757-concordia.html",
@@ -1033,7 +1122,7 @@
   },
   {
     "name": "The Wolves",
-    "threshold": 41.99,
+    "threshold": 35.99,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/21212-the-wolves-ita.html",
       "https://www.dungeondice.it/30518-the-wolves.html",
