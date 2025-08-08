@@ -96,6 +96,24 @@ async def storico(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.message.reply_text(msg, parse_mode="Markdown")
 
+async def store_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if not context.args:
+        await update.message.reply_text("Usage: /store <store_name>")
+        return
+
+    store = " ".join(context.args)  # supporta store con spazi
+    risultati = giochi_prezzo_minore(dati_json, store)
+
+    if not risultati:
+        await update.message.reply_text(f"Lo store '{store}' non ha il prezzo più basso per nessun gioco.")
+        return
+
+    response_lines = [f"Giochi per cui {store} ha il prezzo più basso:"]
+    for item in risultati:
+        response_lines.append(f"- {item['name']}: €{item['price']} ({item['url']})")
+
+    await update.message.reply_text("\n".join(response_lines), disable_web_page_preview=True)
+
 # Elenco dei comandi disponibili
 async def commands(update: Update, context: ContextTypes.DEFAULT_TYPE):
     testo = "🤖 *Comandi disponibili:*\n\n"
