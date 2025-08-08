@@ -301,6 +301,33 @@ def process_url(game, url, scraper_func, fonte):
         print(f"[Errore {fonte}] {url} → {e}")
     return False
 
+def giochi_prezzo_minore(json_data, store):
+    """
+    Ritorna i giochi per cui lo store specificato ha il prezzo minore.
+    :param json_data: lista di giochi (dizionario) con 'name' e 'prezzi'
+    :param store: nome dello store da verificare
+    :return: lista di dizionari con name, prezzo e url dello store
+    """
+    risultati = []
+    
+    for gioco in json_data:
+        prezzi = gioco.get("prezzi", {})
+        
+        if store not in prezzi:
+            continue  # Lo store non vende questo gioco
+        
+        prezzo_store = prezzi[store]["price"]
+        prezzo_minimo = min(p["price"] for p in prezzi.values())
+        
+        if prezzo_store == prezzo_minimo:
+            risultati.append({
+                "name": gioco["name"],
+                "price": prezzo_store,
+                "url": prezzi[store]["url"]
+            })
+    
+    return risultati
+
 
 def main():
     with open(LISTA_PATH, "r", encoding="utf-8") as f:
