@@ -8,29 +8,11 @@ from collections import defaultdict
 COMMANDS_INFO = {
     "info": "Descrizione del bot",
     "prezzi": "Controlla i prezzi di un gioco: usa `/prezzi <nome>`",
-    "storico": "Storico dei prezzi di un gioco: usa `/storico <nome>`"
+    "storico": "Storico dei prezzi di un gioco: usa `/storico <nome>`",
+    "store": "Mostra i giochi in cui uno store ha il prezzo più basso: usa `/store <nome_store>`"
 }
 
-def store_command(update: Update, context: CallbackContext):
-    if not context.args:
-        update.message.reply_text("Usage: /store <store_name>")
-        return
-
-    store = context.args[0]
-    risultati = giochi_prezzo_minore(dati_json, store)
-
-    if not risultati:
-        update.message.reply_text(f"Lo store '{store}' non ha il prezzo più basso per nessun gioco.")
-        return
-
-    response_lines = [f"Giochi per cui {store} ha il prezzo più basso:"]
-    for item in risultati:
-        response_lines.append(f"- {item['name']}: €{item['price']} ({item['url']})")
-
-    update.message.reply_text("\n".join(response_lines), disable_web_page_preview=True)
-
-
-# La tua funzione
+# Funzione per ottenere i prezzi di un gioco
 def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
     with open(filename, "r", encoding="utf-8") as f:
         dati = json.load(f)
@@ -44,6 +26,7 @@ def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
             )
     return None
 
+# Funzione per ottenere lo storico prezzi di un gioco
 def get_storico_prezzi(nome_gioco: str) -> dict:
     storico = defaultdict(list)
 
@@ -52,13 +35,12 @@ def get_storico_prezzi(nome_gioco: str) -> dict:
             reader = csv.DictReader(csvfile)
             for row in reader:
                 if row["gioco"].lower() == nome_gioco.lower():
-                    # Converti la data da YYYY-MM-DD HH:MM:SS ➜ DD/MM/YYYY
                     try:
                         raw_date = row["data"]
                         date_obj = datetime.strptime(raw_date, "%Y-%m-%d %H:%M:%S")
                         data = date_obj.strftime("%d/%m/%Y")
                     except Exception:
-                        data = row["data"]  # fallback se fallisce la conversione
+                        data = row["data"]
 
                     sito = row["sito"]
                     prezzo = row["prezzo"]
@@ -71,7 +53,44 @@ def get_storico_prezzi(nome_gioco: str) -> dict:
     except Exception as e:
         return {"errore": str(e)}
 
-# Storico dei prezzi
+# Funzione per gestire il comando /store
+async def store_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    if not context.args:
+        await update.message.reply_text("📌 Uso: /store <nome_store>")
+        return
+
+    store = context.args[0]
+
+    try:
+        with open("PrezziAttuali.json", "r", encoding="utf-8") as f:
+            dati_json = json.load(f)
+    except FileNotFoundError:
+        await update.message.reply_text("⚠️ File PrezziAttuali.json non trovato.")
+        return
+
+    risultati = []
+    for gioco in dati_json:
+        prezzi = gioco.get("prezzi", {})
+        if store in prezzi:
+            min_price = min(p["price"] for p in prezzi.values())
+            if prezzi[store]["price"] == min_price:
+                risultati.append({
+                    "name": gioco["name"],
+                    "price": prezzi[store]["price"],
+                    "url": prezzi[store]["url"]
+                })
+
+    if not risultati:
+        await update.message.reply_text(f"Lo store '{store}' non ha il prezzo più basso per nessun gioco.")
+        return
+
+    response_lines = [f"Giochi per cui {store} ha il prezzo più basso:"]
+    for item in risultati:
+        response_lines.append(f"- {item['name']}: €{item['price']} ({item['url']})")
+
+    await update.message.reply_text("\n".join(response_lines), disable_web_page_preview=True)
+
+# Comando /storico
 async def storico(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
         await update.message.reply_text("📌 Scrivi il nome del gioco dopo /storico, es: /storico Scythe")
@@ -91,23 +110,26 @@ async def storico(update: Update, context: ContextTypes.DEFAULT_TYPE):
     msg = f"*Storico prezzi per '{nome}'*\n"
     for store, records in dati.items():
         msg += f"\n📦 {store}:\n"
-        for timestamp, prezzo in records[-5:]:  # mostra solo gli ultimi 5
+        for timestamp, prezzo in records[-5:]:
             msg += f"  - {timestamp}: {prezzo} €\n"
 
     await update.message.reply_text(msg, parse_mode="Markdown")
 
-# Elenco dei comandi disponibili
+# Comando /commands
 async def commands(update: Update, context: ContextTypes.DEFAULT_TYPE):
     testo = "🤖 *Comandi disponibili:*\n\n"
     for cmd, desc in COMMANDS_INFO.items():
         testo += f"/{cmd} — {desc}\n"
     await update.message.reply_text(testo, parse_mode="Markdown")
 
-# Informazioni relative al bot
+# Comando /info
 async def info(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    await update.message.reply_text("Questo bot controlla i prezzi dei giochi da tavolo ogni ora e notifica l'utente se un gioco raggiunge il suo minimo storico.")
+    await update.message.reply_text(
+        "Questo bot controlla i prezzi dei giochi da tavolo ogni ora "
+        "e notifica l'utente se un gioco raggiunge il suo minimo storico."
+    )
 
-# Funzione handler per il comando /prezzi
+# Comando /prezzi
 async def prezzi(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
         await update.message.reply_text("📌 Scrivi il nome del gioco dopo /prezzi, es: /prezzi Scythe")
@@ -120,7 +142,6 @@ async def prezzi(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text(f"Gioco '{nome_gioco}' non trovato.")
         return
 
-    # Formatto i risultati in una risposta testuale
     risposta = f"Prezzi per *{nome_gioco}*:\n"
     for store, prezzo, url in risultati:
         risposta += f"- {store}: {prezzo} € [Link]({url})\n"
@@ -129,14 +150,14 @@ async def prezzi(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 # Avvio del bot
 if __name__ == "__main__":
-    TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
+    TOKEN = "TOKEN_TELEGRAM"
 
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler("prezzi", prezzi))
     app.add_handler(CommandHandler("info", info))
     app.add_handler(CommandHandler("commands", commands))
     app.add_handler(CommandHandler("storico", storico))
-	app.add_handler(CommandHandler("store", store_command))
+    app.add_handler(CommandHandler("store", store_command))
 
     print("Bot in esecuzione...")
     app.run_polling()
