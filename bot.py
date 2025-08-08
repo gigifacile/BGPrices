@@ -11,6 +11,25 @@ COMMANDS_INFO = {
     "storico": "Storico dei prezzi di un gioco: usa `/storico <nome>`"
 }
 
+def store_command(update: Update, context: CallbackContext):
+    if not context.args:
+        update.message.reply_text("Usage: /store <store_name>")
+        return
+
+    store = context.args[0]
+    risultati = giochi_prezzo_minore(dati_json, store)
+
+    if not risultati:
+        update.message.reply_text(f"Lo store '{store}' non ha il prezzo più basso per nessun gioco.")
+        return
+
+    response_lines = [f"Giochi per cui {store} ha il prezzo più basso:"]
+    for item in risultati:
+        response_lines.append(f"- {item['name']}: €{item['price']} ({item['url']})")
+
+    update.message.reply_text("\n".join(response_lines), disable_web_page_preview=True)
+
+
 # La tua funzione
 def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
     with open(filename, "r", encoding="utf-8") as f:
@@ -117,6 +136,7 @@ if __name__ == "__main__":
     app.add_handler(CommandHandler("info", info))
     app.add_handler(CommandHandler("commands", commands))
     app.add_handler(CommandHandler("storico", storico))
+	app.add_handler(CommandHandler("store", store_command))
 
     print("Bot in esecuzione...")
     app.run_polling()
