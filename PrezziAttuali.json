@@ -44,7 +44,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 99.99,
+        "price": 91.34,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
       "IlCovoDelNerd": {
@@ -88,6 +88,10 @@
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/arcs-conflitti-e-collasso-nellorlo.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 64.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/arcs-conflitti-e-collasso-nellorlo-gioco-base/"
       }
     }
   },
@@ -117,6 +121,10 @@
       "LaFeltrinelli": {
         "price": 76.99,
         "url": "https://www.lafeltrinelli.it/cyclades-ediz-leggendaria-gioco-da-giocattolo-ms-edizioni/e/8051772020439"
+      },
+      "IlCovoDelNerd": {
+        "price": 69.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/cyclades-edizione-leggendaria/"
       }
     }
   },
@@ -208,6 +216,10 @@
       "LaFeltrinelli": {
         "price": 47.18,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
+      },
+      "IlCovoDelNerd": {
+        "price": 51.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/adventure-games/great-western-trail-nuova-zelanda/"
       }
     }
   },
@@ -254,6 +266,10 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
+      },
+      "LaFeltrinelli": {
+        "price": 62.92,
+        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       }
     }
   },
@@ -510,7 +526,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 50.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
       },
       "MagicMerchant": {
@@ -553,10 +569,6 @@
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.99,
-        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -665,7 +677,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12977-bonfire.html"
       },
       "DungeonDice": {
-        "price": 54.99,
+        "price": 41.24,
         "url": "https://www.dungeondice.it/22342-bonfire.html"
       },
       "MagicMerchant": {
@@ -800,6 +812,10 @@
       "LaFeltrinelli": {
         "price": 48.6,
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
+      },
+      "IlCovoDelNerd": {
+        "price": 38.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
       }
     }
   },
@@ -869,7 +885,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/15226-grand-austria-hotel-edizione-2022.html"
       },
       "DungeonDice": {
-        "price": 39.19,
+        "price": 55.99,
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "MagicMerchant": {
@@ -1017,10 +1033,6 @@
         "price": 42.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
       },
-      "LaFeltrinelli": {
-        "price": 39.29,
-        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
-      },
       "IlCovoDelNerd": {
         "price": 42.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
@@ -1089,7 +1101,7 @@
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
-        "price": 52.79,
+        "price": 47.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
@@ -1183,10 +1195,6 @@
         "price": 59.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
-      "LaFeltrinelli": {
-        "price": 52.49,
-        "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
-      },
       "DadiEMattoncini": {
         "price": 29.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/federation.html"
@@ -1261,6 +1269,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
+      },
+      "IlCovoDelNerd": {
+        "price": 51.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/endeavor-abissi-marini/"
       }
     }
   },
@@ -1351,7 +1363,7 @@
         "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
       },
       "GetYourFun": {
-        "price": 35.19,
+        "price": 31.99,
         "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1415,6 +1427,10 @@
       "LaFeltrinelli": {
         "price": 45.31,
         "url": "https://www.lafeltrinelli.it/calico-gioco-da-tavolo-giocattolo-dal-tenda/e/0806891590534"
+      },
+      "IlCovoDelNerd": {
+        "price": 34.32,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/calico/"
       }
     }
   },
@@ -1467,7 +1483,7 @@
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
       },
       "GetYourFun": {
-        "price": 23.92,
+        "price": 26.31,
         "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1538,7 +1554,7 @@
         "url": "https://magicmerchant.it/catalogue/the-crew-47988/"
       },
       "GetYourFun": {
-        "price": 14.87,
+        "price": 13.52,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
       },
       "UPlay": {
@@ -1779,16 +1795,12 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-52212/"
       },
       "GetYourFun": {
-        "price": 43.99,
+        "price": 39.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "Player1": {
         "price": 34.9,
         "url": "https://player1.it/prodotto/dune-imperium/"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
         "price": 42.49,
@@ -1821,7 +1833,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
       },
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "MagicMerchant": {
@@ -1901,6 +1913,10 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
+      },
+      "IlCovoDelNerd": {
+        "price": 51.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
       }
     }
   },
@@ -1910,6 +1926,10 @@
       "FantasiaStore": {
         "price": 55.99,
         "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
+      },
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
       "MagicMerchant": {
         "price": 74.3,
@@ -1926,6 +1946,10 @@
       "LaFeltrinelli": {
         "price": 67.12,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
+      },
+      "IlCovoDelNerd": {
+        "price": 68.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/spirit-island/"
       },
       "DragonStore": {
         "price": 63.92,
@@ -2046,10 +2070,6 @@
       "LaFeltrinelli": {
         "price": 65.99,
         "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
-      },
-      "DragonStore": {
-        "price": 47.99,
-        "url": "https://www.dragonstore.it/gestionali-ratti-di-wistar-italiano.1.1.385.gp.32401.uw"
       }
     }
   },
@@ -2077,6 +2097,10 @@
   {
     "name": "Crack List",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 20.23,
+        "url": "https://fantasiastore.it/it/party-games/128497-crack-list.html"
+      },
       "DungeonDice": {
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
@@ -2140,7 +2164,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/28051-el-grande-nuova-edizione.html"
       },
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "GetYourFun": {
@@ -2164,12 +2188,8 @@
   {
     "name": "The Wolves",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 50.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/21212-the-wolves-ita.html"
-      },
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
       },
       "GetYourFun": {
