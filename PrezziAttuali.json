@@ -230,6 +230,10 @@
         "price": 44.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21270-aeons-end-ita.html"
       },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
+      },
       "MagicMerchant": {
         "price": 49.89,
         "url": "https://magicmerchant.it/catalogue/aeons-end-66441/"
@@ -569,6 +573,10 @@
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.99,
+        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -714,6 +722,10 @@
   {
     "name": "Visconti del Regno Occidentale",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/22757-visconti-del-regno-occidentale.html"
+      },
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-visconti-del-regno-occidentale.html"
@@ -1017,6 +1029,10 @@
         "price": 24.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19320-viandanti-a-sud-del-tigri.html"
       },
+      "DungeonDice": {
+        "price": 24.99,
+        "url": "https://www.dungeondice.it/29871-viandanti-a-sud-del-tigri.html"
+      },
       "MagicMerchant": {
         "price": 24.45,
         "url": "https://magicmerchant.it/catalogue/viandanti-a-sud-del-tigri-64965/"
@@ -1032,6 +1048,10 @@
       "UPlay": {
         "price": 42.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
+      },
+      "LaFeltrinelli": {
+        "price": 39.29,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
@@ -1195,6 +1215,10 @@
         "price": 59.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
+      "LaFeltrinelli": {
+        "price": 52.49,
+        "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
+      },
       "DadiEMattoncini": {
         "price": 29.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/federation.html"
@@ -1283,6 +1307,10 @@
         "price": 14.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
       },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/28831-starship-captains.html"
+      },
       "MagicMerchant": {
         "price": 29.94,
         "url": "https://magicmerchant.it/catalogue/starship-captains-62729/"
@@ -1336,10 +1364,6 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 35.9,
-        "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
         "price": 34.99,
