@@ -11,26 +11,27 @@ COMMANDS_INFO = {
     "storico": "Storico dei prezzi di un gioco: usa `/storico <nome>`"
 }
 
-def store_command(update: Update, context):
-    if not context.args:
-        update.message.reply_text("Usage: /store <store_name>")
-        return
+def giochi_prezzo_minore(store):
+    # Legge il file PrezziAttuali.json
+    with open("PrezziAttuali.json", "r", encoding="utf-8") as f:
+        json_data = json.load(f)
 
-    store = context.args[0]
-    risultati = giochi_prezzo_minore(dati_json, store)
+    risultati = []
+    for gioco in json_data:
+        prezzi = gioco.get("prezzi", {})
+        if store not in prezzi:
+            continue
+        prezzo_store = prezzi[store]["price"]
+        prezzo_minimo = min(p["price"] for p in prezzi.values())
+        if prezzo_store == prezzo_minimo:
+            risultati.append({
+                "name": gioco["name"],
+                "price": prezzo_store,
+                "url": prezzi[store]["url"]
+            })
+    return risultati
 
-    if not risultati:
-        update.message.reply_text(f"Lo store '{store}' non ha il prezzo più basso per nessun gioco.")
-        return
 
-    response_lines = [f"Giochi per cui {store} ha il prezzo più basso:"]
-    for item in risultati:
-        response_lines.append(f"- {item['name']}: €{item['price']} ({item['url']})")
-
-    update.message.reply_text("\n".join(response_lines), disable_web_page_preview=True)
-
-
-# La tua funzione
 def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
     with open(filename, "r", encoding="utf-8") as f:
         dati = json.load(f)
@@ -43,6 +44,7 @@ def get_prezzi_gioco(nome_gioco, filename="PrezziAttuali.json"):
                 key=lambda x: x[1]
             )
     return None
+
 
 def get_storico_prezzi(nome_gioco: str) -> dict:
     storico = defaultdict(list)
@@ -71,6 +73,7 @@ def get_storico_prezzi(nome_gioco: str) -> dict:
     except Exception as e:
         return {"errore": str(e)}
 
+
 # Storico dei prezzi
 async def storico(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
@@ -96,23 +99,33 @@ async def storico(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.message.reply_text(msg, parse_mode="Markdown")
 
+
 async def store_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
         await update.message.reply_text("Usage: /store <store_name>")
         return
 
-    store = " ".join(context.args)  # supporta store con spazi
-    risultati = giochi_prezzo_minore(dati_json, store)
+    store = " ".join(context.args)  # supporta nomi store con spazi
+    risultati = giochi_prezzo_minore(store)
 
     if not risultati:
         await update.message.reply_text(f"Lo store '{store}' non ha il prezzo più basso per nessun gioco.")
         return
 
+    # Ordina alfabeticamente per nome del gioco (case insensitive)
+    risultati.sort(key=lambda x: x["name"].lower())
+
     response_lines = [f"Giochi per cui {store} ha il prezzo più basso:"]
     for item in risultati:
-        response_lines.append(f"- {item['name']}: €{item['price']} ({item['url']})")
+        # Link nascosto sotto la parola "Link" con markdown
+        response_lines.append(f"- {item['name']}: €{item['price']} [Link]({item['url']})")
 
-    await update.message.reply_text("\n".join(response_lines), disable_web_page_preview=True)
+    await update.message.reply_text(
+        "\n".join(response_lines),
+        parse_mode="Markdown",
+        disable_web_page_preview=True
+    )
+
 
 # Elenco dei comandi disponibili
 async def commands(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -121,16 +134,18 @@ async def commands(update: Update, context: ContextTypes.DEFAULT_TYPE):
         testo += f"/{cmd} — {desc}\n"
     await update.message.reply_text(testo, parse_mode="Markdown")
 
+
 # Informazioni relative al bot
 async def info(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Questo bot controlla i prezzi dei giochi da tavolo ogni ora e notifica l'utente se un gioco raggiunge il suo minimo storico.")
+
 
 # Funzione handler per il comando /prezzi
 async def prezzi(update: Update, context: ContextTypes.DEFAULT_TYPE):
     if not context.args:
         await update.message.reply_text("📌 Scrivi il nome del gioco dopo /prezzi, es: /prezzi Scythe")
         return
-    
+
     nome_gioco = " ".join(context.args)
     risultati = get_prezzi_gioco(nome_gioco)
 
@@ -145,7 +160,7 @@ async def prezzi(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
     await update.message.reply_markdown(risposta)
 
-# Avvio del bot
+
 if __name__ == "__main__":
     TOKEN = "7431941125:AAH7woPQaIlfOT_sUBJVhehcOSletH_ZsIY"
 
