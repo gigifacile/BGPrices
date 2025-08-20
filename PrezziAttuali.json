@@ -154,6 +154,10 @@
       "UPlay": {
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 34.99,
+        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       }
     }
   },
@@ -1765,6 +1769,10 @@
         "price": 56.06,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 67.07,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      },
       "DadiEMattoncini": {
         "price": 69.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-d-avventura/thunder-road-vendetta.html"
@@ -1890,10 +1898,6 @@
   {
     "name": "Barrage",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 49.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
-      },
       "DungeonDice": {
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
