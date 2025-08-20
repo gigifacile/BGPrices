@@ -308,12 +308,7 @@
   },
   {
     "name": "Arboretum",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/26519-arboretum.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Captain Flip",
@@ -904,10 +899,6 @@
       "UPlay": {
         "price": 46.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
-      },
-      "LaFeltrinelli": {
-        "price": 44.99,
-        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
   },
@@ -976,10 +967,6 @@
       "FantasiaStore": {
         "price": 24.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19320-viandanti-a-sud-del-tigri.html"
-      },
-      "DungeonDice": {
-        "price": 24.99,
-        "url": "https://www.dungeondice.it/29871-viandanti-a-sud-del-tigri.html"
       },
       "MagicMerchant": {
         "price": 24.45,
@@ -1230,10 +1217,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/32822-endeavor-abissi-marini.html"
       },
-      "GetYourFun": {
-        "price": 59.99,
-        "url": "https://www.getyourfun.it/019900-endeavor-abissi-marini-giochi-gestionali.html"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
@@ -1401,6 +1384,10 @@
   {
     "name": "The White Castle",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 26.39,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/136077-the-white-castle.html"
+      },
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/31788-the-white-castle.html"
@@ -1636,10 +1623,6 @@
         "price": 48.39,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/179639-dorfromantik-sakura.html"
       },
-      "DungeonDice": {
-        "price": 43.99,
-        "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
-      },
       "GetYourFun": {
         "price": 54.99,
         "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
@@ -1656,12 +1639,7 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 47.08,
-        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Karak",
@@ -1703,6 +1681,10 @@
       "UPlay": {
         "price": 56.06,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 67.07,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       },
       "DadiEMattoncini": {
         "price": 69.99,
