@@ -46,12 +46,21 @@
       "LaFeltrinelli": {
         "price": 91.34,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
+      },
+      "LSGiochi": {
+        "price": 99.99,
+        "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
       }
     }
   },
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
-    "prezzi": {}
+    "prezzi": {
+      "LSGiochi": {
+        "price": 69.99,
+        "url": "https://www.lsgiochi.it/product/14550172/seti-search-for-extraterrestrial-intelligence-italiano"
+      }
+    }
   },
   {
     "name": "Arcs",
@@ -108,6 +117,10 @@
       "LaFeltrinelli": {
         "price": 76.99,
         "url": "https://www.lafeltrinelli.it/cyclades-ediz-leggendaria-gioco-da-giocattolo-ms-edizioni/e/8051772020439"
+      },
+      "LSGiochi": {
+        "price": 69.99,
+        "url": "https://www.lsgiochi.it/product/17525449/cyclades-edizione-leggendaria"
       }
     }
   },
@@ -141,6 +154,10 @@
       "LaFeltrinelli": {
         "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
+      },
+      "LSGiochi": {
+        "price": 34.99,
+        "url": "https://www.lsgiochi.it/product/14195265/harmonies"
       }
     }
   },
@@ -199,6 +216,10 @@
       "LaFeltrinelli": {
         "price": 47.18,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/12323854/great-western-trail-nuova-zelanda"
       }
     }
   },
@@ -224,6 +245,10 @@
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
+      "LSGiochi": {
+        "price": 49.99,
+        "url": "https://www.lsgiochi.it/product/11164777/aeon-s-end-seconda-edizione"
       }
     }
   },
@@ -249,10 +274,6 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
-      },
-      "LaFeltrinelli": {
-        "price": 62.92,
-        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       }
     }
   },
@@ -357,6 +378,10 @@
       "LaFeltrinelli": {
         "price": 23.55,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
+      },
+      "LSGiochi": {
+        "price": 29.9,
+        "url": "https://www.lsgiochi.it/product/10006991/port-royal-big-box"
       }
     }
   },
@@ -482,6 +507,10 @@
       "UPlay": {
         "price": 67.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
+      },
+      "LSGiochi": {
+        "price": 79.99,
+        "url": "https://www.lsgiochi.it/product/11430747/terra-mystica-l-era-delle-scoperte"
       }
     }
   },
@@ -507,6 +536,10 @@
       "UPlay": {
         "price": 56.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-tiletum.html"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/10098089/tiletum"
       }
     }
   },
@@ -612,6 +645,10 @@
       "LaFeltrinelli": {
         "price": 52.57,
         "url": "https://www.lafeltrinelli.it/stone-age-linizio-del-viaggio-giocattolo-giochi-uniti/e/8058773206121"
+      },
+      "LSGiochi": {
+        "price": 49.99,
+        "url": "https://www.lsgiochi.it/product/9982140/stone-age"
       }
     }
   },
@@ -637,6 +674,10 @@
       "LaFeltrinelli": {
         "price": 100.48,
         "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
+      },
+      "LSGiochi": {
+        "price": 109.99,
+        "url": "https://www.lsgiochi.it/product/10150794/rising-sun"
       }
     }
   },
@@ -783,6 +824,10 @@
       "LaFeltrinelli": {
         "price": 48.6,
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
+      },
+      "LSGiochi": {
+        "price": 45.99,
+        "url": "https://www.lsgiochi.it/product/10150898/seasons"
       }
     }
   },
@@ -808,6 +853,10 @@
       "LaFeltrinelli": {
         "price": 87.99,
         "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
+      },
+      "LSGiochi": {
+        "price": 79.99,
+        "url": "https://www.lsgiochi.it/product/12086390/fields-of-arle-big-box"
       }
     }
   },
@@ -899,6 +948,14 @@
       "UPlay": {
         "price": 46.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/11970291/kutna-hora-the-city-of-silver-cranio-creations-italiano"
       }
     }
   },
@@ -908,6 +965,10 @@
       "MagicMerchant": {
         "price": 113.9,
         "url": "https://magicmerchant.it/catalogue/hegemony-versione-estesa-76479/"
+      },
+      "LSGiochi": {
+        "price": 106.99,
+        "url": "https://www.lsgiochi.it/product/13808244/hegemony-versione-estesa-italiano-preordine-ristampa-arrivo-previsto-ottobre-2025"
       }
     }
   },
@@ -1099,6 +1160,10 @@
       "LaFeltrinelli": {
         "price": 78.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/10140537/dune"
       }
     }
   },
@@ -1207,6 +1272,10 @@
       "LaFeltrinelli": {
         "price": 48.29,
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
+      },
+      "LSGiochi": {
+        "price": 39.9,
+        "url": "https://www.lsgiochi.it/product/9966200/cascadia"
       }
     }
   },
@@ -1220,6 +1289,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/13454885/endeavor-abissi-marini"
       }
     }
   },
@@ -1378,6 +1451,10 @@
       "LaFeltrinelli": {
         "price": 45.31,
         "url": "https://www.lafeltrinelli.it/calico-gioco-da-tavolo-giocattolo-dal-tenda/e/0806891590534"
+      },
+      "LSGiochi": {
+        "price": 39.9,
+        "url": "https://www.lsgiochi.it/product/10105728/calico"
       }
     }
   },
@@ -1407,6 +1484,10 @@
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
+      },
+      "LSGiochi": {
+        "price": 29.99,
+        "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
       }
     }
   },
@@ -1444,6 +1525,10 @@
       "LaFeltrinelli": {
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
+      },
+      "LSGiochi": {
+        "price": 29.99,
+        "url": "https://www.lsgiochi.it/product/12879033/mlem-agenzia-spaziale"
       }
     }
   },
@@ -1486,6 +1571,10 @@
       "UPlay": {
         "price": 21.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
+      },
+      "LSGiochi": {
+        "price": 24.99,
+        "url": "https://www.lsgiochi.it/product/15788817/faraway-cover-arancione"
       }
     }
   },
@@ -1630,6 +1719,10 @@
       "UPlay": {
         "price": 46.75,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
+      },
+      "LSGiochi": {
+        "price": 45.99,
+        "url": "https://www.lsgiochi.it/product/18771825/dorfromantik-sakura-edizione-italiana"
       }
     }
   },
@@ -1639,7 +1732,12 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 47.08,
+        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
+      }
+    }
   },
   {
     "name": "Karak",
@@ -2042,10 +2140,6 @@
       "GetYourFun": {
         "price": 19.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
-      },
-      "LaFeltrinelli": {
-        "price": 21.84,
-        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       }
     }
   },
