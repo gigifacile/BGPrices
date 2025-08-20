@@ -559,10 +559,6 @@
   {
     "name": "Nidavellir",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 33.43,
-        "url": "https://fantasiastore.it/it/giochi-di-carte/10991-nidavellir.html"
-      },
       "DungeonDice": {
         "price": 37.99,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
@@ -661,7 +657,7 @@
     "name": "Rising Sun",
     "prezzi": {
       "DungeonDice": {
-        "price": 109.99,
+        "price": 82.49,
         "url": "https://www.dungeondice.it/10533-rising-sun.html"
       },
       "MagicMerchant": {
@@ -1324,6 +1320,10 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1698,7 +1698,7 @@
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/179639-dorfromantik-sakura.html"
       },
       "DungeonDice": {
-        "price": 54.99,
+        "price": 43.99,
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
       },
       "GetYourFun": {
@@ -1898,6 +1898,10 @@
   {
     "name": "Barrage",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 49.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
+      },
       "DungeonDice": {
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
