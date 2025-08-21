@@ -168,7 +168,7 @@
         "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
       },
       "GetYourFun": {
-        "price": 34.99,
+        "price": 30.79,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -415,7 +415,7 @@
         "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
       },
       "GetYourFun": {
-        "price": 26.99,
+        "price": 23.75,
         "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -477,7 +477,7 @@
         "url": "https://magicmerchant.it/catalogue/heat-64960/"
       },
       "GetYourFun": {
-        "price": 64.9,
+        "price": 57.11,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -560,7 +560,7 @@
         "url": "https://magicmerchant.it/catalogue/agricola-47772/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 52.79,
         "url": "https://www.getyourfun.it/029-agricola-giochi-gestionali.html"
       },
       "Player1": {
@@ -695,6 +695,10 @@
         "price": 31.43,
         "url": "https://magicmerchant.it/catalogue/dominion-seconda-edizione-52378/"
       },
+      "GetYourFun": {
+        "price": 39.9,
+        "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
+      },
       "LaFeltrinelli": {
         "price": 55.61,
         "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
@@ -768,7 +772,7 @@
         "url": "https://magicmerchant.it/catalogue/rising-sun-34500/"
       },
       "GetYourFun": {
-        "price": 109.99,
+        "price": 96.79,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -854,10 +858,6 @@
       "FantasiaStore": {
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
-      },
-      "DungeonDice": {
-        "price": 53.99,
-        "url": "https://www.dungeondice.it/30284-earth.html"
       },
       "MagicMerchant": {
         "price": 34.49,
@@ -1486,6 +1486,10 @@
       "MagicMerchant": {
         "price": 29.94,
         "url": "https://magicmerchant.it/catalogue/starship-captains-62729/"
+      },
+      "Player1": {
+        "price": 36.9,
+        "url": "https://player1.it/prodotto/starship-captains/"
       },
       "UPlay": {
         "price": 50.99,
@@ -2257,6 +2261,10 @@
       "FantasiaStore": {
         "price": 23.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/136132-looot-il-bottino-dei-vichinghi.html"
+      },
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
       },
       "MagicMerchant": {
         "price": 29.89,
