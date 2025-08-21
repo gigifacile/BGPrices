@@ -168,7 +168,7 @@
         "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
       },
       "GetYourFun": {
-        "price": 30.79,
+        "price": 34.99,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -373,6 +373,10 @@
         "price": 37.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
       },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/31282-trajan-deluxe.html"
+      },
       "MagicMerchant": {
         "price": 46.9,
         "url": "https://magicmerchant.it/catalogue/trajan-deluxe-68316/"
@@ -411,7 +415,7 @@
         "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
       },
       "GetYourFun": {
-        "price": 23.75,
+        "price": 26.99,
         "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -473,7 +477,7 @@
         "url": "https://magicmerchant.it/catalogue/heat-64960/"
       },
       "GetYourFun": {
-        "price": 57.11,
+        "price": 64.9,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -556,7 +560,7 @@
         "url": "https://magicmerchant.it/catalogue/agricola-47772/"
       },
       "GetYourFun": {
-        "price": 52.79,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/029-agricola-giochi-gestionali.html"
       },
       "Player1": {
@@ -691,10 +695,6 @@
         "price": 31.43,
         "url": "https://magicmerchant.it/catalogue/dominion-seconda-edizione-52378/"
       },
-      "GetYourFun": {
-        "price": 39.9,
-        "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
-      },
       "LaFeltrinelli": {
         "price": 55.61,
         "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
@@ -768,7 +768,7 @@
         "url": "https://magicmerchant.it/catalogue/rising-sun-34500/"
       },
       "GetYourFun": {
-        "price": 96.79,
+        "price": 109.99,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -1487,10 +1487,6 @@
         "price": 29.94,
         "url": "https://magicmerchant.it/catalogue/starship-captains-62729/"
       },
-      "Player1": {
-        "price": 36.9,
-        "url": "https://player1.it/prodotto/starship-captains/"
-      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
@@ -1836,7 +1832,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
       "LaFeltrinelli": {
-        "price": 38.99,
+        "price": 36.64,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       }
     }
@@ -2240,6 +2236,10 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 36.53,
+        "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
       },
       "LSGiochi": {
         "price": 39.99,
