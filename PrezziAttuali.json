@@ -130,6 +130,10 @@
         "price": 59.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cyclades--edizione-leggendaria.html"
       },
+      "LaFeltrinelli": {
+        "price": 76.99,
+        "url": "https://www.lafeltrinelli.it/cyclades-ediz-leggendaria-gioco-da-giocattolo-ms-edizioni/e/8051772020439"
+      },
       "IlCovoDelNerd": {
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/cyclades-edizione-leggendaria/"
@@ -661,6 +665,10 @@
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.99,
+        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
