@@ -64,10 +64,6 @@
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
-      "IlCovoDelNerd": {
-        "price": 60.1,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
-      },
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/14550172/seti-search-for-extraterrestrial-intelligence-italiano"
@@ -134,10 +130,6 @@
         "price": 59.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cyclades--edizione-leggendaria.html"
       },
-      "LaFeltrinelli": {
-        "price": 76.99,
-        "url": "https://www.lafeltrinelli.it/cyclades-ediz-leggendaria-gioco-da-giocattolo-ms-edizioni/e/8051772020439"
-      },
       "IlCovoDelNerd": {
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/cyclades-edizione-leggendaria/"
@@ -164,7 +156,7 @@
         "url": "https://www.dungeondice.it/27178-harmonies.html"
       },
       "MagicMerchant": {
-        "price": 34.89,
+        "price": 24.43,
         "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
       },
       "GetYourFun": {
@@ -411,7 +403,7 @@
         "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
       },
       "GetYourFun": {
-        "price": 23.75,
+        "price": 22.94,
         "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -473,7 +465,7 @@
         "url": "https://magicmerchant.it/catalogue/heat-64960/"
       },
       "GetYourFun": {
-        "price": 57.11,
+        "price": 55.17,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -669,10 +661,6 @@
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.99,
-        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -768,7 +756,7 @@
         "url": "https://magicmerchant.it/catalogue/rising-sun-34500/"
       },
       "GetYourFun": {
-        "price": 96.79,
+        "price": 93.49,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -930,7 +918,7 @@
         "url": "https://magicmerchant.it/catalogue/seasons-2951/"
       },
       "GetYourFun": {
-        "price": 43.91,
+        "price": 42.42,
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -1273,7 +1261,7 @@
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
-        "price": 52.79,
+        "price": 50.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
@@ -1563,7 +1551,7 @@
         "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
       },
       "GetYourFun": {
-        "price": 35.19,
+        "price": 33.99,
         "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1703,7 +1691,7 @@
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
       },
       "GetYourFun": {
-        "price": 26.31,
+        "price": 25.42,
         "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1786,7 +1774,7 @@
         "url": "https://magicmerchant.it/catalogue/the-crew-47988/"
       },
       "GetYourFun": {
-        "price": 14.87,
+        "price": 14.37,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
       },
       "UPlay": {
@@ -1834,6 +1822,10 @@
       "LaFeltrinelli": {
         "price": 36.64,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
+      },
+      "DragonStore": {
+        "price": 27.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
       }
     }
   },
