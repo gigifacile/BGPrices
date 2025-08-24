@@ -1016,10 +1016,6 @@
   {
     "name": "Grand Austria Hotel",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 39.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/15226-grand-austria-hotel-edizione-2022.html"
-      },
       "DungeonDice": {
         "price": 39.19,
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
@@ -1072,6 +1068,10 @@
       "UPlay": {
         "price": 46.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
