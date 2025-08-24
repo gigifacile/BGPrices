@@ -24,7 +24,7 @@
         "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
       },
       "DungeonDice": {
-        "price": 99.99,
+        "price": 74.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "MagicMerchant": {
@@ -744,7 +744,7 @@
     "name": "Rising Sun",
     "prezzi": {
       "DungeonDice": {
-        "price": 82.49,
+        "price": 109.99,
         "url": "https://www.dungeondice.it/10533-rising-sun.html"
       },
       "MagicMerchant": {
@@ -924,6 +924,10 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
+      },
+      "LaFeltrinelli": {
+        "price": 48.6,
+        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
         "price": 38.7,
@@ -1470,6 +1474,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
   },
@@ -1916,7 +1924,12 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 47.08,
+        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
+      }
+    }
   },
   {
     "name": "Karak",
@@ -2117,10 +2130,6 @@
   {
     "name": "Nucleum",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 39.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
@@ -2201,7 +2210,7 @@
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/100248-trekking-through-history.html"
       },
       "DungeonDice": {
-        "price": 39.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
       "MagicMerchant": {
@@ -2357,10 +2366,6 @@
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
       "LaFeltrinelli": {
         "price": 67.31,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -2422,10 +2427,6 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.96,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
