@@ -114,10 +114,6 @@
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
       },
-      "MagicMerchant": {
-        "price": 66.4,
-        "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
-      },
       "GetYourFun": {
         "price": 69.9,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
@@ -340,7 +336,12 @@
   },
   {
     "name": "Race for the Galaxy - Seconda Edizione",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 43.99,
+        "url": "https://www.lafeltrinelli.it/race-for-galaxy-gioco-da-giocattolo-ghenos-games/e/8033609532094"
+      }
+    }
   },
   {
     "name": "Trajan Deluxe",
@@ -546,6 +547,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
@@ -904,10 +909,6 @@
       "MagicMerchant": {
         "price": 49.89,
         "url": "https://magicmerchant.it/catalogue/seasons-2951/"
-      },
-      "GetYourFun": {
-        "price": 39.92,
-        "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 36.9,
@@ -1504,10 +1505,6 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 35.9,
-        "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
         "price": 34.99,
