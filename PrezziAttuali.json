@@ -155,10 +155,6 @@
         "price": 34.99,
         "url": "https://www.dungeondice.it/27178-harmonies.html"
       },
-      "MagicMerchant": {
-        "price": 24.43,
-        "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
-      },
       "GetYourFun": {
         "price": 29.74,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
@@ -2212,6 +2208,10 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 36.53,
+        "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
       },
       "LSGiochi": {
         "price": 39.99,
