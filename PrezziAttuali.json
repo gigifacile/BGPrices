@@ -122,6 +122,14 @@
         "price": 59.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cyclades--edizione-leggendaria.html"
       },
+      "LaFeltrinelli": {
+        "price": 76.99,
+        "url": "https://www.lafeltrinelli.it/cyclades-ediz-leggendaria-gioco-da-giocattolo-ms-edizioni/e/8051772020439"
+      },
+      "IlCovoDelNerd": {
+        "price": 69.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/cyclades-edizione-leggendaria/"
+      },
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/17525449/cyclades-edizione-leggendaria"
@@ -328,7 +336,12 @@
   },
   {
     "name": "Race for the Galaxy - Seconda Edizione",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 43.99,
+        "url": "https://www.lafeltrinelli.it/race-for-galaxy-gioco-da-giocattolo-ghenos-games/e/8033609532094"
+      }
+    }
   },
   {
     "name": "Trajan Deluxe",
@@ -539,10 +552,6 @@
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
-      "IlCovoDelNerd": {
-        "price": 51.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
-      },
       "DragonStore": {
         "price": 47.99,
         "url": "https://www.dragonstore.it/classici-famiglia-agricola-nuova-edizione.1.1.115.gp.9340.uw"
@@ -637,6 +646,10 @@
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.99,
+        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -728,7 +741,7 @@
         "url": "https://magicmerchant.it/catalogue/rising-sun-34500/"
       },
       "GetYourFun": {
-        "price": 87.99,
+        "price": 109.99,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -831,6 +844,10 @@
         "price": 45.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-earth.html"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/earth-gioco-da-tavolo-giocattolo-lucky-duck-games/e/0787790613398"
+      },
       "DragonStore": {
         "price": 27.92,
         "url": "https://www.dragonstore.it/fantasy-earth-italiano.1.1.116.gp.31899.uw"
@@ -893,6 +910,10 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
+      "LaFeltrinelli": {
+        "price": 48.6,
+        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
+      },
       "IlCovoDelNerd": {
         "price": 38.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
@@ -921,6 +942,10 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-fields-of-arle--big-box.html"
+      },
+      "LaFeltrinelli": {
+        "price": 87.99,
+        "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
       },
       "LSGiochi": {
         "price": 79.99,
@@ -1175,6 +1200,10 @@
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
       },
+      "GetYourFun": {
+        "price": 39.87,
+        "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
+      },
       "UPlay": {
         "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
@@ -1203,6 +1232,10 @@
       "MagicMerchant": {
         "price": 41.93,
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
+      },
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
         "price": 37.9,
@@ -1382,6 +1415,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/32822-endeavor-abissi-marini.html"
       },
+      "LaFeltrinelli": {
+        "price": 56.99,
+        "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
+      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/endeavor-abissi-marini/"
@@ -1519,10 +1556,6 @@
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/yokohama-seconda-edizione-78753/"
       },
-      "GetYourFun": {
-        "price": 64.99,
-        "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
@@ -1625,10 +1658,6 @@
       "MagicMerchant": {
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
-      },
-      "GetYourFun": {
-        "price": 23.92,
-        "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 25.49,
@@ -1823,6 +1852,10 @@
       "MagicMerchant": {
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/dorfromantik-sakura-82301/"
+      },
+      "GetYourFun": {
+        "price": 54.99,
+        "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 46.75,
@@ -2226,6 +2259,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 65.99,
+        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
       }
     }
   },
@@ -2282,10 +2319,6 @@
         "price": 56.3,
         "url": "https://magicmerchant.it/catalogue/le-rovine-perdute-di-arnak-50715/"
       },
-      "GetYourFun": {
-        "price": 59.99,
-        "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
-      },
       "Player1": {
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
@@ -2293,6 +2326,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
+      },
+      "LaFeltrinelli": {
+        "price": 67.31,
+        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
