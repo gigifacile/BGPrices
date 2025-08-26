@@ -93,10 +93,6 @@
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/arcs-conflitti-e-collasso-nellorlo.html"
       },
-      "IlCovoDelNerd": {
-        "price": 64.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/arcs-conflitti-e-collasso-nellorlo-gioco-base/"
-      },
       "DragonStore": {
         "price": 51.99,
         "url": "https://www.dragonstore.it/fantascienza-arcs-conflitti-e-collasso-nell-orlo.1.1.46.gp.34362.uw"
@@ -258,6 +254,10 @@
         "price": 49.89,
         "url": "https://magicmerchant.it/catalogue/aeons-end-66441/"
       },
+      "Player1": {
+        "price": 37.9,
+        "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
+      },
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
@@ -383,6 +383,10 @@
   {
     "name": "Captain Flip",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 21.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/84908-captain-flip.html"
+      },
       "DungeonDice": {
         "price": 26.99,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
@@ -468,10 +472,6 @@
       "LaFeltrinelli": {
         "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
-      },
-      "DragonStore": {
-        "price": 51.99,
-        "url": "https://www.dragonstore.it/gestionali-heat-pedal-to-the-metal-italiano.1.1.385.gp.31795.uw"
       }
     }
   },
@@ -552,6 +552,10 @@
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
+      "IlCovoDelNerd": {
+        "price": 51.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
+      },
       "DragonStore": {
         "price": 47.99,
         "url": "https://www.dragonstore.it/classici-famiglia-agricola-nuova-edizione.1.1.115.gp.9340.uw"
@@ -605,10 +609,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 56.95,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-tiletum.html"
       },
       "LSGiochi": {
         "price": 59.99,
@@ -840,10 +840,6 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/earth/"
       },
-      "UPlay": {
-        "price": 45.9,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-earth.html"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/earth-gioco-da-tavolo-giocattolo-lucky-duck-games/e/0787790613398"
@@ -868,6 +864,10 @@
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
+      },
+      "GetYourFun": {
+        "price": 44.99,
+        "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 29.9,
@@ -967,10 +967,6 @@
       "MagicMerchant": {
         "price": 24.45,
         "url": "https://magicmerchant.it/catalogue/studiosi-a-sud-del-tigri-72002/"
-      },
-      "GetYourFun": {
-        "price": 22.5,
-        "url": "https://www.getyourfun.it/019772-studiosi-a-sud-del-tigri-giochi-gestionali.html"
       },
       "Player1": {
         "price": 24.9,
@@ -1087,10 +1083,6 @@
       "GetYourFun": {
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -1556,6 +1548,10 @@
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/yokohama-seconda-edizione-78753/"
       },
+      "GetYourFun": {
+        "price": 64.99,
+        "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
+      },
       "UPlay": {
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
@@ -1659,13 +1655,13 @@
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
       },
+      "GetYourFun": {
+        "price": 23.92,
+        "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.99,
-        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "LSGiochi": {
         "price": 29.99,
@@ -2132,6 +2128,10 @@
         "price": 67.92,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
+      "Player1": {
+        "price": 55.9,
+        "url": "https://player1.it/prodotto/spirit-island/"
+      },
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
@@ -2318,6 +2318,10 @@
       "MagicMerchant": {
         "price": 56.3,
         "url": "https://magicmerchant.it/catalogue/le-rovine-perdute-di-arnak-50715/"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
         "price": 38.9,
