@@ -47,10 +47,6 @@
         "price": 91.34,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
-      "IlCovoDelNerd": {
-        "price": 85.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
-      },
       "LSGiochi": {
         "price": 99.99,
         "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
@@ -80,10 +76,6 @@
       "MagicMerchant": {
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/arcs-83629/"
-      },
-      "GetYourFun": {
-        "price": 55.24,
-        "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 61.16,
@@ -382,10 +374,6 @@
         "price": 26.89,
         "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
       },
-      "GetYourFun": {
-        "price": 22.94,
-        "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
@@ -481,10 +469,6 @@
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
       },
-      "GetYourFun": {
-        "price": 25.49,
-        "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
-      },
       "Player1": {
         "price": 22.9,
         "url": "https://player1.it/prodotto/forest-shuffle/"
@@ -557,7 +541,7 @@
     "name": "Terra Mystica - L'Era delle Scoperte",
     "prezzi": {
       "DungeonDice": {
-        "price": 55.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
       },
       "GetYourFun": {
@@ -893,10 +877,6 @@
         "price": 39.92,
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
-      "Player1": {
-        "price": 36.9,
-        "url": "https://player1.it/prodotto/seasons/"
-      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
@@ -985,16 +965,12 @@
     "name": "Grand Austria Hotel",
     "prezzi": {
       "DungeonDice": {
-        "price": 39.19,
+        "price": 55.99,
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "MagicMerchant": {
         "price": 55.89,
         "url": "https://magicmerchant.it/catalogue/grand-austria-hotel-61025/"
-      },
-      "GetYourFun": {
-        "price": 55.99,
-        "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 47.59,
@@ -1213,7 +1189,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/23241-le-havre.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 38.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "MagicMerchant": {
@@ -1341,7 +1317,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html"
       },
       "DungeonDice": {
-        "price": 98.99,
+        "price": 74.24,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
       "GetYourFun": {
@@ -1480,10 +1456,6 @@
       "MagicMerchant": {
         "price": 46.4,
         "url": "https://magicmerchant.it/catalogue/terra-nova-65070/"
-      },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
       },
       "Player1": {
         "price": 35.9,
@@ -2021,7 +1993,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
       },
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "MagicMerchant": {
@@ -2344,7 +2316,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/28051-el-grande-nuova-edizione.html"
       },
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "MagicMerchant": {
@@ -2360,7 +2332,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 47.49,
+        "price": 49.99,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
@@ -2373,7 +2345,7 @@
     "name": "The Wolves",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
       },
       "MagicMerchant": {
