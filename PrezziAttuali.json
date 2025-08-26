@@ -47,6 +47,10 @@
         "price": 91.34,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
+      "IlCovoDelNerd": {
+        "price": 85.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
+      },
       "LSGiochi": {
         "price": 99.99,
         "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
@@ -76,6 +80,10 @@
       "MagicMerchant": {
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/arcs-83629/"
+      },
+      "GetYourFun": {
+        "price": 55.24,
+        "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 61.16,
@@ -113,10 +121,6 @@
       "UPlay": {
         "price": 59.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cyclades--edizione-leggendaria.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 69.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/cyclades-edizione-leggendaria/"
       },
       "LSGiochi": {
         "price": 69.99,
@@ -374,6 +378,10 @@
         "price": 26.89,
         "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
       },
+      "GetYourFun": {
+        "price": 22.94,
+        "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
@@ -468,6 +476,10 @@
       "MagicMerchant": {
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
+      },
+      "GetYourFun": {
+        "price": 25.49,
+        "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 22.9,
@@ -840,10 +852,6 @@
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
       },
-      "GetYourFun": {
-        "price": 44.99,
-        "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
-      },
       "Player1": {
         "price": 29.9,
         "url": "https://player1.it/prodotto/azul/"
@@ -877,13 +885,13 @@
         "price": 39.92,
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
+      "Player1": {
+        "price": 36.9,
+        "url": "https://player1.it/prodotto/seasons/"
+      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
-      },
-      "LaFeltrinelli": {
-        "price": 48.6,
-        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
         "price": 38.7,
@@ -971,6 +979,10 @@
       "MagicMerchant": {
         "price": 55.89,
         "url": "https://magicmerchant.it/catalogue/grand-austria-hotel-61025/"
+      },
+      "GetYourFun": {
+        "price": 55.99,
+        "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 47.59,
@@ -1163,10 +1175,6 @@
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
       },
-      "GetYourFun": {
-        "price": 39.87,
-        "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
@@ -1195,10 +1203,6 @@
       "MagicMerchant": {
         "price": 41.93,
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
-      },
-      "GetYourFun": {
-        "price": 50.99,
-        "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
         "price": 37.9,
@@ -1378,10 +1382,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/32822-endeavor-abissi-marini.html"
       },
-      "LaFeltrinelli": {
-        "price": 56.99,
-        "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
-      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/endeavor-abissi-marini/"
@@ -1456,6 +1456,10 @@
       "MagicMerchant": {
         "price": 46.4,
         "url": "https://magicmerchant.it/catalogue/terra-nova-65070/"
+      },
+      "GetYourFun": {
+        "price": 43.99,
+        "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
       },
       "Player1": {
         "price": 35.9,
@@ -1819,10 +1823,6 @@
       "MagicMerchant": {
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/dorfromantik-sakura-82301/"
-      },
-      "GetYourFun": {
-        "price": 54.99,
-        "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 46.75,
@@ -2293,10 +2293,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
-      "LaFeltrinelli": {
-        "price": 67.31,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
