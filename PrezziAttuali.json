@@ -255,7 +255,7 @@
         "url": "https://magicmerchant.it/catalogue/aeons-end-66441/"
       },
       "Player1": {
-        "price": 58.9,
+        "price": 39.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
       "UPlay": {
@@ -336,12 +336,7 @@
   },
   {
     "name": "Race for the Galaxy - Seconda Edizione",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 43.99,
-        "url": "https://www.lafeltrinelli.it/race-for-galaxy-gioco-da-giocattolo-ghenos-games/e/8033609532094"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Trajan Deluxe",
@@ -365,6 +360,10 @@
       "LaFeltrinelli": {
         "price": 39.29,
         "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
+      },
+      "IlCovoDelNerd": {
+        "price": 42.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/trajan-deluxe/"
       },
       "DragonStore": {
         "price": 39.92,
@@ -635,6 +634,10 @@
         "price": 39.89,
         "url": "https://magicmerchant.it/catalogue/nidavellir-49570/"
       },
+      "GetYourFun": {
+        "price": 37.99,
+        "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
+      },
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
@@ -790,10 +793,6 @@
   {
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
-      "UPlay": {
-        "price": 44.91,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-architetti-del-regno-occidentale.html"
-      },
       "LaFeltrinelli": {
         "price": 39.29,
         "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
@@ -820,9 +819,17 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
+      "DungeonDice": {
+        "price": 53.99,
+        "url": "https://www.dungeondice.it/30284-earth.html"
+      },
       "MagicMerchant": {
         "price": 34.49,
         "url": "https://magicmerchant.it/catalogue/earth-66410/"
+      },
+      "GetYourFun": {
+        "price": 53.99,
+        "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
       },
       "Player1": {
         "price": 45.9,
@@ -1382,10 +1389,6 @@
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 48.29,
-        "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
-      },
       "LSGiochi": {
         "price": 39.9,
         "url": "https://www.lsgiochi.it/product/9966200/cascadia"
@@ -1428,10 +1431,6 @@
         "price": 49.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
-      "MagicMerchant": {
-        "price": 29.94,
-        "url": "https://magicmerchant.it/catalogue/starship-captains-62729/"
-      },
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
@@ -1456,6 +1455,10 @@
       "MagicMerchant": {
         "price": 34.93,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
+      },
+      "GetYourFun": {
+        "price": 43.99,
+        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "Player1": {
         "price": 29.9,
@@ -1905,6 +1908,10 @@
         "price": 62.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/185685-thunder-road-vendetta-ita.html"
       },
+      "DungeonDice": {
+        "price": 69.99,
+        "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
+      },
       "MagicMerchant": {
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
@@ -2149,8 +2156,12 @@
   {
     "name": "Scythe",
     "prezzi": {
+      "MagicMerchant": {
+        "price": 80.91,
+        "url": "https://magicmerchant.it/catalogue/scythe-32495/"
+      },
       "GetYourFun": {
-        "price": 89.9,
+        "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "IlCovoDelNerd": {
