@@ -31,6 +31,10 @@
         "price": 89.91,
         "url": "https://magicmerchant.it/catalogue/everdell-farshore-80736/"
       },
+      "GetYourFun": {
+        "price": 99.99,
+        "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
@@ -251,7 +255,7 @@
         "url": "https://magicmerchant.it/catalogue/aeons-end-66441/"
       },
       "Player1": {
-        "price": 41.9,
+        "price": 58.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
       "UPlay": {
@@ -361,10 +365,6 @@
       "LaFeltrinelli": {
         "price": 39.29,
         "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
-      },
-      "IlCovoDelNerd": {
-        "price": 42.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/trajan-deluxe/"
       },
       "DragonStore": {
         "price": 39.92,
@@ -635,10 +635,6 @@
         "price": 39.89,
         "url": "https://magicmerchant.it/catalogue/nidavellir-49570/"
       },
-      "GetYourFun": {
-        "price": 37.99,
-        "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
@@ -716,7 +712,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
-        "price": 52.57,
+        "price": 50.31,
         "url": "https://www.lafeltrinelli.it/stone-age-linizio-del-viaggio-giocattolo-giochi-uniti/e/8058773206121"
       },
       "LSGiochi": {
@@ -781,6 +777,10 @@
         "price": 46.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-bonfire--edizione-italiana-.html"
       },
+      "IlCovoDelNerd": {
+        "price": 47.2,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
+      },
       "DragonStore": {
         "price": 43.99,
         "url": "https://www.dragonstore.it/gestionali-bonfire-italiano.1.1.385.gp.28000.uw"
@@ -823,10 +823,6 @@
       "MagicMerchant": {
         "price": 34.49,
         "url": "https://magicmerchant.it/catalogue/earth-66410/"
-      },
-      "GetYourFun": {
-        "price": 53.99,
-        "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
       },
       "Player1": {
         "price": 45.9,
@@ -1001,6 +997,10 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 47.59,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
+      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -1071,6 +1071,10 @@
       "DungeonDice": {
         "price": 40.0,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
+      },
+      "GetYourFun": {
+        "price": 48.0,
+        "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -1162,6 +1166,10 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1189,7 +1197,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
       "LaFeltrinelli": {
-        "price": 47.82,
+        "price": 45.82,
         "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
       },
       "DragonStore": {
@@ -1428,6 +1436,10 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1444,10 +1456,6 @@
       "MagicMerchant": {
         "price": 34.93,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
-      },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "Player1": {
         "price": 29.9,
@@ -1469,6 +1477,10 @@
       "MagicMerchant": {
         "price": 46.4,
         "url": "https://magicmerchant.it/catalogue/terra-nova-65070/"
+      },
+      "GetYourFun": {
+        "price": 43.99,
+        "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
       },
       "Player1": {
         "price": 35.9,
@@ -1537,7 +1549,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 53.57,
+        "price": 51.31,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "DadiEMattoncini": {
@@ -1562,8 +1574,12 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-calico--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 45.31,
+        "price": 43.31,
         "url": "https://www.lafeltrinelli.it/calico-gioco-da-tavolo-giocattolo-dal-tenda/e/0806891590534"
+      },
+      "IlCovoDelNerd": {
+        "price": 34.32,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/calico/"
       },
       "LSGiochi": {
         "price": 39.9,
@@ -1987,7 +2003,12 @@
   },
   {
     "name": "Through The Ages",
-    "prezzi": {}
+    "prezzi": {
+      "GetYourFun": {
+        "price": 69.99,
+        "url": "https://www.getyourfun.it/025-through-the-ages-giochi-gestionali.html"
+      }
+    }
   },
   {
     "name": "Concordia",
@@ -2003,6 +2024,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/concordia-30533/"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
       },
       "Player1": {
         "price": 44.9,
@@ -2298,6 +2323,10 @@
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
+      },
       "LaFeltrinelli": {
         "price": 67.31,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -2359,6 +2388,10 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
