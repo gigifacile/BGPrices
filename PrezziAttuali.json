@@ -24,7 +24,7 @@
         "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
       },
       "DungeonDice": {
-        "price": 74.99,
+        "price": 99.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "MagicMerchant": {
@@ -457,7 +457,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
-        "price": 64.99,
+        "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       }
     }
@@ -988,10 +988,6 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 47.59,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -1157,10 +1153,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1205,7 +1197,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/23241-le-havre.html"
       },
       "DungeonDice": {
-        "price": 38.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "MagicMerchant": {
@@ -1315,6 +1307,10 @@
         "price": 59.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
+      "LaFeltrinelli": {
+        "price": 52.49,
+        "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
+      },
       "DadiEMattoncini": {
         "price": 29.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/federation.html"
@@ -1418,10 +1414,6 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
-      },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       },
       "LaFeltrinelli": {
         "price": 59.99,
@@ -1869,12 +1861,7 @@
   },
   {
     "name": "Karak",
-    "prezzi": {
-      "MagicMerchant": {
-        "price": 34.89,
-        "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Flip 7",
@@ -2326,10 +2313,6 @@
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
       "LaFeltrinelli": {
         "price": 67.31,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -2391,10 +2374,6 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.96,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
