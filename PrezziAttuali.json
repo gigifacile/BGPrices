@@ -118,10 +118,6 @@
         "price": 76.99,
         "url": "https://www.lafeltrinelli.it/cyclades-ediz-leggendaria-gioco-da-giocattolo-ms-edizioni/e/8051772020439"
       },
-      "IlCovoDelNerd": {
-        "price": 69.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/cyclades-edizione-leggendaria/"
-      },
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/17525449/cyclades-edizione-leggendaria"
@@ -337,6 +333,10 @@
   {
     "name": "Trajan Deluxe",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 37.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/31282-trajan-deluxe.html"
@@ -389,6 +389,10 @@
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
+      },
+      "LaFeltrinelli": {
+        "price": 25.64,
+        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
         "price": 21.59,
@@ -461,6 +465,10 @@
   {
     "name": "Forest Shuffle",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 23.99,
+        "url": "https://fantasiastore.it/it/giochi-di-carte/29233-forest-shuffle.html"
+      },
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
@@ -569,6 +577,10 @@
   {
     "name": "Tiletum",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 52.79,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
@@ -598,6 +610,10 @@
   {
     "name": "Nidavellir",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 33.43,
+        "url": "https://fantasiastore.it/it/giochi-di-carte/10991-nidavellir.html"
+      },
       "DungeonDice": {
         "price": 37.99,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
@@ -623,6 +639,10 @@
   {
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 32.49,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
@@ -657,6 +677,10 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 44.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/378-viticulture-essential-edition.html"
+      },
       "GetYourFun": {
         "price": 64.9,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
@@ -812,6 +836,10 @@
   {
     "name": "Azul",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 29.24,
+        "url": "https://fantasiastore.it/it/grandi-classici/67024-azul.html"
+      },
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/10719-azul.html"
@@ -1305,7 +1333,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html"
       },
       "DungeonDice": {
-        "price": 74.24,
+        "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
       "GetYourFun": {
@@ -1458,6 +1486,10 @@
   {
     "name": "Res Arcana",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 31.99,
+        "url": "https://fantasiastore.it/it/giochi-di-carte/10048-res-arcana.html"
+      },
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
@@ -1487,6 +1519,10 @@
   {
     "name": "Yokohama - Seconda Edizione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 58.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html"
+      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/32771-yokohama-seconda-edizione.html"
@@ -1640,6 +1676,10 @@
   {
     "name": "Faraway - Cover Arancione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 21.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
+      },
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
@@ -2285,10 +2325,6 @@
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
       "LaFeltrinelli": {
         "price": 67.31,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -2350,10 +2386,6 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.96,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
