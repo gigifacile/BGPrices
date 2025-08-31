@@ -140,7 +140,7 @@
         "url": "https://www.dungeondice.it/27178-harmonies.html"
       },
       "MagicMerchant": {
-        "price": 24.43,
+        "price": 33.15,
         "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
       },
       "GetYourFun": {
@@ -551,6 +551,10 @@
       "Player1": {
         "price": 55.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
+      },
+      "UPlay": {
+        "price": 67.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LSGiochi": {
         "price": 79.99,
@@ -976,6 +980,10 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 47.59,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
+      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -1141,6 +1149,10 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1354,7 +1366,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 48.29,
+        "price": 45.99,
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       },
       "LSGiochi": {
@@ -1402,6 +1414,10 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       },
       "LaFeltrinelli": {
         "price": 59.99,
@@ -2297,6 +2313,10 @@
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
+      },
       "LaFeltrinelli": {
         "price": 67.31,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -2358,6 +2378,10 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
