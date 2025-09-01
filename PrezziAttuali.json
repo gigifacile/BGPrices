@@ -147,10 +147,6 @@
         "price": 29.74,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
-      "Player1": {
-        "price": 27.9,
-        "url": "https://player1.it/prodotto/harmonies/"
-      },
       "UPlay": {
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
@@ -341,6 +337,10 @@
         "price": 49.9,
         "url": "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html"
       },
+      "LaFeltrinelli": {
+        "price": 49.9,
+        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
+      },
       "IlCovoDelNerd": {
         "price": 42.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/trajan-deluxe/"
@@ -366,10 +366,6 @@
         "price": 26.99,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
-      "MagicMerchant": {
-        "price": 18.83,
-        "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
-      },
       "GetYourFun": {
         "price": 22.94,
         "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
@@ -377,10 +373,6 @@
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
-      },
-      "LaFeltrinelli": {
-        "price": 25.64,
-        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
         "price": 26.99,
@@ -799,6 +791,10 @@
         "price": 53.99,
         "url": "https://www.dungeondice.it/30284-earth.html"
       },
+      "MagicMerchant": {
+        "price": 34.49,
+        "url": "https://magicmerchant.it/catalogue/earth-66410/"
+      },
       "GetYourFun": {
         "price": 53.99,
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
@@ -909,10 +905,6 @@
       "LaFeltrinelli": {
         "price": 87.99,
         "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
-      },
-      "LSGiochi": {
-        "price": 45.99,
-        "url": "https://www.lsgiochi.it/product/12086390/fields-of-arle-big-box"
       },
       "DragonStore": {
         "price": 79.9,
@@ -1185,7 +1177,7 @@
     "name": "Le Havre",
     "prezzi": {
       "FantasiaStore": {
-        "price": 29.99,
+        "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/23241-le-havre.html"
       },
       "DungeonDice": {
@@ -1246,7 +1238,7 @@
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
       },
       "LSGiochi": {
-        "price": 29.99,
+        "price": 19.99,
         "url": "https://www.lsgiochi.it/product/10140537/dune"
       },
       "DragonStore": {
@@ -1755,6 +1747,10 @@
         "price": 36.64,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
+      "IlCovoDelNerd": {
+        "price": 31.1,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
+      },
       "DragonStore": {
         "price": 34.99,
         "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
@@ -2036,6 +2032,10 @@
         "price": 49.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -2281,8 +2281,12 @@
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
-        "price": 21.84,
+        "price": 22.9,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
+      },
+      "LSGiochi": {
+        "price": 22.99,
+        "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
       }
     }
   },
