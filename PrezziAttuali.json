@@ -81,10 +81,6 @@
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/arcs-83629/"
       },
-      "GetYourFun": {
-        "price": 55.24,
-        "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 61.16,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
@@ -374,6 +370,10 @@
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
+      "LaFeltrinelli": {
+        "price": 25.64,
+        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
+      },
       "DragonStore": {
         "price": 26.99,
         "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
@@ -441,10 +441,6 @@
   {
     "name": "Forest Shuffle",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 23.99,
-        "url": "https://fantasiastore.it/it/giochi-di-carte/29233-forest-shuffle.html"
-      },
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
@@ -521,7 +517,7 @@
     "name": "Terra Mystica - L'Era delle Scoperte",
     "prezzi": {
       "DungeonDice": {
-        "price": 55.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
       },
       "GetYourFun": {
@@ -964,10 +960,6 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 47.59,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -986,7 +978,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
       "DungeonDice": {
-        "price": 29.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "MagicMerchant": {
@@ -1133,10 +1125,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1399,10 +1387,6 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1438,7 +1422,7 @@
     "name": "Terra Nova",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/30238-terra-nova.html"
       },
       "MagicMerchant": {
@@ -1888,7 +1872,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 67.07,
+        "price": 57.73,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       },
       "DadiEMattoncini": {
@@ -2054,7 +2038,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
       },
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
       "MagicMerchant": {
@@ -2082,10 +2066,6 @@
   {
     "name": "Spirit Island",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 55.99,
-        "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
-      },
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
@@ -2309,10 +2289,6 @@
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
       "LaFeltrinelli": {
         "price": 59.9,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -2374,10 +2350,6 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.96,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
