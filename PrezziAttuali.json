@@ -92,6 +92,10 @@
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/arcs-conflitti-e-collasso-nellorlo.html"
+      },
+      "DragonStore": {
+        "price": 64.99,
+        "url": "https://www.dragonstore.it/fantascienza-arcs-conflitti-e-collasso-nell-orlo.1.1.46.gp.34362.uw"
       }
     }
   },
@@ -107,7 +111,7 @@
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
       },
       "MagicMerchant": {
-        "price": 66.4,
+        "price": 48.93,
         "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
@@ -366,6 +370,10 @@
         "price": 26.99,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
+      "MagicMerchant": {
+        "price": 25.55,
+        "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
+      },
       "GetYourFun": {
         "price": 22.94,
         "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
@@ -373,10 +381,6 @@
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
-      },
-      "LaFeltrinelli": {
-        "price": 25.64,
-        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
         "price": 26.99,
@@ -403,10 +407,6 @@
         "price": 25.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 29.9,
-        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
-      },
       "LSGiochi": {
         "price": 21.99,
         "url": "https://www.lsgiochi.it/product/10006991/port-royal-big-box"
@@ -427,6 +427,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
+      },
+      "MagicMerchant": {
+        "price": 61.0,
+        "url": "https://magicmerchant.it/catalogue/heat-64960/"
       },
       "GetYourFun": {
         "price": 55.17,
@@ -490,6 +494,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/21782-agricola.html"
+      },
+      "MagicMerchant": {
+        "price": 59.89,
+        "url": "https://magicmerchant.it/catalogue/agricola-47772/"
       },
       "GetYourFun": {
         "price": 50.99,
@@ -1407,6 +1415,10 @@
       "Player1": {
         "price": 29.9,
         "url": "https://player1.it/prodotto/golem/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -1784,6 +1796,10 @@
         "price": 48.39,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/179639-dorfromantik-sakura.html"
       },
+      "DungeonDice": {
+        "price": 54.99,
+        "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
+      },
       "MagicMerchant": {
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/dorfromantik-sakura-82301/"
@@ -1825,7 +1841,12 @@
   },
   {
     "name": "Karak",
-    "prezzi": {}
+    "prezzi": {
+      "MagicMerchant": {
+        "price": 34.89,
+        "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
+      }
+    }
   },
   {
     "name": "Flip 7",
@@ -1984,6 +2005,10 @@
   {
     "name": "Barrage",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 49.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
+      },
       "DungeonDice": {
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
@@ -2070,10 +2095,6 @@
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
-      "IlCovoDelNerd": {
-        "price": 68.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/spirit-island/"
-      },
       "DragonStore": {
         "price": 79.9,
         "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
@@ -2094,10 +2115,6 @@
       "UPlay": {
         "price": 76.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 77.3,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/scythe/"
       }
     }
   },
@@ -2197,10 +2214,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 65.99,
-        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
       }
     }
   },
@@ -2257,6 +2270,10 @@
   {
     "name": "Le Rovine Perdute di Arnak",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 38.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/9966-le-rovine-perdute-di-arnak.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
@@ -2313,10 +2330,6 @@
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 49.99,
