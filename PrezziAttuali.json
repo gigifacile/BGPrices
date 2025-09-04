@@ -1573,6 +1573,10 @@
         "price": 23.9,
         "url": "https://player1.it/prodotto/the-white-castle/"
       },
+      "UPlay": {
+        "price": 33.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
+      },
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
@@ -1605,10 +1609,6 @@
       "MagicMerchant": {
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
-      },
-      "GetYourFun": {
-        "price": 23.92,
-        "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 25.49,
