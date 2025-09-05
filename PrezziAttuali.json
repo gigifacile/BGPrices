@@ -519,6 +519,10 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
+      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
@@ -568,10 +572,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
-      },
-      "MagicMerchant": {
-        "price": 59.89,
-        "url": "https://magicmerchant.it/catalogue/tiletum-64073/"
       },
       "GetYourFun": {
         "price": 59.99,
@@ -882,6 +882,10 @@
   {
     "name": "Fields of Arle - Big Box",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 55.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/62777-fields-of-arle-big-box.html"
+      },
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
@@ -1433,6 +1437,10 @@
   {
     "name": "Terra Nova",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 35.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/23473-terra-nova-ita.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/30238-terra-nova.html"
@@ -1853,20 +1861,7 @@
   },
   {
     "name": "Karak",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 39.99,
-        "url": "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
-      },
-      "MagicMerchant": {
-        "price": 34.89,
-        "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Flip 7",
@@ -2215,7 +2210,7 @@
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "MagicMerchant": {
-        "price": 38.93,
+        "price": 41.93,
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
       },
       "GetYourFun": {
@@ -2233,6 +2228,10 @@
       "LaFeltrinelli": {
         "price": 65.99,
         "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/gestionali-ratti-di-wistar-italiano.1.1.385.gp.32401.uw"
       }
     }
   },
@@ -2324,6 +2323,10 @@
       "LSGiochi": {
         "price": 59.99,
         "url": "https://www.lsgiochi.it/product/10086794/le-rovine-perdute-di-arnak"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/gestionali-le-rovine-perdute-di-arnak.1.1.385.gp.28660.uw"
       }
     }
   },
