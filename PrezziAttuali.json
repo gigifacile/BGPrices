@@ -122,6 +122,10 @@
         "price": 59.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cyclades--edizione-leggendaria.html"
       },
+      "IlCovoDelNerd": {
+        "price": 69.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/cyclades-edizione-leggendaria/"
+      },
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/17525449/cyclades-edizione-leggendaria"
@@ -308,6 +312,10 @@
         "price": 44.49,
         "url": "https://magicmerchant.it/catalogue/its-a-wonderful-world-46827/"
       },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
+      },
       "UPlay": {
         "price": 37.83,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-it-s-a-wonderful-world--edizione-italiana-.html"
@@ -445,7 +453,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
-        "price": 61.74,
+        "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       }
     }
@@ -510,10 +518,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
@@ -1391,6 +1395,10 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1442,7 +1450,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 37.49,
+        "price": 34.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       }
     }
@@ -1862,12 +1870,7 @@
   },
   {
     "name": "Flip 7",
-    "prezzi": {
-      "MagicMerchant": {
-        "price": 16.89,
-        "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Thunder Road - Vendetta",
@@ -2306,6 +2309,10 @@
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
+      },
       "LaFeltrinelli": {
         "price": 67.31,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -2367,6 +2374,10 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
