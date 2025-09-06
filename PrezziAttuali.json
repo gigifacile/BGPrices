@@ -1229,10 +1229,6 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
-      "Player1": {
-        "price": 42.9,
-        "url": "https://player1.it/prodotto/dune/"
-      },
       "UPlay": {
         "price": 51.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
@@ -1852,12 +1848,7 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 47.08,
-        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Karak",
@@ -2125,6 +2116,10 @@
       "UPlay": {
         "price": 76.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
+      },
+      "LSGiochi": {
+        "price": 89.99,
+        "url": "https://www.lsgiochi.it/product/10007085/scythe"
       }
     }
   },
