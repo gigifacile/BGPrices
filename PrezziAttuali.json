@@ -1167,6 +1167,10 @@
         "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
+      "LaFeltrinelli": {
+        "price": 45.82,
+        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
+      },
       "DragonStore": {
         "price": 46.9,
         "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
@@ -1352,10 +1356,6 @@
       "LaFeltrinelli": {
         "price": 48.29,
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
-      },
-      "LSGiochi": {
-        "price": 39.9,
-        "url": "https://www.lsgiochi.it/product/9966200/cascadia"
       },
       "DragonStore": {
         "price": 39.9,
@@ -1744,7 +1744,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
       "LaFeltrinelli": {
-        "price": 36.64,
+        "price": 34.99,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "IlCovoDelNerd": {
@@ -2309,7 +2309,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 53.99,
+        "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2377,6 +2377,10 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
