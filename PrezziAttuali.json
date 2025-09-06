@@ -573,6 +573,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
       },
+      "MagicMerchant": {
+        "price": 59.89,
+        "url": "https://magicmerchant.it/catalogue/tiletum-64073/"
+      },
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
@@ -1162,10 +1166,6 @@
       "UPlay": {
         "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
-      },
-      "LaFeltrinelli": {
-        "price": 45.82,
-        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
       },
       "DragonStore": {
         "price": 46.9,
@@ -2309,7 +2309,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 50.99,
+        "price": 53.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2377,10 +2377,6 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.96,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
