@@ -691,7 +691,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
-        "price": 50.31,
+        "price": 42.99,
         "url": "https://www.lafeltrinelli.it/stone-age-linizio-del-viaggio-giocattolo-giochi-uniti/e/8058773206121"
       },
       "LSGiochi": {
@@ -1519,10 +1519,6 @@
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 65.0,
-        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
-      },
       "DadiEMattoncini": {
         "price": 44.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/yokohama.html"
@@ -1972,12 +1968,7 @@
   },
   {
     "name": "Through The Ages",
-    "prezzi": {
-      "GetYourFun": {
-        "price": 69.99,
-        "url": "https://www.getyourfun.it/025-through-the-ages-giochi-gestionali.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Concordia",
@@ -2279,10 +2270,6 @@
         "price": 19.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
-      "LaFeltrinelli": {
-        "price": 22.9,
-        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
-      },
       "LSGiochi": {
         "price": 22.99,
         "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
@@ -2315,10 +2302,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
-      "LaFeltrinelli": {
-        "price": 67.31,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
@@ -2356,10 +2339,6 @@
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 49.99,
