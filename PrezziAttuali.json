@@ -43,10 +43,6 @@
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 91.34,
-        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
-      },
       "IlCovoDelNerd": {
         "price": 85.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -154,6 +150,10 @@
       "GetYourFun": {
         "price": 27.99,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
+      },
+      "Player1": {
+        "price": 27.9,
+        "url": "https://player1.it/prodotto/harmonies/"
       },
       "UPlay": {
         "price": 29.74,
@@ -448,6 +448,10 @@
         "price": 55.17,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
+      "Player1": {
+        "price": 48.9,
+        "url": "https://player1.it/prodotto/heat/"
+      },
       "UPlay": {
         "price": 55.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
@@ -593,7 +597,12 @@
   },
   {
     "name": "Hansa Teutonica - Big Box",
-    "prezzi": {}
+    "prezzi": {
+      "MagicMerchant": {
+        "price": 49.89,
+        "url": "https://magicmerchant.it/catalogue/hansa-teutonica-big-box-49716/"
+      }
+    }
   },
   {
     "name": "Nidavellir",
@@ -778,10 +787,6 @@
   {
     "name": "Visconti del Regno Occidentale",
     "prezzi": {
-      "DungeonDice": {
-        "price": 49.99,
-        "url": "https://www.dungeondice.it/22757-visconti-del-regno-occidentale.html"
-      },
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-visconti-del-regno-occidentale.html"
@@ -1629,6 +1634,10 @@
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       }
     }
   },
@@ -1862,9 +1871,17 @@
   {
     "name": "Flip 7",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 15.29,
+        "url": "https://fantasiastore.it/it/giochi-di-carte/185682-flip-7.html"
+      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
+      },
+      "DragonStore": {
+        "price": 16.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-flip-7-edizione-italiana.1.1.115.gp.34395.uw"
       }
     }
   },
@@ -1923,6 +1940,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       }
     }
   },
@@ -1944,6 +1965,10 @@
       "GetYourFun": {
         "price": 49.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
         "price": 42.49,
@@ -2126,6 +2151,10 @@
       "LSGiochi": {
         "price": 89.99,
         "url": "https://www.lsgiochi.it/product/10007085/scythe"
+      },
+      "DragonStore": {
+        "price": 89.9,
+        "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
       }
     }
   },
