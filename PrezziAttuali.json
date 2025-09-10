@@ -43,6 +43,10 @@
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 91.34,
+        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
+      },
       "IlCovoDelNerd": {
         "price": 85.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -59,12 +63,7 @@
   },
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
-    "prezzi": {
-      "LSGiochi": {
-        "price": 69.99,
-        "url": "https://www.lsgiochi.it/product/14550172/seti-search-for-extraterrestrial-intelligence-italiano"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Arcs",
@@ -148,7 +147,7 @@
         "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
       },
       "GetYourFun": {
-        "price": 27.99,
+        "price": 29.74,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -490,7 +489,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 29.99,
+        "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
@@ -787,6 +786,10 @@
   {
     "name": "Visconti del Regno Occidentale",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/22757-visconti-del-regno-occidentale.html"
+      },
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-visconti-del-regno-occidentale.html"
@@ -947,10 +950,6 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
-      },
-      "LaFeltrinelli": {
-        "price": 44.02,
-        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1169,7 +1168,7 @@
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
       },
       "GetYourFun": {
-        "price": 39.87,
+        "price": 37.52,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1930,7 +1929,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
       },
       "GetYourFun": {
-        "price": 50.99,
+        "price": 47.99,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2120,7 +2119,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 75.9,
+        "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "DragonStore": {
@@ -2273,7 +2272,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
       },
       "DungeonDice": {
-        "price": 43.99,
+        "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
       },
       "LaFeltrinelli": {
@@ -2376,7 +2375,7 @@
         "url": "https://magicmerchant.it/catalogue/el-grande-66608/"
       },
       "GetYourFun": {
-        "price": 39.99,
+        "price": 42.49,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "UPlay": {
@@ -2409,7 +2408,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
