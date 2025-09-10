@@ -200,6 +200,10 @@
         "price": 35.99,
         "url": "https://www.dungeondice.it/31628-great-western-trail-nuova-zelanda.html"
       },
+      "MagicMerchant": {
+        "price": 32.94,
+        "url": "https://magicmerchant.it/catalogue/great-western-trail-nuova-zelanda-71226/"
+      },
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
@@ -799,10 +803,6 @@
   {
     "name": "Earth",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 34.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
-      },
       "DungeonDice": {
         "price": 53.99,
         "url": "https://www.dungeondice.it/30284-earth.html"
@@ -935,10 +935,6 @@
         "price": 24.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/60634-studiosi-a-sud-del-tigri-ita.html"
       },
-      "MagicMerchant": {
-        "price": 24.45,
-        "url": "https://magicmerchant.it/catalogue/studiosi-a-sud-del-tigri-72002/"
-      },
       "GetYourFun": {
         "price": 22.5,
         "url": "https://www.getyourfun.it/019772-studiosi-a-sud-del-tigri-giochi-gestionali.html"
@@ -950,6 +946,10 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.02,
+        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1267,7 +1267,7 @@
         "url": "https://www.dungeondice.it/30320-great-western-trail-argentina.html"
       },
       "MagicMerchant": {
-        "price": 35.94,
+        "price": 38.93,
         "url": "https://magicmerchant.it/catalogue/great-western-trail-argentina-66413/"
       },
       "Player1": {
@@ -1342,7 +1342,7 @@
         "url": "https://www.dungeondice.it/25072-cascadia.html"
       },
       "MagicMerchant": {
-        "price": 39.89,
+        "price": 27.93,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
       },
       "GetYourFun": {
@@ -1360,6 +1360,10 @@
       "LaFeltrinelli": {
         "price": 48.29,
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
+      },
+      "LSGiochi": {
+        "price": 39.9,
+        "url": "https://www.lsgiochi.it/product/9966200/cascadia"
       },
       "DragonStore": {
         "price": 39.9,
@@ -1870,10 +1874,6 @@
   {
     "name": "Flip 7",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 15.29,
-        "url": "https://fantasiastore.it/it/giochi-di-carte/185682-flip-7.html"
-      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -2408,7 +2408,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.99,
+        "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
