@@ -385,6 +385,10 @@
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
+      "LaFeltrinelli": {
+        "price": 26.99,
+        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
+      },
       "DragonStore": {
         "price": 26.99,
         "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
@@ -454,6 +458,10 @@
       "LaFeltrinelli": {
         "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       }
     }
   },
@@ -483,10 +491,6 @@
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 28.49,
-        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
   },
@@ -502,6 +506,10 @@
   {
     "name": "Agricola",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 38.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/2566-agricola.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/21782-agricola.html"
@@ -843,10 +851,6 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 44.99,
-        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       }
     }
   },
@@ -1048,7 +1052,7 @@
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 79.99,
+        "price": 75.99,
         "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       },
       "DadiEMattoncini": {
@@ -1350,7 +1354,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 48.29,
+        "price": 47.31,
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       },
       "LSGiochi": {
@@ -1693,10 +1697,6 @@
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
-      "MagicMerchant": {
-        "price": 11.83,
-        "url": "https://magicmerchant.it/catalogue/the-crew-47988/"
-      },
       "GetYourFun": {
         "price": 14.37,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
@@ -1854,7 +1854,7 @@
     "name": "Alhambra",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 47.08,
+        "price": 46.47,
         "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
       }
     }
@@ -1879,6 +1879,10 @@
   {
     "name": "Thunder Road - Vendetta",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 62.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/185685-thunder-road-vendetta-ita.html"
+      },
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
@@ -2106,9 +2110,9 @@
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
       },
-      "DragonStore": {
+      "LaFeltrinelli": {
         "price": 79.9,
-        "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
+        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       }
     }
   },
@@ -2242,6 +2246,10 @@
         "price": 65.99,
         "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
       },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/11986021/ratti-di-wistar"
+      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-ratti-di-wistar-italiano.1.1.385.gp.32401.uw"
@@ -2289,7 +2297,7 @@
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
-        "price": 22.9,
+        "price": 19.0,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "LSGiochi": {
