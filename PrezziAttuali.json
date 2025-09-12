@@ -68,6 +68,10 @@
   {
     "name": "Arcs",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 57.19,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/186086-arcs-conflitti-e-collasso-nellorlo-ita.html"
+      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
@@ -120,10 +124,6 @@
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/17525449/cyclades-edizione-leggendaria"
-      },
-      "DragonStore": {
-        "price": 69.9,
-        "url": "https://www.dragonstore.it/fantasy-cyclades-edizione-leggendaria.1.1.116.gp.33683.uw"
       }
     }
   },
@@ -332,10 +332,6 @@
         "price": 37.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
       },
-      "DungeonDice": {
-        "price": 34.99,
-        "url": "https://www.dungeondice.it/31282-trajan-deluxe.html"
-      },
       "MagicMerchant": {
         "price": 46.9,
         "url": "https://magicmerchant.it/catalogue/trajan-deluxe-68316/"
@@ -401,6 +397,10 @@
       "FantasiaStore": {
         "price": 20.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
+      },
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
       },
       "MagicMerchant": {
         "price": 19.43,
@@ -659,10 +659,6 @@
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
       },
-      "LaFeltrinelli": {
-        "price": 55.61,
-        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
-      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
@@ -694,6 +690,10 @@
   {
     "name": "Stone Age",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 32.49,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/7320-stone-age-linizio-del-viaggio.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/7315-stone-age.html"
@@ -794,10 +794,6 @@
   {
     "name": "Visconti del Regno Occidentale",
     "prezzi": {
-      "DungeonDice": {
-        "price": 49.99,
-        "url": "https://www.dungeondice.it/22757-visconti-del-regno-occidentale.html"
-      },
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-visconti-del-regno-occidentale.html"
@@ -1178,6 +1174,10 @@
       "UPlay": {
         "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
+      },
+      "LaFeltrinelli": {
+        "price": 45.82,
+        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
       },
       "DragonStore": {
         "price": 46.9,
@@ -1641,6 +1641,10 @@
       "LaFeltrinelli": {
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
+      },
+      "IlCovoDelNerd": {
+        "price": 25.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
       }
     }
   },
@@ -2304,6 +2308,10 @@
         "price": 19.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
+      "LaFeltrinelli": {
+        "price": 19.0,
+        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
+      },
       "LSGiochi": {
         "price": 22.99,
         "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
@@ -2391,6 +2399,10 @@
   {
     "name": "The Wolves",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 50.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/21212-the-wolves-ita.html"
+      },
       "DungeonDice": {
         "price": 35.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
