@@ -172,7 +172,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
       "LaFeltrinelli": {
-        "price": 33.0,
+        "price": 38.9,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
@@ -333,7 +333,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
       },
       "DungeonDice": {
-        "price": 49.99,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/31282-trajan-deluxe.html"
       },
       "MagicMerchant": {
@@ -1002,7 +1002,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "MagicMerchant": {
@@ -1052,7 +1052,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 40.0,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
       },
       "GetYourFun": {
@@ -1178,10 +1178,6 @@
       "UPlay": {
         "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
-      },
-      "LaFeltrinelli": {
-        "price": 45.82,
-        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
       },
       "DragonStore": {
         "price": 46.9,
@@ -1350,7 +1346,7 @@
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
       },
       "GetYourFun": {
-        "price": 33.99,
+        "price": 31.99,
         "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -1534,6 +1530,10 @@
       "UPlay": {
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 65.0,
+        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "DadiEMattoncini": {
         "price": 44.99,
@@ -2053,7 +2053,7 @@
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
-        "price": 71.09,
+        "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
       },
       "DragonStore": {
@@ -2107,7 +2107,7 @@
         "url": "https://magicmerchant.it/catalogue/spirit-island-46745/"
       },
       "GetYourFun": {
-        "price": 67.92,
+        "price": 63.92,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2304,10 +2304,6 @@
         "price": 19.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
-      "LaFeltrinelli": {
-        "price": 19.0,
-        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
-      },
       "LSGiochi": {
         "price": 22.99,
         "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
@@ -2338,7 +2334,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 53.99,
+        "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2375,7 +2371,7 @@
         "url": "https://magicmerchant.it/catalogue/el-grande-66608/"
       },
       "GetYourFun": {
-        "price": 42.49,
+        "price": 39.99,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "UPlay": {
@@ -2396,7 +2392,7 @@
     "name": "The Wolves",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
       },
       "MagicMerchant": {
@@ -2408,7 +2404,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.99,
+        "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
