@@ -43,10 +43,6 @@
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 91.34,
-        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
-      },
       "IlCovoDelNerd": {
         "price": 85.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -340,10 +336,6 @@
         "price": 49.9,
         "url": "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
-      },
       "IlCovoDelNerd": {
         "price": 42.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/trajan-deluxe/"
@@ -414,10 +406,6 @@
         "price": 25.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 29.9,
-        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
-      },
       "LSGiochi": {
         "price": 29.9,
         "url": "https://www.lsgiochi.it/product/10006991/port-royal-big-box"
@@ -458,10 +446,6 @@
       "LaFeltrinelli": {
         "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
-      },
-      "DadiEMattoncini": {
-        "price": 64.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       }
     }
   },
@@ -633,10 +617,6 @@
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.99,
-        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -1345,10 +1325,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/25072-cascadia.html"
       },
-      "MagicMerchant": {
-        "price": 27.93,
-        "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
-      },
       "GetYourFun": {
         "price": 29.99,
         "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
@@ -1563,10 +1539,6 @@
       "IlCovoDelNerd": {
         "price": 34.32,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/calico/"
-      },
-      "LSGiochi": {
-        "price": 39.9,
-        "url": "https://www.lsgiochi.it/product/10105728/calico"
       }
     }
   },
@@ -2282,10 +2254,6 @@
       "LaFeltrinelli": {
         "price": 54.9,
         "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
-      },
-      "LSGiochi": {
-        "price": 54.9,
-        "url": "https://www.lsgiochi.it/product/13163981/evenfall-italiano"
       }
     }
   },
@@ -2307,14 +2275,6 @@
       "GetYourFun": {
         "price": 19.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
-      },
-      "LaFeltrinelli": {
-        "price": 19.0,
-        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
-      },
-      "LSGiochi": {
-        "price": 22.99,
-        "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
       }
     }
   },
