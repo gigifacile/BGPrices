@@ -1077,7 +1077,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "GetYourFun": {
@@ -1559,10 +1559,6 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-calico--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 33.23,
-        "url": "https://www.lafeltrinelli.it/calico-gioco-da-tavolo-giocattolo-dal-tenda/e/0806891590534"
       },
       "IlCovoDelNerd": {
         "price": 34.32,
@@ -2275,6 +2271,10 @@
   {
     "name": "Evenfall",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 49.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
+      },
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
@@ -2416,7 +2416,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.99,
+        "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
