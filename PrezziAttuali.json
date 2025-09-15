@@ -163,6 +163,10 @@
   {
     "name": "Horrified",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 41.84,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/125151-horrified.html"
+      },
       "UPlay": {
         "price": 40.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
@@ -335,10 +339,6 @@
       "GetYourFun": {
         "price": 49.9,
         "url": "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
@@ -790,8 +790,12 @@
   {
     "name": "Earth",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 34.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
+      },
       "DungeonDice": {
-        "price": 53.99,
+        "price": 34.55,
         "url": "https://www.dungeondice.it/30284-earth.html"
       },
       "MagicMerchant": {
@@ -1415,10 +1419,6 @@
         "price": 34.93,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
       },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
-      },
       "Player1": {
         "price": 29.9,
         "url": "https://player1.it/prodotto/golem/"
@@ -1552,10 +1552,6 @@
         "price": 29.99,
         "url": "https://www.dungeondice.it/31788-the-white-castle.html"
       },
-      "MagicMerchant": {
-        "price": 29.89,
-        "url": "https://magicmerchant.it/catalogue/the-white-castle-71210/"
-      },
       "GetYourFun": {
         "price": 29.99,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
@@ -1608,10 +1604,6 @@
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.99,
-        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
         "price": 25.7,
@@ -2317,7 +2309,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/le-rovine-perdute-di-arnak/"
       },
       "LSGiochi": {
-        "price": 59.99,
+        "price": 47.99,
         "url": "https://www.lsgiochi.it/product/10086794/le-rovine-perdute-di-arnak"
       },
       "DragonStore": {
