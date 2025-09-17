@@ -747,6 +747,10 @@
         "price": 48.39,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12977-bonfire.html"
       },
+      "DungeonDice": {
+        "price": 54.99,
+        "url": "https://www.dungeondice.it/22342-bonfire.html"
+      },
       "MagicMerchant": {
         "price": 43.92,
         "url": "https://magicmerchant.it/catalogue/bonfire-47895/"
@@ -810,6 +814,10 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/earth/"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/earth-gioco-da-tavolo-giocattolo-lucky-duck-games/e/0787790613398"
+      },
       "DragonStore": {
         "price": 34.9,
         "url": "https://www.dragonstore.it/fantasy-earth-italiano.1.1.116.gp.31899.uw"
@@ -842,6 +850,10 @@
       "LaFeltrinelli": {
         "price": 42.74,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
+      "LSGiochi": {
+        "price": 29.99,
+        "url": "https://www.lsgiochi.it/product/10101293/azul"
       }
     }
   },
@@ -1609,10 +1621,6 @@
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
       },
-      "LaFeltrinelli": {
-        "price": 29.99,
-        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
-      },
       "IlCovoDelNerd": {
         "price": 25.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
@@ -1733,6 +1741,10 @@
       "IlCovoDelNerd": {
         "price": 31.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
+      },
+      "LSGiochi": {
+        "price": 27.99,
+        "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
       },
       "DragonStore": {
         "price": 34.99,
