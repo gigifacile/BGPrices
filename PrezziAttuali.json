@@ -102,12 +102,8 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/164464-cyclades-edizione-leggendaria.html"
       },
       "DungeonDice": {
-        "price": 69.99,
+        "price": 48.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
-      },
-      "MagicMerchant": {
-        "price": 48.93,
-        "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
         "price": 59.42,
@@ -569,7 +565,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html"
       },
       "DungeonDice": {
-        "price": 50.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
       },
       "MagicMerchant": {
@@ -690,7 +686,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 38.24,
+        "price": 47.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
@@ -723,7 +719,7 @@
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
-        "price": 84.99,
+        "price": 102.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
       "LaFeltrinelli": {
@@ -1621,6 +1617,10 @@
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
       },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
+      },
       "IlCovoDelNerd": {
         "price": 25.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
@@ -2144,7 +2144,7 @@
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/100248-trekking-through-history.html"
       },
       "DungeonDice": {
-        "price": 29.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
       "MagicMerchant": {
@@ -2232,10 +2232,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 65.99,
-        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
       },
       "LSGiochi": {
         "price": 59.99,
