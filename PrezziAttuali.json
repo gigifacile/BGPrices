@@ -102,12 +102,16 @@
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
       "FantasiaStore": {
-        "price": 39.99,
+        "price": 36.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/164464-cyclades-edizione-leggendaria.html"
       },
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
+      },
+      "MagicMerchant": {
+        "price": 48.93,
+        "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
         "price": 59.42,
@@ -271,11 +275,11 @@
     "name": "Revive",
     "prezzi": {
       "FantasiaStore": {
-        "price": 54.99,
+        "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "MagicMerchant": {
@@ -300,7 +304,7 @@
     "name": "It's a Wonderful World",
     "prezzi": {
       "FantasiaStore": {
-        "price": 33.99,
+        "price": 31.76,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12659-its-a-wonderful-world.html"
       },
       "DungeonDice": {
@@ -329,7 +333,7 @@
     "name": "Trajan Deluxe",
     "prezzi": {
       "FantasiaStore": {
-        "price": 37.99,
+        "price": 35.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
       },
       "MagicMerchant": {
@@ -362,7 +366,7 @@
     "name": "Captain Flip",
     "prezzi": {
       "FantasiaStore": {
-        "price": 21.99,
+        "price": 20.64,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/84908-captain-flip.html"
       },
       "MagicMerchant": {
@@ -391,7 +395,7 @@
     "name": "Port Royal Big Box",
     "prezzi": {
       "FantasiaStore": {
-        "price": 20.99,
+        "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
       },
       "DungeonDice": {
@@ -424,7 +428,7 @@
     "name": "Heat",
     "prezzi": {
       "FantasiaStore": {
-        "price": 51.99,
+        "price": 48.74,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
       },
       "DungeonDice": {
@@ -461,7 +465,7 @@
     "name": "Forest Shuffle",
     "prezzi": {
       "FantasiaStore": {
-        "price": 23.99,
+        "price": 22.49,
         "url": "https://fantasiastore.it/it/giochi-di-carte/29233-forest-shuffle.html"
       },
       "DungeonDice": {
@@ -479,6 +483,10 @@
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "LSGiochi": {
         "price": 29.99,
@@ -627,7 +635,7 @@
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
       "FantasiaStore": {
-        "price": 32.49,
+        "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
       },
       "DungeonDice": {
@@ -661,7 +669,7 @@
     "name": "Viticulture Essential Edition",
     "prezzi": {
       "FantasiaStore": {
-        "price": 44.99,
+        "price": 41.74,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/378-viticulture-essential-edition.html"
       },
       "GetYourFun": {
@@ -739,10 +747,6 @@
   {
     "name": "Bonfire",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 48.39,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/12977-bonfire.html"
-      },
       "MagicMerchant": {
         "price": 43.92,
         "url": "https://magicmerchant.it/catalogue/bonfire-47895/"
@@ -852,10 +856,6 @@
   {
     "name": "Seasons",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 37.5,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
@@ -894,7 +894,7 @@
     "name": "Fields of Arle - Big Box",
     "prezzi": {
       "FantasiaStore": {
-        "price": 55.99,
+        "price": 47.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/62777-fields-of-arle-big-box.html"
       },
       "DungeonDice": {
@@ -923,8 +923,12 @@
     "name": "Studiosi a Sud del Tigri",
     "prezzi": {
       "FantasiaStore": {
-        "price": 24.99,
+        "price": 22.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/60634-studiosi-a-sud-del-tigri-ita.html"
+      },
+      "MagicMerchant": {
+        "price": 24.45,
+        "url": "https://magicmerchant.it/catalogue/studiosi-a-sud-del-tigri-72002/"
       },
       "GetYourFun": {
         "price": 22.5,
@@ -1056,7 +1060,7 @@
     "name": "Apiary",
     "prezzi": {
       "FantasiaStore": {
-        "price": 49.99,
+        "price": 45.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
       "DungeonDice": {
@@ -1093,7 +1097,7 @@
     "name": "Viandanti a Sud del Tigri",
     "prezzi": {
       "FantasiaStore": {
-        "price": 24.99,
+        "price": 19.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19320-viandanti-a-sud-del-tigri.html"
       },
       "MagicMerchant": {
@@ -1143,7 +1147,7 @@
     "name": "Alta Tensione - Recharged",
     "prezzi": {
       "FantasiaStore": {
-        "price": 37.59,
+        "price": 32.89,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2634-alta-tensione-recharged.html"
       },
       "DungeonDice": {
@@ -1246,7 +1250,7 @@
     "name": "Great Western Trail - Argentina",
     "prezzi": {
       "FantasiaStore": {
-        "price": 24.99,
+        "price": 21.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21004-great-western-trail-argentina-ita.html"
       },
       "DungeonDice": {
@@ -1371,7 +1375,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "FantasiaStore": {
-        "price": 14.99,
+        "price": 9.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
       },
       "MagicMerchant": {
@@ -1392,7 +1396,7 @@
     "name": "Golem",
     "prezzi": {
       "FantasiaStore": {
-        "price": 37.99,
+        "price": 32.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
       },
       "MagicMerchant": {
@@ -1402,6 +1406,10 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -1438,7 +1446,7 @@
     "name": "Res Arcana",
     "prezzi": {
       "FantasiaStore": {
-        "price": 31.99,
+        "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/10048-res-arcana.html"
       },
       "DungeonDice": {
@@ -1456,6 +1464,10 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 39.99,
+        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
       "DragonStore": {
         "price": 39.9,
@@ -1821,6 +1833,10 @@
   {
     "name": "Flip 7",
     "prezzi": {
+      "MagicMerchant": {
+        "price": 16.89,
+        "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
+      },
       "DragonStore": {
         "price": 16.99,
         "url": "https://www.dragonstore.it/classici-famiglia-flip-7-edizione-italiana.1.1.115.gp.34395.uw"
@@ -1976,7 +1992,7 @@
     "name": "Barrage",
     "prezzi": {
       "FantasiaStore": {
-        "price": 49.99,
+        "price": 46.04,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
       },
       "DungeonDice": {
@@ -2013,7 +2029,7 @@
     "name": "Nucleum",
     "prezzi": {
       "FantasiaStore": {
-        "price": 39.99,
+        "price": 33.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
       },
       "DungeonDice": {
@@ -2042,7 +2058,7 @@
     "name": "Spirit Island",
     "prezzi": {
       "FantasiaStore": {
-        "price": 55.99,
+        "price": 51.99,
         "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
       },
       "DungeonDice": {
@@ -2254,6 +2270,10 @@
       "LaFeltrinelli": {
         "price": 19.0,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
+      },
+      "LSGiochi": {
+        "price": 22.99,
+        "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
       }
     }
   },
