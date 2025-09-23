@@ -106,7 +106,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/164464-cyclades-edizione-leggendaria.html"
       },
       "DungeonDice": {
-        "price": 48.99,
+        "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
       },
       "GetYourFun": {
@@ -378,7 +378,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
       "LaFeltrinelli": {
-        "price": 26.99,
+        "price": 25.64,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
@@ -526,6 +526,10 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
+      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
@@ -573,7 +577,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 50.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
       },
       "MagicMerchant": {
@@ -832,7 +836,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
       },
       "LaFeltrinelli": {
-        "price": 44.99,
+        "price": 42.74,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DadiEMattoncini": {
@@ -989,7 +993,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
       "DungeonDice": {
-        "price": 29.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "MagicMerchant": {
@@ -1039,7 +1043,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 40.0,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
       },
       "GetYourFun": {
@@ -1060,7 +1064,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "GetYourFun": {
@@ -1250,7 +1254,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21004-great-western-trail-argentina-ita.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/30320-great-western-trail-argentina.html"
       },
       "MagicMerchant": {
@@ -1336,6 +1340,10 @@
         "price": 48.29,
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       },
+      "LSGiochi": {
+        "price": 39.9,
+        "url": "https://www.lsgiochi.it/product/9966200/cascadia"
+      },
       "DragonStore": {
         "price": 39.9,
         "url": "https://www.dragonstore.it/classici-famiglia-cascadia-italiano.1.1.115.gp.29097.uw"
@@ -1350,7 +1358,7 @@
         "url": "https://www.dungeondice.it/32822-endeavor-abissi-marini.html"
       },
       "LaFeltrinelli": {
-        "price": 56.99,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
       },
       "IlCovoDelNerd": {
