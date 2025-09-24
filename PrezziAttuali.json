@@ -101,10 +101,6 @@
   {
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 36.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/164464-cyclades-edizione-leggendaria.html"
-      },
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
@@ -293,6 +289,10 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
+      },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       }
     }
   },
@@ -440,7 +440,7 @@
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
-        "price": 48.9,
+        "price": 47.9,
         "url": "https://player1.it/prodotto/heat/"
       },
       "UPlay": {
@@ -693,6 +693,10 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
+      "LaFeltrinelli": {
+        "price": 51.59,
+        "url": "https://www.lafeltrinelli.it/stone-age-linizio-del-viaggio-giocattolo-giochi-uniti/e/8058773206121"
+      },
       "LSGiochi": {
         "price": 49.99,
         "url": "https://www.lsgiochi.it/product/9982140/stone-age"
@@ -869,7 +873,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
       "LaFeltrinelli": {
-        "price": 48.6,
+        "price": 32.0,
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
@@ -1461,6 +1465,10 @@
         "price": 39.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
+      "LSGiochi": {
+        "price": 39.99,
+        "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
+      },
       "DragonStore": {
         "price": 39.9,
         "url": "https://www.dragonstore.it/fantasy-res-arcana-italiano.1.1.116.gp.28398.uw"
@@ -1507,10 +1515,6 @@
   {
     "name": "Calico",
     "prezzi": {
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/03081-calico-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-calico--edizione-italiana-.html"
@@ -1855,7 +1859,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 69.99,
+        "price": 69.9,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       },
       "DadiEMattoncini": {
@@ -1973,10 +1977,6 @@
       "LSGiochi": {
         "price": 59.99,
         "url": "https://www.lsgiochi.it/product/18304559/concordia"
-      },
-      "DragonStore": {
-        "price": 59.95,
-        "url": "https://www.dragonstore.it/gestionali-concordia-edizione-italiana.1.1.385.gp.17773.uw"
       }
     }
   },
@@ -2052,10 +2052,6 @@
       "FantasiaStore": {
         "price": 51.99,
         "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
-      },
-      "DungeonDice": {
-        "price": 79.99,
-        "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
       "MagicMerchant": {
         "price": 74.3,
