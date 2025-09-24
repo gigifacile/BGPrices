@@ -293,10 +293,6 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       }
     }
   },
@@ -696,10 +692,6 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
-      },
-      "LaFeltrinelli": {
-        "price": 51.59,
-        "url": "https://www.lafeltrinelli.it/stone-age-linizio-del-viaggio-giocattolo-giochi-uniti/e/8058773206121"
       },
       "LSGiochi": {
         "price": 49.99,
@@ -1289,6 +1281,10 @@
       "UPlay": {
         "price": 59.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 52.49,
+        "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
       }
     }
   },
@@ -1460,6 +1456,10 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 39.99,
+        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
       "DragonStore": {
         "price": 39.9,
@@ -1652,6 +1652,10 @@
         "price": 14.44,
         "url": "https://fantasiastore.it/it/cooperativi/8556-the-crew.html"
       },
+      "MagicMerchant": {
+        "price": 11.83,
+        "url": "https://magicmerchant.it/catalogue/the-crew-47988/"
+      },
       "GetYourFun": {
         "price": 13.52,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
@@ -1659,6 +1663,10 @@
       "UPlay": {
         "price": 14.37,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-crew.html"
+      },
+      "LaFeltrinelli": {
+        "price": 13.38,
+        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
@@ -1841,10 +1849,6 @@
       "MagicMerchant": {
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
-      },
-      "GetYourFun": {
-        "price": 66.49,
-        "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
       },
       "UPlay": {
         "price": 56.06,
@@ -2289,7 +2293,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 53.99,
+        "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2359,7 +2363,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.99,
+        "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
