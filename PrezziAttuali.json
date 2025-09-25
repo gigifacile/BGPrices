@@ -32,7 +32,7 @@
         "url": "https://magicmerchant.it/catalogue/everdell-farshore-80736/"
       },
       "GetYourFun": {
-        "price": 84.99,
+        "price": 79.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
       "Player1": {
@@ -110,7 +110,7 @@
         "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
-        "price": 59.42,
+        "price": 55.92,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -365,6 +365,10 @@
         "price": 20.64,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/84908-captain-flip.html"
       },
+      "DungeonDice": {
+        "price": 26.99,
+        "url": "https://www.dungeondice.it/32757-captain-flip.html"
+      },
       "MagicMerchant": {
         "price": 25.55,
         "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
@@ -481,7 +485,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 29.99,
+        "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "LSGiochi": {
@@ -577,7 +581,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html"
       },
       "DungeonDice": {
-        "price": 50.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
       },
       "MagicMerchant": {
@@ -690,12 +694,8 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 38.24,
+        "price": 47.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
-      },
-      "LaFeltrinelli": {
-        "price": 51.59,
-        "url": "https://www.lafeltrinelli.it/stone-age-linizio-del-viaggio-giocattolo-giochi-uniti/e/8058773206121"
       },
       "LSGiochi": {
         "price": 49.99,
@@ -799,7 +799,7 @@
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
       },
       "Player1": {
-        "price": 45.9,
+        "price": 35.9,
         "url": "https://player1.it/prodotto/earth/"
       },
       "DragonStore": {
@@ -865,7 +865,7 @@
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
       "Player1": {
-        "price": 36.9,
+        "price": 33.9,
         "url": "https://player1.it/prodotto/seasons/"
       },
       "UPlay": {
@@ -970,10 +970,6 @@
       "UPlay": {
         "price": 47.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 42.0,
-        "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
       },
       "IlCovoDelNerd": {
         "price": 48.1,
@@ -1188,11 +1184,11 @@
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
-        "price": 47.99,
+        "price": 50.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
-        "price": 37.9,
+        "price": 38.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "UPlay": {
@@ -1221,7 +1217,7 @@
         "url": "https://magicmerchant.it/catalogue/dune-49568/"
       },
       "GetYourFun": {
-        "price": 50.99,
+        "price": 47.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1454,7 +1450,7 @@
         "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
       },
       "GetYourFun": {
-        "price": 31.99,
+        "price": 33.99,
         "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1582,7 +1578,7 @@
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
       },
       "GetYourFun": {
-        "price": 25.42,
+        "price": 23.92,
         "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1854,10 +1850,6 @@
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
       },
-      "UPlay": {
-        "price": 56.06,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
-      },
       "LaFeltrinelli": {
         "price": 69.9,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
@@ -2062,7 +2054,7 @@
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
       "Player1": {
-        "price": 55.9,
+        "price": 52.9,
         "url": "https://player1.it/prodotto/spirit-island/"
       },
       "UPlay": {
@@ -2124,16 +2116,12 @@
         "url": "https://magicmerchant.it/catalogue/trekking-through-history-76507/"
       },
       "GetYourFun": {
-        "price": 33.99,
+        "price": 31.99,
         "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 36.53,
-        "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
       },
       "LSGiochi": {
         "price": 39.99,
