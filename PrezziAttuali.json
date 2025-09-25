@@ -7,7 +7,7 @@
     "name": "Castle Combo",
     "prezzi": {
       "MagicMerchant": {
-        "price": 24.89,
+        "price": 23.4,
         "url": "https://magicmerchant.it/catalogue/castle-combo-82014/"
       },
       "GetYourFun": {
@@ -42,6 +42,10 @@
       "UPlay": {
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 91.34,
+        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
       "IlCovoDelNerd": {
         "price": 85.9,
@@ -241,6 +245,10 @@
         "price": 44.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21270-aeons-end-ita.html"
       },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
+      },
       "MagicMerchant": {
         "price": 49.89,
         "url": "https://magicmerchant.it/catalogue/aeons-end-66441/"
@@ -273,10 +281,6 @@
       "FantasiaStore": {
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
-      },
-      "DungeonDice": {
-        "price": 63.99,
-        "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "MagicMerchant": {
         "price": 74.3,
@@ -398,10 +402,6 @@
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
       },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
-      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
@@ -409,6 +409,10 @@
       "UPlay": {
         "price": 25.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
       },
       "LSGiochi": {
         "price": 21.99,
@@ -794,6 +798,10 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
+      "DungeonDice": {
+        "price": 34.55,
+        "url": "https://www.dungeondice.it/30284-earth.html"
+      },
       "MagicMerchant": {
         "price": 34.49,
         "url": "https://magicmerchant.it/catalogue/earth-66410/"
@@ -993,7 +1001,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "MagicMerchant": {
@@ -1043,7 +1051,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 40.0,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
       },
       "GetYourFun": {
@@ -1130,7 +1138,7 @@
     "name": "L'Isola dei Gatti",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 47.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
@@ -1202,10 +1210,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-havre--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       },
       "DadiEMattoncini": {
         "price": 39.99,
@@ -1323,6 +1327,10 @@
       "FantasiaStore": {
         "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/12292-cascadia.html"
+      },
+      "MagicMerchant": {
+        "price": 27.93,
+        "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
       },
       "GetYourFun": {
         "price": 33.99,
@@ -1837,6 +1845,10 @@
   {
     "name": "Flip 7",
     "prezzi": {
+      "DungeonDice": {
+        "price": 16.99,
+        "url": "https://www.dungeondice.it/37331-flip-7.html"
+      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -2082,6 +2094,10 @@
         "price": 72.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
       },
+      "DungeonDice": {
+        "price": 89.99,
+        "url": "https://www.dungeondice.it/6038-scythe.html"
+      },
       "MagicMerchant": {
         "price": 80.91,
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
@@ -2209,10 +2225,6 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html"
       },
-      "LSGiochi": {
-        "price": 59.99,
-        "url": "https://www.lsgiochi.it/product/11986021/ratti-di-wistar"
-      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-ratti-di-wistar-italiano.1.1.385.gp.32401.uw"
@@ -2291,6 +2303,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
+      },
+      "LaFeltrinelli": {
+        "price": 67.31,
+        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
