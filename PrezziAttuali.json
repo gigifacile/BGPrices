@@ -63,7 +63,12 @@
   },
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
-    "prezzi": {}
+    "prezzi": {
+      "GetYourFun": {
+        "price": 62.99,
+        "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
+      }
+    }
   },
   {
     "name": "Arcs",
@@ -1045,6 +1050,10 @@
         "price": 113.9,
         "url": "https://magicmerchant.it/catalogue/hegemony-versione-estesa-76479/"
       },
+      "GetYourFun": {
+        "price": 107.91,
+        "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
+      },
       "LSGiochi": {
         "price": 106.99,
         "url": "https://www.lsgiochi.it/product/13808244/hegemony-versione-estesa-italiano-preordine-ristampa-arrivo-previsto-ottobre-2025"
@@ -1297,6 +1306,10 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/federation/"
+      },
+      "UPlay": {
+        "price": 59.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
       "LaFeltrinelli": {
         "price": 52.49,
@@ -1869,6 +1882,10 @@
       "MagicMerchant": {
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
+      },
+      "UPlay": {
+        "price": 65.95,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 69.9,
