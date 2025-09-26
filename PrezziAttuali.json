@@ -179,8 +179,12 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
+      "GetYourFun": {
+        "price": 38.25,
+        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
+      },
       "UPlay": {
-        "price": 40.49,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
       "LaFeltrinelli": {
@@ -402,6 +406,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 17.99,
+        "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
+      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
@@ -467,10 +475,6 @@
       "FantasiaStore": {
         "price": 22.49,
         "url": "https://fantasiastore.it/it/giochi-di-carte/29233-forest-shuffle.html"
-      },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
       },
       "MagicMerchant": {
         "price": 29.89,
@@ -731,7 +735,7 @@
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
-        "price": 89.99,
+        "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
       "LaFeltrinelli": {
@@ -881,7 +885,7 @@
         "url": "https://player1.it/prodotto/seasons/"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
       "LaFeltrinelli": {
@@ -1210,6 +1214,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-havre--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       },
       "DadiEMattoncini": {
         "price": 39.99,
