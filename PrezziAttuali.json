@@ -464,6 +464,10 @@
         "price": 55.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
+      "LaFeltrinelli": {
+        "price": 64.99,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
       "DragonStore": {
         "price": 64.99,
         "url": "https://www.dragonstore.it/gestionali-heat-pedal-to-the-metal-italiano.1.1.385.gp.31795.uw"
@@ -935,7 +939,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-fields-of-arle--big-box.html"
       },
       "LaFeltrinelli": {
-        "price": 87.99,
+        "price": 79.99,
         "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
       },
       "DragonStore": {
@@ -1079,10 +1083,6 @@
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 87.99,
-        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
-      },
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/village-big-box.html"
@@ -1113,7 +1113,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-apiary--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 62.92,
+        "price": 79.9,
         "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
       "IlCovoDelNerd": {
@@ -1377,10 +1377,6 @@
         "price": 48.29,
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       },
-      "LSGiochi": {
-        "price": 39.9,
-        "url": "https://www.lsgiochi.it/product/9966200/cascadia"
-      },
       "DragonStore": {
         "price": 39.9,
         "url": "https://www.dragonstore.it/classici-famiglia-cascadia-italiano.1.1.115.gp.29097.uw"
@@ -1476,6 +1472,10 @@
       "UPlay": {
         "price": 34.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       }
     }
   },
@@ -2045,7 +2045,7 @@
         "url": "https://player1.it/prodotto/barrage/"
       },
       "LaFeltrinelli": {
-        "price": 86.31,
+        "price": 78.99,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
@@ -2080,6 +2080,10 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
@@ -2250,10 +2254,6 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 65.99,
-        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
-      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-ratti-di-wistar-italiano.1.1.385.gp.32401.uw"
@@ -2334,7 +2334,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
-        "price": 67.31,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
