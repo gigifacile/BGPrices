@@ -707,7 +707,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
@@ -1032,6 +1032,10 @@
       "UPlay": {
         "price": 46.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
@@ -1677,10 +1681,6 @@
   {
     "name": "The Crew",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 14.44,
-        "url": "https://fantasiastore.it/it/cooperativi/8556-the-crew.html"
-      },
       "MagicMerchant": {
         "price": 11.83,
         "url": "https://magicmerchant.it/catalogue/the-crew-47988/"
@@ -1748,7 +1748,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
       },
       "LSGiochi": {
-        "price": 34.99,
+        "price": 27.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
       },
       "DragonStore": {
@@ -2094,10 +2094,6 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/spirit-island/"
       },
-      "UPlay": {
-        "price": 67.92,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
-      },
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
@@ -2122,10 +2118,6 @@
       "GetYourFun": {
         "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
-      },
-      "UPlay": {
-        "price": 76.42,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
       },
       "DadiEMattoncini": {
         "price": 89.99,
@@ -2155,10 +2147,6 @@
       "GetYourFun": {
         "price": 33.99,
         "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
-      },
-      "UPlay": {
-        "price": 33.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 36.53,
