@@ -415,6 +415,10 @@
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
       },
+      "GetYourFun": {
+        "price": 25.49,
+        "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
+      },
       "UPlay": {
         "price": 25.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
@@ -659,10 +663,6 @@
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
       },
-      "LaFeltrinelli": {
-        "price": 55.61,
-        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
-      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
@@ -707,7 +707,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
@@ -948,7 +948,7 @@
         "url": "https://magicmerchant.it/catalogue/studiosi-a-sud-del-tigri-72002/"
       },
       "GetYourFun": {
-        "price": 49.99,
+        "price": 22.5,
         "url": "https://www.getyourfun.it/019772-studiosi-a-sud-del-tigri-giochi-gestionali.html"
       },
       "Player1": {
@@ -1130,7 +1130,7 @@
         "url": "https://magicmerchant.it/catalogue/viandanti-a-sud-del-tigri-64965/"
       },
       "GetYourFun": {
-        "price": 49.99,
+        "price": 22.5,
         "url": "https://www.getyourfun.it/013185-viandanti-a-sud-del-tigri-giochi-gestionali.html"
       },
       "Player1": {
@@ -1257,10 +1257,6 @@
         "price": 51.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 60.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -1341,10 +1337,6 @@
   {
     "name": "Cascadia",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.99,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/12292-cascadia.html"
-      },
       "MagicMerchant": {
         "price": 27.93,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
@@ -2120,7 +2112,7 @@
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
       },
       "GetYourFun": {
-        "price": 89.9,
+        "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -2273,7 +2265,7 @@
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
-        "price": 22.9,
+        "price": 19.0,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "LSGiochi": {
