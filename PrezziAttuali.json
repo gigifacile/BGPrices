@@ -415,10 +415,6 @@
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
       },
-      "GetYourFun": {
-        "price": 25.49,
-        "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
-      },
       "UPlay": {
         "price": 25.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
@@ -455,6 +451,10 @@
       "GetYourFun": {
         "price": 55.17,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
+      },
+      "Player1": {
+        "price": 47.9,
+        "url": "https://player1.it/prodotto/heat/"
       },
       "UPlay": {
         "price": 55.24,
@@ -511,7 +511,7 @@
     "name": "Beyond the Sun",
     "prezzi": {
       "DungeonDice": {
-        "price": 89.99,
+        "price": 67.49,
         "url": "https://www.dungeondice.it/26097-beyond-the-sun.html"
       }
     }
@@ -590,7 +590,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 50.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
       },
       "MagicMerchant": {
@@ -707,7 +707,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 38.24,
+        "price": 47.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
@@ -784,6 +784,10 @@
       "UPlay": {
         "price": 44.91,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-architetti-del-regno-occidentale.html"
+      },
+      "LaFeltrinelli": {
+        "price": 39.29,
+        "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
       }
     }
   },
@@ -836,10 +840,6 @@
         "price": 29.24,
         "url": "https://fantasiastore.it/it/grandi-classici/67024-azul.html"
       },
-      "DungeonDice": {
-        "price": 44.99,
-        "url": "https://www.dungeondice.it/10719-azul.html"
-      },
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
@@ -851,6 +851,10 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 42.74,
+        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DadiEMattoncini": {
         "price": 44.99,
@@ -944,7 +948,7 @@
         "url": "https://magicmerchant.it/catalogue/studiosi-a-sud-del-tigri-72002/"
       },
       "GetYourFun": {
-        "price": 22.5,
+        "price": 49.99,
         "url": "https://www.getyourfun.it/019772-studiosi-a-sud-del-tigri-giochi-gestionali.html"
       },
       "Player1": {
@@ -1006,7 +1010,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
       "DungeonDice": {
-        "price": 29.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "MagicMerchant": {
@@ -1060,7 +1064,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 40.0,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
       },
       "GetYourFun": {
@@ -1126,7 +1130,7 @@
         "url": "https://magicmerchant.it/catalogue/viandanti-a-sud-del-tigri-64965/"
       },
       "GetYourFun": {
-        "price": 22.5,
+        "price": 49.99,
         "url": "https://www.getyourfun.it/013185-viandanti-a-sud-del-tigri-giochi-gestionali.html"
       },
       "Player1": {
@@ -1151,7 +1155,7 @@
     "name": "L'Isola dei Gatti",
     "prezzi": {
       "DungeonDice": {
-        "price": 47.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
@@ -1323,6 +1327,10 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
@@ -2112,7 +2120,7 @@
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
       },
       "GetYourFun": {
-        "price": 76.42,
+        "price": 89.9,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "UPlay": {
