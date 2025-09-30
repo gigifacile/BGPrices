@@ -129,6 +129,10 @@
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/17525449/cyclades-edizione-leggendaria"
+      },
+      "DragonStore": {
+        "price": 69.9,
+        "url": "https://www.dragonstore.it/fantasy-cyclades-edizione-leggendaria.1.1.116.gp.33683.uw"
       }
     }
   },
@@ -274,10 +278,6 @@
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
       },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
       "LSGiochi": {
         "price": 49.99,
         "url": "https://www.lsgiochi.it/product/11164777/aeon-s-end-seconda-edizione"
@@ -399,7 +399,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
       "LaFeltrinelli": {
-        "price": 25.64,
+        "price": 26.99,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
@@ -443,10 +443,6 @@
       "FantasiaStore": {
         "price": 48.74,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
-      },
-      "DungeonDice": {
-        "price": 64.99,
-        "url": "https://www.dungeondice.it/29880-heat.html"
       },
       "MagicMerchant": {
         "price": 61.0,
@@ -663,6 +659,10 @@
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
       },
+      "LaFeltrinelli": {
+        "price": 55.61,
+        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
+      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
@@ -853,7 +853,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
       },
       "LaFeltrinelli": {
-        "price": 42.74,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DadiEMattoncini": {
@@ -1154,6 +1154,10 @@
   {
     "name": "L'Isola dei Gatti",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 52.79,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/20462-lisola-dei-gatti.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
@@ -1257,6 +1261,10 @@
         "price": 51.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 60.0,
+        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
+      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -1356,6 +1364,10 @@
       "LaFeltrinelli": {
         "price": 47.31,
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
+      },
+      "LSGiochi": {
+        "price": 39.9,
+        "url": "https://www.lsgiochi.it/product/9966200/cascadia"
       },
       "DragonStore": {
         "price": 39.9,
@@ -1673,6 +1685,10 @@
         "price": 14.44,
         "url": "https://fantasiastore.it/it/cooperativi/8556-the-crew.html"
       },
+      "DungeonDice": {
+        "price": 16.99,
+        "url": "https://www.dungeondice.it/22687-the-crew.html"
+      },
       "MagicMerchant": {
         "price": 11.83,
         "url": "https://magicmerchant.it/catalogue/the-crew-47988/"
@@ -1945,10 +1961,6 @@
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
-      "UPlay": {
-        "price": 42.49,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
-      },
       "IlCovoDelNerd": {
         "price": 43.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/dune-imperium/"
@@ -2102,10 +2114,6 @@
       "FantasiaStore": {
         "price": 72.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
-      },
-      "DungeonDice": {
-        "price": 89.99,
-        "url": "https://www.dungeondice.it/6038-scythe.html"
       },
       "MagicMerchant": {
         "price": 80.91,
