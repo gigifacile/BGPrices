@@ -192,12 +192,16 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
+      "MagicMerchant": {
+        "price": 44.89,
+        "url": "https://magicmerchant.it/catalogue/horrified-75434/"
+      },
       "GetYourFun": {
         "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
-        "price": 40.49,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
       "LaFeltrinelli": {
@@ -568,6 +572,10 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
       },
+      "MagicMerchant": {
+        "price": 67.91,
+        "url": "https://magicmerchant.it/catalogue/terra-mystica-lera-delle-scoperte-68297/"
+      },
       "GetYourFun": {
         "price": 79.99,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
@@ -575,6 +583,10 @@
       "Player1": {
         "price": 55.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
+      },
+      "UPlay": {
+        "price": 67.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -662,6 +674,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
+      },
+      "MagicMerchant": {
+        "price": 31.43,
+        "url": "https://magicmerchant.it/catalogue/dominion-seconda-edizione-52378/"
       },
       "GetYourFun": {
         "price": 39.9,
@@ -901,10 +917,6 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
-      "LaFeltrinelli": {
-        "price": 32.0,
-        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
-      },
       "IlCovoDelNerd": {
         "price": 38.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
@@ -1000,6 +1012,10 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 47.59,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
+      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -1034,7 +1050,7 @@
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
       },
       "UPlay": {
-        "price": 49.46,
+        "price": 46.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
       "LaFeltrinelli": {
@@ -1170,9 +1186,17 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
+      "MagicMerchant": {
+        "price": 59.89,
+        "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
+      },
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1466,7 +1490,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 37.49,
+        "price": 34.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -1671,6 +1695,10 @@
       "GetYourFun": {
         "price": 24.99,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
+      },
+      "UPlay": {
+        "price": 21.24,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
       }
     }
   },
@@ -1742,10 +1770,6 @@
       "UPlay": {
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
-      },
-      "LaFeltrinelli": {
-        "price": 34.99,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "DadiEMattoncini": {
         "price": 34.99,
@@ -1887,6 +1911,10 @@
         "price": 62.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/185685-thunder-road-vendetta-ita.html"
       },
+      "MagicMerchant": {
+        "price": 66.4,
+        "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
+      },
       "UPlay": {
         "price": 65.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
@@ -1927,10 +1955,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "DragonStore": {
         "price": 59.99,
@@ -2095,7 +2119,7 @@
         "url": "https://magicmerchant.it/catalogue/spirit-island-46745/"
       },
       "GetYourFun": {
-        "price": 63.92,
+        "price": 67.92,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2260,6 +2284,10 @@
   {
     "name": "Crack List",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 20.23,
+        "url": "https://fantasiastore.it/it/party-games/128497-crack-list.html"
+      },
       "DungeonDice": {
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
@@ -2306,7 +2334,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 53.99,
+        "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2338,8 +2366,12 @@
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
+      "MagicMerchant": {
+        "price": 46.9,
+        "url": "https://magicmerchant.it/catalogue/el-grande-66608/"
+      },
       "GetYourFun": {
-        "price": 37.49,
+        "price": 42.49,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "UPlay": {
@@ -2376,7 +2408,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.99,
+        "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
