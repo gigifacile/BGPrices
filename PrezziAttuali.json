@@ -44,7 +44,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 99.99,
+        "price": 91.34,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
       "IlCovoDelNerd": {
@@ -121,10 +121,6 @@
       "UPlay": {
         "price": 59.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cyclades--edizione-leggendaria.html"
-      },
-      "LaFeltrinelli": {
-        "price": 69.99,
-        "url": "https://www.lafeltrinelli.it/cyclades-ediz-leggendaria-gioco-da-giocattolo-ms-edizioni/e/8051772020439"
       },
       "IlCovoDelNerd": {
         "price": 69.9,
@@ -414,6 +410,10 @@
         "price": 26.99,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
+      "LSGiochi": {
+        "price": 26.99,
+        "url": "https://www.lsgiochi.it/product/13810049/captain-flip"
+      },
       "DragonStore": {
         "price": 26.99,
         "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
@@ -506,7 +506,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "LSGiochi": {
@@ -587,10 +587,6 @@
       "UPlay": {
         "price": 67.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
       },
       "LSGiochi": {
         "price": 79.99,
@@ -712,10 +708,6 @@
       "GetYourFun": {
         "price": 64.9,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 64.99,
-        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       }
     }
   },
@@ -852,7 +844,7 @@
         "url": "https://player1.it/prodotto/earth/"
       },
       "LaFeltrinelli": {
-        "price": 53.9,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/earth-gioco-da-tavolo-giocattolo-lucky-duck-games/e/0787790613398"
       },
       "DragonStore": {
@@ -916,6 +908,10 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
+      },
+      "LaFeltrinelli": {
+        "price": 32.0,
+        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
         "price": 38.7,
@@ -1096,7 +1092,7 @@
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 79.9,
+        "price": 87.99,
         "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       },
       "DadiEMattoncini": {
@@ -1374,7 +1370,7 @@
     "name": "Cascadia",
     "prezzi": {
       "MagicMerchant": {
-        "price": 27.93,
+        "price": 37.9,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
       },
       "GetYourFun": {
@@ -1413,10 +1409,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
-      },
-      "IlCovoDelNerd": {
-        "price": 51.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/endeavor-abissi-marini/"
       },
       "LSGiochi": {
         "price": 59.99,
@@ -1771,6 +1763,10 @@
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
+      "LaFeltrinelli": {
+        "price": 34.99,
+        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
+      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
@@ -1795,12 +1791,7 @@
   },
   {
     "name": "Cryptid",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 31.99,
-        "url": "https://www.dungeondice.it/13172-cryptid.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Hallertau",
@@ -1956,6 +1947,10 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
+      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/wargames-dune-imperium-insurrezione.1.1.117.gp.33393.uw"
@@ -2097,10 +2092,6 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
       },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
-      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
@@ -2129,10 +2120,6 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       }
     }
   },
@@ -2257,6 +2244,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/11986021/ratti-di-wistar"
       },
       "DragonStore": {
         "price": 59.99,
