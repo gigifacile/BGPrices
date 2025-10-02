@@ -140,7 +140,7 @@
     "name": "Harmonies",
     "prezzi": {
       "FantasiaStore": {
-        "price": 34.99,
+        "price": 26.24,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/100246-harmonies.html"
       },
       "DungeonDice": {
@@ -199,10 +199,6 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
-      },
-      "LaFeltrinelli": {
-        "price": 38.9,
-        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
         "price": 39.99,
@@ -682,10 +678,6 @@
       "GetYourFun": {
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
-      },
-      "LaFeltrinelli": {
-        "price": 55.61,
-        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1434,6 +1426,10 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
   },
@@ -2060,7 +2056,7 @@
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
-        "price": 71.09,
+        "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
       },
       "DragonStore": {
@@ -2377,10 +2373,6 @@
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
-      },
       "DragonStore": {
         "price": 49.99,
         "url": "https://www.dragonstore.it/classici-famiglia-el-grande-nuova-edizione-italiana-2-mini-espansioni.1.1.115.gp.32239.uw"
@@ -2407,7 +2399,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.99,
+        "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
