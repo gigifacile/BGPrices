@@ -200,6 +200,10 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
+      "LaFeltrinelli": {
+        "price": 38.9,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -298,6 +302,10 @@
       "FantasiaStore": {
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
+      },
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "MagicMerchant": {
         "price": 74.3,
@@ -679,6 +687,10 @@
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
       },
+      "LaFeltrinelli": {
+        "price": 55.61,
+        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
+      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
@@ -691,6 +703,10 @@
       "MagicMerchant": {
         "price": 99.89,
         "url": "https://magicmerchant.it/catalogue/obsession-65384/"
+      },
+      "DragonStore": {
+        "price": 99.99,
+        "url": "https://www.dragonstore.it/gestionali-obsession-italiano.1.1.385.gp.32432.uw"
       }
     }
   },
@@ -787,10 +803,6 @@
       "IlCovoDelNerd": {
         "price": 47.2,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
-      },
-      "DragonStore": {
-        "price": 54.99,
-        "url": "https://www.dragonstore.it/gestionali-bonfire-italiano.1.1.385.gp.28000.uw"
       }
     }
   },
@@ -853,7 +865,7 @@
     "name": "Azul",
     "prezzi": {
       "FantasiaStore": {
-        "price": 29.24,
+        "price": 31.49,
         "url": "https://fantasiastore.it/it/grandi-classici/67024-azul.html"
       },
       "MagicMerchant": {
@@ -1416,7 +1428,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "FantasiaStore": {
-        "price": 9.99,
+        "price": 14.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
       },
       "MagicMerchant": {
@@ -1763,10 +1775,6 @@
         "price": 34.99,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
-      "DadiEMattoncini": {
-        "price": 34.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
-      },
       "IlCovoDelNerd": {
         "price": 31.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
@@ -2102,8 +2110,12 @@
     "name": "Spirit Island",
     "prezzi": {
       "FantasiaStore": {
-        "price": 51.99,
+        "price": 55.99,
         "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
+      },
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
       "MagicMerchant": {
         "price": 74.3,
@@ -2203,6 +2215,10 @@
       "FantasiaStore": {
         "price": 23.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/136132-looot-il-bottino-dei-vichinghi.html"
+      },
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
       },
       "MagicMerchant": {
         "price": 29.89,
@@ -2309,7 +2325,7 @@
     "name": "Le Rovine Perdute di Arnak",
     "prezzi": {
       "FantasiaStore": {
-        "price": 38.99,
+        "price": 41.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/9966-le-rovine-perdute-di-arnak.html"
       },
       "DungeonDice": {
@@ -2372,6 +2388,10 @@
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 49.99,
