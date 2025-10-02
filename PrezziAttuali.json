@@ -489,6 +489,10 @@
         "price": 22.49,
         "url": "https://fantasiastore.it/it/giochi-di-carte/29233-forest-shuffle.html"
       },
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
+      },
       "MagicMerchant": {
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
@@ -1430,10 +1434,6 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
   },
@@ -2060,7 +2060,7 @@
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
-        "price": 67.14,
+        "price": 71.09,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
       },
       "DragonStore": {
@@ -2092,6 +2092,10 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
+      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
@@ -2120,6 +2124,10 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       }
     }
   },
@@ -2399,7 +2407,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
