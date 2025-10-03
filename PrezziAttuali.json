@@ -531,7 +531,7 @@
     "name": "Beyond the Sun",
     "prezzi": {
       "DungeonDice": {
-        "price": 67.49,
+        "price": 89.99,
         "url": "https://www.dungeondice.it/26097-beyond-the-sun.html"
       }
     }
@@ -614,7 +614,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html"
       },
       "DungeonDice": {
-        "price": 50.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
       },
       "MagicMerchant": {
@@ -739,11 +739,11 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 38.24,
+        "price": 47.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
-        "price": 51.59,
+        "price": 55.61,
         "url": "https://www.lafeltrinelli.it/stone-age-linizio-del-viaggio-giocattolo-giochi-uniti/e/8058773206121"
       },
       "LSGiochi": {
@@ -987,10 +987,6 @@
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
       },
-      "LaFeltrinelli": {
-        "price": 44.02,
-        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
-      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-studiosi-a-sud-del-tigri.1.1.385.gp.32868.uw"
@@ -1092,7 +1088,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 40.0,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
       },
       "GetYourFun": {
@@ -1187,7 +1183,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20462-lisola-dei-gatti.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "MagicMerchant": {
@@ -1348,7 +1344,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
       "LaFeltrinelli": {
-        "price": 52.49,
+        "price": 69.99,
         "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
       }
     }
@@ -1430,6 +1426,10 @@
       "FantasiaStore": {
         "price": 14.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
+      },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "MagicMerchant": {
         "price": 29.94,
@@ -2389,10 +2389,6 @@
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
-      },
       "DragonStore": {
         "price": 49.99,
         "url": "https://www.dragonstore.it/classici-famiglia-el-grande-nuova-edizione-italiana-2-mini-espansioni.1.1.115.gp.32239.uw"
@@ -2407,7 +2403,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21212-the-wolves-ita.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
       },
       "MagicMerchant": {
