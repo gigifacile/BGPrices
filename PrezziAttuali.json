@@ -739,7 +739,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
@@ -868,6 +868,10 @@
         "price": 31.49,
         "url": "https://fantasiastore.it/it/grandi-classici/67024-azul.html"
       },
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/10719-azul.html"
+      },
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
@@ -986,6 +990,10 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.02,
+        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1438,6 +1446,10 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       },
       "LaFeltrinelli": {
         "price": 59.99,
