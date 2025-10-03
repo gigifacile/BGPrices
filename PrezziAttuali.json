@@ -106,6 +106,10 @@
   {
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 36.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/164464-cyclades-edizione-leggendaria.html"
+      },
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
@@ -413,10 +417,6 @@
       "LaFeltrinelli": {
         "price": 26.99,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
-      },
-      "LSGiochi": {
-        "price": 26.99,
-        "url": "https://www.lsgiochi.it/product/13810049/captain-flip"
       },
       "DragonStore": {
         "price": 26.99,
@@ -835,10 +835,6 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
-      "DungeonDice": {
-        "price": 34.55,
-        "url": "https://www.dungeondice.it/30284-earth.html"
-      },
       "MagicMerchant": {
         "price": 34.49,
         "url": "https://magicmerchant.it/catalogue/earth-66410/"
@@ -1024,10 +1020,6 @@
         "price": 47.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
-      "LaFeltrinelli": {
-        "price": 42.0,
-        "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
-      },
       "IlCovoDelNerd": {
         "price": 48.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -1199,7 +1191,7 @@
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -2400,6 +2392,10 @@
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 49.99,
