@@ -1016,10 +1016,6 @@
         "price": 47.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
-      "LaFeltrinelli": {
-        "price": 42.0,
-        "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
-      },
       "IlCovoDelNerd": {
         "price": 48.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -1313,6 +1309,10 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
+      },
+      "LaFeltrinelli": {
+        "price": 47.18,
+        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -1368,10 +1368,6 @@
       "MagicMerchant": {
         "price": 37.9,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
-      },
-      "GetYourFun": {
-        "price": 33.99,
-        "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 28.9,
@@ -1505,10 +1501,6 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
-      },
-      "MagicMerchant": {
-        "price": 33.91,
-        "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
       },
       "GetYourFun": {
         "price": 35.19,
@@ -2120,10 +2112,6 @@
       "GetYourFun": {
         "price": 67.92,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
-      },
-      "Player1": {
-        "price": 52.9,
-        "url": "https://player1.it/prodotto/spirit-island/"
       },
       "UPlay": {
         "price": 67.92,
