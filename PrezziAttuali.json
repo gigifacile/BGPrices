@@ -226,7 +226,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/38932-great-western-trail-nuova-zelanda.html"
       },
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31628-great-western-trail-nuova-zelanda.html"
       },
       "MagicMerchant": {
@@ -835,10 +835,6 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
-      "MagicMerchant": {
-        "price": 34.49,
-        "url": "https://magicmerchant.it/catalogue/earth-66410/"
-      },
       "GetYourFun": {
         "price": 53.99,
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
@@ -846,6 +842,10 @@
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/earth/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/earth-gioco-da-tavolo-giocattolo-lucky-duck-games/e/0787790613398"
       },
       "DragonStore": {
         "price": 34.9,
@@ -875,10 +875,6 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 44.99,
-        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DadiEMattoncini": {
         "price": 44.99,
@@ -1277,6 +1273,10 @@
         "price": 47.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
+      "Player1": {
+        "price": 42.9,
+        "url": "https://player1.it/prodotto/dune/"
+      },
       "UPlay": {
         "price": 51.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
@@ -1349,7 +1349,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html"
       },
       "DungeonDice": {
-        "price": 98.99,
+        "price": 74.24,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
       "GetYourFun": {
@@ -1455,10 +1455,6 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -1649,10 +1645,6 @@
       "IlCovoDelNerd": {
         "price": 25.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
-      },
-      "DragonStore": {
-        "price": 29.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-mlem-agenzia-spaziale.1.1.115.gp.32734.uw"
       }
     }
   },
@@ -1913,10 +1905,6 @@
       "GetYourFun": {
         "price": 66.49,
         "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
-      },
-      "UPlay": {
-        "price": 65.95,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 69.9,
@@ -2283,7 +2271,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
       },
       "DungeonDice": {
-        "price": 54.99,
+        "price": 43.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
       },
       "LaFeltrinelli": {
@@ -2312,7 +2300,7 @@
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
-        "price": 19.0,
+        "price": 22.9,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "LSGiochi": {
