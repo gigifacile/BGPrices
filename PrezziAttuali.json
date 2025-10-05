@@ -415,7 +415,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
       "LaFeltrinelli": {
-        "price": 26.99,
+        "price": 25.64,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
@@ -477,7 +477,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
-        "price": 64.99,
+        "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DragonStore": {
@@ -875,6 +875,10 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DadiEMattoncini": {
         "price": 44.99,
@@ -1309,10 +1313,6 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
-      },
-      "LaFeltrinelli": {
-        "price": 47.18,
-        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -1455,6 +1455,10 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -1873,10 +1877,6 @@
   {
     "name": "Flip 7",
     "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/37331-flip-7.html"
-      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -1905,6 +1905,10 @@
       "GetYourFun": {
         "price": 66.49,
         "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
+      },
+      "UPlay": {
+        "price": 65.95,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 69.9,
