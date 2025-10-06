@@ -115,7 +115,7 @@
         "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
-        "price": 61.51,
+        "price": 59.42,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -494,7 +494,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 29.99,
+        "price": 25.12,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "LSGiochi": {
@@ -1152,7 +1152,7 @@
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
       },
       "GetYourFun": {
-        "price": 41.27,
+        "price": 39.87,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1229,10 +1229,6 @@
         "price": 51.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 60.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -1292,10 +1288,6 @@
   {
     "name": "Inis - Big Box",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 79.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html"
-      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1308,6 +1300,10 @@
       "MagicMerchant": {
         "price": 37.9,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
+      },
+      "GetYourFun": {
+        "price": 33.99,
+        "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 28.9,
@@ -1611,6 +1607,10 @@
       "UPlay": {
         "price": 21.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
+      },
+      "LSGiochi": {
+        "price": 24.99,
+        "url": "https://www.lsgiochi.it/product/15788817/faraway-cover-arancione"
       }
     }
   },
@@ -1682,10 +1682,6 @@
       "UPlay": {
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
-      },
-      "LaFeltrinelli": {
-        "price": 34.99,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "LSGiochi": {
         "price": 34.99,
