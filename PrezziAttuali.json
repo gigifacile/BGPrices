@@ -184,10 +184,6 @@
   {
     "name": "Horrified",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 41.84,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/125151-horrified.html"
-      },
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
@@ -739,7 +735,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 38.24,
+        "price": 47.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
@@ -1016,6 +1012,10 @@
         "price": 47.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
+      "LaFeltrinelli": {
+        "price": 42.0,
+        "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
+      },
       "IlCovoDelNerd": {
         "price": 48.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -1208,7 +1208,7 @@
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 39.94,
+        "price": 42.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
       "LaFeltrinelli": {
@@ -1347,14 +1347,6 @@
       "FantasiaStore": {
         "price": 79.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html"
-      },
-      "DungeonDice": {
-        "price": 74.24,
-        "url": "https://www.dungeondice.it/25648-inis-big-box.html"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
