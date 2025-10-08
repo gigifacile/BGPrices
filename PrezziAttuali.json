@@ -633,6 +633,10 @@
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.99,
+        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -744,7 +748,7 @@
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
-        "price": 89.99,
+        "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
       "LaFeltrinelli": {
@@ -807,10 +811,6 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
-      "DungeonDice": {
-        "price": 34.55,
-        "url": "https://www.dungeondice.it/30284-earth.html"
-      },
       "GetYourFun": {
         "price": 53.99,
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
@@ -818,6 +818,10 @@
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/earth/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/earth-gioco-da-tavolo-giocattolo-lucky-duck-games/e/0787790613398"
       },
       "DragonStore": {
         "price": 34.9,
@@ -882,7 +886,7 @@
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
       "LaFeltrinelli": {
@@ -1054,6 +1058,10 @@
       "GetYourFun": {
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 87.99,
+        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -2123,10 +2131,6 @@
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
-      },
-      "DragonStore": {
-        "price": 29.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-looot-il-bottino-dei-vichinghi.1.1.115.gp.33422.uw"
       }
     }
   },
@@ -2233,7 +2237,7 @@
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "UPlay": {
-        "price": 50.99,
+        "price": 53.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2303,7 +2307,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "DragonStore": {
