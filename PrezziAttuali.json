@@ -436,6 +436,10 @@
         "price": 48.74,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
       },
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/29880-heat.html"
+      },
       "MagicMerchant": {
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/heat-64960/"
@@ -810,6 +814,10 @@
       "FantasiaStore": {
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
+      },
+      "MagicMerchant": {
+        "price": 34.49,
+        "url": "https://magicmerchant.it/catalogue/earth-66410/"
       },
       "GetYourFun": {
         "price": 53.99,
@@ -1193,7 +1201,7 @@
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
-        "price": 47.99,
+        "price": 32.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
@@ -1313,10 +1321,6 @@
         "price": 37.9,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
       },
-      "GetYourFun": {
-        "price": 33.99,
-        "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
-      },
       "Player1": {
         "price": 28.9,
         "url": "https://player1.it/prodotto/cascadia/"
@@ -1347,7 +1351,7 @@
         "url": "https://www.dungeondice.it/32822-endeavor-abissi-marini.html"
       },
       "LaFeltrinelli": {
-        "price": 56.99,
+        "price": 64.31,
         "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
       },
       "LSGiochi": {
@@ -1442,13 +1446,13 @@
   {
     "name": "Res Arcana",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.99,
-        "url": "https://fantasiastore.it/it/giochi-di-carte/10048-res-arcana.html"
-      },
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
+      },
+      "MagicMerchant": {
+        "price": 33.91,
+        "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
       },
       "GetYourFun": {
         "price": 35.19,
@@ -1724,12 +1728,7 @@
   },
   {
     "name": "Mantis Falls",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 34.99,
-        "url": "https://www.dungeondice.it/25656-mantis-falls.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Orléans",
@@ -1867,6 +1866,10 @@
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/15142450/dune-imperium-insurrezione"
+      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/wargames-dune-imperium-insurrezione.1.1.117.gp.33393.uw"
@@ -1891,10 +1894,6 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
         "price": 42.49,
@@ -2079,12 +2078,16 @@
         "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/100248-trekking-through-history.html"
       },
+      "DungeonDice": {
+        "price": 39.99,
+        "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
       "MagicMerchant": {
         "price": 39.89,
         "url": "https://magicmerchant.it/catalogue/trekking-through-history-76507/"
       },
       "GetYourFun": {
-        "price": 35.19,
+        "price": 21.99,
         "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -2272,6 +2275,10 @@
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 49.99,
