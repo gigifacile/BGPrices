@@ -156,7 +156,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "LSGiochi": {
@@ -815,6 +815,10 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
+      "DungeonDice": {
+        "price": 34.55,
+        "url": "https://www.dungeondice.it/30284-earth.html"
+      },
       "MagicMerchant": {
         "price": 34.49,
         "url": "https://magicmerchant.it/catalogue/earth-66410/"
@@ -1296,7 +1300,7 @@
         "url": "https://player1.it/prodotto/federation/"
       },
       "UPlay": {
-        "price": 59.49,
+        "price": 69.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
       "LaFeltrinelli": {
@@ -1309,7 +1313,7 @@
     "name": "Inis - Big Box",
     "prezzi": {
       "UPlay": {
-        "price": 84.14,
+        "price": 89.09,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
       }
     }
@@ -1616,10 +1620,6 @@
         "price": 24.99,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       },
-      "UPlay": {
-        "price": 21.24,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
-      },
       "LSGiochi": {
         "price": 24.99,
         "url": "https://www.lsgiochi.it/product/15788817/faraway-cover-arancione"
@@ -1792,6 +1792,10 @@
   {
     "name": "Flip 7",
     "prezzi": {
+      "DungeonDice": {
+        "price": 16.99,
+        "url": "https://www.dungeondice.it/37331-flip-7.html"
+      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -1971,7 +1975,7 @@
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
-        "price": 67.14,
+        "price": 71.09,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
       },
       "DragonStore": {
@@ -2178,7 +2182,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
       },
       "DungeonDice": {
-        "price": 43.99,
+        "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
       },
       "LaFeltrinelli": {
@@ -2306,7 +2310,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "DragonStore": {
