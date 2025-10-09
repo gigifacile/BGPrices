@@ -306,6 +306,10 @@
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
+      },
+      "DragonStore": {
+        "price": 79.9,
+        "url": "https://www.dragonstore.it/gestionali-revive-italiano.1.1.385.gp.32100.uw"
       }
     }
   },
@@ -1146,10 +1150,6 @@
   {
     "name": "L'Isola dei Gatti",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 52.79,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/20462-lisola-dei-gatti.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
@@ -1192,16 +1192,12 @@
   {
     "name": "Le Havre",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 50.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/23241-le-havre.html"
-      },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "MagicMerchant": {
-        "price": 56.3,
+        "price": 29.95,
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
@@ -1230,11 +1226,11 @@
     "name": "Dune",
     "prezzi": {
       "DungeonDice": {
-        "price": 18.0,
+        "price": 30.0,
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "MagicMerchant": {
-        "price": 50.91,
+        "price": 25.76,
         "url": "https://magicmerchant.it/catalogue/dune-49568/"
       },
       "GetYourFun": {
@@ -1325,9 +1321,17 @@
   {
     "name": "Cascadia",
     "prezzi": {
+      "DungeonDice": {
+        "price": 39.99,
+        "url": "https://www.dungeondice.it/25072-cascadia.html"
+      },
       "MagicMerchant": {
         "price": 37.9,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
+      },
+      "GetYourFun": {
+        "price": 33.99,
+        "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 28.9,
@@ -1336,6 +1340,10 @@
       "UPlay": {
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 47.31,
+        "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       },
       "LSGiochi": {
         "price": 39.9,
@@ -2051,6 +2059,10 @@
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
+      },
+      "DragonStore": {
+        "price": 79.9,
+        "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
       }
     }
   },
@@ -2090,16 +2102,12 @@
   {
     "name": "Trekking Through History",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.99,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/100248-trekking-through-history.html"
-      },
       "DungeonDice": {
-        "price": 39.99,
+        "price": 20.0,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
       "MagicMerchant": {
-        "price": 39.89,
+        "price": 19.95,
         "url": "https://magicmerchant.it/catalogue/trekking-through-history-76507/"
       },
       "GetYourFun": {
@@ -2189,10 +2197,6 @@
   {
     "name": "Evenfall",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 49.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
-      },
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
