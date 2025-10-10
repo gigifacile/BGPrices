@@ -111,7 +111,7 @@
         "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
-        "price": 52.43,
+        "price": 59.42,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -144,7 +144,7 @@
         "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
       },
       "GetYourFun": {
-        "price": 27.99,
+        "price": 30.79,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -321,7 +321,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12659-its-a-wonderful-world.html"
       },
       "DungeonDice": {
-        "price": 33.74,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
       },
       "MagicMerchant": {
@@ -449,7 +449,7 @@
         "url": "https://magicmerchant.it/catalogue/heat-64960/"
       },
       "GetYourFun": {
-        "price": 51.92,
+        "price": 57.11,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -459,10 +459,6 @@
       "UPlay": {
         "price": 55.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
-      },
-      "LaFeltrinelli": {
-        "price": 61.74,
-        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DragonStore": {
         "price": 64.99,
@@ -486,7 +482,7 @@
         "url": "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
       },
       "GetYourFun": {
-        "price": 26.39,
+        "price": 23.99,
         "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -1068,7 +1064,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 40.0,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
       },
       "GetYourFun": {
@@ -1151,7 +1147,7 @@
     "name": "L'Isola dei Gatti",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "MagicMerchant": {
@@ -1300,7 +1296,7 @@
         "url": "https://player1.it/prodotto/federation/"
       },
       "UPlay": {
-        "price": 69.99,
+        "price": 59.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
       "LaFeltrinelli": {
@@ -1313,7 +1309,7 @@
     "name": "Inis - Big Box",
     "prezzi": {
       "UPlay": {
-        "price": 89.09,
+        "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
       }
     }
@@ -1632,10 +1628,6 @@
         "price": 24.99,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       },
-      "UPlay": {
-        "price": 21.24,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
-      },
       "LSGiochi": {
         "price": 24.99,
         "url": "https://www.lsgiochi.it/product/15788817/faraway-cover-arancione"
@@ -1662,7 +1654,7 @@
         "url": "https://magicmerchant.it/catalogue/the-crew-47988/"
       },
       "GetYourFun": {
-        "price": 14.87,
+        "price": 13.52,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
       },
       "UPlay": {
@@ -1912,7 +1904,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-52212/"
       },
       "GetYourFun": {
-        "price": 43.99,
+        "price": 39.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "LaFeltrinelli": {
@@ -2326,7 +2318,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "DragonStore": {
