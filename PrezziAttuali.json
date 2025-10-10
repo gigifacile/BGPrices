@@ -460,6 +460,10 @@
         "price": 55.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
+      "LaFeltrinelli": {
+        "price": 61.74,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
       "DragonStore": {
         "price": 64.99,
         "url": "https://www.dragonstore.it/gestionali-heat-pedal-to-the-metal-italiano.1.1.385.gp.31795.uw"
@@ -1193,7 +1197,7 @@
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "MagicMerchant": {
-        "price": 29.95,
+        "price": 29.35,
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
@@ -1226,7 +1230,7 @@
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "MagicMerchant": {
-        "price": 25.76,
+        "price": 29.95,
         "url": "https://magicmerchant.it/catalogue/dune-49568/"
       },
       "GetYourFun": {
@@ -1627,6 +1631,10 @@
       "GetYourFun": {
         "price": 24.99,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
+      },
+      "UPlay": {
+        "price": 21.24,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
       },
       "LSGiochi": {
         "price": 24.99,
@@ -2247,6 +2255,10 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
+      "Player1": {
+        "price": 38.9,
+        "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
+      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
@@ -2318,7 +2330,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.99,
+        "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "DragonStore": {
