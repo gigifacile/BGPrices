@@ -759,10 +759,6 @@
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
-      "LaFeltrinelli": {
-        "price": 110.0,
-        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
-      },
       "LSGiochi": {
         "price": 109.99,
         "url": "https://www.lsgiochi.it/product/10150794/rising-sun"
@@ -1192,10 +1188,6 @@
   {
     "name": "Le Havre",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/23241-le-havre.html"
-      },
       "DungeonDice": {
         "price": 35.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
@@ -2115,10 +2107,6 @@
         "price": 25.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/100248-trekking-through-history.html"
       },
-      "DungeonDice": {
-        "price": 20.0,
-        "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
-      },
       "MagicMerchant": {
         "price": 19.95,
         "url": "https://magicmerchant.it/catalogue/trekking-through-history-76507/"
@@ -2163,6 +2151,10 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
       }
     }
   },
