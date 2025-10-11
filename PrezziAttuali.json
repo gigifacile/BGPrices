@@ -819,10 +819,6 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
-      "DungeonDice": {
-        "price": 34.55,
-        "url": "https://www.dungeondice.it/30284-earth.html"
-      },
       "MagicMerchant": {
         "price": 34.49,
         "url": "https://magicmerchant.it/catalogue/earth-66410/"
@@ -1811,6 +1807,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
@@ -2004,7 +2004,7 @@
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
-        "price": 71.09,
+        "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
       },
       "DragonStore": {
@@ -2163,10 +2163,6 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.9,
-        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
       }
     }
   },
@@ -2273,7 +2269,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 53.99,
+        "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2343,7 +2339,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.99,
+        "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "DragonStore": {
