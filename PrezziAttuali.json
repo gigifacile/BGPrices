@@ -659,10 +659,6 @@
         "price": 49.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
       },
-      "MagicMerchant": {
-        "price": 31.43,
-        "url": "https://magicmerchant.it/catalogue/dominion-seconda-edizione-52378/"
-      },
       "GetYourFun": {
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
@@ -967,10 +963,6 @@
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
       },
-      "LaFeltrinelli": {
-        "price": 44.02,
-        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
-      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-studiosi-a-sud-del-tigri.1.1.385.gp.32868.uw"
@@ -1248,10 +1240,6 @@
       "LaFeltrinelli": {
         "price": 60.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
-      "LSGiochi": {
-        "price": 25.0,
-        "url": "https://www.lsgiochi.it/product/10140537/dune"
       },
       "DragonStore": {
         "price": 59.99,
@@ -1887,6 +1875,10 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
       },
+      "LaFeltrinelli": {
+        "price": 56.99,
+        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
+      },
       "LSGiochi": {
         "price": 59.99,
         "url": "https://www.lsgiochi.it/product/15142450/dune-imperium-insurrezione"
@@ -2008,10 +2000,6 @@
   {
     "name": "Nucleum",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 33.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
@@ -2151,10 +2139,6 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.9,
-        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
       }
     }
   },
