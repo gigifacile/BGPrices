@@ -357,10 +357,6 @@
         "price": 49.9,
         "url": "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 39.29,
-        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
-      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-trajan-deluxe-italiano.1.1.385.gp.32331.uw"
@@ -539,6 +535,10 @@
         "price": 52.79,
         "url": "https://www.getyourfun.it/029-agricola-giochi-gestionali.html"
       },
+      "Player1": {
+        "price": 38.9,
+        "url": "https://player1.it/prodotto/agricola/"
+      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
@@ -656,7 +656,7 @@
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
       },
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
       },
       "GetYourFun": {
@@ -855,6 +855,10 @@
       "GetYourFun": {
         "price": 44.99,
         "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
+      },
+      "Player1": {
+        "price": 30.9,
+        "url": "https://player1.it/prodotto/azul/"
       },
       "UPlay": {
         "price": 38.24,
@@ -1540,10 +1544,6 @@
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
-      },
-      "LaFeltrinelli": {
-        "price": 32.99,
-        "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       }
     }
   },
@@ -1801,10 +1801,6 @@
   {
     "name": "Flip 7",
     "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/37331-flip-7.html"
-      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -1907,6 +1903,10 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
+      },
+      "Player1": {
+        "price": 34.9,
+        "url": "https://player1.it/prodotto/dune-imperium/"
       },
       "LaFeltrinelli": {
         "price": 45.67,
@@ -2110,6 +2110,10 @@
       "LaFeltrinelli": {
         "price": 36.53,
         "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
+      },
+      "LSGiochi": {
+        "price": 20.99,
+        "url": "https://www.lsgiochi.it/product/14392861/trekking-through-history"
       },
       "DragonStore": {
         "price": 39.9,
