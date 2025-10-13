@@ -144,7 +144,7 @@
         "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
       },
       "GetYourFun": {
-        "price": 30.79,
+        "price": 27.99,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -218,7 +218,7 @@
         "url": "https://magicmerchant.it/catalogue/great-western-trail-nuova-zelanda-71226/"
       },
       "GetYourFun": {
-        "price": 52.79,
+        "price": 47.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
       },
       "Player1": {
@@ -395,7 +395,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
       "LaFeltrinelli": {
-        "price": 25.64,
+        "price": 26.99,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
@@ -461,7 +461,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
-        "price": 61.74,
+        "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DragonStore": {
@@ -486,7 +486,7 @@
         "url": "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
       },
       "GetYourFun": {
-        "price": 23.99,
+        "price": 26.39,
         "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -719,7 +719,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 38.24,
+        "price": 47.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
@@ -748,7 +748,7 @@
         "url": "https://magicmerchant.it/catalogue/rising-sun-34500/"
       },
       "GetYourFun": {
-        "price": 96.79,
+        "price": 87.99,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -890,7 +890,7 @@
         "url": "https://magicmerchant.it/catalogue/seasons-2951/"
       },
       "GetYourFun": {
-        "price": 43.91,
+        "price": 39.92,
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -962,6 +962,10 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.02,
+        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1447,7 +1451,7 @@
     "name": "Res Arcana",
     "prezzi": {
       "DungeonDice": {
-        "price": 39.99,
+        "price": 31.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
       "MagicMerchant": {
@@ -1567,7 +1571,7 @@
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
       },
       "GetYourFun": {
-        "price": 26.31,
+        "price": 23.92,
         "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1679,10 +1683,6 @@
   {
     "name": "Splendor",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.74,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/188-splendor.html"
-      },
       "MagicMerchant": {
         "price": 34.89,
         "url": "https://magicmerchant.it/catalogue/splendor-seconda-edizone-3019/"
@@ -1864,7 +1864,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
       },
       "GetYourFun": {
-        "price": 52.79,
+        "price": 47.99,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1905,7 +1905,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-52212/"
       },
       "GetYourFun": {
-        "price": 39.99,
+        "price": 43.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "LaFeltrinelli": {
@@ -2139,6 +2139,10 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
       }
     }
   },
