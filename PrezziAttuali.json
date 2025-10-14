@@ -303,6 +303,10 @@
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
       },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
+      },
       "DragonStore": {
         "price": 79.9,
         "url": "https://www.dragonstore.it/gestionali-revive-italiano.1.1.385.gp.32100.uw"
@@ -662,10 +666,6 @@
       "GetYourFun": {
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
-      },
-      "LaFeltrinelli": {
-        "price": 55.61,
-        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1361,10 +1361,6 @@
       "LaFeltrinelli": {
         "price": 64.31,
         "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
-      },
-      "LSGiochi": {
-        "price": 59.99,
-        "url": "https://www.lsgiochi.it/product/13454885/endeavor-abissi-marini"
       }
     }
   },
@@ -1386,6 +1382,10 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       },
       "LaFeltrinelli": {
         "price": 59.99,
@@ -1438,7 +1438,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 37.49,
+        "price": 34.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -1615,6 +1615,10 @@
       "GetYourFun": {
         "price": 24.99,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
+      },
+      "UPlay": {
+        "price": 21.24,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
       },
       "LSGiochi": {
         "price": 24.99,
@@ -2241,7 +2245,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 53.99,
+        "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2311,7 +2315,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.99,
+        "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "DragonStore": {
