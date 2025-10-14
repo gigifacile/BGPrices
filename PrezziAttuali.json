@@ -486,7 +486,7 @@
         "url": "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
       },
       "GetYourFun": {
-        "price": 26.39,
+        "price": 25.49,
         "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -571,10 +571,6 @@
       "GetYourFun": {
         "price": 79.99,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 55.9,
-        "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
       },
       "UPlay": {
         "price": 67.99,
@@ -667,6 +663,10 @@
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
       },
+      "LaFeltrinelli": {
+        "price": 55.61,
+        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
+      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
@@ -739,6 +739,10 @@
   {
     "name": "Rising Sun",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 94.9,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/1476-rising-sun.html"
+      },
       "DungeonDice": {
         "price": 109.99,
         "url": "https://www.dungeondice.it/10533-rising-sun.html"
@@ -1010,7 +1014,7 @@
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
       "FantasiaStore": {
-        "price": 38.99,
+        "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
       "DungeonDice": {
@@ -1064,7 +1068,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 40.0,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
       },
       "GetYourFun": {
