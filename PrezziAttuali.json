@@ -303,10 +303,6 @@
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
       },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
-      },
       "DragonStore": {
         "price": 79.9,
         "url": "https://www.dragonstore.it/gestionali-revive-italiano.1.1.385.gp.32100.uw"
@@ -356,6 +352,10 @@
       "GetYourFun": {
         "price": 49.9,
         "url": "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 39.29,
+        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1064,7 +1064,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 40.0,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
       },
       "GetYourFun": {
@@ -1147,7 +1147,7 @@
     "name": "L'Isola dei Gatti",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "MagicMerchant": {
@@ -1263,7 +1263,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21004-great-western-trail-argentina-ita.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 32.99,
         "url": "https://www.dungeondice.it/30320-great-western-trail-argentina.html"
       },
       "MagicMerchant": {
@@ -1387,10 +1387,6 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1442,7 +1438,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 34.99,
+        "price": 37.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -1492,7 +1488,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html"
       },
       "DungeonDice": {
-        "price": 64.99,
+        "price": 51.99,
         "url": "https://www.dungeondice.it/32771-yokohama-seconda-edizione.html"
       },
       "MagicMerchant": {
@@ -1619,10 +1615,6 @@
       "GetYourFun": {
         "price": 24.99,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
-      },
-      "UPlay": {
-        "price": 21.24,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
       },
       "LSGiochi": {
         "price": 24.99,
@@ -2249,7 +2241,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 50.99,
+        "price": 53.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2274,7 +2266,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/28051-el-grande-nuova-edizione.html"
       },
       "DungeonDice": {
-        "price": 49.99,
+        "price": 37.49,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "MagicMerchant": {
@@ -2319,7 +2311,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "DragonStore": {
