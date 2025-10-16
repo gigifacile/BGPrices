@@ -196,6 +196,10 @@
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
       },
+      "LSGiochi": {
+        "price": 44.99,
+        "url": "https://www.lsgiochi.it/product/13639084/horrified-edizione-italiana"
+      },
       "DragonStore": {
         "price": 39.99,
         "url": "https://www.dragonstore.it/horror-horrified-edizione-italiana.1.1.386.gp.32796.uw"
@@ -569,7 +573,7 @@
         "url": "https://magicmerchant.it/catalogue/terra-mystica-lera-delle-scoperte-68297/"
       },
       "GetYourFun": {
-        "price": 79.99,
+        "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
       "UPlay": {
@@ -806,6 +810,10 @@
       "FantasiaStore": {
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
+      },
+      "DungeonDice": {
+        "price": 34.55,
+        "url": "https://www.dungeondice.it/30284-earth.html"
       },
       "MagicMerchant": {
         "price": 34.49,
@@ -1254,10 +1262,6 @@
         "price": 21.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21004-great-western-trail-argentina-ita.html"
       },
-      "DungeonDice": {
-        "price": 32.99,
-        "url": "https://www.dungeondice.it/30320-great-western-trail-argentina.html"
-      },
       "MagicMerchant": {
         "price": 38.93,
         "url": "https://magicmerchant.it/catalogue/great-western-trail-argentina-66413/"
@@ -1300,6 +1304,14 @@
   {
     "name": "Inis - Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 98.99,
+        "url": "https://www.dungeondice.it/25648-inis-big-box.html"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1528,6 +1540,10 @@
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
+      },
+      "LSGiochi": {
+        "price": 29.99,
+        "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
       }
     }
   },
@@ -1657,6 +1673,10 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
+      },
+      "LSGiochi": {
+        "price": 44.99,
+        "url": "https://www.lsgiochi.it/product/10049239/ciarlatani-di-quedlinburgo"
       }
     }
   },
@@ -2131,6 +2151,10 @@
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
+      },
+      "LSGiochi": {
+        "price": 29.99,
+        "url": "https://www.lsgiochi.it/product/16941892/looot-il-bottino-dei-vichinghi"
       }
     }
   },
@@ -2177,10 +2201,6 @@
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
-      },
-      "LaFeltrinelli": {
-        "price": 54.9,
-        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       }
     }
   },
