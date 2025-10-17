@@ -427,10 +427,6 @@
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
       },
-      "LSGiochi": {
-        "price": 23.99,
-        "url": "https://www.lsgiochi.it/product/10006991/port-royal-big-box"
-      },
       "DragonStore": {
         "price": 23.92,
         "url": "https://www.dragonstore.it/gestionali-port-royal-big-box-italiano.1.1.385.gp.31768.uw"
@@ -597,10 +593,6 @@
         "price": 52.79,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html"
       },
-      "DungeonDice": {
-        "price": 50.99,
-        "url": "https://www.dungeondice.it/28624-tiletum.html"
-      },
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/tiletum-64073/"
@@ -610,7 +602,7 @@
         "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
       },
       "LSGiochi": {
-        "price": 49.99,
+        "price": 59.99,
         "url": "https://www.lsgiochi.it/product/10098089/tiletum"
       },
       "DragonStore": {
@@ -658,6 +650,10 @@
       "FantasiaStore": {
         "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
+      },
+      "MagicMerchant": {
+        "price": 31.43,
+        "url": "https://magicmerchant.it/catalogue/dominion-seconda-edizione-52378/"
       },
       "GetYourFun": {
         "price": 39.9,
@@ -715,7 +711,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LSGiochi": {
@@ -785,10 +781,6 @@
   {
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
-      "UPlay": {
-        "price": 44.91,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-architetti-del-regno-occidentale.html"
-      },
       "LaFeltrinelli": {
         "price": 39.29,
         "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
@@ -826,6 +818,10 @@
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/earth/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/earth-gioco-da-tavolo-giocattolo-lucky-duck-games/e/0787790613398"
       },
       "DragonStore": {
         "price": 27.92,
@@ -1166,6 +1162,10 @@
       "DungeonDice": {
         "price": 46.99,
         "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
+      },
+      "MagicMerchant": {
+        "price": 44.89,
+        "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
       },
       "GetYourFun": {
         "price": 39.87,
@@ -1867,10 +1867,6 @@
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
-      "LSGiochi": {
-        "price": 59.99,
-        "url": "https://www.lsgiochi.it/product/15142450/dune-imperium-insurrezione"
-      },
       "DragonStore": {
         "price": 47.99,
         "url": "https://www.dragonstore.it/wargames-dune-imperium-insurrezione.1.1.117.gp.33393.uw"
@@ -2057,6 +2053,10 @@
       "FantasiaStore": {
         "price": 72.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
+      },
+      "DungeonDice": {
+        "price": 89.99,
+        "url": "https://www.dungeondice.it/6038-scythe.html"
       },
       "MagicMerchant": {
         "price": 80.91,
