@@ -440,10 +440,6 @@
   {
     "name": "Heat",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 48.74,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
-      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
@@ -715,7 +711,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 38.24,
+        "price": 47.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LSGiochi": {
@@ -1089,7 +1085,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "GetYourFun": {
@@ -1176,7 +1172,7 @@
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 39.94,
+        "price": 42.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
       "LaFeltrinelli": {
@@ -1195,10 +1191,6 @@
       "DungeonDice": {
         "price": 35.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
-      },
-      "MagicMerchant": {
-        "price": 29.35,
-        "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
         "price": 32.99,
@@ -1525,10 +1517,6 @@
   {
     "name": "The White Castle",
     "prezzi": {
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/31788-the-white-castle.html"
-      },
       "GetYourFun": {
         "price": 29.99,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
@@ -2201,6 +2189,10 @@
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
+      },
+      "LaFeltrinelli": {
+        "price": 54.9,
+        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       }
     }
   },
@@ -2282,7 +2274,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/28051-el-grande-nuova-edizione.html"
       },
       "DungeonDice": {
-        "price": 37.49,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "MagicMerchant": {
