@@ -623,7 +623,7 @@
         "url": "https://fantasiastore.it/it/giochi-di-carte/10991-nidavellir.html"
       },
       "DungeonDice": {
-        "price": 28.49,
+        "price": 37.99,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "MagicMerchant": {
@@ -1480,7 +1480,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html"
       },
       "DungeonDice": {
-        "price": 51.99,
+        "price": 64.99,
         "url": "https://www.dungeondice.it/32771-yokohama-seconda-edizione.html"
       },
       "MagicMerchant": {
@@ -1922,10 +1922,6 @@
   {
     "name": "Concordia",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 47.9,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
@@ -2030,7 +2026,7 @@
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
       "Player1": {
-        "price": 54.9,
+        "price": 55.9,
         "url": "https://player1.it/prodotto/spirit-island/"
       },
       "UPlay": {
@@ -2067,7 +2063,7 @@
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "Player1": {
-        "price": 70.9,
+        "price": 71.9,
         "url": "https://player1.it/prodotto/scythe/"
       },
       "UPlay": {
@@ -2286,7 +2282,7 @@
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 42.49,
+        "price": 49.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
@@ -2319,7 +2315,7 @@
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "DragonStore": {
