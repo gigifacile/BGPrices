@@ -131,10 +131,6 @@
   {
     "name": "Harmonies",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 26.24,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/100246-harmonies.html"
-      },
       "DungeonDice": {
         "price": 34.99,
         "url": "https://www.dungeondice.it/27178-harmonies.html"
@@ -172,10 +168,6 @@
   {
     "name": "Horrified",
     "prezzi": {
-      "DungeonDice": {
-        "price": 44.99,
-        "url": "https://www.dungeondice.it/32494-horrified.html"
-      },
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
@@ -855,10 +847,6 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 42.74,
-        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DadiEMattoncini": {
         "price": 44.99,
@@ -2090,6 +2078,10 @@
       "FantasiaStore": {
         "price": 25.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/100248-trekking-through-history.html"
+      },
+      "DungeonDice": {
+        "price": 20.0,
+        "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
       "MagicMerchant": {
         "price": 19.95,
