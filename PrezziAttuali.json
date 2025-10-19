@@ -292,7 +292,7 @@
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 67.92,
+        "price": 59.93,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
       },
       "LaFeltrinelli": {
@@ -408,7 +408,7 @@
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
       },
       "UPlay": {
-        "price": 25.42,
+        "price": 22.43,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
@@ -779,7 +779,7 @@
     "name": "Visconti del Regno Occidentale",
     "prezzi": {
       "UPlay": {
-        "price": 42.42,
+        "price": 44.91,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-visconti-del-regno-occidentale.html"
       }
     }
@@ -940,7 +940,7 @@
         "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
       },
       "UPlay": {
-        "price": 42.42,
+        "price": 37.43,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
       },
       "LaFeltrinelli": {
@@ -1006,7 +1006,7 @@
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
       },
       "UPlay": {
-        "price": 46.17,
+        "price": 39.57,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
       "LaFeltrinelli": {
@@ -1110,7 +1110,7 @@
         "url": "https://player1.it/prodotto/viandanti-a-sud-del-tigri/"
       },
       "UPlay": {
-        "price": 42.46,
+        "price": 37.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
       },
       "LaFeltrinelli": {
@@ -1414,7 +1414,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 34.99,
+        "price": 29.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -1441,10 +1441,6 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 39.99,
-        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
       "LSGiochi": {
         "price": 39.99,
@@ -1493,7 +1489,7 @@
     "name": "Calico",
     "prezzi": {
       "UPlay": {
-        "price": 33.99,
+        "price": 35.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-calico--edizione-italiana-.html"
       }
     }
@@ -1810,10 +1806,6 @@
         "price": 65.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 69.9,
-        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
-      },
       "DadiEMattoncini": {
         "price": 69.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-d-avventura/thunder-road-vendetta.html"
@@ -2120,6 +2112,10 @@
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
       },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
+      },
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/16941892/looot-il-bottino-dei-vichinghi"
@@ -2132,10 +2128,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
-      },
-      "MagicMerchant": {
-        "price": 41.93,
-        "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
       },
       "GetYourFun": {
         "price": 59.99,
