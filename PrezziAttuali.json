@@ -176,6 +176,10 @@
         "price": 40.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
+      "LaFeltrinelli": {
+        "price": 33.0,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -290,6 +294,10 @@
       "UPlay": {
         "price": 59.93,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
+      },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       },
       "DragonStore": {
         "price": 63.92,
@@ -691,7 +699,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LSGiochi": {
@@ -964,10 +972,6 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 47.59,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -1169,7 +1173,7 @@
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "GetYourFun": {
-        "price": 32.99,
+        "price": 52.79,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
@@ -1202,7 +1206,7 @@
         "url": "https://magicmerchant.it/catalogue/dune-49568/"
       },
       "GetYourFun": {
-        "price": 30.0,
+        "price": 52.79,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1828,7 +1832,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
       },
       "GetYourFun": {
-        "price": 47.99,
+        "price": 52.79,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2072,7 +2076,7 @@
         "url": "https://magicmerchant.it/catalogue/trekking-through-history-76507/"
       },
       "GetYourFun": {
-        "price": 21.99,
+        "price": 35.19,
         "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -2254,7 +2258,7 @@
         "url": "https://magicmerchant.it/catalogue/el-grande-66608/"
       },
       "GetYourFun": {
-        "price": 39.99,
+        "price": 43.99,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "UPlay": {
