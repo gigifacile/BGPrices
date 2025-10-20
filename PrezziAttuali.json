@@ -176,10 +176,6 @@
         "price": 40.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
-      "LaFeltrinelli": {
-        "price": 33.0,
-        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
-      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -294,10 +290,6 @@
       "UPlay": {
         "price": 59.93,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       },
       "DragonStore": {
         "price": 63.92,
@@ -699,7 +691,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 38.24,
+        "price": 47.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LSGiochi": {
@@ -779,7 +771,7 @@
     "name": "Visconti del Regno Occidentale",
     "prezzi": {
       "UPlay": {
-        "price": 44.91,
+        "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-visconti-del-regno-occidentale.html"
       }
     }
@@ -1065,7 +1057,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "GetYourFun": {
@@ -1442,6 +1434,10 @@
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 39.99,
+        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
+      },
       "LSGiochi": {
         "price": 39.99,
         "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
@@ -1489,7 +1485,7 @@
     "name": "Calico",
     "prezzi": {
       "UPlay": {
-        "price": 35.99,
+        "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-calico--edizione-italiana-.html"
       }
     }
@@ -1805,6 +1801,10 @@
       "UPlay": {
         "price": 65.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 69.9,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       },
       "DadiEMattoncini": {
         "price": 69.99,
