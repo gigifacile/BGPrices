@@ -403,6 +403,10 @@
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
       },
+      "MagicMerchant": {
+        "price": 14.65,
+        "url": "https://magicmerchant.it/catalogue/port-royal-big-box-65013/"
+      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
@@ -1064,6 +1068,10 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
+      "MagicMerchant": {
+        "price": 35.96,
+        "url": "https://magicmerchant.it/catalogue/apiary-72048/"
+      },
       "GetYourFun": {
         "price": 67.99,
         "url": "https://www.getyourfun.it/019812--apiary-giochi-gestionali.html"
@@ -1241,10 +1249,6 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
-      },
-      "LaFeltrinelli": {
-        "price": 47.18,
-        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -1322,7 +1326,7 @@
         "url": "https://www.lsgiochi.it/product/9966200/cascadia"
       },
       "DragonStore": {
-        "price": 31.92,
+        "price": 31.99,
         "url": "https://www.dragonstore.it/classici-famiglia-cascadia-italiano.1.1.115.gp.29097.uw"
       }
     }
@@ -1921,6 +1925,10 @@
       "LSGiochi": {
         "price": 59.99,
         "url": "https://www.lsgiochi.it/product/18304559/concordia"
+      },
+      "DragonStore": {
+        "price": 47.96,
+        "url": "https://www.dragonstore.it/gestionali-concordia-edizione-italiana.1.1.385.gp.17773.uw"
       }
     }
   },
@@ -2082,10 +2090,6 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 36.53,
-        "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
       },
       "LSGiochi": {
         "price": 20.99,
