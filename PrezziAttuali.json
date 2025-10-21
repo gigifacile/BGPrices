@@ -140,7 +140,7 @@
         "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
       },
       "GetYourFun": {
-        "price": 30.79,
+        "price": 34.99,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -177,7 +177,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
       "LaFeltrinelli": {
-        "price": 33.0,
+        "price": 42.74,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
@@ -258,6 +258,10 @@
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
       },
+      "LaFeltrinelli": {
+        "price": 49.9,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
       "LSGiochi": {
         "price": 49.99,
         "url": "https://www.lsgiochi.it/product/11164777/aeon-s-end-seconda-edizione"
@@ -286,6 +290,10 @@
       "UPlay": {
         "price": 59.93,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
+      },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       },
       "DragonStore": {
         "price": 63.92,
@@ -695,7 +703,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LSGiochi": {
@@ -906,10 +914,6 @@
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-fields-of-arle--big-box.html"
       },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
-      },
       "DragonStore": {
         "price": 63.92,
         "url": "https://www.dragonstore.it/gestionali-fields-of-arle-big-box.1.1.385.gp.32215.uw"
@@ -1065,7 +1069,7 @@
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "MagicMerchant": {
-        "price": 35.96,
+        "price": 39.15,
         "url": "https://magicmerchant.it/catalogue/apiary-72048/"
       },
       "GetYourFun": {
@@ -1337,10 +1341,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/32822-endeavor-abissi-marini.html"
-      },
-      "LaFeltrinelli": {
-        "price": 64.31,
-        "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
       }
     }
   },
@@ -1939,10 +1939,6 @@
         "price": 46.04,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
       },
-      "DungeonDice": {
-        "price": 78.99,
-        "url": "https://www.dungeondice.it/12981-barrage.html"
-      },
       "MagicMerchant": {
         "price": 73.37,
         "url": "https://magicmerchant.it/catalogue/barrage-40159/"
@@ -2305,10 +2301,6 @@
       "UPlay": {
         "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
-      },
-      "DragonStore": {
-        "price": 47.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-the-wolves-italiano.1.1.115.gp.31990.uw"
       }
     }
   }
