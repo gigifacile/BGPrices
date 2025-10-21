@@ -258,10 +258,6 @@
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
       },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
       "LSGiochi": {
         "price": 49.99,
         "url": "https://www.lsgiochi.it/product/11164777/aeon-s-end-seconda-edizione"
@@ -290,10 +286,6 @@
       "UPlay": {
         "price": 59.93,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       },
       "DragonStore": {
         "price": 63.92,
@@ -976,6 +968,10 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 47.59,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
+      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -1133,6 +1129,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
+      },
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.99,
@@ -1987,6 +1987,10 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
       }
     }
   },
