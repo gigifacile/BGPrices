@@ -107,7 +107,7 @@
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
       },
       "MagicMerchant": {
-        "price": 48.93,
+        "price": 65.7,
         "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
@@ -278,10 +278,6 @@
       "FantasiaStore": {
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
-      },
-      "MagicMerchant": {
-        "price": 74.3,
-        "url": "https://magicmerchant.it/catalogue/revive-66446/"
       },
       "GetYourFun": {
         "price": 67.92,
@@ -538,6 +534,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "DragonStore": {
         "price": 47.99,
@@ -1940,7 +1940,7 @@
     "name": "Barrage",
     "prezzi": {
       "FantasiaStore": {
-        "price": 46.04,
+        "price": 55.29,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
       },
       "MagicMerchant": {
@@ -2079,10 +2079,6 @@
         "price": 20.0,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
-      "MagicMerchant": {
-        "price": 19.95,
-        "url": "https://magicmerchant.it/catalogue/trekking-through-history-76507/"
-      },
       "GetYourFun": {
         "price": 35.19,
         "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
@@ -2137,6 +2133,10 @@
   {
     "name": "Ratti di Wistar",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 50.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
