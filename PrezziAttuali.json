@@ -341,10 +341,6 @@
         "price": 49.9,
         "url": "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 39.29,
-        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
-      },
       "DragonStore": {
         "price": 39.92,
         "url": "https://www.dragonstore.it/gestionali-trajan-deluxe-italiano.1.1.385.gp.32331.uw"
@@ -377,10 +373,6 @@
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
-      },
-      "LaFeltrinelli": {
-        "price": 26.99,
-        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "LSGiochi": {
         "price": 26.99,
@@ -1137,6 +1129,10 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1159,10 +1155,6 @@
         "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
-      "LaFeltrinelli": {
-        "price": 45.82,
-        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
-      },
       "DragonStore": {
         "price": 37.52,
         "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
@@ -1176,6 +1168,10 @@
         "price": 35.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
+      "MagicMerchant": {
+        "price": 29.35,
+        "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
+      },
       "GetYourFun": {
         "price": 52.79,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
@@ -1187,10 +1183,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-havre--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       },
       "DadiEMattoncini": {
         "price": 39.99,
@@ -1363,9 +1355,9 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       }
     }
   },
@@ -1410,7 +1402,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 37.49,
+        "price": 29.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -2225,7 +2217,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 53.99,
+        "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2293,6 +2285,10 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       }
     }
   }
