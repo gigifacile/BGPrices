@@ -1375,9 +1375,9 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       }
     }
   },
@@ -1422,7 +1422,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 37.49,
+        "price": 29.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -1490,6 +1490,10 @@
       "UPlay": {
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 65.0,
+        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "DadiEMattoncini": {
         "price": 44.99,
@@ -2233,7 +2237,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
-        "price": 53.99,
+        "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -2301,6 +2305,10 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       }
     }
   }
