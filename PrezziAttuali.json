@@ -168,9 +168,21 @@
   {
     "name": "Horrified",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 41.84,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/125151-horrified.html"
+      },
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/32494-horrified.html"
+      },
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
+      },
+      "GetYourFun": {
+        "price": 38.25,
+        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
         "price": 40.49,
@@ -638,6 +650,10 @@
       "FantasiaStore": {
         "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
+      },
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
       },
       "MagicMerchant": {
         "price": 31.43,
@@ -1292,6 +1308,10 @@
   {
     "name": "Inis - Big Box",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 79.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html"
+      },
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
@@ -1378,6 +1398,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
   },
@@ -1545,6 +1569,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
+      },
+      "MagicMerchant": {
+        "price": 29.89,
+        "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
       },
       "GetYourFun": {
         "price": 26.31,
@@ -1988,6 +2016,10 @@
         "price": 56.3,
         "url": "https://magicmerchant.it/catalogue/nucleum-76380/"
       },
+      "GetYourFun": {
+        "price": 35.99,
+        "url": "https://www.getyourfun.it/019818-nucleum-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
@@ -2092,7 +2124,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 36.53,
+        "price": 43.99,
         "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
       },
       "LSGiochi": {
