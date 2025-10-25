@@ -185,7 +185,7 @@
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
-        "price": 40.49,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
       "LaFeltrinelli": {
@@ -274,10 +274,6 @@
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
-      "LSGiochi": {
-        "price": 49.99,
-        "url": "https://www.lsgiochi.it/product/11164777/aeon-s-end-seconda-edizione"
-      },
       "DragonStore": {
         "price": 39.99,
         "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
@@ -323,10 +319,6 @@
       "MagicMerchant": {
         "price": 44.49,
         "url": "https://magicmerchant.it/catalogue/its-a-wonderful-world-46827/"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -422,6 +414,10 @@
       "UPlay": {
         "price": 22.43,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
       },
       "DragonStore": {
         "price": 23.92,
@@ -1391,6 +1387,10 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1438,7 +1438,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 37.49,
+        "price": 29.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -1782,7 +1782,12 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 52.99,
+        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
+      }
+    }
   },
   {
     "name": "Karak",
@@ -1975,7 +1980,7 @@
         "url": "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html"
       },
       "Player1": {
-        "price": 49.9,
+        "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
       "LaFeltrinelli": {
@@ -2010,10 +2015,6 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
       }
     }
   },
@@ -2324,6 +2325,10 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       }
     }
   }
