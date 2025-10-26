@@ -221,10 +221,6 @@
         "price": 23.96,
         "url": "https://magicmerchant.it/catalogue/great-western-trail-nuova-zelanda-71226/"
       },
-      "GetYourFun": {
-        "price": 52.79,
-        "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
-      },
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
@@ -286,6 +282,10 @@
       "FantasiaStore": {
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
+      },
+      "MagicMerchant": {
+        "price": 74.3,
+        "url": "https://magicmerchant.it/catalogue/revive-66446/"
       },
       "GetYourFun": {
         "price": 67.92,
@@ -373,10 +373,6 @@
       "DungeonDice": {
         "price": 26.99,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
-      },
-      "GetYourFun": {
-        "price": 23.75,
-        "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 22.94,
@@ -1084,6 +1080,10 @@
         "price": 63.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
+      "MagicMerchant": {
+        "price": 39.15,
+        "url": "https://magicmerchant.it/catalogue/apiary-72048/"
+      },
       "GetYourFun": {
         "price": 67.99,
         "url": "https://www.getyourfun.it/019812--apiary-giochi-gestionali.html"
@@ -1345,6 +1345,10 @@
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 47.31,
+        "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
+      },
       "LSGiochi": {
         "price": 39.9,
         "url": "https://www.lsgiochi.it/product/9966200/cascadia"
@@ -1403,6 +1407,10 @@
       "FantasiaStore": {
         "price": 32.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
+      },
+      "MagicMerchant": {
+        "price": 47.4,
+        "url": "https://magicmerchant.it/catalogue/golem-55633/"
       },
       "GetYourFun": {
         "price": 43.99,
@@ -1871,10 +1879,6 @@
         "price": 52.79,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
       },
-      "Player1": {
-        "price": 43.9,
-        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
-      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
@@ -2008,10 +2012,6 @@
         "price": 56.3,
         "url": "https://magicmerchant.it/catalogue/nucleum-76380/"
       },
-      "GetYourFun": {
-        "price": 35.99,
-        "url": "https://www.getyourfun.it/019818-nucleum-giochi-gestionali.html"
-      },
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
@@ -2115,10 +2115,6 @@
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 43.99,
-        "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
-      },
       "LSGiochi": {
         "price": 39.99,
         "url": "https://www.lsgiochi.it/product/14392861/trekking-through-history"
@@ -2172,6 +2168,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
+      },
+      "MagicMerchant": {
+        "price": 56.9,
+        "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
       },
       "GetYourFun": {
         "price": 59.99,
