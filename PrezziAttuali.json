@@ -110,10 +110,6 @@
         "price": 65.7,
         "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
-      "GetYourFun": {
-        "price": 59.42,
-        "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 59.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cyclades--edizione-leggendaria.html"
@@ -711,7 +707,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 40.49,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
@@ -815,13 +811,13 @@
         "price": 34.49,
         "url": "https://magicmerchant.it/catalogue/earth-66410/"
       },
-      "GetYourFun": {
-        "price": 53.99,
-        "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
-      },
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/earth/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/earth-gioco-da-tavolo-giocattolo-lucky-duck-games/e/0787790613398"
       },
       "DragonStore": {
         "price": 27.92,
@@ -843,10 +839,6 @@
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
-      },
-      "GetYourFun": {
-        "price": 44.99,
-        "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 30.9,
@@ -884,10 +876,6 @@
       "MagicMerchant": {
         "price": 34.93,
         "url": "https://magicmerchant.it/catalogue/seasons-2951/"
-      },
-      "GetYourFun": {
-        "price": 43.91,
-        "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 38.24,
@@ -1100,10 +1088,6 @@
         "price": 73.06,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-apiary--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
-      },
       "DragonStore": {
         "price": 63.92,
         "url": "https://www.dragonstore.it/gestionali-apiary-italiano.1.1.385.gp.32653.uw"
@@ -1315,10 +1299,6 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
@@ -1541,6 +1521,10 @@
   {
     "name": "The White Castle",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/31788-the-white-castle.html"
+      },
       "GetYourFun": {
         "price": 29.99,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
@@ -1552,6 +1536,10 @@
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
+      },
+      "LaFeltrinelli": {
+        "price": 32.99,
+        "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       }
     }
   },
@@ -1625,7 +1613,7 @@
         "url": "https://magicmerchant.it/catalogue/faraway-cover-arancione-78432/"
       },
       "GetYourFun": {
-        "price": 24.99,
+        "price": 21.99,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1879,10 +1867,6 @@
         "price": 56.3,
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
       },
-      "GetYourFun": {
-        "price": 52.79,
-        "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
@@ -2053,6 +2037,10 @@
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
+      },
       "DragonStore": {
         "price": 63.92,
         "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
@@ -2143,10 +2131,6 @@
       "MagicMerchant": {
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/looot-il-bottino-dei-vichinghi-78445/"
-      },
-      "GetYourFun": {
-        "price": 25.49,
-        "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
       },
       "LaFeltrinelli": {
         "price": 29.9,
@@ -2255,10 +2239,6 @@
       "MagicMerchant": {
         "price": 56.3,
         "url": "https://magicmerchant.it/catalogue/le-rovine-perdute-di-arnak-50715/"
-      },
-      "GetYourFun": {
-        "price": 59.99,
-        "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
         "price": 40.9,
