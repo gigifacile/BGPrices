@@ -148,7 +148,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "LSGiochi": {
@@ -619,7 +619,7 @@
         "url": "https://fantasiastore.it/it/giochi-di-carte/10991-nidavellir.html"
       },
       "DungeonDice": {
-        "price": 37.99,
+        "price": 26.59,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "MagicMerchant": {
@@ -856,6 +856,10 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
       },
+      "LaFeltrinelli": {
+        "price": 31.49,
+        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
       "DadiEMattoncini": {
         "price": 44.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-astratti/azul.html"
@@ -902,17 +906,9 @@
   {
     "name": "Fields of Arle - Big Box",
     "prezzi": {
-      "DungeonDice": {
-        "price": 55.99,
-        "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
-      },
       "MagicMerchant": {
         "price": 67.91,
         "url": "https://magicmerchant.it/catalogue/fields-of-arle-big-box-67381/"
-      },
-      "GetYourFun": {
-        "price": 79.99,
-        "url": "https://www.getyourfun.it/019576-fields-of-arle-big-box-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 67.92,
@@ -1372,7 +1368,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
       },
       "DungeonDice": {
-        "price": 24.99,
+        "price": 20.0,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "MagicMerchant": {
@@ -1845,10 +1841,6 @@
       "LaFeltrinelli": {
         "price": 69.9,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
-      },
-      "DadiEMattoncini": {
-        "price": 69.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-d-avventura/thunder-road-vendetta.html"
       }
     }
   },
