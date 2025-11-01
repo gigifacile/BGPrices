@@ -85,10 +85,6 @@
         "price": 55.24,
         "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
       },
-      "UPlay": {
-        "price": 61.16,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
-      },
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/arcs-conflitti-e-collasso-nellorlo.html"
@@ -113,10 +109,6 @@
       "GetYourFun": {
         "price": 61.51,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
-      },
-      "UPlay": {
-        "price": 59.42,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-cyclades--edizione-leggendaria.html"
       },
       "IlCovoDelNerd": {
         "price": 69.9,
@@ -192,10 +184,6 @@
         "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
-      "UPlay": {
-        "price": 40.49,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
-      },
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
@@ -237,10 +225,6 @@
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
-      "UPlay": {
-        "price": 59.9,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
-      },
       "LaFeltrinelli": {
         "price": 59.9,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
@@ -278,6 +262,10 @@
         "price": 39.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
+      "UPlay": {
+        "price": 42.42,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
+      },
       "LaFeltrinelli": {
         "price": 34.93,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
@@ -302,6 +290,10 @@
       "GetYourFun": {
         "price": 67.92,
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 59.93,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
       },
       "LaFeltrinelli": {
         "price": 79.9,
@@ -331,6 +323,10 @@
       "GetYourFun": {
         "price": 45.0,
         "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
+      },
+      "UPlay": {
+        "price": 37.83,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-it-s-a-wonderful-world--edizione-italiana-.html"
       }
     }
   },
@@ -385,10 +381,6 @@
       "GetYourFun": {
         "price": 23.75,
         "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
-      },
-      "UPlay": {
-        "price": 22.94,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
       "LaFeltrinelli": {
         "price": 26.99,
@@ -455,10 +447,6 @@
       "Player1": {
         "price": 47.9,
         "url": "https://player1.it/prodotto/heat/"
-      },
-      "UPlay": {
-        "price": 55.24,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
         "price": 64.99,
@@ -642,6 +630,10 @@
         "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 32.29,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
         "price": 41.99,
         "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
@@ -772,10 +764,6 @@
         "price": 43.92,
         "url": "https://magicmerchant.it/catalogue/bonfire-47895/"
       },
-      "UPlay": {
-        "price": 46.74,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-bonfire--edizione-italiana-.html"
-      },
       "IlCovoDelNerd": {
         "price": 47.2,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
@@ -818,6 +806,10 @@
       "GetYourFun": {
         "price": 53.99,
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
+      },
+      "Player1": {
+        "price": 35.9,
+        "url": "https://player1.it/prodotto/earth/"
       },
       "LaFeltrinelli": {
         "price": 59.99,
@@ -880,6 +872,10 @@
       "GetYourFun": {
         "price": 43.91,
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
+      },
+      "UPlay": {
+        "price": 38.24,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
       "LaFeltrinelli": {
         "price": 32.0,
@@ -1121,10 +1117,6 @@
         "price": 24.9,
         "url": "https://player1.it/prodotto/viandanti-a-sud-del-tigri/"
       },
-      "UPlay": {
-        "price": 37.46,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
-      },
       "LaFeltrinelli": {
         "price": 41.16,
         "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
@@ -1175,6 +1167,10 @@
         "price": 41.27,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 39.94,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
+      },
       "LaFeltrinelli": {
         "price": 45.82,
         "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
@@ -1204,9 +1200,9 @@
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
-      "LaFeltrinelli": {
-        "price": 41.99,
-        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-havre--edizione-italiana-.html"
       },
       "DadiEMattoncini": {
         "price": 39.99,
@@ -1303,6 +1299,10 @@
       "FantasiaStore": {
         "price": 79.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html"
+      },
+      "UPlay": {
+        "price": 84.14,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
       }
     }
   },
@@ -1374,6 +1374,10 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       },
       "LaFeltrinelli": {
         "price": 41.99,
@@ -1450,10 +1454,6 @@
         "price": 35.19,
         "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 33.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
-      },
       "LaFeltrinelli": {
         "price": 39.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
@@ -1524,10 +1524,6 @@
       "Player1": {
         "price": 23.9,
         "url": "https://player1.it/prodotto/the-white-castle/"
-      },
-      "UPlay": {
-        "price": 33.96,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
       },
       "LaFeltrinelli": {
         "price": 32.99,
@@ -1633,10 +1629,6 @@
   {
     "name": "The Crew",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 14.44,
-        "url": "https://fantasiastore.it/it/cooperativi/8556-the-crew.html"
-      },
       "DungeonDice": {
         "price": 11.89,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
@@ -2061,6 +2053,10 @@
         "price": 55.9,
         "url": "https://player1.it/prodotto/spirit-island/"
       },
+      "UPlay": {
+        "price": 67.92,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
@@ -2160,6 +2156,10 @@
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
       },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
+      },
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/16941892/looot-il-bottino-dei-vichinghi"
@@ -2192,6 +2192,10 @@
       "Player1": {
         "price": 44.9,
         "url": "https://player1.it/prodotto/ratti-di-wistar/"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 59.99,
