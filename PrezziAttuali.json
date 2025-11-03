@@ -85,10 +85,6 @@
         "price": 55.24,
         "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
       },
-      "UPlay": {
-        "price": 61.16,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
-      },
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/arcs-conflitti-e-collasso-nellorlo.html"
@@ -105,10 +101,6 @@
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
-      },
-      "MagicMerchant": {
-        "price": 65.7,
-        "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
         "price": 61.51,
@@ -270,6 +262,10 @@
         "price": 39.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
+      "LaFeltrinelli": {
+        "price": 47.4,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
       "DragonStore": {
         "price": 39.99,
         "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
@@ -290,6 +286,10 @@
       "GetYourFun": {
         "price": 67.92,
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 59.93,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
       },
       "LaFeltrinelli": {
         "price": 79.9,
@@ -319,6 +319,10 @@
       "GetYourFun": {
         "price": 45.0,
         "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
+      },
+      "UPlay": {
+        "price": 37.83,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-it-s-a-wonderful-world--edizione-italiana-.html"
       }
     }
   },
@@ -381,10 +385,6 @@
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
-      },
-      "LaFeltrinelli": {
-        "price": 26.99,
-        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "LSGiochi": {
         "price": 26.99,
@@ -540,7 +540,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
       },
       "LaFeltrinelli": {
-        "price": 41.99,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "IlCovoDelNerd": {
@@ -845,7 +845,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
       },
       "LaFeltrinelli": {
-        "price": 31.49,
+        "price": 42.74,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "LSGiochi": {
@@ -864,10 +864,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
-      },
-      "MagicMerchant": {
-        "price": 34.93,
-        "url": "https://magicmerchant.it/catalogue/seasons-2951/"
       },
       "GetYourFun": {
         "price": 43.91,
@@ -1010,7 +1006,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
       "LaFeltrinelli": {
-        "price": 41.99,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       },
       "IlCovoDelNerd": {
@@ -1171,6 +1167,10 @@
         "price": 41.27,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 39.94,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
+      },
       "LaFeltrinelli": {
         "price": 45.82,
         "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
@@ -1205,7 +1205,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-havre--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       },
       "DadiEMattoncini": {
@@ -1236,6 +1236,10 @@
       "Player1": {
         "price": 42.9,
         "url": "https://player1.it/prodotto/dune/"
+      },
+      "UPlay": {
+        "price": 51.0,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 60.0,
@@ -1288,7 +1292,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
       "LaFeltrinelli": {
-        "price": 48.99,
+        "price": 69.99,
         "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
       }
     }
@@ -1345,10 +1349,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/32822-endeavor-abissi-marini.html"
-      },
-      "LaFeltrinelli": {
-        "price": 56.99,
-        "url": "https://www.lafeltrinelli.it/endeavor-abissi-marini-gioco-da-giocattolo-cranio-creations/e/8034055585788"
       }
     }
   },
@@ -1376,7 +1376,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       },
       "LaFeltrinelli": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
@@ -1397,7 +1397,7 @@
         "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
@@ -1405,14 +1405,6 @@
   {
     "name": "Terra Nova",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 35.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/23473-terra-nova-ita.html"
-      },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/30238-terra-nova.html"
-      },
       "MagicMerchant": {
         "price": 46.4,
         "url": "https://magicmerchant.it/catalogue/terra-nova-65070/"
@@ -1487,10 +1479,6 @@
         "price": 64.99,
         "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 55.25,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
-      },
       "LaFeltrinelli": {
         "price": 65.0,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
@@ -1507,12 +1495,7 @@
   },
   {
     "name": "Calico",
-    "prezzi": {
-      "UPlay": {
-        "price": 33.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-calico--edizione-italiana-.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "The White Castle",
@@ -1532,6 +1515,10 @@
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
+      },
+      "LaFeltrinelli": {
+        "price": 32.99,
+        "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       }
     }
   },
@@ -1661,6 +1648,10 @@
       "GetYourFun": {
         "price": 44.9,
         "url": "https://www.getyourfun.it/0396-ciarlatani-di-quedlinburgo-giochi-per-famiglia.html"
+      },
+      "UPlay": {
+        "price": 38.24,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
       },
       "LSGiochi": {
         "price": 44.99,
@@ -1801,10 +1792,6 @@
   {
     "name": "Flip 7",
     "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/37331-flip-7.html"
-      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -1863,10 +1850,6 @@
         "price": 52.79,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
-      },
       "LaFeltrinelli": {
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
@@ -1907,6 +1890,10 @@
       "LaFeltrinelli": {
         "price": 47.85,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
+      },
+      "UPlay": {
+        "price": 42.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
       },
       "IlCovoDelNerd": {
         "price": 43.0,
@@ -2053,6 +2040,10 @@
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
+      },
       "DragonStore": {
         "price": 63.99,
         "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
@@ -2148,6 +2139,10 @@
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
       },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
+      },
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/16941892/looot-il-bottino-dei-vichinghi"
@@ -2207,7 +2202,7 @@
         "url": "https://www.dungeondice.it/32740-evenfall.html"
       },
       "LaFeltrinelli": {
-        "price": 38.43,
+        "price": 52.16,
         "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       }
     }
