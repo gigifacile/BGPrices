@@ -77,6 +77,10 @@
         "price": 57.19,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/186086-arcs-conflitti-e-collasso-nellorlo-ita.html"
       },
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/22972-arcs.html"
+      },
       "MagicMerchant": {
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/arcs-83629/"
@@ -633,6 +637,10 @@
         "price": 33.43,
         "url": "https://fantasiastore.it/it/giochi-di-carte/10991-nidavellir.html"
       },
+      "DungeonDice": {
+        "price": 37.99,
+        "url": "https://www.dungeondice.it/23035-nidavellir.html"
+      },
       "MagicMerchant": {
         "price": 39.89,
         "url": "https://magicmerchant.it/catalogue/nidavellir-49570/"
@@ -640,6 +648,10 @@
       "GetYourFun": {
         "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.99,
+        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -782,7 +794,7 @@
     "name": "Visconti del Regno Occidentale",
     "prezzi": {
       "UPlay": {
-        "price": 42.42,
+        "price": 44.91,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-visconti-del-regno-occidentale.html"
       }
     }
@@ -864,6 +876,10 @@
   {
     "name": "Seasons",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 37.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
@@ -1400,7 +1416,7 @@
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
       },
       "GetYourFun": {
-        "price": 43.99,
+        "price": 34.99,
         "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
@@ -1425,7 +1441,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 37.49,
+        "price": 44.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -1438,7 +1454,7 @@
     "name": "Res Arcana",
     "prezzi": {
       "FantasiaStore": {
-        "price": 29.99,
+        "price": 33.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/10048-res-arcana.html"
       },
       "DungeonDice": {
@@ -1508,7 +1524,7 @@
     "name": "Calico",
     "prezzi": {
       "UPlay": {
-        "price": 33.99,
+        "price": 35.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-calico--edizione-italiana-.html"
       }
     }
@@ -1606,10 +1622,6 @@
       "FantasiaStore": {
         "price": 21.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
-      },
-      "DungeonDice": {
-        "price": 24.99,
-        "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
       },
       "MagicMerchant": {
         "price": 23.65,
@@ -2107,7 +2119,7 @@
     "name": "Trekking Through History",
     "prezzi": {
       "FantasiaStore": {
-        "price": 25.99,
+        "price": 27.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/100248-trekking-through-history.html"
       },
       "DungeonDice": {
