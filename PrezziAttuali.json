@@ -234,7 +234,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
-        "price": 59.9,
+        "price": 49.42,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
       },
       "IlCovoDelNerd": {
@@ -501,6 +501,10 @@
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
+      },
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/11975171/forest-shuffle"
@@ -759,6 +763,10 @@
         "price": 48.39,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12977-bonfire.html"
       },
+      "DungeonDice": {
+        "price": 54.99,
+        "url": "https://www.dungeondice.it/22342-bonfire.html"
+      },
       "MagicMerchant": {
         "price": 43.92,
         "url": "https://magicmerchant.it/catalogue/bonfire-47895/"
@@ -975,10 +983,6 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 42.0,
-        "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
-      },
       "IlCovoDelNerd": {
         "price": 48.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -989,11 +993,11 @@
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
       "FantasiaStore": {
-        "price": 50.99,
+        "price": 39.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "MagicMerchant": {
@@ -1030,8 +1034,12 @@
         "url": "https://magicmerchant.it/catalogue/hegemony-versione-estesa-76479/"
       },
       "GetYourFun": {
-        "price": 107.91,
+        "price": 101.92,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 105.51,
+        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "LSGiochi": {
         "price": 106.99,
@@ -1367,7 +1375,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
       },
       "DungeonDice": {
-        "price": 49.99,
+        "price": 20.0,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "MagicMerchant": {
@@ -1610,10 +1618,6 @@
       "MagicMerchant": {
         "price": 23.65,
         "url": "https://magicmerchant.it/catalogue/faraway-cover-arancione-78432/"
-      },
-      "GetYourFun": {
-        "price": 21.24,
-        "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 21.24,
@@ -1859,7 +1863,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
       },
       "GetYourFun": {
-        "price": 41.99,
+        "price": 52.79,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -1986,10 +1990,6 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
-      "LaFeltrinelli": {
-        "price": 78.99,
-        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
-      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -2044,13 +2044,13 @@
         "price": 67.92,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
-      "Player1": {
-        "price": 55.9,
-        "url": "https://player1.it/prodotto/spirit-island/"
-      },
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "DragonStore": {
         "price": 79.99,
