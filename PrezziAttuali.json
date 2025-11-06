@@ -792,6 +792,10 @@
   {
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
+      "MagicMerchant": {
+        "price": 49.89,
+        "url": "https://magicmerchant.it/catalogue/architetti-del-regno-occidentale-38117/"
+      },
       "LaFeltrinelli": {
         "price": 41.16,
         "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
@@ -1039,6 +1043,10 @@
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/kutna-hora-la-citta-dellargento/"
+      },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/11970291/kutna-hora-the-city-of-silver-cranio-creations-italiano"
       }
     }
   },
@@ -1169,10 +1177,6 @@
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
       },
-      "GetYourFun": {
-        "price": 50.99,
-        "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
@@ -1302,10 +1306,6 @@
   {
     "name": "Federation",
     "prezzi": {
-      "MagicMerchant": {
-        "price": 34.25,
-        "url": "https://magicmerchant.it/catalogue/federation-67380/"
-      },
       "GetYourFun": {
         "price": 69.99,
         "url": "https://www.getyourfun.it/019577-federation-giochi-gestionali.html"
@@ -1422,10 +1422,6 @@
       "MagicMerchant": {
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
-      },
-      "GetYourFun": {
-        "price": 34.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 49.99,
@@ -1638,10 +1634,6 @@
       "UPlay": {
         "price": 21.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
-      },
-      "LSGiochi": {
-        "price": 24.99,
-        "url": "https://www.lsgiochi.it/product/15788817/faraway-cover-arancione"
       }
     }
   },
@@ -1713,6 +1705,10 @@
       "LaFeltrinelli": {
         "price": 34.99,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
+      },
+      "IlCovoDelNerd": {
+        "price": 31.1,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
       },
       "LSGiochi": {
         "price": 34.99,
@@ -1814,10 +1810,6 @@
       "MagicMerchant": {
         "price": 34.89,
         "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
@@ -2134,6 +2126,10 @@
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 43.99,
+        "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
+      },
       "LSGiochi": {
         "price": 39.99,
         "url": "https://www.lsgiochi.it/product/14392861/trekking-through-history"
@@ -2315,6 +2311,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
+      },
+      "MagicMerchant": {
+        "price": 46.9,
+        "url": "https://magicmerchant.it/catalogue/el-grande-66608/"
       },
       "GetYourFun": {
         "price": 34.99,
