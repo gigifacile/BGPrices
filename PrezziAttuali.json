@@ -6,6 +6,10 @@
   {
     "name": "Castle Combo",
     "prezzi": {
+      "DungeonDice": {
+        "price": 24.99,
+        "url": "https://www.dungeondice.it/34459-castle-combo.html"
+      },
       "MagicMerchant": {
         "price": 23.4,
         "url": "https://magicmerchant.it/catalogue/castle-combo-82014/"
@@ -156,7 +160,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 33.24,
+        "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "LSGiochi": {
@@ -230,7 +234,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 59.9,
+        "price": 50.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -702,7 +706,7 @@
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/7320-stone-age-linizio-del-viaggio.html"
       },
       "UPlay": {
-        "price": 40.49,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LaFeltrinelli": {
@@ -770,6 +774,10 @@
       "MagicMerchant": {
         "price": 43.92,
         "url": "https://magicmerchant.it/catalogue/bonfire-47895/"
+      },
+      "GetYourFun": {
+        "price": 55.0,
+        "url": "https://www.getyourfun.it/01097-bonfire-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 46.74,
@@ -983,6 +991,10 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
+      "LaFeltrinelli": {
+        "price": 42.0,
+        "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
+      },
       "IlCovoDelNerd": {
         "price": 48.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -1179,7 +1191,7 @@
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 42.29,
+        "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
       "LaFeltrinelli": {
@@ -1483,7 +1495,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html"
       },
       "DungeonDice": {
-        "price": 51.99,
+        "price": 64.99,
         "url": "https://www.dungeondice.it/32771-yokohama-seconda-edizione.html"
       },
       "MagicMerchant": {
@@ -1990,6 +2002,10 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -2210,7 +2226,7 @@
         "url": "https://www.dungeondice.it/32740-evenfall.html"
       },
       "LaFeltrinelli": {
-        "price": 52.16,
+        "price": 54.9,
         "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       }
     }
