@@ -192,10 +192,6 @@
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
-      "GetYourFun": {
-        "price": 38.25,
-        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
-      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
@@ -294,6 +290,10 @@
       "FantasiaStore": {
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
+      },
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "MagicMerchant": {
         "price": 74.3,
@@ -750,6 +750,10 @@
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
+      "LaFeltrinelli": {
+        "price": 110.0,
+        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
+      },
       "LSGiochi": {
         "price": 109.99,
         "url": "https://www.lsgiochi.it/product/10150794/rising-sun"
@@ -1176,6 +1180,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
+      },
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.99,
@@ -2006,6 +2014,10 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -2191,6 +2203,10 @@
       "MagicMerchant": {
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
         "price": 44.9,
