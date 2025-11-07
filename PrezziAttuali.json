@@ -6,6 +6,10 @@
   {
     "name": "Castle Combo",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 21.24,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/174298-castle-combo.html"
+      },
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/34459-castle-combo.html"
@@ -746,10 +750,6 @@
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
-      "LaFeltrinelli": {
-        "price": 110.0,
-        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
-      },
       "LSGiochi": {
         "price": 109.99,
         "url": "https://www.lsgiochi.it/product/10150794/rising-sun"
@@ -1423,6 +1423,10 @@
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
       },
+      "GetYourFun": {
+        "price": 43.99,
+        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
@@ -1810,6 +1814,10 @@
       "MagicMerchant": {
         "price": 34.89,
         "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
@@ -1998,10 +2006,6 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
-      "LaFeltrinelli": {
-        "price": 78.99,
-        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
-      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -2086,7 +2090,7 @@
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
       },
       "GetYourFun": {
-        "price": 62.93,
+        "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2187,10 +2191,6 @@
       "MagicMerchant": {
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
-      },
-      "GetYourFun": {
-        "price": 59.99,
-        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
         "price": 44.9,
