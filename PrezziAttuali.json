@@ -6,10 +6,6 @@
   {
     "name": "Castle Combo",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 21.24,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/174298-castle-combo.html"
-      },
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/34459-castle-combo.html"
@@ -331,10 +327,6 @@
       "MagicMerchant": {
         "price": 44.49,
         "url": "https://magicmerchant.it/catalogue/its-a-wonderful-world-46827/"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -790,6 +782,10 @@
       "IlCovoDelNerd": {
         "price": 47.2,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
+      },
+      "DragonStore": {
+        "price": 54.99,
+        "url": "https://www.dragonstore.it/gestionali-bonfire-italiano.1.1.385.gp.28000.uw"
       }
     }
   },
@@ -1040,10 +1036,6 @@
         "price": 39.57,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
-      "LaFeltrinelli": {
-        "price": 44.99,
-        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
-      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/kutna-hora-la-citta-dellargento/"
@@ -1072,6 +1064,10 @@
       "LSGiochi": {
         "price": 106.99,
         "url": "https://www.lsgiochi.it/product/13808244/hegemony-versione-estesa-italiano-preordine-ristampa-arrivo-previsto-ottobre-2025"
+      },
+      "DragonStore": {
+        "price": 119.9,
+        "url": "https://www.dragonstore.it/gestionali-hegemony-versione-estesa-italiana.1.1.385.gp.32904.uw"
       }
     }
   },
@@ -1104,7 +1100,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "MagicMerchant": {
@@ -1423,6 +1419,10 @@
   {
     "name": "Golem",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 32.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
@@ -1444,6 +1444,10 @@
   {
     "name": "Terra Nova",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 35.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/23473-terra-nova-ita.html"
+      },
       "MagicMerchant": {
         "price": 46.4,
         "url": "https://magicmerchant.it/catalogue/terra-nova-65070/"
@@ -1609,6 +1613,10 @@
         "price": 25.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
       },
+      "LSGiochi": {
+        "price": 29.99,
+        "url": "https://www.lsgiochi.it/product/12879033/mlem-agenzia-spaziale"
+      },
       "DragonStore": {
         "price": 29.99,
         "url": "https://www.dragonstore.it/classici-famiglia-mlem-agenzia-spaziale.1.1.115.gp.32734.uw"
@@ -1642,6 +1650,10 @@
       "MagicMerchant": {
         "price": 23.65,
         "url": "https://magicmerchant.it/catalogue/faraway-cover-arancione-78432/"
+      },
+      "GetYourFun": {
+        "price": 24.99,
+        "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 21.24,
@@ -1688,10 +1700,6 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
-      },
-      "LSGiochi": {
-        "price": 44.99,
-        "url": "https://www.lsgiochi.it/product/10049239/ciarlatani-di-quedlinburgo"
       }
     }
   },
@@ -2102,7 +2110,7 @@
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
       },
       "GetYourFun": {
-        "price": 76.42,
+        "price": 62.93,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2233,6 +2241,10 @@
   {
     "name": "Evenfall",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 49.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
+      },
       "DungeonDice": {
         "price": 43.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
@@ -2357,9 +2369,17 @@
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21212-the-wolves-ita.html"
       },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/30518-the-wolves.html"
+      },
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
+      },
+      "GetYourFun": {
+        "price": 59.95,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
