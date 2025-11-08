@@ -160,7 +160,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "LSGiochi": {
@@ -188,12 +188,16 @@
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
+      "GetYourFun": {
+        "price": 38.25,
+        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
+      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
       "LaFeltrinelli": {
-        "price": 44.99,
+        "price": 42.74,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "LSGiochi": {
@@ -230,7 +234,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 50.92,
+        "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -327,6 +331,10 @@
       "MagicMerchant": {
         "price": 44.49,
         "url": "https://magicmerchant.it/catalogue/its-a-wonderful-world-46827/"
+      },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -465,7 +473,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
-        "price": 64.99,
+        "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DragonStore": {
@@ -613,7 +621,7 @@
         "url": "https://www.lsgiochi.it/product/10098089/tiletum"
       },
       "DragonStore": {
-        "price": 59.95,
+        "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-tiletum-italiano.1.1.385.gp.31439.uw"
       }
     }
@@ -628,10 +636,6 @@
       "FantasiaStore": {
         "price": 33.43,
         "url": "https://fantasiastore.it/it/giochi-di-carte/10991-nidavellir.html"
-      },
-      "DungeonDice": {
-        "price": 37.99,
-        "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "MagicMerchant": {
         "price": 39.89,
@@ -700,6 +704,14 @@
       "FantasiaStore": {
         "price": 32.49,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/7320-stone-age-linizio-del-viaggio.html"
+      },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/7315-stone-age.html"
+      },
+      "GetYourFun": {
+        "price": 49.99,
+        "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 38.24,
@@ -1036,6 +1048,10 @@
         "price": 39.57,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
+      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/kutna-hora-la-citta-dellargento/"
@@ -1193,6 +1209,10 @@
       "FantasiaStore": {
         "price": 32.89,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2634-alta-tensione-recharged.html"
+      },
+      "DungeonDice": {
+        "price": 46.99,
+        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
       },
       "MagicMerchant": {
         "price": 44.89,
@@ -1430,14 +1450,6 @@
       "MagicMerchant": {
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
-      },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -2172,7 +2184,7 @@
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
       "DungeonDice": {
-        "price": 23.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
       },
       "MagicMerchant": {
@@ -2246,7 +2258,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
       },
       "DungeonDice": {
-        "price": 43.99,
+        "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
       },
       "LaFeltrinelli": {
@@ -2275,7 +2287,7 @@
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
-        "price": 22.9,
+        "price": 19.0,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "LSGiochi": {
