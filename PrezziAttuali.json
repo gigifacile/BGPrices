@@ -1193,10 +1193,6 @@
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
       },
-      "GetYourFun": {
-        "price": 50.99,
-        "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
@@ -1219,7 +1215,7 @@
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
       },
       "GetYourFun": {
-        "price": 32.83,
+        "price": 46.9,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1248,7 +1244,7 @@
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
@@ -1285,7 +1281,7 @@
         "url": "https://magicmerchant.it/catalogue/dune-49568/"
       },
       "GetYourFun": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1450,6 +1446,10 @@
       "MagicMerchant": {
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -1610,7 +1610,7 @@
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
       },
       "GetYourFun": {
-        "price": 20.93,
+        "price": 29.9,
         "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1907,7 +1907,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
       },
       "GetYourFun": {
-        "price": 52.79,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -1944,7 +1944,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-52212/"
       },
       "GetYourFun": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2121,10 +2121,6 @@
         "price": 80.91,
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
       },
-      "GetYourFun": {
-        "price": 62.93,
-        "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
-      },
       "Player1": {
         "price": 71.9,
         "url": "https://player1.it/prodotto/scythe/"
@@ -2155,7 +2151,7 @@
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
       "GetYourFun": {
-        "price": 35.19,
+        "price": 39.99,
         "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -2223,10 +2219,6 @@
       "MagicMerchant": {
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
-      },
-      "GetYourFun": {
-        "price": 59.99,
-        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
         "price": 44.9,
@@ -2392,6 +2384,10 @@
       "GetYourFun": {
         "price": 59.95,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
