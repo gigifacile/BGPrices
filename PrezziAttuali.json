@@ -85,10 +85,6 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
       },
-      "MagicMerchant": {
-        "price": 61.0,
-        "url": "https://magicmerchant.it/catalogue/arcs-83629/"
-      },
       "GetYourFun": {
         "price": 55.24,
         "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
@@ -295,10 +291,6 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
-      "MagicMerchant": {
-        "price": 74.3,
-        "url": "https://magicmerchant.it/catalogue/revive-66446/"
-      },
       "GetYourFun": {
         "price": 67.92,
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
@@ -331,6 +323,10 @@
       "MagicMerchant": {
         "price": 44.49,
         "url": "https://magicmerchant.it/catalogue/its-a-wonderful-world-46827/"
+      },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -1439,10 +1435,6 @@
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
       },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
-      },
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
@@ -2219,10 +2211,6 @@
       "MagicMerchant": {
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
-      },
-      "GetYourFun": {
-        "price": 59.99,
-        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
         "price": 44.9,
