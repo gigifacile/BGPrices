@@ -995,6 +995,10 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 47.59,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
+      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -1801,10 +1805,6 @@
         "price": 46.75,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
       },
-      "IlCovoDelNerd": {
-        "price": 47.2,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
-      },
       "DragonStore": {
         "price": 54.99,
         "url": "https://www.dragonstore.it/gestionali-dorfromantik-sakura-edizione-italiana.1.1.385.gp.34169.uw"
@@ -1847,10 +1847,6 @@
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
-      },
-      "DragonStore": {
-        "price": 16.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-flip-7-edizione-italiana.1.1.115.gp.34395.uw"
       }
     }
   },
@@ -1942,10 +1938,6 @@
       "Player1": {
         "price": 34.9,
         "url": "https://player1.it/prodotto/dune-imperium/"
-      },
-      "LaFeltrinelli": {
-        "price": 47.85,
-        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
         "price": 42.49,
@@ -2216,6 +2208,10 @@
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
       },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 44.9,
         "url": "https://player1.it/prodotto/ratti-di-wistar/"
@@ -2376,6 +2372,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
+      },
+      "GetYourFun": {
+        "price": 59.95,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
