@@ -184,10 +184,6 @@
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
-      "GetYourFun": {
-        "price": 38.25,
-        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
-      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
@@ -196,13 +192,13 @@
         "price": 42.74,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
+      "DadiEMattoncini": {
+        "price": 39.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
+      },
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/13639084/horrified-edizione-italiana"
-      },
-      "DragonStore": {
-        "price": 39.99,
-        "url": "https://www.dragonstore.it/horror-horrified-edizione-italiana.1.1.386.gp.32796.uw"
       }
     }
   },
@@ -290,6 +286,10 @@
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
+      },
+      "MagicMerchant": {
+        "price": 47.94,
+        "url": "https://magicmerchant.it/catalogue/revive-66446/"
       },
       "GetYourFun": {
         "price": 67.92,
@@ -818,10 +818,6 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
-      "DungeonDice": {
-        "price": 34.55,
-        "url": "https://www.dungeondice.it/30284-earth.html"
-      },
       "MagicMerchant": {
         "price": 34.49,
         "url": "https://magicmerchant.it/catalogue/earth-66410/"
@@ -1021,7 +1017,7 @@
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "MagicMerchant": {
-        "price": 38.93,
+        "price": 35.94,
         "url": "https://magicmerchant.it/catalogue/kutna-hora-la-citta-dellargento-72001/"
       },
       "GetYourFun": {
@@ -1407,7 +1403,7 @@
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "MagicMerchant": {
-        "price": 29.94,
+        "price": 24.45,
         "url": "https://magicmerchant.it/catalogue/starship-captains-62729/"
       },
       "Player1": {
@@ -1676,6 +1672,10 @@
   {
     "name": "The Crew",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 14.44,
+        "url": "https://fantasiastore.it/it/cooperativi/8556-the-crew.html"
+      },
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
@@ -1804,6 +1804,10 @@
       "UPlay": {
         "price": 46.75,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 47.2,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
       },
       "DragonStore": {
         "price": 54.99,
@@ -1938,6 +1942,10 @@
       "Player1": {
         "price": 34.9,
         "url": "https://player1.it/prodotto/dune-imperium/"
+      },
+      "LaFeltrinelli": {
+        "price": 47.85,
+        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
         "price": 42.49,
@@ -2339,10 +2347,6 @@
       "MagicMerchant": {
         "price": 46.9,
         "url": "https://magicmerchant.it/catalogue/el-grande-66608/"
-      },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 42.49,
