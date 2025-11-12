@@ -96,6 +96,10 @@
       "UPlay": {
         "price": 61.16,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/arcs-conflitti-e-collasso-nellorlo.html"
       }
     }
   },
@@ -109,6 +113,10 @@
       "DungeonDice": {
         "price": 41.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
+      },
+      "MagicMerchant": {
+        "price": 41.94,
+        "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
         "price": 59.42,
@@ -176,10 +184,6 @@
   {
     "name": "Horrified",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 38.24,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/125151-horrified.html"
-      },
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
@@ -191,6 +195,14 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
+      },
+      "LaFeltrinelli": {
+        "price": 42.74,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
+      "DadiEMattoncini": {
+        "price": 39.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
       },
       "LSGiochi": {
         "price": 44.99,
@@ -459,6 +471,10 @@
       "LaFeltrinelli": {
         "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       },
       "DragonStore": {
         "price": 64.99,
@@ -1075,7 +1091,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 40.0,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/29882-village-big-box.html"
       },
       "GetYourFun": {
@@ -1085,6 +1101,10 @@
       "LaFeltrinelli": {
         "price": 87.99,
         "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
+      },
+      "DadiEMattoncini": {
+        "price": 49.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/village-big-box.html"
       }
     }
   },
@@ -1242,6 +1262,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
+      },
+      "DadiEMattoncini": {
+        "price": 39.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/le-havre.html"
       }
     }
   },
@@ -1398,10 +1422,6 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1521,6 +1541,10 @@
       "LaFeltrinelli": {
         "price": 49.07,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
+      },
+      "DadiEMattoncini": {
+        "price": 44.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/yokohama.html"
       },
       "IlCovoDelNerd": {
         "price": 55.8,
@@ -2105,6 +2129,10 @@
         "price": 76.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
       },
+      "DadiEMattoncini": {
+        "price": 89.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
+      },
       "DragonStore": {
         "price": 89.9,
         "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
@@ -2129,6 +2157,10 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 43.99,
+        "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
       },
       "LSGiochi": {
         "price": 39.99,
