@@ -225,10 +225,6 @@
         "price": 41.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 41.9,
-        "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
-      },
       "UPlay": {
         "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
@@ -648,10 +644,6 @@
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.99,
-        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -1367,6 +1359,10 @@
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1458,10 +1454,6 @@
       "MagicMerchant": {
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
-      },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 49.99,
@@ -2117,10 +2109,6 @@
   {
     "name": "Scythe",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 72.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
-      },
       "DungeonDice": {
         "price": 89.99,
         "url": "https://www.dungeondice.it/6038-scythe.html"
@@ -2232,6 +2220,10 @@
       "MagicMerchant": {
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
         "price": 44.9,
@@ -2389,6 +2381,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
+      },
+      "GetYourFun": {
+        "price": 59.95,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
