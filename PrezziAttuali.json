@@ -754,10 +754,6 @@
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
-      "LaFeltrinelli": {
-        "price": 110.0,
-        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
-      },
       "LSGiochi": {
         "price": 109.99,
         "url": "https://www.lsgiochi.it/product/10150794/rising-sun"
@@ -1007,6 +1003,10 @@
         "price": 55.89,
         "url": "https://magicmerchant.it/catalogue/grand-austria-hotel-61025/"
       },
+      "GetYourFun": {
+        "price": 55.99,
+        "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
+      },
       "UPlay": {
         "price": 47.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
@@ -1196,6 +1196,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
+      },
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.99,
@@ -1989,6 +1993,10 @@
   {
     "name": "Concordia",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 47.9,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
@@ -2018,6 +2026,10 @@
   {
     "name": "Barrage",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 55.29,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
+      },
       "DungeonDice": {
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
@@ -2051,6 +2063,10 @@
   {
     "name": "Nucleum",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 50.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
@@ -2138,6 +2154,10 @@
   {
     "name": "Trekking Through History",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 27.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/100248-trekking-through-history.html"
+      },
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
@@ -2242,6 +2262,10 @@
   {
     "name": "Evenfall",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 46.74,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
+      },
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
@@ -2255,6 +2279,10 @@
   {
     "name": "Crack List",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 19.54,
+        "url": "https://fantasiastore.it/it/party-games/128497-crack-list.html"
+      },
       "DungeonDice": {
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
@@ -2280,6 +2308,10 @@
   {
     "name": "Le Rovine Perdute di Arnak",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 41.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/9966-le-rovine-perdute-di-arnak.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
@@ -2321,6 +2353,10 @@
   {
     "name": "El Grande",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 42.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/28051-el-grande-nuova-edizione.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
@@ -2333,6 +2369,10 @@
         "price": 42.49,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 42.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
         "price": 54.89,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
@@ -2342,6 +2382,10 @@
   {
     "name": "The Wolves",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 50.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/21212-the-wolves-ita.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
@@ -2349,6 +2393,14 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
+      },
+      "GetYourFun": {
+        "price": 59.95,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
