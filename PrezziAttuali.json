@@ -184,10 +184,6 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
-      "GetYourFun": {
-        "price": 38.25,
-        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
-      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
@@ -295,6 +291,10 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
+      "MagicMerchant": {
+        "price": 47.94,
+        "url": "https://magicmerchant.it/catalogue/revive-66446/"
+      },
       "GetYourFun": {
         "price": 67.92,
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
@@ -327,10 +327,6 @@
       "MagicMerchant": {
         "price": 44.49,
         "url": "https://magicmerchant.it/catalogue/its-a-wonderful-world-46827/"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -378,10 +374,6 @@
   {
     "name": "Captain Flip",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 20.64,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/84908-captain-flip.html"
-      },
       "DungeonDice": {
         "price": 26.99,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
@@ -600,6 +592,10 @@
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/18293-tiletum-ita.html"
       },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/28624-tiletum.html"
+      },
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/tiletum-64073/"
@@ -753,6 +749,10 @@
       "UPlay": {
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
+      },
+      "LaFeltrinelli": {
+        "price": 110.0,
+        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       },
       "LSGiochi": {
         "price": 109.99,
@@ -1392,10 +1392,6 @@
         "price": 33.99,
         "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
       },
-      "Player1": {
-        "price": 28.9,
-        "url": "https://player1.it/prodotto/cascadia/"
-      },
       "UPlay": {
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
@@ -1462,10 +1458,6 @@
       "MagicMerchant": {
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
-      },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 49.99,
@@ -1876,10 +1868,6 @@
   {
     "name": "Flip 7",
     "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/37331-flip-7.html"
-      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
