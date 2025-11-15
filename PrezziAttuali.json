@@ -357,10 +357,6 @@
         "price": 49.9,
         "url": "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
-      },
       "IlCovoDelNerd": {
         "price": 42.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/trajan-deluxe/"
@@ -1176,6 +1172,10 @@
         "price": 37.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
       },
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
+      },
       "IlCovoDelNerd": {
         "price": 42.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
@@ -1299,10 +1299,6 @@
       "LaFeltrinelli": {
         "price": 60.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
       }
     }
   },
@@ -1434,6 +1430,10 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1454,10 +1454,6 @@
       "MagicMerchant": {
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
-      },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 49.99,
@@ -2253,10 +2249,6 @@
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
-      },
-      "LaFeltrinelli": {
-        "price": 54.9,
-        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       }
     }
   },
