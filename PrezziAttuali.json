@@ -539,7 +539,7 @@
         "url": "https://magicmerchant.it/catalogue/agricola-47772/"
       },
       "GetYourFun": {
-        "price": 52.79,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/029-agricola-giochi-gestionali.html"
       },
       "UPlay": {
@@ -654,10 +654,6 @@
   {
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.99,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
@@ -1463,10 +1459,6 @@
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
       },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
-      },
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
@@ -1634,7 +1626,7 @@
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
       },
       "GetYourFun": {
-        "price": 20.93,
+        "price": 26.31,
         "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1909,6 +1901,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
+      "MagicMerchant": {
+        "price": 56.3,
+        "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
+      },
       "GetYourFun": {
         "price": 52.79,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
@@ -2041,10 +2037,6 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
-      "LaFeltrinelli": {
-        "price": 78.99,
-        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
-      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -2115,10 +2107,6 @@
       "DungeonDice": {
         "price": 89.99,
         "url": "https://www.dungeondice.it/6038-scythe.html"
-      },
-      "MagicMerchant": {
-        "price": 80.91,
-        "url": "https://magicmerchant.it/catalogue/scythe-32495/"
       },
       "GetYourFun": {
         "price": 76.42,
@@ -2224,10 +2212,6 @@
         "price": 56.9,
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
       },
-      "GetYourFun": {
-        "price": 59.99,
-        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
-      },
       "Player1": {
         "price": 44.9,
         "url": "https://player1.it/prodotto/ratti-di-wistar/"
@@ -2287,7 +2271,7 @@
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
-        "price": 19.0,
+        "price": 22.9,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "LSGiochi": {
