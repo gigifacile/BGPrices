@@ -184,6 +184,10 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
+      "GetYourFun": {
+        "price": 38.25,
+        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
+      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
@@ -459,6 +463,10 @@
       "UPlay": {
         "price": 55.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
+      },
+      "LaFeltrinelli": {
+        "price": 61.74,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DadiEMattoncini": {
         "price": 64.99,
@@ -1320,6 +1328,10 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.42,
+        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -1450,6 +1462,10 @@
       "MagicMerchant": {
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
+      },
+      "GetYourFun": {
+        "price": 43.99,
+        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 49.99,
@@ -2344,6 +2360,10 @@
         "price": 42.49,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 42.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
         "price": 54.89,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
@@ -2364,6 +2384,14 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
+      },
+      "GetYourFun": {
+        "price": 59.95,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
