@@ -100,6 +100,10 @@
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/arcs-conflitti-e-collasso-nellorlo.html"
+      },
+      "DragonStore": {
+        "price": 64.99,
+        "url": "https://www.dragonstore.it/fantascienza-arcs-conflitti-e-collasso-nell-orlo.1.1.46.gp.34362.uw"
       }
     }
   },
@@ -534,10 +538,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/21782-agricola.html"
       },
-      "MagicMerchant": {
-        "price": 59.89,
-        "url": "https://magicmerchant.it/catalogue/agricola-47772/"
-      },
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/029-agricola-giochi-gestionali.html"
@@ -571,8 +571,12 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
       },
+      "MagicMerchant": {
+        "price": 67.91,
+        "url": "https://magicmerchant.it/catalogue/terra-mystica-lera-delle-scoperte-68297/"
+      },
       "GetYourFun": {
-        "price": 79.99,
+        "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
       "UPlay": {
@@ -689,7 +693,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/378-viticulture-essential-edition.html"
       },
       "GetYourFun": {
-        "price": 64.9,
+        "price": 45.43,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       }
     }
@@ -747,7 +751,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
       "LaFeltrinelli": {
-        "price": 110.0,
+        "price": 109.99,
         "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       },
       "LSGiochi": {
@@ -909,7 +913,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
       "LaFeltrinelli": {
-        "price": 32.0,
+        "price": 49.99,
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
@@ -934,7 +938,7 @@
         "url": "https://magicmerchant.it/catalogue/fields-of-arle-big-box-67381/"
       },
       "GetYourFun": {
-        "price": 79.99,
+        "price": 70.39,
         "url": "https://www.getyourfun.it/019576-fields-of-arle-big-box-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1175,6 +1179,10 @@
       "UPlay": {
         "price": 37.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
@@ -1558,6 +1566,10 @@
         "price": 49.07,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
+      "DadiEMattoncini": {
+        "price": 44.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/yokohama.html"
+      },
       "IlCovoDelNerd": {
         "price": 55.8,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/yokohama/"
@@ -1620,10 +1632,6 @@
       "MagicMerchant": {
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
-      },
-      "GetYourFun": {
-        "price": 26.31,
-        "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 25.49,
@@ -1859,7 +1867,12 @@
   },
   {
     "name": "Flip 7",
-    "prezzi": {}
+    "prezzi": {
+      "MagicMerchant": {
+        "price": 16.89,
+        "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
+      }
+    }
   },
   {
     "name": "Thunder Road - Vendetta",
@@ -1867,6 +1880,10 @@
       "FantasiaStore": {
         "price": 59.49,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/185685-thunder-road-vendetta-ita.html"
+      },
+      "MagicMerchant": {
+        "price": 66.4,
+        "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
       },
       "GetYourFun": {
         "price": 66.49,
@@ -1989,7 +2006,7 @@
         "url": "https://magicmerchant.it/catalogue/concordia-30533/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
       },
       "Player1": {
@@ -2022,7 +2039,7 @@
         "url": "https://magicmerchant.it/catalogue/barrage-40159/"
       },
       "GetYourFun": {
-        "price": 78.99,
+        "price": 55.29,
         "url": "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html"
       },
       "Player1": {
@@ -2082,6 +2099,10 @@
       "GetYourFun": {
         "price": 67.92,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
+      },
+      "Player1": {
+        "price": 55.9,
+        "url": "https://player1.it/prodotto/spirit-island/"
       },
       "UPlay": {
         "price": 67.92,
@@ -2209,7 +2230,7 @@
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 52.79,
         "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
@@ -2296,7 +2317,7 @@
         "url": "https://magicmerchant.it/catalogue/le-rovine-perdute-di-arnak-50715/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
