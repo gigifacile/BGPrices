@@ -546,6 +546,10 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
+      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
@@ -999,6 +1003,10 @@
         "price": 55.89,
         "url": "https://magicmerchant.it/catalogue/grand-austria-hotel-61025/"
       },
+      "GetYourFun": {
+        "price": 55.99,
+        "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
+      },
       "UPlay": {
         "price": 47.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
@@ -1049,7 +1057,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/kutna-hora-la-citta-dellargento/"
       },
       "LSGiochi": {
-        "price": 29.99,
+        "price": 59.99,
         "url": "https://www.lsgiochi.it/product/11970291/kutna-hora-the-city-of-silver-cranio-creations-italiano"
       }
     }
@@ -1168,10 +1176,6 @@
         "price": 37.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
       },
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
-      },
       "IlCovoDelNerd": {
         "price": 42.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
@@ -1188,6 +1192,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
+      },
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.99,
@@ -1410,6 +1418,10 @@
         "price": 14.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
       },
+      "DungeonDice": {
+        "price": 20.0,
+        "url": "https://www.dungeondice.it/28831-starship-captains.html"
+      },
       "MagicMerchant": {
         "price": 24.45,
         "url": "https://magicmerchant.it/catalogue/starship-captains-62729/"
@@ -1545,10 +1557,6 @@
       "LaFeltrinelli": {
         "price": 49.07,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
-      },
-      "DadiEMattoncini": {
-        "price": 44.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/yokohama.html"
       },
       "IlCovoDelNerd": {
         "price": 55.8,
@@ -1729,10 +1737,6 @@
       "FantasiaStore": {
         "price": 29.74,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/188-splendor.html"
-      },
-      "MagicMerchant": {
-        "price": 24.43,
-        "url": "https://magicmerchant.it/catalogue/splendor-seconda-edizone-3019/"
       },
       "UPlay": {
         "price": 29.74,
