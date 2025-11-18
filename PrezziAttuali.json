@@ -197,7 +197,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
       "LaFeltrinelli": {
-        "price": 42.74,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
@@ -234,7 +234,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 59.9,
+        "price": 50.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -403,7 +403,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
       "LaFeltrinelli": {
-        "price": 26.99,
+        "price": 25.64,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "LSGiochi": {
@@ -688,12 +688,8 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 41.74,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/378-viticulture-essential-edition.html"
-      },
       "GetYourFun": {
-        "price": 45.43,
+        "price": 55.17,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       }
     }
@@ -796,10 +792,6 @@
   {
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
-      "MagicMerchant": {
-        "price": 49.89,
-        "url": "https://magicmerchant.it/catalogue/architetti-del-regno-occidentale-38117/"
-      },
       "UPlay": {
         "price": 44.91,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-architetti-del-regno-occidentale.html"
@@ -1201,10 +1193,6 @@
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
       },
-      "GetYourFun": {
-        "price": 50.99,
-        "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
@@ -1362,10 +1350,6 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
@@ -2389,10 +2373,6 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
-      },
-      "GetYourFun": {
-        "price": 59.95,
-        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
