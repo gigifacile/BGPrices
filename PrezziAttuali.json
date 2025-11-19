@@ -31,10 +31,6 @@
         "price": 84.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
       },
-      "DungeonDice": {
-        "price": 59.99,
-        "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
-      },
       "MagicMerchant": {
         "price": 89.91,
         "url": "https://magicmerchant.it/catalogue/everdell-farshore-80736/"
@@ -114,10 +110,6 @@
   {
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
-      "DungeonDice": {
-        "price": 41.99,
-        "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
-      },
       "MagicMerchant": {
         "price": 41.94,
         "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
@@ -178,10 +170,6 @@
       "LSGiochi": {
         "price": 34.99,
         "url": "https://www.lsgiochi.it/product/14195265/harmonies"
-      },
-      "DragonStore": {
-        "price": 34.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
       }
     }
   },
@@ -238,7 +226,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 50.92,
+        "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -302,10 +290,6 @@
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
-      },
-      "MagicMerchant": {
-        "price": 47.94,
-        "url": "https://magicmerchant.it/catalogue/revive-66446/"
       },
       "GetYourFun": {
         "price": 67.92,
@@ -754,6 +738,10 @@
         "price": 96.79,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
+      "UPlay": {
+        "price": 84.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
+      },
       "LaFeltrinelli": {
         "price": 109.99,
         "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
@@ -912,6 +900,10 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
+      },
       "IlCovoDelNerd": {
         "price": 38.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
@@ -1065,9 +1057,17 @@
         "price": 101.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/93101-hegemony-versione-estesa-ita.html"
       },
+      "DungeonDice": {
+        "price": 119.99,
+        "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
+      },
       "MagicMerchant": {
         "price": 113.9,
         "url": "https://magicmerchant.it/catalogue/hegemony-versione-estesa-76479/"
+      },
+      "GetYourFun": {
+        "price": 101.92,
+        "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
       "Player1": {
         "price": 94.9,
@@ -1846,10 +1846,6 @@
       "MagicMerchant": {
         "price": 34.89,
         "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
@@ -2041,6 +2037,10 @@
       "Player1": {
         "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
+      },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
         "price": 67.14,
