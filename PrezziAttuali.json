@@ -291,6 +291,10 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
+      "MagicMerchant": {
+        "price": 47.94,
+        "url": "https://magicmerchant.it/catalogue/revive-66446/"
+      },
       "GetYourFun": {
         "price": 67.92,
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
@@ -681,7 +685,7 @@
     "name": "Viticulture Essential Edition",
     "prezzi": {
       "GetYourFun": {
-        "price": 55.17,
+        "price": 45.43,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
@@ -716,6 +720,10 @@
       "LSGiochi": {
         "price": 49.99,
         "url": "https://www.lsgiochi.it/product/9982140/stone-age"
+      },
+      "DragonStore": {
+        "price": 49.9,
+        "url": "https://www.dragonstore.it/gestionali-stone-age-l-inizio-del-viaggio-nuova-edizione.1.1.385.gp.20646.uw"
       }
     }
   },
@@ -1093,6 +1101,10 @@
       "GetYourFun": {
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 87.99,
+        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -1712,12 +1724,7 @@
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
-    "prezzi": {
-      "GetYourFun": {
-        "price": 44.9,
-        "url": "https://www.getyourfun.it/0396-ciarlatani-di-quedlinburgo-giochi-per-famiglia.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "L'Oracolo di Delphi",
@@ -1985,6 +1992,10 @@
   {
     "name": "Concordia",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 47.9,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
+      },
       "DungeonDice": {
         "price": 41.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
@@ -2067,10 +2078,6 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
       },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
-      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
@@ -2083,6 +2090,10 @@
       "FantasiaStore": {
         "price": 55.99,
         "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
+      },
+      "MagicMerchant": {
+        "price": 74.3,
+        "url": "https://magicmerchant.it/catalogue/spirit-island-46745/"
       },
       "GetYourFun": {
         "price": 67.92,
@@ -2116,6 +2127,10 @@
       "DungeonDice": {
         "price": 62.99,
         "url": "https://www.dungeondice.it/6038-scythe.html"
+      },
+      "MagicMerchant": {
+        "price": 80.91,
+        "url": "https://magicmerchant.it/catalogue/scythe-32495/"
       },
       "GetYourFun": {
         "price": 76.42,
@@ -2372,6 +2387,10 @@
       "LaFeltrinelli": {
         "price": 54.89,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
+      },
+      "DragonStore": {
+        "price": 49.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-el-grande-nuova-edizione-italiana-2-mini-espansioni.1.1.115.gp.32239.uw"
       }
     }
   },
@@ -2390,10 +2409,6 @@
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
       },
-      "GetYourFun": {
-        "price": 59.95,
-        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
@@ -2401,6 +2416,10 @@
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/the-wolves/"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-the-wolves-italiano.1.1.115.gp.31990.uw"
       }
     }
   }
