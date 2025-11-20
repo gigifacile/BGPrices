@@ -39,10 +39,6 @@
         "price": 84.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 75.9,
-        "url": "https://player1.it/prodotto/everdell-farshore/"
-      },
       "UPlay": {
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
@@ -155,10 +151,6 @@
         "price": 30.79,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
-      "Player1": {
-        "price": 25.9,
-        "url": "https://player1.it/prodotto/harmonies/"
-      },
       "UPlay": {
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
@@ -221,16 +213,12 @@
         "price": 41.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 41.9,
-        "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
-      },
       "UPlay": {
         "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
-        "price": 49.42,
+        "price": 46.12,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
       },
       "IlCovoDelNerd": {
@@ -261,10 +249,6 @@
       "MagicMerchant": {
         "price": 49.89,
         "url": "https://magicmerchant.it/catalogue/aeons-end-66441/"
-      },
-      "Player1": {
-        "price": 39.9,
-        "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
       "UPlay": {
         "price": 42.42,
@@ -358,7 +342,7 @@
         "url": "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 41.16,
+        "price": 38.42,
         "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
       },
       "IlCovoDelNerd": {
@@ -405,6 +389,10 @@
       "LSGiochi": {
         "price": 26.99,
         "url": "https://www.lsgiochi.it/product/13810049/captain-flip"
+      },
+      "DragonStore": {
+        "price": 26.99,
+        "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
       }
     }
   },
@@ -414,10 +402,6 @@
       "FantasiaStore": {
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
-      },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
       },
       "MagicMerchant": {
         "price": 14.65,
@@ -492,10 +476,6 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
-      },
-      "Player1": {
-        "price": 22.9,
-        "url": "https://player1.it/prodotto/forest-shuffle/"
       },
       "UPlay": {
         "price": 25.49,
@@ -640,6 +620,10 @@
       "UPlay": {
         "price": 32.29,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.99,
+        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -654,6 +638,10 @@
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
       },
+      "LaFeltrinelli": {
+        "price": 66.99,
+        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
+      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
@@ -666,12 +654,20 @@
       "DungeonDice": {
         "price": 99.99,
         "url": "https://www.dungeondice.it/30862-obsession.html"
+      },
+      "MagicMerchant": {
+        "price": 99.89,
+        "url": "https://magicmerchant.it/catalogue/obsession-65384/"
       }
     }
   },
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
+      "GetYourFun": {
+        "price": 55.17,
+        "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 57.11,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
@@ -727,7 +723,7 @@
         "url": "https://magicmerchant.it/catalogue/rising-sun-34500/"
       },
       "GetYourFun": {
-        "price": 109.99,
+        "price": 96.79,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -785,7 +781,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-architetti-del-regno-occidentale.html"
       },
       "LaFeltrinelli": {
-        "price": 41.16,
+        "price": 38.42,
         "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
       }
     }
@@ -810,9 +806,9 @@
         "price": 53.99,
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 35.9,
-        "url": "https://player1.it/prodotto/earth/"
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/earth-gioco-da-tavolo-giocattolo-lucky-duck-games/e/0787790613398"
       },
       "DragonStore": {
         "price": 34.9,
@@ -838,10 +834,6 @@
       "GetYourFun": {
         "price": 44.99,
         "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
-      },
-      "Player1": {
-        "price": 31.49,
-        "url": "https://player1.it/prodotto/azul/"
       },
       "UPlay": {
         "price": 38.24,
@@ -877,12 +869,8 @@
         "url": "https://magicmerchant.it/catalogue/seasons-2951/"
       },
       "GetYourFun": {
-        "price": 49.9,
+        "price": 42.42,
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
-      },
-      "Player1": {
-        "price": 29.9,
-        "url": "https://player1.it/prodotto/seasons/"
       },
       "UPlay": {
         "price": 38.24,
@@ -904,6 +892,10 @@
       "MagicMerchant": {
         "price": 67.91,
         "url": "https://magicmerchant.it/catalogue/fields-of-arle-big-box-67381/"
+      },
+      "GetYourFun": {
+        "price": 70.39,
+        "url": "https://www.getyourfun.it/019576-fields-of-arle-big-box-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 67.92,
@@ -938,16 +930,12 @@
         "price": 22.5,
         "url": "https://www.getyourfun.it/019772-studiosi-a-sud-del-tigri-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 24.9,
-        "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
-      },
       "UPlay": {
         "price": 37.43,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
       },
       "LaFeltrinelli": {
-        "price": 46.11,
+        "price": 43.04,
         "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       },
       "DragonStore": {
@@ -1008,10 +996,6 @@
         "price": 41.99,
         "url": "https://www.getyourfun.it/019780-kutna-hora-la-citta-dell-argento-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 37.9,
-        "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
-      },
       "UPlay": {
         "price": 39.57,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
@@ -1049,12 +1033,8 @@
         "price": 101.92,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 94.9,
-        "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
-      },
       "LaFeltrinelli": {
-        "price": 105.51,
+        "price": 98.92,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "LSGiochi": {
@@ -1077,6 +1057,10 @@
       "GetYourFun": {
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 75.99,
+        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -1102,10 +1086,6 @@
       "GetYourFun": {
         "price": 67.99,
         "url": "https://www.getyourfun.it/019812--apiary-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 54.9,
-        "url": "https://player1.it/prodotto/apiary/"
       },
       "UPlay": {
         "price": 73.06,
@@ -1139,10 +1119,6 @@
       "GetYourFun": {
         "price": 22.5,
         "url": "https://www.getyourfun.it/013185-viandanti-a-sud-del-tigri-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 24.9,
-        "url": "https://player1.it/prodotto/viandanti-a-sud-del-tigri/"
       },
       "UPlay": {
         "price": 37.46,
@@ -1220,12 +1196,8 @@
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 38.9,
-        "url": "https://player1.it/prodotto/le-havre/"
       },
       "UPlay": {
         "price": 50.99,
@@ -1260,10 +1232,6 @@
         "price": 41.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
-      "Player1": {
-        "price": 42.9,
-        "url": "https://player1.it/prodotto/dune/"
-      },
       "UPlay": {
         "price": 51.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
@@ -1285,12 +1253,8 @@
         "price": 38.93,
         "url": "https://magicmerchant.it/catalogue/great-western-trail-argentina-66413/"
       },
-      "Player1": {
-        "price": 41.9,
-        "url": "https://player1.it/prodotto/great-western-trail-argentina/"
-      },
       "LaFeltrinelli": {
-        "price": 49.42,
+        "price": 46.12,
         "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
@@ -1301,10 +1265,6 @@
       "GetYourFun": {
         "price": 69.99,
         "url": "https://www.getyourfun.it/019577-federation-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 45.9,
-        "url": "https://player1.it/prodotto/federation/"
       },
       "UPlay": {
         "price": 59.49,
@@ -1356,10 +1316,6 @@
         "price": 33.99,
         "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
       },
-      "Player1": {
-        "price": 25.9,
-        "url": "https://player1.it/prodotto/cascadia/"
-      },
       "UPlay": {
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
@@ -1405,10 +1361,6 @@
       "GetYourFun": {
         "price": 20.0,
         "url": "https://www.getyourfun.it/08435-starship-captains-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 36.9,
-        "url": "https://player1.it/prodotto/starship-captains/"
       },
       "UPlay": {
         "price": 50.99,
@@ -1460,10 +1412,6 @@
         "price": 34.99,
         "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 29.9,
-        "url": "https://player1.it/prodotto/terra-nova/"
-      },
       "UPlay": {
         "price": 29.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
@@ -1490,7 +1438,7 @@
         "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
       },
       "GetYourFun": {
-        "price": 39.99,
+        "price": 35.19,
         "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1504,6 +1452,10 @@
       "LSGiochi": {
         "price": 39.99,
         "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
+      },
+      "DragonStore": {
+        "price": 39.9,
+        "url": "https://www.dragonstore.it/fantasy-res-arcana-italiano.1.1.116.gp.28398.uw"
       }
     }
   },
@@ -1568,13 +1520,13 @@
         "price": 29.99,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 23.9,
-        "url": "https://player1.it/prodotto/the-white-castle/"
-      },
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
+      },
+      "DragonStore": {
+        "price": 29.99,
+        "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
       }
     }
   },
@@ -1693,14 +1645,19 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-crew.html"
       },
       "LaFeltrinelli": {
-        "price": 14.01,
+        "price": 13.08,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
-    "prezzi": {}
+    "prezzi": {
+      "DragonStore": {
+        "price": 49.9,
+        "url": "https://www.dragonstore.it/classici-famiglia-ciarlatani-di-quedlinburgo.1.1.115.gp.27384.uw"
+      }
+    }
   },
   {
     "name": "L'Oracolo di Delphi",
@@ -1718,7 +1675,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 26.87,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "IlCovoDelNerd": {
@@ -1728,6 +1685,10 @@
       "LSGiochi": {
         "price": 24.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
+      },
+      "DragonStore": {
+        "price": 34.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
       }
     }
   },
@@ -1863,6 +1824,10 @@
       "UPlay": {
         "price": 65.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 69.9,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
   },
@@ -1884,10 +1849,6 @@
       "GetYourFun": {
         "price": 52.79,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
-      },
-      "Player1": {
-        "price": 40.9,
-        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "UPlay": {
         "price": 50.99,
@@ -1925,10 +1886,6 @@
       "GetYourFun": {
         "price": 34.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
-      },
-      "Player1": {
-        "price": 29.9,
-        "url": "https://player1.it/prodotto/dune-imperium/"
       },
       "LaFeltrinelli": {
         "price": 49.99,
@@ -1976,10 +1933,6 @@
         "price": 41.99,
         "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 44.9,
-        "url": "https://player1.it/prodotto/concordia/"
-      },
       "LSGiochi": {
         "price": 59.99,
         "url": "https://www.lsgiochi.it/product/18304559/concordia"
@@ -2008,10 +1961,6 @@
       "GetYourFun": {
         "price": 55.29,
         "url": "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 52.9,
-        "url": "https://player1.it/prodotto/barrage/"
       },
       "LaFeltrinelli": {
         "price": 78.99,
@@ -2042,10 +1991,6 @@
         "price": 56.3,
         "url": "https://magicmerchant.it/catalogue/nucleum-76380/"
       },
-      "Player1": {
-        "price": 45.9,
-        "url": "https://player1.it/prodotto/nucleum/"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
@@ -2071,10 +2016,6 @@
         "price": 67.92,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
-      "Player1": {
-        "price": 55.9,
-        "url": "https://player1.it/prodotto/spirit-island/"
-      },
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
@@ -2096,10 +2037,6 @@
         "price": 72.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
       },
-      "DungeonDice": {
-        "price": 62.99,
-        "url": "https://www.dungeondice.it/6038-scythe.html"
-      },
       "MagicMerchant": {
         "price": 80.91,
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
@@ -2107,10 +2044,6 @@
       "GetYourFun": {
         "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
-      },
-      "Player1": {
-        "price": 61.9,
-        "url": "https://player1.it/prodotto/scythe/"
       },
       "UPlay": {
         "price": 76.42,
@@ -2141,6 +2074,10 @@
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 43.99,
+        "url": "https://www.lafeltrinelli.it/trekking-through-history-base-gioco-giocattolo-asmodee/e/3558380116257"
+      },
       "LSGiochi": {
         "price": 39.99,
         "url": "https://www.lsgiochi.it/product/14392861/trekking-through-history"
@@ -2157,10 +2094,6 @@
       "MagicMerchant": {
         "price": 61.65,
         "url": "https://magicmerchant.it/catalogue/root-38109/"
-      },
-      "Player1": {
-        "price": 50.9,
-        "url": "https://player1.it/prodotto/root/"
       },
       "LaFeltrinelli": {
         "price": 64.9,
@@ -2215,10 +2148,6 @@
       "GetYourFun": {
         "price": 52.79,
         "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 44.9,
-        "url": "https://player1.it/prodotto/ratti-di-wistar/"
       },
       "UPlay": {
         "price": 50.99,
@@ -2303,10 +2232,6 @@
         "price": 41.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
-      "Player1": {
-        "price": 40.9,
-        "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
-      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
@@ -2353,7 +2278,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 54.89,
+        "price": 38.42,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
