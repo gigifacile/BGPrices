@@ -1351,6 +1351,10 @@
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1874,10 +1878,6 @@
       "MagicMerchant": {
         "price": 34.89,
         "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
@@ -2069,6 +2069,10 @@
       "Player1": {
         "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
+      },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
         "price": 67.14,
@@ -2430,12 +2434,8 @@
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
       },
-      "GetYourFun": {
-        "price": 59.95,
-        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
-      },
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
