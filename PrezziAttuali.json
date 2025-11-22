@@ -230,7 +230,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 50.92,
+        "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -451,10 +451,6 @@
       "FantasiaStore": {
         "price": 48.74,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
-      },
-      "DungeonDice": {
-        "price": 45.49,
-        "url": "https://www.dungeondice.it/29880-heat.html"
       },
       "MagicMerchant": {
         "price": 61.0,
@@ -830,6 +826,10 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
+      "DungeonDice": {
+        "price": 34.55,
+        "url": "https://www.dungeondice.it/30284-earth.html"
+      },
       "GetYourFun": {
         "price": 53.99,
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
@@ -917,7 +917,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
       "LaFeltrinelli": {
-        "price": 49.99,
+        "price": 47.49,
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
@@ -1126,10 +1126,6 @@
       "FantasiaStore": {
         "price": 45.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
-      },
-      "DungeonDice": {
-        "price": 55.99,
-        "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "MagicMerchant": {
         "price": 39.15,
@@ -1355,10 +1351,6 @@
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1391,6 +1383,10 @@
       "UPlay": {
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 47.37,
+        "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       },
       "LSGiochi": {
         "price": 39.9,
@@ -1738,7 +1734,7 @@
     "name": "Ciarlatani di Quedlinburgo",
     "prezzi": {
       "UPlay": {
-        "price": 40.49,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
       },
       "LaFeltrinelli": {
@@ -2074,10 +2070,6 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
-      "LaFeltrinelli": {
-        "price": 78.99,
-        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
-      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -2219,9 +2211,17 @@
         "price": 50.9,
         "url": "https://player1.it/prodotto/root/"
       },
+      "UPlay": {
+        "price": 55.17,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
+      },
       "LaFeltrinelli": {
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       }
     }
   },
@@ -2425,10 +2425,6 @@
       "FantasiaStore": {
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21212-the-wolves-ita.html"
-      },
-      "DungeonDice": {
-        "price": 35.99,
-        "url": "https://www.dungeondice.it/30518-the-wolves.html"
       },
       "MagicMerchant": {
         "price": 59.89,
