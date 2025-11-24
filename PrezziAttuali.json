@@ -28,7 +28,7 @@
     "name": "Everdell Farshore",
     "prezzi": {
       "FantasiaStore": {
-        "price": 84.99,
+        "price": 79.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
       },
       "MagicMerchant": {
@@ -78,7 +78,7 @@
     "name": "Arcs",
     "prezzi": {
       "FantasiaStore": {
-        "price": 55.24,
+        "price": 51.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/186086-arcs-conflitti-e-collasso-nellorlo-ita.html"
       },
       "DungeonDice": {
@@ -251,7 +251,7 @@
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
       "FantasiaStore": {
-        "price": 42.49,
+        "price": 39.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21270-aeons-end-ita.html"
       },
       "MagicMerchant": {
@@ -606,7 +606,7 @@
     "name": "Nidavellir",
     "prezzi": {
       "FantasiaStore": {
-        "price": 32.29,
+        "price": 28.49,
         "url": "https://fantasiastore.it/it/giochi-di-carte/10991-nidavellir.html"
       },
       "DungeonDice": {
@@ -719,7 +719,7 @@
     "name": "Rising Sun",
     "prezzi": {
       "FantasiaStore": {
-        "price": 94.9,
+        "price": 82.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/1476-rising-sun.html"
       },
       "DungeonDice": {
@@ -858,6 +858,10 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 40.99,
+        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "LSGiochi": {
         "price": 44.99,
@@ -1005,7 +1009,7 @@
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
       "FantasiaStore": {
-        "price": 39.99,
+        "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
       "DungeonDice": {
@@ -1173,6 +1177,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
@@ -1236,10 +1244,6 @@
   {
     "name": "Dune",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/8597-dune.html"
-      },
       "DungeonDice": {
         "price": 30.0,
         "url": "https://www.dungeondice.it/22774-dune.html"
@@ -1319,6 +1323,10 @@
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1395,7 +1403,7 @@
         "url": "https://player1.it/prodotto/starship-captains/"
       },
       "UPlay": {
-        "price": 50.99,
+        "price": 47.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       },
       "LaFeltrinelli": {
@@ -1495,7 +1503,7 @@
     "name": "Yokohama - Seconda Edizione",
     "prezzi": {
       "FantasiaStore": {
-        "price": 55.24,
+        "price": 48.74,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html"
       },
       "DungeonDice": {
@@ -1785,7 +1793,7 @@
     "name": "Dorfromantik – Sakura",
     "prezzi": {
       "FantasiaStore": {
-        "price": 46.74,
+        "price": 43.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/179639-dorfromantik-sakura.html"
       },
       "DungeonDice": {
@@ -1837,10 +1845,6 @@
       "MagicMerchant": {
         "price": 34.89,
         "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
@@ -2075,10 +2079,6 @@
   {
     "name": "Spirit Island",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 55.99,
-        "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
-      },
       "MagicMerchant": {
         "price": 74.3,
         "url": "https://magicmerchant.it/catalogue/spirit-island-46745/"
@@ -2094,6 +2094,10 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 70.31,
+        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "DragonStore": {
         "price": 63.99,
@@ -2345,7 +2349,7 @@
     "name": "El Grande",
     "prezzi": {
       "FantasiaStore": {
-        "price": 42.49,
+        "price": 39.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/28051-el-grande-nuova-edizione.html"
       },
       "DungeonDice": {
@@ -2378,7 +2382,7 @@
     "name": "The Wolves",
     "prezzi": {
       "FantasiaStore": {
-        "price": 50.99,
+        "price": 44.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21212-the-wolves-ita.html"
       },
       "MagicMerchant": {
