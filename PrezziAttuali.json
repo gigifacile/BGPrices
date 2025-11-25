@@ -114,6 +114,10 @@
         "price": 39.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/164464-cyclades-edizione-leggendaria.html"
       },
+      "DungeonDice": {
+        "price": 41.99,
+        "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
+      },
       "MagicMerchant": {
         "price": 41.94,
         "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
@@ -642,10 +646,6 @@
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
       },
-      "LaFeltrinelli": {
-        "price": 66.99,
-        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
-      },
       "DragonStore": {
         "price": 39.92,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
@@ -855,6 +855,10 @@
         "price": 35.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
       },
+      "LaFeltrinelli": {
+        "price": 40.99,
+        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/10101293/azul"
@@ -984,7 +988,7 @@
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 47.59,
+        "price": 44.79,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
       "LaFeltrinelli": {
@@ -1265,10 +1269,6 @@
   {
     "name": "Great Western Trail - Argentina",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 21.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/21004-great-western-trail-argentina-ita.html"
-      },
       "MagicMerchant": {
         "price": 38.93,
         "url": "https://magicmerchant.it/catalogue/great-western-trail-argentina-66413/"
@@ -1295,7 +1295,7 @@
         "url": "https://player1.it/prodotto/federation/"
       },
       "UPlay": {
-        "price": 59.49,
+        "price": 55.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
       "LaFeltrinelli": {
@@ -1833,10 +1833,6 @@
       "MagicMerchant": {
         "price": 34.89,
         "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
