@@ -180,6 +180,10 @@
         "price": 26.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
+      "MagicMerchant": {
+        "price": 44.89,
+        "url": "https://magicmerchant.it/catalogue/horrified-75434/"
+      },
       "GetYourFun": {
         "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
@@ -628,10 +632,6 @@
       "UPlay": {
         "price": 30.39,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.99,
-        "url": "https://www.lafeltrinelli.it/nidavellir-gioco-da-tavolo-giocattolo-studio-supernova/e/8052870930279"
       }
     }
   },
@@ -645,6 +645,10 @@
       "GetYourFun": {
         "price": 39.9,
         "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
+      },
+      "LaFeltrinelli": {
+        "price": 66.99,
+        "url": "https://www.lafeltrinelli.it/dominion-nasce-regno-seconda-ed-giocattolo-giochi-uniti/e/8058773208668"
       },
       "DragonStore": {
         "price": 39.92,
@@ -672,10 +676,6 @@
         "price": 55.17,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 57.11,
-        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
-      },
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/10788425/viticulture-essential-edition"
@@ -702,12 +702,8 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 40.49,
+        "price": 47.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
-      },
-      "LaFeltrinelli": {
-        "price": 58.26,
-        "url": "https://www.lafeltrinelli.it/stone-age-linizio-del-viaggio-giocattolo-giochi-uniti/e/8058773206121"
       },
       "LSGiochi": {
         "price": 49.99,
@@ -741,10 +737,6 @@
       "UPlay": {
         "price": 79.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
-      },
-      "LaFeltrinelli": {
-        "price": 104.49,
-        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       },
       "LSGiochi": {
         "price": 109.99,
@@ -1028,10 +1020,6 @@
         "price": 46.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
-      "LaFeltrinelli": {
-        "price": 41.99,
-        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
-      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/kutna-hora-la-citta-dellargento/"
@@ -1061,10 +1049,6 @@
         "price": 101.92,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 105.51,
-        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
-      },
       "LSGiochi": {
         "price": 106.99,
         "url": "https://www.lsgiochi.it/product/13808244/hegemony-versione-estesa-italiano-preordine-ristampa-arrivo-previsto-ottobre-2025"
@@ -1085,10 +1069,6 @@
       "GetYourFun": {
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 75.99,
-        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -1118,10 +1098,6 @@
       "UPlay": {
         "price": 68.76,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-apiary--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
       "IlCovoDelNerd": {
         "price": 68.7,
@@ -1337,7 +1313,7 @@
         "url": "https://www.dungeondice.it/25072-cascadia.html"
       },
       "MagicMerchant": {
-        "price": 37.9,
+        "price": 27.93,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
       },
       "GetYourFun": {
@@ -1688,6 +1664,10 @@
   {
     "name": "Ciarlatani di Quedlinburgo",
     "prezzi": {
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
+      },
       "UPlay": {
         "price": 40.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
@@ -1830,9 +1810,9 @@
         "price": 29.99,
         "url": "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
       },
-      "MagicMerchant": {
-        "price": 34.89,
-        "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
