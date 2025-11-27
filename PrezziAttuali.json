@@ -36,12 +36,16 @@
         "url": "https://magicmerchant.it/catalogue/everdell-farshore-80736/"
       },
       "GetYourFun": {
-        "price": 99.99,
+        "price": 84.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
+      },
+      "UPlay": {
+        "price": 79.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 95.69,
@@ -98,7 +102,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
       },
       "DadiEMattoncini": {
-        "price": 64.99,
+        "price": 48.74,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/arcs-conflitti-e-collasso-nellorlo.html"
       }
     }
@@ -159,10 +163,6 @@
         "price": 27.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 34.99,
-        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
-      },
       "LSGiochi": {
         "price": 34.99,
         "url": "https://www.lsgiochi.it/product/14195265/harmonies"
@@ -197,7 +197,7 @@
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
-        "price": 39.99,
+        "price": 29.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
       },
       "LSGiochi": {
@@ -230,7 +230,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 59.9,
+        "price": 47.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -461,7 +461,7 @@
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DadiEMattoncini": {
-        "price": 64.99,
+        "price": 48.74,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       }
     }
@@ -755,7 +755,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
       "LaFeltrinelli": {
-        "price": 104.49,
+        "price": 109.99,
         "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       },
       "LSGiochi": {
@@ -1261,7 +1261,7 @@
         "url": "https://magicmerchant.it/catalogue/dune-49568/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1380,12 +1380,7 @@
   },
   {
     "name": "Endeavor - Abissi Marini",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 59.99,
-        "url": "https://www.dungeondice.it/32822-endeavor-abissi-marini.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Starship Captains",
@@ -1409,10 +1404,6 @@
       "UPlay": {
         "price": 47.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.99,
-        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
   },
@@ -1478,7 +1469,7 @@
         "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
       },
       "GetYourFun": {
-        "price": 39.99,
+        "price": 35.19,
         "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1593,7 +1584,7 @@
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
       },
       "GetYourFun": {
-        "price": 29.9,
+        "price": 26.31,
         "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1601,7 +1592,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
       },
       "LaFeltrinelli": {
-        "price": 29.99,
+        "price": 28.49,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
@@ -1672,7 +1663,7 @@
         "url": "https://magicmerchant.it/catalogue/the-crew-47988/"
       },
       "GetYourFun": {
-        "price": 16.9,
+        "price": 14.87,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
       },
       "UPlay": {
@@ -1697,7 +1688,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
       },
       "LaFeltrinelli": {
-        "price": 45.0,
+        "price": 42.75,
         "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
       },
       "DragonStore": {
@@ -1797,7 +1788,7 @@
         "url": "https://magicmerchant.it/catalogue/dorfromantik-sakura-82301/"
       },
       "GetYourFun": {
-        "price": 54.99,
+        "price": 38.49,
         "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1890,7 +1881,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-insurrezione-78614/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 52.79,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1902,7 +1893,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
       },
       "LaFeltrinelli": {
-        "price": 59.99,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "IlCovoDelNerd": {
@@ -1922,16 +1913,12 @@
         "price": 42.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/10327-dune-imperium-ita.html"
       },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/23931-dune-imperium.html"
-      },
       "MagicMerchant": {
         "price": 46.9,
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-52212/"
       },
       "GetYourFun": {
-        "price": 49.99,
+        "price": 34.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1939,7 +1926,7 @@
         "url": "https://player1.it/prodotto/dune-imperium/"
       },
       "LaFeltrinelli": {
-        "price": 49.99,
+        "price": 47.49,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
@@ -1981,7 +1968,7 @@
         "url": "https://magicmerchant.it/catalogue/concordia-30533/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
       },
       "Player1": {
@@ -2022,7 +2009,7 @@
         "url": "https://player1.it/prodotto/barrage/"
       },
       "LaFeltrinelli": {
-        "price": 78.99,
+        "price": 75.04,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
@@ -2053,10 +2040,6 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
@@ -2117,7 +2100,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
       },
       "DadiEMattoncini": {
-        "price": 89.99,
+        "price": 67.49,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
       },
       "LSGiochi": {
@@ -2138,7 +2121,7 @@
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
       "GetYourFun": {
-        "price": 39.99,
+        "price": 35.19,
         "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -2162,6 +2145,10 @@
   {
     "name": "Root",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 64.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/4214-root-ita.html"
+      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
@@ -2169,6 +2156,10 @@
       "MagicMerchant": {
         "price": 61.65,
         "url": "https://magicmerchant.it/catalogue/root-38109/"
+      },
+      "GetYourFun": {
+        "price": 55.17,
+        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
         "price": 50.9,
@@ -2183,7 +2174,7 @@
         "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "DadiEMattoncini": {
-        "price": 64.99,
+        "price": 48.74,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       },
       "DragonStore": {
@@ -2272,10 +2263,6 @@
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
-      },
-      "LaFeltrinelli": {
-        "price": 38.43,
-        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       }
     }
   },
