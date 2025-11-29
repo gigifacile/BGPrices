@@ -89,7 +89,7 @@
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 77.31,
+        "price": 82.9,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "IlCovoDelNerd": {
@@ -587,6 +587,10 @@
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
+      "Player1": {
+        "price": 55.9,
+        "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
+      },
       "UPlay": {
         "price": 63.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
@@ -709,12 +713,8 @@
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 57.11,
+        "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
-      },
-      "LSGiochi": {
-        "price": 64.99,
-        "url": "https://www.lsgiochi.it/product/10788425/viticulture-essential-edition"
       },
       "DragonStore": {
         "price": 51.92,
@@ -917,7 +917,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
       "LaFeltrinelli": {
-        "price": 47.49,
+        "price": 49.99,
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
@@ -1028,10 +1028,6 @@
         "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
-      },
       "MagicMerchant": {
         "price": 35.94,
         "url": "https://magicmerchant.it/catalogue/kutna-hora-la-citta-dellargento-72001/"
@@ -1086,7 +1082,7 @@
         "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
       },
       "LaFeltrinelli": {
-        "price": 105.51,
+        "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "DragonStore": {
@@ -1171,10 +1167,6 @@
       "UPlay": {
         "price": 34.97,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
@@ -1555,7 +1547,7 @@
         "url": "https://magicmerchant.it/catalogue/the-white-castle-71210/"
       },
       "GetYourFun": {
-        "price": 20.99,
+        "price": 26.39,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
       },
       "Player1": {
@@ -1679,7 +1671,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-crew.html"
       },
       "LaFeltrinelli": {
-        "price": 13.08,
+        "price": 16.9,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
@@ -1756,12 +1748,7 @@
   },
   {
     "name": "Hallertau",
-    "prezzi": {
-      "GetYourFun": {
-        "price": 79.99,
-        "url": "https://www.getyourfun.it/03509-hallertau-giochi-gestionali.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Catan - Big Box",
@@ -1923,7 +1910,7 @@
         "url": "https://www.magicmerchant.it/catalogue/dune-imperium-52212/"
       },
       "GetYourFun": {
-        "price": 34.99,
+        "price": 43.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2146,10 +2133,6 @@
         "price": 61.65,
         "url": "https://magicmerchant.it/catalogue/root-38109/"
       },
-      "GetYourFun": {
-        "price": 55.17,
-        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
-      },
       "Player1": {
         "price": 50.9,
         "url": "https://player1.it/prodotto/root/"
@@ -2254,7 +2237,7 @@
         "url": "https://www.dungeondice.it/32740-evenfall.html"
       },
       "LaFeltrinelli": {
-        "price": 32.94,
+        "price": 42.27,
         "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       }
     }
@@ -2345,7 +2328,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 38.42,
+        "price": 47.49,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
