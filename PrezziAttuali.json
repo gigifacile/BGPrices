@@ -73,7 +73,7 @@
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
       "FantasiaStore": {
-        "price": 59.49,
+        "price": 69.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/159676-seti-ricerca-di-intelligenza-extraterrestre-ita.html"
       },
       "DungeonDice": {
@@ -205,7 +205,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 45.0,
+        "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -250,7 +250,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 47.92,
+        "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -520,10 +520,6 @@
       "LaFeltrinelli": {
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
-      },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/11975171/forest-shuffle"
       },
       "DragonStore": {
         "price": 23.99,
@@ -1119,6 +1115,10 @@
         "price": 45.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
+      "MagicMerchant": {
+        "price": 39.15,
+        "url": "https://magicmerchant.it/catalogue/apiary-72048/"
+      },
       "GetYourFun": {
         "price": 67.99,
         "url": "https://www.getyourfun.it/019812--apiary-giochi-gestionali.html"
@@ -1184,10 +1184,6 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 47.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1288,10 +1284,6 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
-      },
-      "LaFeltrinelli": {
-        "price": 46.12,
-        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -1404,10 +1396,6 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/starship-captains/"
-      },
-      "UPlay": {
-        "price": 47.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       },
       "LaFeltrinelli": {
         "price": 35.99,
@@ -1688,7 +1676,7 @@
         "url": "https://magicmerchant.it/catalogue/ciarlatani-di-quedlinburgo-42287/"
       },
       "UPlay": {
-        "price": 35.99,
+        "price": 40.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
       },
       "LaFeltrinelli": {
@@ -2133,6 +2121,10 @@
         "price": 61.65,
         "url": "https://magicmerchant.it/catalogue/root-38109/"
       },
+      "GetYourFun": {
+        "price": 55.17,
+        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
+      },
       "Player1": {
         "price": 50.9,
         "url": "https://player1.it/prodotto/root/"
@@ -2140,10 +2132,6 @@
       "UPlay": {
         "price": 51.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
-      },
-      "LaFeltrinelli": {
-        "price": 69.99,
-        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "DadiEMattoncini": {
         "price": 48.74,
