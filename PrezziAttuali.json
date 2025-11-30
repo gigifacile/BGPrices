@@ -1209,10 +1209,6 @@
       "GetYourFun": {
         "price": 39.87,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 46.2,
-        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
       }
     }
   },
@@ -1658,10 +1654,6 @@
   {
     "name": "The Crew",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 14.44,
-        "url": "https://fantasiastore.it/it/cooperativi/8556-the-crew.html"
-      },
       "MagicMerchant": {
         "price": 11.83,
         "url": "https://magicmerchant.it/catalogue/the-crew-47988/"
@@ -1723,6 +1715,10 @@
       "UPlay": {
         "price": 27.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
+      },
+      "LaFeltrinelli": {
+        "price": 26.87,
+        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "IlCovoDelNerd": {
         "price": 31.1,
@@ -1815,12 +1811,7 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 52.99,
-        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Karak",
@@ -2079,10 +2070,6 @@
         "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
-      "Player1": {
-        "price": 61.9,
-        "url": "https://player1.it/prodotto/scythe/"
-      },
       "UPlay": {
         "price": 71.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
@@ -2148,14 +2135,6 @@
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
-      },
-      "DadiEMattoncini": {
-        "price": 48.74,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
-      },
-      "DragonStore": {
-        "price": 51.99,
-        "url": "https://www.dragonstore.it/fantasy-root-italiano.1.1.116.gp.26074.uw"
       }
     }
   },
@@ -2177,10 +2156,6 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
-      },
-      "LaFeltrinelli": {
-        "price": 23.02,
-        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
       },
       "LSGiochi": {
         "price": 29.99,
