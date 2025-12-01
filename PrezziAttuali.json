@@ -36,7 +36,7 @@
         "url": "https://magicmerchant.it/catalogue/everdell-farshore-80736/"
       },
       "GetYourFun": {
-        "price": 84.99,
+        "price": 87.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
       "Player1": {
@@ -81,7 +81,7 @@
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 82.9,
+        "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "IlCovoDelNerd": {
@@ -127,7 +127,7 @@
         "url": "https://magicmerchant.it/catalogue/cyclades-edizione-leggendaria-82003/"
       },
       "GetYourFun": {
-        "price": 59.42,
+        "price": 61.51,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -230,7 +230,7 @@
         "url": "https://magicmerchant.it/catalogue/great-western-trail-nuova-zelanda-71226/"
       },
       "GetYourFun": {
-        "price": 50.99,
+        "price": 52.79,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
       },
       "Player1": {
@@ -492,10 +492,6 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
-      },
-      "MagicMerchant": {
-        "price": 29.89,
-        "url": "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
       },
       "GetYourFun": {
         "price": 25.49,
@@ -889,7 +885,7 @@
         "url": "https://magicmerchant.it/catalogue/seasons-2951/"
       },
       "GetYourFun": {
-        "price": 42.42,
+        "price": 43.91,
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -1082,10 +1078,6 @@
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 75.99,
-        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
-      },
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/village-big-box.html"
@@ -1191,7 +1183,7 @@
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
       },
       "GetYourFun": {
-        "price": 39.87,
+        "price": 41.27,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
@@ -1312,7 +1304,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html"
       },
       "DungeonDice": {
-        "price": 74.24,
+        "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
       "GetYourFun": {
@@ -1440,7 +1432,7 @@
         "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
       },
       "Player1": {
-        "price": 43.9,
+        "price": 35.9,
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
@@ -1508,6 +1500,10 @@
       "UPlay": {
         "price": 65.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.07,
+        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "DadiEMattoncini": {
         "price": 44.99,
@@ -2110,7 +2106,7 @@
         "url": "https://magicmerchant.it/catalogue/root-38109/"
       },
       "GetYourFun": {
-        "price": 55.17,
+        "price": 64.9,
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2205,7 +2201,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/79124-evenfall.html"
       },
       "DungeonDice": {
-        "price": 43.99,
+        "price": 54.99,
         "url": "https://www.dungeondice.it/32740-evenfall.html"
       },
       "LaFeltrinelli": {
@@ -2292,7 +2288,7 @@
         "url": "https://magicmerchant.it/catalogue/el-grande-66608/"
       },
       "GetYourFun": {
-        "price": 42.49,
+        "price": 43.99,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "UPlay": {
