@@ -116,6 +116,10 @@
       "UPlay": {
         "price": 57.56,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
+      },
+      "DragonStore": {
+        "price": 51.99,
+        "url": "https://www.dragonstore.it/fantascienza-arcs-conflitti-e-collasso-nell-orlo.1.1.46.gp.34362.uw"
       }
     }
   },
@@ -167,17 +171,9 @@
         "price": 34.99,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
-      "Player1": {
-        "price": 25.9,
-        "url": "https://player1.it/prodotto/harmonies/"
-      },
       "UPlay": {
         "price": 27.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 34.99,
-        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "LSGiochi": {
         "price": 34.99,
@@ -246,7 +242,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
-        "price": 65.89,
+        "price": 49.42,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
       },
       "IlCovoDelNerd": {
@@ -285,10 +281,6 @@
       "LaFeltrinelli": {
         "price": 47.4,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
-      "DragonStore": {
-        "price": 39.99,
-        "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
       }
     }
   },
@@ -366,7 +358,7 @@
         "url": "https://www.getyourfun.it/019664-trajan-deluxe-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 54.89,
+        "price": 41.16,
         "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
       },
       "IlCovoDelNerd": {
@@ -726,7 +718,7 @@
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 40.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LSGiochi": {
@@ -800,10 +792,6 @@
   {
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
-      "UPlay": {
-        "price": 44.91,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-architetti-del-regno-occidentale.html"
-      },
       "LaFeltrinelli": {
         "price": 67.99,
         "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
@@ -967,7 +955,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
       },
       "LaFeltrinelli": {
-        "price": 61.49,
+        "price": 46.11,
         "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       },
       "DragonStore": {
@@ -1157,7 +1145,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
       },
       "LaFeltrinelli": {
-        "price": 54.89,
+        "price": 41.16,
         "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
       },
       "IlCovoDelNerd": {
@@ -1290,7 +1278,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
       },
       "LaFeltrinelli": {
-        "price": 65.89,
+        "price": 49.42,
         "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
@@ -1686,6 +1674,10 @@
       "UPlay": {
         "price": 35.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
+      },
+      "LaFeltrinelli": {
+        "price": 42.75,
+        "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
       },
       "DragonStore": {
         "price": 35.99,
@@ -2163,7 +2155,7 @@
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
       },
       "LaFeltrinelli": {
-        "price": 32.89,
+        "price": 24.67,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
       },
       "LSGiochi": {
@@ -2225,7 +2217,7 @@
         "url": "https://www.dungeondice.it/32740-evenfall.html"
       },
       "LaFeltrinelli": {
-        "price": 60.39,
+        "price": 45.3,
         "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       }
     }
