@@ -58,6 +58,10 @@
       "LSGiochi": {
         "price": 99.99,
         "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
+      },
+      "DragonStore": {
+        "price": 79.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-everdell-farshore-italiano.1.1.115.gp.33725.uw"
       }
     }
   },
@@ -296,16 +300,12 @@
     "name": "Revive",
     "prezzi": {
       "FantasiaStore": {
-        "price": 50.99,
+        "price": 61.59,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
-      },
-      "MagicMerchant": {
-        "price": 47.94,
-        "url": "https://magicmerchant.it/catalogue/revive-66446/"
       },
       "GetYourFun": {
         "price": 67.92,
@@ -763,7 +763,7 @@
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
-        "price": 79.99,
+        "price": 89.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
       "LaFeltrinelli": {
@@ -1069,6 +1069,10 @@
         "price": 105.51,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
+      "LSGiochi": {
+        "price": 106.99,
+        "url": "https://www.lsgiochi.it/product/13808244/hegemony-versione-estesa-italiano-preordine-ristampa-arrivo-previsto-ottobre-2025"
+      },
       "DragonStore": {
         "price": 95.99,
         "url": "https://www.dragonstore.it/gestionali-hegemony-versione-estesa-italiana.1.1.385.gp.32904.uw"
@@ -1096,7 +1100,7 @@
     "name": "Apiary",
     "prezzi": {
       "FantasiaStore": {
-        "price": 45.99,
+        "price": 50.39,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
       "MagicMerchant": {
@@ -1322,6 +1326,10 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 79.19,
@@ -2139,7 +2147,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
       "LaFeltrinelli": {
-        "price": 61.66,
+        "price": 69.99,
         "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       }
     }
