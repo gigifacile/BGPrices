@@ -80,6 +80,10 @@
         "price": 61.59,
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
+      "Player1": {
+        "price": 58.9,
+        "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
+      },
       "LaFeltrinelli": {
         "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
@@ -205,7 +209,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 38.25,
+        "price": 45.0,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -246,7 +250,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 59.9,
+        "price": 47.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -273,6 +277,10 @@
       "FantasiaStore": {
         "price": 39.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21270-aeons-end-ita.html"
+      },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
       },
       "MagicMerchant": {
         "price": 49.89,
@@ -314,10 +322,6 @@
       "UPlay": {
         "price": 55.93,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       },
       "DragonStore": {
         "price": 63.92,
@@ -629,10 +633,6 @@
   {
     "name": "Nidavellir",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 28.49,
-        "url": "https://fantasiastore.it/it/giochi-di-carte/10991-nidavellir.html"
-      },
       "DungeonDice": {
         "price": 37.99,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
@@ -708,6 +708,10 @@
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
+      "LSGiochi": {
+        "price": 64.99,
+        "url": "https://www.lsgiochi.it/product/10788425/viticulture-essential-edition"
+      },
       "DragonStore": {
         "price": 51.92,
         "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
@@ -763,7 +767,7 @@
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
       "UPlay": {
-        "price": 89.99,
+        "price": 79.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
       "LaFeltrinelli": {
@@ -814,7 +818,7 @@
     "name": "Visconti del Regno Occidentale",
     "prezzi": {
       "UPlay": {
-        "price": 42.42,
+        "price": 37.43,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-visconti-del-regno-occidentale.html"
       }
     }
@@ -850,6 +854,10 @@
       "FantasiaStore": {
         "price": 31.49,
         "url": "https://fantasiastore.it/it/grandi-classici/67024-azul.html"
+      },
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/10719-azul.html"
       },
       "MagicMerchant": {
         "price": 44.89,
@@ -1136,10 +1144,6 @@
   {
     "name": "Viandanti a Sud del Tigri",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 19.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/19320-viandanti-a-sud-del-tigri.html"
-      },
       "MagicMerchant": {
         "price": 24.45,
         "url": "https://magicmerchant.it/catalogue/viandanti-a-sud-del-tigri-64965/"
@@ -1407,7 +1411,7 @@
         "url": "https://magicmerchant.it/catalogue/starship-captains-62729/"
       },
       "Player1": {
-        "price": 36.9,
+        "price": 19.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
       "UPlay": {
@@ -1522,10 +1526,6 @@
         "price": 52.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 49.07,
-        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
-      },
       "DadiEMattoncini": {
         "price": 44.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/yokohama.html"
@@ -1548,7 +1548,7 @@
         "url": "https://magicmerchant.it/catalogue/the-white-castle-71210/"
       },
       "GetYourFun": {
-        "price": 26.39,
+        "price": 25.49,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
       },
       "Player1": {
@@ -1818,7 +1818,7 @@
     "name": "Alhambra",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 52.99,
+        "price": 53.99,
         "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
       }
     }
@@ -1835,6 +1835,10 @@
   {
     "name": "Flip 7",
     "prezzi": {
+      "DungeonDice": {
+        "price": 16.99,
+        "url": "https://www.dungeondice.it/37331-flip-7.html"
+      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -1909,6 +1913,10 @@
       "FantasiaStore": {
         "price": 42.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/10327-dune-imperium-ita.html"
+      },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/23931-dune-imperium.html"
       },
       "MagicMerchant": {
         "price": 46.9,
@@ -2047,6 +2055,10 @@
   {
     "name": "Spirit Island",
     "prezzi": {
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/21947-spirit-island.html"
+      },
       "MagicMerchant": {
         "price": 74.3,
         "url": "https://magicmerchant.it/catalogue/spirit-island-46745/"
@@ -2076,6 +2088,10 @@
         "price": 72.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
       },
+      "DungeonDice": {
+        "price": 89.99,
+        "url": "https://www.dungeondice.it/6038-scythe.html"
+      },
       "MagicMerchant": {
         "price": 80.91,
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
@@ -2083,10 +2099,6 @@
       "GetYourFun": {
         "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
-      },
-      "Player1": {
-        "price": 71.9,
-        "url": "https://player1.it/prodotto/scythe/"
       },
       "UPlay": {
         "price": 71.92,
@@ -2137,10 +2149,6 @@
       "MagicMerchant": {
         "price": 61.65,
         "url": "https://magicmerchant.it/catalogue/root-38109/"
-      },
-      "GetYourFun": {
-        "price": 64.9,
-        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 51.92,
@@ -2249,6 +2257,10 @@
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
+      },
+      "LSGiochi": {
+        "price": 22.99,
+        "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
       }
     }
   },
