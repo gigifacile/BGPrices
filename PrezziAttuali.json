@@ -187,10 +187,6 @@
         "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
-      "LSGiochi": {
-        "price": 34.99,
-        "url": "https://www.lsgiochi.it/product/14195265/harmonies"
-      },
       "DragonStore": {
         "price": 27.99,
         "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
@@ -297,10 +293,6 @@
       "LaFeltrinelli": {
         "price": 47.4,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
-      "DragonStore": {
-        "price": 39.99,
-        "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
       }
     }
   },
@@ -817,7 +809,7 @@
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 67.99,
+        "price": 70.99,
         "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
       }
     }
@@ -841,6 +833,10 @@
       "DungeonDice": {
         "price": 34.55,
         "url": "https://www.dungeondice.it/30284-earth.html"
+      },
+      "MagicMerchant": {
+        "price": 34.49,
+        "url": "https://magicmerchant.it/catalogue/earth-66410/"
       },
       "GetYourFun": {
         "price": 53.99,
@@ -1103,7 +1099,7 @@
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 75.99,
+        "price": 87.99,
         "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       },
       "DadiEMattoncini": {
@@ -1184,6 +1180,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
+      },
+      "MagicMerchant": {
+        "price": 59.89,
+        "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
       },
       "GetYourFun": {
         "price": 50.99,
@@ -1339,6 +1339,14 @@
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
+      "MagicMerchant": {
+        "price": 98.89,
+        "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 79.19,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1413,6 +1421,10 @@
       "MagicMerchant": {
         "price": 24.45,
         "url": "https://magicmerchant.it/catalogue/starship-captains-62729/"
+      },
+      "Player1": {
+        "price": 19.9,
+        "url": "https://player1.it/prodotto/starship-captains/"
       },
       "UPlay": {
         "price": 47.99,
@@ -1642,6 +1654,10 @@
   {
     "name": "Faraway - Cover Arancione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 21.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
+      },
       "GetYourFun": {
         "price": 24.99,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
@@ -2161,6 +2177,10 @@
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
+      },
+      "DragonStore": {
+        "price": 51.99,
+        "url": "https://www.dragonstore.it/fantasy-root-italiano.1.1.116.gp.26074.uw"
       }
     }
   },
@@ -2253,6 +2273,14 @@
       "DungeonDice": {
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
+      },
+      "MagicMerchant": {
+        "price": 22.89,
+        "url": "https://magicmerchant.it/catalogue/crack-list-75391/"
+      },
+      "GetYourFun": {
+        "price": 19.99,
+        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
         "price": 21.84,
