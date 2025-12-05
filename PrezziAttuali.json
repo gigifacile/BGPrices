@@ -183,10 +183,6 @@
         "price": 27.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 34.99,
-        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
-      },
       "DragonStore": {
         "price": 27.99,
         "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
@@ -1111,10 +1107,6 @@
   {
     "name": "Apiary",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 50.39,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
-      },
       "MagicMerchant": {
         "price": 39.15,
         "url": "https://magicmerchant.it/catalogue/apiary-72048/"
@@ -1321,10 +1313,6 @@
       "UPlay": {
         "price": 55.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 69.99,
-        "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
       }
     }
   },
@@ -1615,10 +1603,6 @@
       "UPlay": {
         "price": 23.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
-      },
-      "LaFeltrinelli": {
-        "price": 28.49,
-        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
         "price": 25.7,
@@ -2100,10 +2084,6 @@
   {
     "name": "Scythe",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 72.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
-      },
       "DungeonDice": {
         "price": 89.99,
         "url": "https://www.dungeondice.it/6038-scythe.html"
@@ -2177,6 +2157,10 @@
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       },
       "DragonStore": {
         "price": 51.99,
@@ -2396,10 +2380,6 @@
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/the-wolves/"
-      },
-      "DragonStore": {
-        "price": 47.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-the-wolves-italiano.1.1.115.gp.31990.uw"
       }
     }
   }
