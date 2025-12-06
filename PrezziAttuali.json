@@ -257,10 +257,6 @@
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
-      "UPlay": {
-        "price": 47.92,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
-      },
       "LaFeltrinelli": {
         "price": 49.42,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
@@ -721,7 +717,7 @@
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "LSGiochi": {
-        "price": 64.99,
+        "price": 45.99,
         "url": "https://www.lsgiochi.it/product/10788425/viticulture-essential-edition"
       },
       "DragonStore": {
@@ -879,6 +875,10 @@
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
       },
+      "GetYourFun": {
+        "price": 44.99,
+        "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
+      },
       "Player1": {
         "price": 31.49,
         "url": "https://player1.it/prodotto/azul/"
@@ -911,6 +911,10 @@
       "MagicMerchant": {
         "price": 46.9,
         "url": "https://magicmerchant.it/catalogue/seasons-2951/"
+      },
+      "GetYourFun": {
+        "price": 43.91,
+        "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 36.9,
@@ -1010,6 +1014,10 @@
       "GetYourFun": {
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 44.79,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
       "LaFeltrinelli": {
         "price": 42.0,
@@ -1184,6 +1192,10 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 47.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -2038,10 +2050,6 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
       },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
-      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
@@ -2101,7 +2109,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
       },
       "LSGiochi": {
-        "price": 69.99,
+        "price": 89.99,
         "url": "https://www.lsgiochi.it/product/10007085/scythe"
       }
     }
