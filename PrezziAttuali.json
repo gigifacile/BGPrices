@@ -583,6 +583,10 @@
         "price": 55.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
       },
+      "UPlay": {
+        "price": 63.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
+      },
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
@@ -1007,6 +1011,10 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 44.79,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
+      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -1180,6 +1188,10 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 47.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1506,6 +1518,10 @@
   {
     "name": "Yokohama - Seconda Edizione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 48.74,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html"
+      },
       "MagicMerchant": {
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/yokohama-seconda-edizione-78753/"
@@ -1587,6 +1603,10 @@
       "MagicMerchant": {
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/mlem-agenzia-spaziale-72080/"
+      },
+      "GetYourFun": {
+        "price": 26.31,
+        "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 23.99,
@@ -2150,10 +2170,6 @@
         "price": 51.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
-      "LaFeltrinelli": {
-        "price": 69.99,
-        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
-      },
       "DragonStore": {
         "price": 51.99,
         "url": "https://www.dragonstore.it/fantasy-root-italiano.1.1.116.gp.26074.uw"
@@ -2360,6 +2376,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
+      },
+      "GetYourFun": {
+        "price": 59.95,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 47.96,
