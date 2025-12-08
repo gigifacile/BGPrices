@@ -205,7 +205,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 38.25,
+        "price": 45.0,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -530,10 +530,6 @@
   {
     "name": "Agricola",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 41.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/2566-agricola.html"
-      },
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/agricola-47772/"
@@ -578,6 +574,10 @@
       "Player1": {
         "price": 55.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
+      },
+      "UPlay": {
+        "price": 79.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -970,10 +970,6 @@
         "price": 49.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
       },
-      "LaFeltrinelli": {
-        "price": 46.11,
-        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
-      },
       "DragonStore": {
         "price": 39.92,
         "url": "https://www.dragonstore.it/gestionali-studiosi-a-sud-del-tigri.1.1.385.gp.32868.uw"
@@ -998,6 +994,10 @@
       "GetYourFun": {
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.39,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
       "LaFeltrinelli": {
         "price": 42.0,
@@ -1031,10 +1031,6 @@
       "UPlay": {
         "price": 39.57,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
-      },
-      "LaFeltrinelli": {
-        "price": 44.99,
-        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
@@ -1085,10 +1081,6 @@
       "GetYourFun": {
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 87.99,
-        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -1172,6 +1164,10 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 53.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1481,10 +1477,6 @@
         "price": 35.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 37.99,
-        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
-      },
       "LSGiochi": {
         "price": 39.99,
         "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
@@ -1716,6 +1708,10 @@
       "UPlay": {
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
+      },
+      "LaFeltrinelli": {
+        "price": 34.99,
+        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "IlCovoDelNerd": {
         "price": 31.1,
@@ -2039,10 +2035,6 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
-      "MagicMerchant": {
-        "price": 55.93,
-        "url": "https://magicmerchant.it/catalogue/spirit-island-46745/"
-      },
       "GetYourFun": {
         "price": 67.92,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
@@ -2050,10 +2042,6 @@
       "UPlay": {
         "price": 71.91,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 70.31,
-        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "DragonStore": {
         "price": 63.99,
@@ -2097,10 +2085,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 39.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -2129,10 +2113,6 @@
       "MagicMerchant": {
         "price": 61.65,
         "url": "https://magicmerchant.it/catalogue/root-38109/"
-      },
-      "GetYourFun": {
-        "price": 64.9,
-        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
         "price": 53.9,
