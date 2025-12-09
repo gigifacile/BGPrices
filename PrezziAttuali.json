@@ -201,7 +201,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 45.0,
+        "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -789,7 +789,7 @@
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 70.99,
+        "price": 60.41,
         "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
       }
     }
@@ -1976,6 +1976,10 @@
       "GetYourFun": {
         "price": 59.24,
         "url": "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "UPlay": {
         "price": 71.09,
