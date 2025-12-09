@@ -201,7 +201,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 38.25,
+        "price": 45.0,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -293,10 +293,6 @@
       "LaFeltrinelli": {
         "price": 47.4,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
-      "DadiEMattoncini": {
-        "price": 49.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
       }
     }
   },
@@ -310,6 +306,10 @@
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
+      },
+      "MagicMerchant": {
+        "price": 47.94,
+        "url": "https://magicmerchant.it/catalogue/revive-66446/"
       },
       "GetYourFun": {
         "price": 67.92,
@@ -541,6 +541,10 @@
       "LSGiochi": {
         "price": 47.99,
         "url": "https://www.lsgiochi.it/product/10130291/agricola"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-agricola-nuova-edizione.1.1.115.gp.9340.uw"
       }
     }
   },
@@ -787,21 +791,11 @@
   },
   {
     "name": "Architetti del Regno Occidentale",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 60.41,
-        "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Visconti del Regno Occidentale",
-    "prezzi": {
-      "UPlay": {
-        "price": 37.43,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-visconti-del-regno-occidentale.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Earth",
@@ -866,6 +860,10 @@
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/10101293/azul"
+      },
+      "DragonStore": {
+        "price": 44.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-azul-italiano.1.1.115.gp.32737.uw"
       }
     }
   },
@@ -1348,10 +1346,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/25072-cascadia.html"
       },
-      "MagicMerchant": {
-        "price": 37.9,
-        "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
-      },
       "GetYourFun": {
         "price": 33.99,
         "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
@@ -1546,10 +1540,6 @@
       "UPlay": {
         "price": 35.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
-      },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
       },
       "DragonStore": {
         "price": 29.99,
@@ -1805,20 +1795,11 @@
   },
   {
     "name": "Karak",
-    "prezzi": {
-      "MagicMerchant": {
-        "price": 34.89,
-        "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Flip 7",
     "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/37331-flip-7.html"
-      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -2048,10 +2029,6 @@
   {
     "name": "Scythe",
     "prezzi": {
-      "DungeonDice": {
-        "price": 89.99,
-        "url": "https://www.dungeondice.it/6038-scythe.html"
-      },
       "MagicMerchant": {
         "price": 80.91,
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
@@ -2071,6 +2048,10 @@
       "LSGiochi": {
         "price": 89.99,
         "url": "https://www.lsgiochi.it/product/10007085/scythe"
+      },
+      "DragonStore": {
+        "price": 89.9,
+        "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
       }
     }
   },
@@ -2126,6 +2107,10 @@
         "price": 58.41,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
+      },
       "IlCovoDelNerd": {
         "price": 55.8,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/root-un-gioco-di-potere-e-giustizia-nei-boschi/"
@@ -2175,10 +2160,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
-      },
-      "MagicMerchant": {
-        "price": 56.9,
-        "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
       },
       "GetYourFun": {
         "price": 50.99,
