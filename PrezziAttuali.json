@@ -35,6 +35,10 @@
         "price": 87.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
+      "Player1": {
+        "price": 75.9,
+        "url": "https://player1.it/prodotto/everdell-farshore/"
+      },
       "UPlay": {
         "price": 99.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
@@ -217,7 +221,7 @@
         "url": "https://www.lsgiochi.it/product/13639084/horrified-edizione-italiana"
       },
       "DragonStore": {
-        "price": 39.99,
+        "price": 44.99,
         "url": "https://www.dragonstore.it/horror-horrified-edizione-italiana.1.1.386.gp.32796.uw"
       }
     }
@@ -464,6 +468,10 @@
         "price": 57.11,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
+      "Player1": {
+        "price": 47.9,
+        "url": "https://player1.it/prodotto/heat/"
+      },
       "UPlay": {
         "price": 64.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
@@ -492,6 +500,10 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
+      },
+      "Player1": {
+        "price": 22.9,
+        "url": "https://player1.it/prodotto/forest-shuffle/"
       },
       "UPlay": {
         "price": 29.99,
@@ -525,6 +537,10 @@
       "GetYourFun": {
         "price": 52.79,
         "url": "https://www.getyourfun.it/029-agricola-giochi-gestionali.html"
+      },
+      "Player1": {
+        "price": 40.9,
+        "url": "https://player1.it/prodotto/agricola/"
       },
       "UPlay": {
         "price": 53.99,
@@ -981,10 +997,6 @@
         "price": 55.89,
         "url": "https://magicmerchant.it/catalogue/grand-austria-hotel-61025/"
       },
-      "GetYourFun": {
-        "price": 55.99,
-        "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 50.39,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
@@ -1345,6 +1357,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/25072-cascadia.html"
+      },
+      "MagicMerchant": {
+        "price": 37.9,
+        "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
       },
       "GetYourFun": {
         "price": 33.99,
@@ -1796,6 +1812,10 @@
   {
     "name": "Flip 7",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 15.29,
+        "url": "https://fantasiastore.it/it/giochi-di-carte/185682-flip-7.html"
+      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -1805,6 +1825,10 @@
   {
     "name": "Thunder Road - Vendetta",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 62.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/185685-thunder-road-vendetta-ita.html"
+      },
       "MagicMerchant": {
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
@@ -1837,6 +1861,10 @@
       "GetYourFun": {
         "price": 52.79,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
+      },
+      "Player1": {
+        "price": 45.9,
+        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "UPlay": {
         "price": 59.99,
@@ -2004,9 +2032,17 @@
   {
     "name": "Spirit Island",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 61.59,
+        "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
+      },
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
+      },
+      "MagicMerchant": {
+        "price": 75.1,
+        "url": "https://magicmerchant.it/catalogue/spirit-island-46745/"
       },
       "GetYourFun": {
         "price": 67.92,
