@@ -201,7 +201,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 45.0,
+        "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -456,6 +456,10 @@
         "price": 48.74,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
       },
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/29880-heat.html"
+      },
       "MagicMerchant": {
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/heat-64960/"
@@ -566,10 +570,6 @@
       "Player1": {
         "price": 55.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
-      },
-      "UPlay": {
-        "price": 79.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -985,10 +985,6 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 50.39,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
       "LaFeltrinelli": {
         "price": 42.0,
         "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
@@ -1005,6 +1001,10 @@
       "FantasiaStore": {
         "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
+      },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "MagicMerchant": {
         "price": 35.94,
@@ -1056,12 +1056,8 @@
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 105.51,
+        "price": 98.92,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
-      },
-      "LSGiochi": {
-        "price": 106.99,
-        "url": "https://www.lsgiochi.it/product/13808244/hegemony-versione-estesa-italiano-preordine-ristampa-arrivo-previsto-ottobre-2025"
       },
       "DragonStore": {
         "price": 119.99,
@@ -1162,10 +1158,6 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 53.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1578,10 +1570,6 @@
         "price": 29.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
       },
-      "LaFeltrinelli": {
-        "price": 28.49,
-        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
-      },
       "IlCovoDelNerd": {
         "price": 25.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
@@ -1661,10 +1649,6 @@
       "UPlay": {
         "price": 40.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
-      },
-      "LaFeltrinelli": {
-        "price": 42.75,
-        "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
       },
       "DragonStore": {
         "price": 44.99,
@@ -1978,6 +1962,10 @@
       "FantasiaStore": {
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
+      },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
       "MagicMerchant": {
         "price": 56.3,
