@@ -205,7 +205,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 38.25,
+        "price": 45.0,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -587,6 +587,10 @@
         "price": 55.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
       },
+      "UPlay": {
+        "price": 79.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
+      },
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
@@ -769,10 +773,6 @@
       "UPlay": {
         "price": 89.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
-      },
-      "LaFeltrinelli": {
-        "price": 104.49,
-        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       },
       "LSGiochi": {
         "price": 109.99,
@@ -1006,9 +1006,9 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 42.0,
-        "url": "https://www.lafeltrinelli.it/grand-austria-hotel-base-ita-giocattolo-asmodee/e/3558380097648"
+      "UPlay": {
+        "price": 50.39,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
       "IlCovoDelNerd": {
         "price": 48.1,
@@ -1177,8 +1177,12 @@
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 53.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1704,10 +1708,6 @@
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
-      "LaFeltrinelli": {
-        "price": 34.99,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
       "IlCovoDelNerd": {
         "price": 31.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
@@ -2098,10 +2098,6 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 39.99,
