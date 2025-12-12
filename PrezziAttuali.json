@@ -27,6 +27,10 @@
         "price": 79.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
       },
+      "DungeonDice": {
+        "price": 99.99,
+        "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
+      },
       "GetYourFun": {
         "price": 87.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
@@ -479,6 +483,10 @@
       "LaFeltrinelli": {
         "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       }
     }
   },
@@ -582,10 +590,6 @@
       "Player1": {
         "price": 55.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
-      },
-      "UPlay": {
-        "price": 79.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -1010,10 +1014,6 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 50.39,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
       "IlCovoDelNerd": {
         "price": 48.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -1187,10 +1187,6 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 53.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1341,6 +1337,10 @@
       "MagicMerchant": {
         "price": 98.89,
         "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 89.09,
@@ -1665,6 +1665,10 @@
       "UPlay": {
         "price": 15.21,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-crew.html"
+      },
+      "LaFeltrinelli": {
+        "price": 16.9,
+        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
@@ -1813,9 +1817,9 @@
   {
     "name": "Flip 7",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 15.29,
-        "url": "https://fantasiastore.it/it/giochi-di-carte/185682-flip-7.html"
+      "DungeonDice": {
+        "price": 16.99,
+        "url": "https://www.dungeondice.it/37331-flip-7.html"
       },
       "MagicMerchant": {
         "price": 16.89,
@@ -2140,10 +2144,6 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
       },
-      "MagicMerchant": {
-        "price": 61.65,
-        "url": "https://magicmerchant.it/catalogue/root-38109/"
-      },
       "GetYourFun": {
         "price": 64.9,
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
@@ -2259,10 +2259,6 @@
       "MagicMerchant": {
         "price": 22.89,
         "url": "https://magicmerchant.it/catalogue/crack-list-75391/"
-      },
-      "GetYourFun": {
-        "price": 19.99,
-        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
         "price": 21.84,
