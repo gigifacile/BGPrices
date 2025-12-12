@@ -591,6 +591,10 @@
         "price": 55.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
       },
+      "UPlay": {
+        "price": 79.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
+      },
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
@@ -952,10 +956,6 @@
         "price": 79.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-fields-of-arle--big-box.html"
       },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
-      },
       "LSGiochi": {
         "price": 79.99,
         "url": "https://www.lsgiochi.it/product/12086390/fields-of-arle-big-box"
@@ -1013,6 +1013,10 @@
       "GetYourFun": {
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.39,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
       "IlCovoDelNerd": {
         "price": 48.1,
@@ -1104,10 +1108,6 @@
       "LaFeltrinelli": {
         "price": 87.99,
         "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
-      },
-      "DadiEMattoncini": {
-        "price": 49.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/village-big-box.html"
       }
     }
   },
@@ -1187,6 +1187,10 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 53.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1337,10 +1341,6 @@
       "MagicMerchant": {
         "price": 98.89,
         "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 89.09,
@@ -1553,10 +1553,6 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 23.9,
-        "url": "https://player1.it/prodotto/the-white-castle/"
       },
       "UPlay": {
         "price": 35.95,
@@ -1817,10 +1813,6 @@
   {
     "name": "Flip 7",
     "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/37331-flip-7.html"
-      },
       "MagicMerchant": {
         "price": 16.89,
         "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
@@ -1851,7 +1843,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 69.9,
+        "price": 69.99,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
@@ -2094,10 +2086,6 @@
         "price": 80.91,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
       },
-      "DadiEMattoncini": {
-        "price": 89.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
-      },
       "LSGiochi": {
         "price": 89.99,
         "url": "https://www.lsgiochi.it/product/10007085/scythe"
@@ -2143,6 +2131,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
+      },
+      "MagicMerchant": {
+        "price": 61.65,
+        "url": "https://magicmerchant.it/catalogue/root-38109/"
       },
       "GetYourFun": {
         "price": 64.9,
@@ -2259,6 +2251,10 @@
       "MagicMerchant": {
         "price": 22.89,
         "url": "https://magicmerchant.it/catalogue/crack-list-75391/"
+      },
+      "GetYourFun": {
+        "price": 19.99,
+        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
         "price": 21.84,
