@@ -19,10 +19,6 @@
         "price": 24.99,
         "url": "https://www.dungeondice.it/34459-castle-combo.html"
       },
-      "MagicMerchant": {
-        "price": 23.4,
-        "url": "https://magicmerchant.it/catalogue/castle-combo-82014/"
-      },
       "GetYourFun": {
         "price": 24.99,
         "url": "https://www.getyourfun.it/036033-castle-combo-giochi-di-carte.html"
@@ -1210,10 +1206,6 @@
   {
     "name": "Alta Tensione - Recharged",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 32.89,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/2634-alta-tensione-recharged.html"
-      },
       "DungeonDice": {
         "price": 46.99,
         "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
@@ -1821,12 +1813,7 @@
   },
   {
     "name": "Flip 7",
-    "prezzi": {
-      "MagicMerchant": {
-        "price": 16.89,
-        "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Thunder Road - Vendetta",
