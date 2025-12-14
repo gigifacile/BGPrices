@@ -192,10 +192,6 @@
         "price": 34.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 33.24,
-        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
@@ -415,10 +411,6 @@
         "price": 25.64,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
-      "LSGiochi": {
-        "price": 26.99,
-        "url": "https://www.lsgiochi.it/product/13810049/captain-flip"
-      },
       "DragonStore": {
         "price": 26.99,
         "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
@@ -585,7 +577,7 @@
         "url": "https://magicmerchant.it/catalogue/terra-mystica-lera-delle-scoperte-68297/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
       "UPlay": {
@@ -701,10 +693,6 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
-      "DungeonDice": {
-        "price": 64.99,
-        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
-      },
       "GetYourFun": {
         "price": 55.17,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
@@ -762,10 +750,6 @@
       "FantasiaStore": {
         "price": 82.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/1476-rising-sun.html"
-      },
-      "DungeonDice": {
-        "price": 109.99,
-        "url": "https://www.dungeondice.it/10533-rising-sun.html"
       },
       "MagicMerchant": {
         "price": 98.91,
@@ -1006,10 +990,6 @@
       "DungeonDice": {
         "price": 55.99,
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
-      },
-      "MagicMerchant": {
-        "price": 55.89,
-        "url": "https://magicmerchant.it/catalogue/grand-austria-hotel-61025/"
       },
       "GetYourFun": {
         "price": 55.99,
@@ -1276,10 +1256,6 @@
         "price": 54.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 78.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -1317,6 +1293,10 @@
       "UPlay": {
         "price": 69.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
       }
     }
   },
@@ -1477,10 +1457,6 @@
         "price": 33.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/10048-res-arcana.html"
       },
-      "DungeonDice": {
-        "price": 39.99,
-        "url": "https://www.dungeondice.it/23263-res-arcana.html"
-      },
       "MagicMerchant": {
         "price": 33.91,
         "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
@@ -1492,6 +1468,10 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 37.99,
+        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
       "LSGiochi": {
         "price": 39.99,
@@ -2262,7 +2242,7 @@
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
-        "price": 24.73,
+        "price": 22.9,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "LSGiochi": {
