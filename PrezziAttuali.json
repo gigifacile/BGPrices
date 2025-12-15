@@ -19,6 +19,10 @@
         "price": 24.99,
         "url": "https://www.dungeondice.it/34459-castle-combo.html"
       },
+      "MagicMerchant": {
+        "price": 23.4,
+        "url": "https://magicmerchant.it/catalogue/castle-combo-82014/"
+      },
       "GetYourFun": {
         "price": 24.99,
         "url": "https://www.getyourfun.it/036033-castle-combo-giochi-di-carte.html"
@@ -53,7 +57,7 @@
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
       "IlCovoDelNerd": {
-        "price": 85.9,
+        "price": 99.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
       },
       "LSGiochi": {
@@ -85,12 +89,16 @@
         "price": 59.49,
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
+      "Player1": {
+        "price": 58.9,
+        "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
+      },
       "LaFeltrinelli": {
         "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "IlCovoDelNerd": {
-        "price": 60.1,
+        "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
       },
       "LSGiochi": {
@@ -210,7 +218,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 45.0,
+        "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -259,7 +267,7 @@
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
       },
       "IlCovoDelNerd": {
-        "price": 51.5,
+        "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/adventure-games/great-western-trail-nuova-zelanda/"
       },
       "LSGiochi": {
@@ -367,7 +375,7 @@
         "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
       },
       "IlCovoDelNerd": {
-        "price": 42.9,
+        "price": 49.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/trajan-deluxe/"
       },
       "DragonStore": {
@@ -450,7 +458,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
       },
       "GetYourFun": {
-        "price": 57.11,
+        "price": 64.9,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -540,7 +548,7 @@
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "IlCovoDelNerd": {
-        "price": 51.5,
+        "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
       },
       "LSGiochi": {
@@ -565,7 +573,7 @@
         "url": "https://magicmerchant.it/catalogue/terra-mystica-lera-delle-scoperte-68297/"
       },
       "GetYourFun": {
-        "price": 70.39,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
       "UPlay": {
@@ -706,10 +714,6 @@
   {
     "name": "Stone Age",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 34.99,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/7320-stone-age-linizio-del-viaggio.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/7315-stone-age.html"
@@ -781,7 +785,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-bonfire--edizione-italiana-.html"
       },
       "IlCovoDelNerd": {
-        "price": 47.2,
+        "price": 54.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
       },
       "DragonStore": {
@@ -901,7 +905,7 @@
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
-        "price": 38.7,
+        "price": 44.99,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
       },
       "DragonStore": {
@@ -938,10 +942,6 @@
   {
     "name": "Studiosi a Sud del Tigri",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 22.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/60634-studiosi-a-sud-del-tigri-ita.html"
-      },
       "MagicMerchant": {
         "price": 24.45,
         "url": "https://magicmerchant.it/catalogue/studiosi-a-sud-del-tigri-72002/"
@@ -949,10 +949,6 @@
       "GetYourFun": {
         "price": 22.5,
         "url": "https://www.getyourfun.it/019772-studiosi-a-sud-del-tigri-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 24.9,
-        "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
       },
       "UPlay": {
         "price": 49.9,
@@ -988,7 +984,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
       "IlCovoDelNerd": {
-        "price": 48.1,
+        "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
       }
     }
@@ -1025,7 +1021,7 @@
         "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       },
       "IlCovoDelNerd": {
-        "price": 51.5,
+        "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/kutna-hora-la-citta-dellargento/"
       },
       "LSGiochi": {
@@ -1104,7 +1100,7 @@
         "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
       "IlCovoDelNerd": {
-        "price": 68.7,
+        "price": 79.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
       },
       "DragonStore": {
@@ -1137,7 +1133,7 @@
         "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
       },
       "IlCovoDelNerd": {
-        "price": 42.9,
+        "price": 49.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
       }
     }
@@ -1341,7 +1337,7 @@
         "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
       },
       "Player1": {
-        "price": 28.9,
+        "price": 30.9,
         "url": "https://player1.it/prodotto/cascadia/"
       },
       "UPlay": {
@@ -1495,7 +1491,7 @@
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "IlCovoDelNerd": {
-        "price": 55.8,
+        "price": 64.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/yokohama/"
       }
     }
@@ -1540,10 +1536,6 @@
   {
     "name": "MLEM - Agenzia Spaziale",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 25.49,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/72292-mlem-agenzia-spaziale.html"
-      },
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
@@ -1565,7 +1557,7 @@
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
-        "price": 25.7,
+        "price": 29.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
       },
       "DragonStore": {
@@ -1636,9 +1628,9 @@
   {
     "name": "Ciarlatani di Quedlinburgo",
     "prezzi": {
-      "UPlay": {
-        "price": 40.49,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
+      "MagicMerchant": {
+        "price": 44.89,
+        "url": "https://magicmerchant.it/catalogue/ciarlatani-di-quedlinburgo-42287/"
       }
     }
   },
@@ -1666,7 +1658,7 @@
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "IlCovoDelNerd": {
-        "price": 31.1,
+        "price": 34.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
       },
       "LSGiochi": {
@@ -1737,7 +1729,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
       },
       "IlCovoDelNerd": {
-        "price": 47.2,
+        "price": 54.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
       },
       "DragonStore": {
@@ -1761,7 +1753,12 @@
   },
   {
     "name": "Karak",
-    "prezzi": {}
+    "prezzi": {
+      "MagicMerchant": {
+        "price": 34.89,
+        "url": "https://magicmerchant.it/catalogue/karak-seconda-edizione-66560/"
+      }
+    }
   },
   {
     "name": "Flip 7",
@@ -1824,7 +1821,7 @@
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "IlCovoDelNerd": {
-        "price": 51.5,
+        "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune-imperium-insurrezione/"
       },
       "DragonStore": {
@@ -1865,7 +1862,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
       },
       "IlCovoDelNerd": {
-        "price": 38.0,
+        "price": 49.99,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/dune-imperium/"
       },
       "DragonStore": {
@@ -1903,7 +1900,7 @@
         "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
       },
       "Player1": {
-        "price": 44.9,
+        "price": 40.9,
         "url": "https://player1.it/prodotto/concordia/"
       },
       "LSGiochi": {
@@ -1973,7 +1970,7 @@
         "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
       },
       "IlCovoDelNerd": {
-        "price": 51.5,
+        "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
       },
       "DragonStore": {
@@ -2055,6 +2052,10 @@
         "price": 23.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 39.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -2092,8 +2093,12 @@
         "price": 58.41,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
+      },
       "IlCovoDelNerd": {
-        "price": 55.8,
+        "price": 64.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/root-un-gioco-di-potere-e-giustizia-nei-boschi/"
       },
       "LSGiochi": {
@@ -2254,7 +2259,7 @@
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
-        "price": 51.5,
+        "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/le-rovine-perdute-di-arnak/"
       },
       "LSGiochi": {
@@ -2320,7 +2325,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
-        "price": 51.5,
+        "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/the-wolves/"
       }
     }
