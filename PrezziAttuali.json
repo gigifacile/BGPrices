@@ -176,10 +176,6 @@
         "price": 34.99,
         "url": "https://www.dungeondice.it/27178-harmonies.html"
       },
-      "MagicMerchant": {
-        "price": 33.15,
-        "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
-      },
       "GetYourFun": {
         "price": 34.99,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
@@ -191,6 +187,10 @@
       "UPlay": {
         "price": 34.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 33.24,
+        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
         "price": 34.99,
@@ -449,18 +449,6 @@
   {
     "name": "Heat",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 48.74,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
-      },
-      "DungeonDice": {
-        "price": 64.99,
-        "url": "https://www.dungeondice.it/29880-heat.html"
-      },
-      "MagicMerchant": {
-        "price": 61.0,
-        "url": "https://magicmerchant.it/catalogue/heat-64960/"
-      },
       "GetYourFun": {
         "price": 57.11,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
@@ -579,10 +567,6 @@
       "GetYourFun": {
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 79.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -884,10 +868,6 @@
   {
     "name": "Seasons",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 37.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
@@ -988,16 +968,12 @@
     "name": "Grand Austria Hotel",
     "prezzi": {
       "DungeonDice": {
-        "price": 55.99,
+        "price": 39.19,
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "GetYourFun": {
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.39,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
       "IlCovoDelNerd": {
         "price": 48.1,
@@ -1208,7 +1184,7 @@
     "name": "Le Havre",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.0,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "MagicMerchant": {
@@ -1255,6 +1231,10 @@
       "UPlay": {
         "price": 54.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 78.0,
+        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
       },
       "DragonStore": {
         "price": 59.99,
@@ -1314,10 +1294,6 @@
       "MagicMerchant": {
         "price": 98.89,
         "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 89.09,
@@ -1524,7 +1500,7 @@
         "url": "https://magicmerchant.it/catalogue/the-white-castle-71210/"
       },
       "GetYourFun": {
-        "price": 25.49,
+        "price": 29.99,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
       },
       "Player1": {
@@ -2069,7 +2045,7 @@
     "name": "Trekking Through History",
     "prezzi": {
       "DungeonDice": {
-        "price": 39.99,
+        "price": 23.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
       "GetYourFun": {
@@ -2100,10 +2076,6 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
-      },
-      "MagicMerchant": {
-        "price": 61.65,
-        "url": "https://magicmerchant.it/catalogue/root-38109/"
       },
       "GetYourFun": {
         "price": 64.9,
