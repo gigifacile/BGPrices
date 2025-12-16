@@ -200,6 +200,10 @@
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
       },
+      "LSGiochi": {
+        "price": 34.99,
+        "url": "https://www.lsgiochi.it/product/14195265/harmonies"
+      },
       "DragonStore": {
         "price": 34.99,
         "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
@@ -527,6 +531,10 @@
         "price": 41.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2566-agricola.html"
       },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/21782-agricola.html"
+      },
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/agricola-47772/"
@@ -571,10 +579,6 @@
       "MagicMerchant": {
         "price": 67.91,
         "url": "https://magicmerchant.it/catalogue/terra-mystica-lera-delle-scoperte-68297/"
-      },
-      "GetYourFun": {
-        "price": 59.99,
-        "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 79.99,
@@ -843,6 +847,10 @@
         "price": 31.49,
         "url": "https://fantasiastore.it/it/grandi-classici/67024-azul.html"
       },
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/10719-azul.html"
+      },
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
@@ -949,6 +957,10 @@
       "GetYourFun": {
         "price": 22.5,
         "url": "https://www.getyourfun.it/019772-studiosi-a-sud-del-tigri-giochi-gestionali.html"
+      },
+      "Player1": {
+        "price": 24.9,
+        "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
       },
       "UPlay": {
         "price": 49.9,
@@ -1066,6 +1078,10 @@
   {
     "name": "Village Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/29882-village-big-box.html"
+      },
       "GetYourFun": {
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
@@ -1560,6 +1576,10 @@
         "price": 29.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
       },
+      "LSGiochi": {
+        "price": 29.99,
+        "url": "https://www.lsgiochi.it/product/12879033/mlem-agenzia-spaziale"
+      },
       "DragonStore": {
         "price": 29.99,
         "url": "https://www.dragonstore.it/classici-famiglia-mlem-agenzia-spaziale.1.1.115.gp.32734.uw"
@@ -1824,6 +1844,10 @@
         "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune-imperium-insurrezione/"
       },
+      "LSGiochi": {
+        "price": 59.99,
+        "url": "https://www.lsgiochi.it/product/15142450/dune-imperium-insurrezione"
+      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/wargames-dune-imperium-insurrezione.1.1.117.gp.33393.uw"
@@ -1840,10 +1864,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
-      },
-      "MagicMerchant": {
-        "price": 46.9,
-        "url": "https://www.magicmerchant.it/catalogue/dune-imperium-52212/"
       },
       "GetYourFun": {
         "price": 43.99,
@@ -2026,10 +2046,6 @@
       "GetYourFun": {
         "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
-      },
-      "Player1": {
-        "price": 71.9,
-        "url": "https://player1.it/prodotto/scythe/"
       },
       "UPlay": {
         "price": 80.91,
