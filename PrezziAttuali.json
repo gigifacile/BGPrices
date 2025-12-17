@@ -48,6 +48,10 @@
         "price": 79.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 99.99,
+        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
+      },
       "IlCovoDelNerd": {
         "price": 99.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -94,7 +98,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
       },
       "LSGiochi": {
-        "price": 69.99,
+        "price": 58.99,
         "url": "https://www.lsgiochi.it/product/14550172/seti-search-for-extraterrestrial-intelligence-italiano"
       },
       "DragonStore": {
@@ -689,23 +693,19 @@
         "price": 48.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
+      "LaFeltrinelli": {
+        "price": 64.9,
+        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
+      },
       "LSGiochi": {
         "price": 45.99,
         "url": "https://www.lsgiochi.it/product/10788425/viticulture-essential-edition"
-      },
-      "DragonStore": {
-        "price": 64.9,
-        "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
       }
     }
   },
   {
     "name": "Stone Age",
     "prezzi": {
-      "GetYourFun": {
-        "price": 49.99,
-        "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 40.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
@@ -1177,10 +1177,6 @@
       "LaFeltrinelli": {
         "price": 56.7,
         "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
-      },
-      "DragonStore": {
-        "price": 46.9,
-        "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
       }
     }
   },
@@ -1345,7 +1341,7 @@
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       },
       "LSGiochi": {
-        "price": 39.9,
+        "price": 29.99,
         "url": "https://www.lsgiochi.it/product/9966200/cascadia"
       },
       "DragonStore": {
@@ -1427,6 +1423,10 @@
       "UPlay": {
         "price": 36.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       }
     }
   },
@@ -1627,12 +1627,7 @@
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
-    "prezzi": {
-      "MagicMerchant": {
-        "price": 44.89,
-        "url": "https://magicmerchant.it/catalogue/ciarlatani-di-quedlinburgo-42287/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "L'Oracolo di Delphi",
@@ -1664,6 +1659,10 @@
       "LSGiochi": {
         "price": 34.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
+      },
+      "DragonStore": {
+        "price": 34.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
       }
     }
   },
@@ -2106,10 +2105,6 @@
         "price": 26.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/136132-looot-il-bottino-dei-vichinghi.html"
       },
-      "MagicMerchant": {
-        "price": 20.93,
-        "url": "https://magicmerchant.it/catalogue/looot-il-bottino-dei-vichinghi-78445/"
-      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
@@ -2282,10 +2277,6 @@
       "UPlay": {
         "price": 39.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       }
     }
   },
