@@ -48,10 +48,6 @@
         "price": 79.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 99.99,
-        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
-      },
       "IlCovoDelNerd": {
         "price": 99.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -449,6 +445,10 @@
         "price": 48.74,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
       },
+      "GetYourFun": {
+        "price": 64.9,
+        "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
+      },
       "Player1": {
         "price": 47.9,
         "url": "https://player1.it/prodotto/heat/"
@@ -481,6 +481,10 @@
       "MagicMerchant": {
         "price": 29.89,
         "url": "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
+      },
+      "GetYourFun": {
+        "price": 25.49,
+        "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 22.9,
@@ -563,6 +567,10 @@
       "GetYourFun": {
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 63.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 75.99,
@@ -681,10 +689,6 @@
         "price": 48.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
-      "LaFeltrinelli": {
-        "price": 64.9,
-        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
-      },
       "LSGiochi": {
         "price": 45.99,
         "url": "https://www.lsgiochi.it/product/10788425/viticulture-essential-edition"
@@ -698,10 +702,6 @@
   {
     "name": "Stone Age",
     "prezzi": {
-      "DungeonDice": {
-        "price": 49.99,
-        "url": "https://www.dungeondice.it/7315-stone-age.html"
-      },
       "GetYourFun": {
         "price": 49.99,
         "url": "https://www.getyourfun.it/01028-stone-age-giochi-per-famiglia.html"
@@ -971,6 +971,10 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 44.79,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
+      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -1120,6 +1124,10 @@
         "price": 34.97,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
       },
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
+      },
       "IlCovoDelNerd": {
         "price": 49.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
@@ -1138,8 +1146,12 @@
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 47.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1640,6 +1652,10 @@
       "UPlay": {
         "price": 27.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
+      },
+      "LaFeltrinelli": {
+        "price": 34.99,
+        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "IlCovoDelNerd": {
         "price": 34.9,
@@ -2287,6 +2303,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
+      },
+      "GetYourFun": {
+        "price": 59.95,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 47.96,
