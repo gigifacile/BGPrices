@@ -82,7 +82,7 @@
         "url": "https://magicmerchant.it/catalogue/seti-ricerca-di-intelligenza-extraterrestre-79766/"
       },
       "GetYourFun": {
-        "price": 59.49,
+        "price": 61.59,
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
       "Player1": {
@@ -96,10 +96,6 @@
       "IlCovoDelNerd": {
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
-      },
-      "LSGiochi": {
-        "price": 58.99,
-        "url": "https://www.lsgiochi.it/product/14550172/seti-search-for-extraterrestrial-intelligence-italiano"
       },
       "DragonStore": {
         "price": 69.99,
@@ -214,7 +210,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 45.0,
+        "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -924,6 +920,10 @@
       "LSGiochi": {
         "price": 79.99,
         "url": "https://www.lsgiochi.it/product/12086390/fields-of-arle-big-box"
+      },
+      "DragonStore": {
+        "price": 79.99,
+        "url": "https://www.dragonstore.it/gestionali-fields-of-arle-big-box.1.1.385.gp.32215.uw"
       }
     }
   },
@@ -1295,10 +1295,6 @@
         "price": 98.89,
         "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
       },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 79.19,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1379,14 +1375,6 @@
   {
     "name": "Golem",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 32.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
-      },
-      "DungeonDice": {
-        "price": 49.99,
-        "url": "https://www.dungeondice.it/25620-golem.html"
-      },
       "MagicMerchant": {
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
@@ -1436,6 +1424,10 @@
       "FantasiaStore": {
         "price": 33.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/10048-res-arcana.html"
+      },
+      "DungeonDice": {
+        "price": 39.99,
+        "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
       "MagicMerchant": {
         "price": 33.91,
@@ -1869,6 +1861,10 @@
   {
     "name": "Through The Ages",
     "prezzi": {
+      "DungeonDice": {
+        "price": 69.99,
+        "url": "https://www.dungeondice.it/8055-through-the-ages.html"
+      },
       "GetYourFun": {
         "price": 69.99,
         "url": "https://www.getyourfun.it/025-through-the-ages-giochi-gestionali.html"
@@ -2042,6 +2038,10 @@
       "DungeonDice": {
         "price": 23.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 31.99,
