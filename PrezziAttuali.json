@@ -177,7 +177,7 @@
         "url": "https://www.dungeondice.it/27178-harmonies.html"
       },
       "GetYourFun": {
-        "price": 34.99,
+        "price": 30.79,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -395,10 +395,6 @@
         "price": 25.55,
         "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
       },
-      "GetYourFun": {
-        "price": 23.75,
-        "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 21.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
@@ -450,7 +446,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
       },
       "GetYourFun": {
-        "price": 64.9,
+        "price": 57.11,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -571,10 +567,6 @@
       "GetYourFun": {
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 63.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 75.99,
@@ -971,10 +963,6 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 44.79,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -1146,7 +1134,7 @@
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
       },
       "GetYourFun": {
-        "price": 50.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1294,10 +1282,6 @@
       "MagicMerchant": {
         "price": 98.89,
         "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 79.19,
@@ -1684,6 +1668,10 @@
       "MagicMerchant": {
         "price": 69.89,
         "url": "https://magicmerchant.it/catalogue/catan-big-box-30702/"
+      },
+      "LSGiochi": {
+        "price": 69.99,
+        "url": "https://www.lsgiochi.it/product/9966223/catan-big-box"
       }
     }
   },
@@ -2277,6 +2265,10 @@
       "UPlay": {
         "price": 39.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       }
     }
   },
