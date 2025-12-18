@@ -214,7 +214,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 38.25,
+        "price": 45.0,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -395,6 +395,10 @@
         "price": 25.55,
         "url": "https://magicmerchant.it/catalogue/captain-flip-75355/"
       },
+      "GetYourFun": {
+        "price": 23.75,
+        "url": "https://www.getyourfun.it/019977-captain-flip-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 21.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
@@ -567,6 +571,10 @@
       "GetYourFun": {
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 63.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 75.99,
@@ -963,6 +971,10 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 44.79,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
+      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -1134,7 +1146,7 @@
         "url": "https://magicmerchant.it/catalogue/lisola-dei-gatti-65388/"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1282,6 +1294,10 @@
       "MagicMerchant": {
         "price": 98.89,
         "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 79.19,
@@ -1733,7 +1749,7 @@
     "name": "Alhambra",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 47.08,
+        "price": 53.99,
         "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
       }
     }
@@ -2026,10 +2042,6 @@
       "DungeonDice": {
         "price": 23.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 31.99,
