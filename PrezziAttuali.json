@@ -81,6 +81,10 @@
         "price": 69.89,
         "url": "https://magicmerchant.it/catalogue/seti-ricerca-di-intelligenza-extraterrestre-79766/"
       },
+      "GetYourFun": {
+        "price": 61.59,
+        "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 63.74,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
@@ -563,6 +567,10 @@
       "GetYourFun": {
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 67.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 67.99,
@@ -1144,6 +1152,10 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
