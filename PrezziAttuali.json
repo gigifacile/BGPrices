@@ -198,7 +198,7 @@
     "name": "Horrified",
     "prezzi": {
       "DungeonDice": {
-        "price": 44.99,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "MagicMerchant": {
@@ -247,7 +247,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 50.92,
+        "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -441,13 +441,13 @@
         "price": 57.11,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
-      "Player1": {
-        "price": 47.9,
-        "url": "https://player1.it/prodotto/heat/"
-      },
       "UPlay": {
         "price": 55.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
+      },
+      "LaFeltrinelli": {
+        "price": 55.24,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DragonStore": {
         "price": 64.99,
@@ -555,10 +555,6 @@
       "GetYourFun": {
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 67.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 67.99,
@@ -797,10 +793,6 @@
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/earth/"
-      },
-      "DragonStore": {
-        "price": 34.9,
-        "url": "https://www.dragonstore.it/fantasy-earth-italiano.1.1.116.gp.31899.uw"
       }
     }
   },
@@ -948,16 +940,12 @@
     "name": "Grand Austria Hotel",
     "prezzi": {
       "DungeonDice": {
-        "price": 39.19,
+        "price": 55.99,
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "GetYourFun": {
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 47.59,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
       "IlCovoDelNerd": {
         "price": 55.9,
@@ -1168,7 +1156,7 @@
     "name": "Le Havre",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 24.0,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "MagicMerchant": {
@@ -1197,7 +1185,7 @@
     "name": "Dune",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 30.0,
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "MagicMerchant": {
@@ -1883,10 +1871,6 @@
         "price": 55.29,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
       },
-      "DungeonDice": {
-        "price": 78.99,
-        "url": "https://www.dungeondice.it/12981-barrage.html"
-      },
       "MagicMerchant": {
         "price": 73.37,
         "url": "https://magicmerchant.it/catalogue/barrage-40159/"
@@ -1915,10 +1899,6 @@
       "FantasiaStore": {
         "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
-      },
-      "DungeonDice": {
-        "price": 59.99,
-        "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
       "MagicMerchant": {
         "price": 56.3,
@@ -2012,7 +1992,7 @@
     "name": "Trekking Through History",
     "prezzi": {
       "DungeonDice": {
-        "price": 23.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
       "GetYourFun": {
