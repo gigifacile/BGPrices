@@ -213,10 +213,6 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
-      "LaFeltrinelli": {
-        "price": 38.24,
-        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
-      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -288,7 +284,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
       },
       "LaFeltrinelli": {
-        "price": 49.9,
+        "price": 42.42,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       }
     }
@@ -635,10 +631,6 @@
   {
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 37.49,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
-      },
       "MagicMerchant": {
         "price": 42.2,
         "url": "https://magicmerchant.it/catalogue/dominion-seconda-edizione-52378/"
@@ -1026,7 +1018,7 @@
         "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
       },
       "LaFeltrinelli": {
-        "price": 105.51,
+        "price": 101.92,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "DragonStore": {
@@ -1070,10 +1062,6 @@
       "UPlay": {
         "price": 73.06,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-apiary--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 67.92,
-        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
       "IlCovoDelNerd": {
         "price": 79.9,
@@ -1471,6 +1459,10 @@
   {
     "name": "The White Castle",
     "prezzi": {
+      "MagicMerchant": {
+        "price": 29.89,
+        "url": "https://magicmerchant.it/catalogue/the-white-castle-71210/"
+      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
@@ -1595,7 +1587,16 @@
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
-    "prezzi": {}
+    "prezzi": {
+      "MagicMerchant": {
+        "price": 44.89,
+        "url": "https://magicmerchant.it/catalogue/ciarlatani-di-quedlinburgo-42287/"
+      },
+      "UPlay": {
+        "price": 47.23,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
+      }
+    }
   },
   {
     "name": "L'Oracolo di Delphi",
@@ -1627,6 +1628,10 @@
       "LSGiochi": {
         "price": 34.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
+      },
+      "DragonStore": {
+        "price": 34.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
       }
     }
   },
@@ -1741,10 +1746,6 @@
       "MagicMerchant": {
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
-      },
-      "GetYourFun": {
-        "price": 66.49,
-        "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
       },
       "UPlay": {
         "price": 65.95,
@@ -1958,7 +1959,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 70.31,
+        "price": 67.92,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "DragonStore": {
@@ -1981,6 +1982,10 @@
       "GetYourFun": {
         "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
+      },
+      "Player1": {
+        "price": 71.9,
+        "url": "https://player1.it/prodotto/scythe/"
       },
       "UPlay": {
         "price": 76.42,
@@ -2049,7 +2054,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
       "LaFeltrinelli": {
-        "price": 69.99,
+        "price": 55.16,
         "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "IlCovoDelNerd": {
@@ -2157,7 +2162,7 @@
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
-        "price": 24.73,
+        "price": 19.54,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "LSGiochi": {
