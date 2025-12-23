@@ -48,10 +48,6 @@
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 84.99,
-        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
-      },
       "IlCovoDelNerd": {
         "price": 99.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -82,7 +78,7 @@
         "url": "https://magicmerchant.it/catalogue/seti-ricerca-di-intelligenza-extraterrestre-79766/"
       },
       "GetYourFun": {
-        "price": 61.59,
+        "price": 59.49,
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
@@ -224,6 +220,10 @@
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
+      },
+      "LSGiochi": {
+        "price": 44.99,
+        "url": "https://www.lsgiochi.it/product/13639084/horrified-edizione-italiana"
       },
       "DragonStore": {
         "price": 44.99,
@@ -412,6 +412,10 @@
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
       },
+      "MagicMerchant": {
+        "price": 14.65,
+        "url": "https://magicmerchant.it/catalogue/port-royal-big-box-65013/"
+      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
@@ -506,10 +510,6 @@
       "FantasiaStore": {
         "price": 41.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2566-agricola.html"
-      },
-      "DungeonDice": {
-        "price": 59.99,
-        "url": "https://www.dungeondice.it/21782-agricola.html"
       },
       "MagicMerchant": {
         "price": 59.89,
@@ -877,6 +877,10 @@
   {
     "name": "Fields of Arle - Big Box",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 47.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/62777-fields-of-arle-big-box.html"
+      },
       "MagicMerchant": {
         "price": 67.91,
         "url": "https://magicmerchant.it/catalogue/fields-of-arle-big-box-67381/"
@@ -1155,7 +1159,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
       "LaFeltrinelli": {
-        "price": 56.7,
+        "price": 60.8,
         "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
       }
     }
@@ -1312,10 +1316,6 @@
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 52.81,
-        "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
-      },
       "LSGiochi": {
         "price": 39.9,
         "url": "https://www.lsgiochi.it/product/9966200/cascadia"
@@ -1355,6 +1355,10 @@
   {
     "name": "Golem",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 32.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
+      },
       "MagicMerchant": {
         "price": 47.4,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
@@ -1455,7 +1459,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 50.1,
+        "price": 54.75,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "IlCovoDelNerd": {
@@ -1590,6 +1594,10 @@
       "UPlay": {
         "price": 14.37,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-crew.html"
+      },
+      "LaFeltrinelli": {
+        "price": 14.36,
+        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
@@ -1754,6 +1762,10 @@
       "MagicMerchant": {
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
+      },
+      "GetYourFun": {
+        "price": 66.49,
+        "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
       }
     }
   },
@@ -2046,7 +2058,7 @@
         "url": "https://magicmerchant.it/catalogue/root-38109/"
       },
       "GetYourFun": {
-        "price": 64.9,
+        "price": 57.11,
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
@@ -2081,6 +2093,10 @@
       "FantasiaStore": {
         "price": 26.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/136132-looot-il-bottino-dei-vichinghi.html"
+      },
+      "MagicMerchant": {
+        "price": 20.93,
+        "url": "https://magicmerchant.it/catalogue/looot-il-bottino-dei-vichinghi-78445/"
       },
       "GetYourFun": {
         "price": 25.49,
