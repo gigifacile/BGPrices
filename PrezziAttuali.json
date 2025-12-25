@@ -294,6 +294,10 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
+      },
+      "LaFeltrinelli": {
+        "price": 42.42,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       }
     }
   },
@@ -398,6 +402,10 @@
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
+      },
+      "LaFeltrinelli": {
+        "price": 22.94,
+        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "LSGiochi": {
         "price": 26.99,
@@ -559,10 +567,6 @@
       "GetYourFun": {
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 67.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 67.99,
@@ -934,6 +938,10 @@
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
       },
+      "LaFeltrinelli": {
+        "price": 46.11,
+        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
+      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-studiosi-a-sud-del-tigri.1.1.385.gp.32868.uw"
@@ -954,10 +962,6 @@
       "GetYourFun": {
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 47.59,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
       },
       "IlCovoDelNerd": {
         "price": 55.9,
@@ -1128,10 +1132,6 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1221,10 +1221,6 @@
   {
     "name": "Great Western Trail - Argentina",
     "prezzi": {
-      "MagicMerchant": {
-        "price": 38.93,
-        "url": "https://magicmerchant.it/catalogue/great-western-trail-argentina-66413/"
-      },
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
