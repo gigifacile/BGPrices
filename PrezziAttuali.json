@@ -1221,6 +1221,10 @@
   {
     "name": "Great Western Trail - Argentina",
     "prezzi": {
+      "MagicMerchant": {
+        "price": 38.93,
+        "url": "https://magicmerchant.it/catalogue/great-western-trail-argentina-66413/"
+      },
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
@@ -1383,6 +1387,10 @@
       "UPlay": {
         "price": 36.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 42.49,
+        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       }
     }
   },
@@ -1459,10 +1467,6 @@
   {
     "name": "The White Castle",
     "prezzi": {
-      "MagicMerchant": {
-        "price": 29.89,
-        "url": "https://magicmerchant.it/catalogue/the-white-castle-71210/"
-      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
@@ -1474,10 +1478,6 @@
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
-      },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
       },
       "DragonStore": {
         "price": 29.99,
@@ -1650,10 +1650,6 @@
   {
     "name": "Catan - Big Box",
     "prezzi": {
-      "MagicMerchant": {
-        "price": 69.89,
-        "url": "https://magicmerchant.it/catalogue/catan-big-box-30702/"
-      },
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/9966223/catan-big-box"
@@ -2007,6 +2003,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
