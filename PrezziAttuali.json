@@ -251,7 +251,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 50.92,
+        "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -563,10 +563,6 @@
       "GetYourFun": {
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 67.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 67.99,
@@ -1128,10 +1124,6 @@
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1467,6 +1459,10 @@
   {
     "name": "The White Castle",
     "prezzi": {
+      "MagicMerchant": {
+        "price": 29.89,
+        "url": "https://magicmerchant.it/catalogue/the-white-castle-71210/"
+      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
@@ -1650,6 +1646,10 @@
   {
     "name": "Catan - Big Box",
     "prezzi": {
+      "MagicMerchant": {
+        "price": 69.89,
+        "url": "https://magicmerchant.it/catalogue/catan-big-box-30702/"
+      },
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/9966223/catan-big-box"
