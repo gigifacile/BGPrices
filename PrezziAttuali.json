@@ -81,6 +81,10 @@
         "price": 61.59,
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
+      "LaFeltrinelli": {
+        "price": 63.74,
+        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
+      },
       "IlCovoDelNerd": {
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
@@ -1670,15 +1674,16 @@
   },
   {
     "name": "Flip 7",
-    "prezzi": {}
+    "prezzi": {
+      "MagicMerchant": {
+        "price": 16.89,
+        "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
+      }
+    }
   },
   {
     "name": "Thunder Road - Vendetta",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 62.99,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/185685-thunder-road-vendetta-ita.html"
-      },
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
@@ -1997,6 +2002,10 @@
         "price": 58.41,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
+      },
       "IlCovoDelNerd": {
         "price": 64.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/root-un-gioco-di-potere-e-giustizia-nei-boschi/"
@@ -2015,7 +2024,7 @@
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
       "MagicMerchant": {
-        "price": 20.93,
+        "price": 28.4,
         "url": "https://magicmerchant.it/catalogue/looot-il-bottino-dei-vichinghi-78445/"
       },
       "GetYourFun": {
@@ -2166,6 +2175,10 @@
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 42.49,
+        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       }
     }
   },
