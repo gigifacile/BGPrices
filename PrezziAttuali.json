@@ -78,12 +78,8 @@
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
       },
       "GetYourFun": {
-        "price": 59.49,
+        "price": 61.59,
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 63.74,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "IlCovoDelNerd": {
         "price": 69.9,
@@ -840,6 +836,10 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
+      "LaFeltrinelli": {
+        "price": 42.49,
+        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
+      },
       "IlCovoDelNerd": {
         "price": 44.99,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
@@ -961,7 +961,7 @@
         "url": "https://magicmerchant.it/catalogue/kutna-hora-la-citta-dellargento-72001/"
       },
       "GetYourFun": {
-        "price": 30.0,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019780-kutna-hora-la-citta-dell-argento-giochi-gestionali.html"
       },
       "Player1": {
@@ -1428,7 +1428,7 @@
         "url": "https://magicmerchant.it/catalogue/the-white-castle-71210/"
       },
       "GetYourFun": {
-        "price": 25.49,
+        "price": 26.39,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1629,7 +1629,7 @@
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
       },
       "GetYourFun": {
-        "price": 46.74,
+        "price": 48.39,
         "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1833,7 +1833,7 @@
         "url": "https://magicmerchant.it/catalogue/barrage-40159/"
       },
       "GetYourFun": {
-        "price": 67.14,
+        "price": 69.51,
         "url": "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
@@ -1952,6 +1952,10 @@
         "price": 23.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -2044,7 +2048,7 @@
         "url": "https://magicmerchant.it/catalogue/ratti-di-wistar-70193/"
       },
       "GetYourFun": {
-        "price": 50.99,
+        "price": 52.79,
         "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
@@ -2162,10 +2166,6 @@
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 42.49,
-        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       }
     }
   },
