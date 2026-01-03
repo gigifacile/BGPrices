@@ -231,7 +231,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 50.92,
+        "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -293,7 +293,7 @@
         "url": "https://magicmerchant.it/catalogue/revive-66446/"
       },
       "GetYourFun": {
-        "price": 67.92,
+        "price": 70.31,
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
       },
       "UPlay": {
@@ -400,10 +400,6 @@
         "price": 14.65,
         "url": "https://magicmerchant.it/catalogue/port-royal-big-box-65013/"
       },
-      "GetYourFun": {
-        "price": 25.49,
-        "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
-      },
       "UPlay": {
         "price": 25.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
@@ -506,6 +502,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 50.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
@@ -642,7 +642,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/378-viticulture-essential-edition.html"
       },
       "GetYourFun": {
-        "price": 55.17,
+        "price": 57.11,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "Player1": {
@@ -891,7 +891,7 @@
         "url": "https://magicmerchant.it/catalogue/studiosi-a-sud-del-tigri-72002/"
       },
       "GetYourFun": {
-        "price": 22.5,
+        "price": 49.99,
         "url": "https://www.getyourfun.it/019772-studiosi-a-sud-del-tigri-giochi-gestionali.html"
       },
       "Player1": {
@@ -990,7 +990,7 @@
         "url": "https://magicmerchant.it/catalogue/hegemony-versione-estesa-76479/"
       },
       "GetYourFun": {
-        "price": 101.92,
+        "price": 105.51,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
@@ -1020,7 +1020,7 @@
         "url": "https://magicmerchant.it/catalogue/apiary-72048/"
       },
       "GetYourFun": {
-        "price": 67.99,
+        "price": 70.39,
         "url": "https://www.getyourfun.it/019812--apiary-giochi-gestionali.html"
       },
       "Player1": {
@@ -1053,7 +1053,7 @@
         "url": "https://magicmerchant.it/catalogue/viandanti-a-sud-del-tigri-64965/"
       },
       "GetYourFun": {
-        "price": 22.5,
+        "price": 49.99,
         "url": "https://www.getyourfun.it/013185-viandanti-a-sud-del-tigri-giochi-gestionali.html"
       },
       "Player1": {
@@ -1082,7 +1082,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 50.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1222,10 +1222,6 @@
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
-      },
-      "DragonStore": {
-        "price": 79.2,
-        "url": "https://www.dragonstore.it/fantasy-inis-big-box-italiano.1.1.116.gp.29761.uw"
       }
     }
   },
@@ -1658,12 +1654,7 @@
   },
   {
     "name": "Flip 7",
-    "prezzi": {
-      "MagicMerchant": {
-        "price": 16.89,
-        "url": "https://magicmerchant.it/catalogue/flip-7-83529/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Thunder Road - Vendetta",
@@ -1825,10 +1816,6 @@
         "price": 69.51,
         "url": "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 67.14,
-        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
-      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -1894,6 +1881,10 @@
       "LaFeltrinelli": {
         "price": 67.92,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
+      },
+      "LSGiochi": {
+        "price": 79.99,
+        "url": "https://www.lsgiochi.it/product/10018403/spirit-island"
       },
       "DragonStore": {
         "price": 63.99,
