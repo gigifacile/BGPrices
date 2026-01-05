@@ -182,7 +182,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 45.0,
+        "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -200,10 +200,6 @@
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/13639084/horrified-edizione-italiana"
-      },
-      "DragonStore": {
-        "price": 35.99,
-        "url": "https://www.dragonstore.it/horror-horrified-edizione-italiana.1.1.386.gp.32796.uw"
       }
     }
   },
@@ -223,7 +219,7 @@
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
       "UPlay": {
-        "price": 50.92,
+        "price": 59.9,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
@@ -305,10 +301,6 @@
   {
     "name": "It's a Wonderful World",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 34.33,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/12659-its-a-wonderful-world.html"
-      },
       "UPlay": {
         "price": 37.83,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-it-s-a-wonderful-world--edizione-italiana-.html"
@@ -531,10 +523,6 @@
       "GetYourFun": {
         "price": 70.39,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 67.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 67.99,
@@ -923,10 +911,6 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 47.59,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -1074,26 +1058,18 @@
     "name": "L'Isola dei Gatti",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
         "price": 50.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
   {
     "name": "Alta Tensione - Recharged",
     "prezzi": {
-      "DungeonDice": {
-        "price": 46.99,
-        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
-      },
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
@@ -1103,7 +1079,7 @@
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 42.29,
+        "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
       "LaFeltrinelli": {
@@ -1161,7 +1137,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 57.42,
+        "price": 78.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
       }
     }
@@ -1565,12 +1541,7 @@
   },
   {
     "name": "Catan - Big Box",
-    "prezzi": {
-      "LSGiochi": {
-        "price": 69.99,
-        "url": "https://www.lsgiochi.it/product/9966223/catan-big-box"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Mantis Falls",
@@ -1643,10 +1614,6 @@
   {
     "name": "Thunder Road - Vendetta",
     "prezzi": {
-      "DungeonDice": {
-        "price": 69.99,
-        "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
-      },
       "MagicMerchant": {
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
@@ -1817,10 +1784,6 @@
   {
     "name": "Nucleum",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 50.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
-      },
       "MagicMerchant": {
         "price": 56.3,
         "url": "https://magicmerchant.it/catalogue/nucleum-76380/"
@@ -1917,8 +1880,12 @@
     "name": "Trekking Through History",
     "prezzi": {
       "DungeonDice": {
-        "price": 23.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
