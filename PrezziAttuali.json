@@ -182,7 +182,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 45.0,
+        "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -437,10 +437,6 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
-      },
-      "MagicMerchant": {
-        "price": 29.89,
-        "url": "https://magicmerchant.it/catalogue/forest-shuffle-70170/"
       },
       "GetYourFun": {
         "price": 25.49,
@@ -759,17 +755,9 @@
         "price": 31.49,
         "url": "https://fantasiastore.it/it/grandi-classici/67024-azul.html"
       },
-      "DungeonDice": {
-        "price": 44.99,
-        "url": "https://www.dungeondice.it/10719-azul.html"
-      },
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
-      },
-      "GetYourFun": {
-        "price": 44.99,
-        "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 38.24,
@@ -923,14 +911,6 @@
       "FantasiaStore": {
         "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
-      },
-      "DungeonDice": {
-        "price": 35.99,
-        "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
-      },
-      "MagicMerchant": {
-        "price": 35.94,
-        "url": "https://magicmerchant.it/catalogue/kutna-hora-la-citta-dellargento-72001/"
       },
       "GetYourFun": {
         "price": 44.99,
@@ -1491,12 +1471,7 @@
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
-    "prezzi": {
-      "MagicMerchant": {
-        "price": 44.89,
-        "url": "https://magicmerchant.it/catalogue/ciarlatani-di-quedlinburgo-42287/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "L'Oracolo di Delphi",
@@ -1512,10 +1487,6 @@
       "UPlay": {
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
-      },
-      "LaFeltrinelli": {
-        "price": 46.5,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "IlCovoDelNerd": {
         "price": 34.9,
@@ -1582,10 +1553,6 @@
       "UPlay": {
         "price": 46.75,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 54.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
       }
     }
   },
@@ -1887,6 +1854,10 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1935,10 +1906,6 @@
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/9981966/root"
-      },
-      "DragonStore": {
-        "price": 51.99,
-        "url": "https://www.dragonstore.it/fantasy-root-italiano.1.1.116.gp.26074.uw"
       }
     }
   },
@@ -2052,6 +2019,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
+      },
+      "LaFeltrinelli": {
+        "price": 50.99,
+        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
