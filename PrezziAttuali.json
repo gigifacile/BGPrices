@@ -85,10 +85,6 @@
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
       },
-      "LSGiochi": {
-        "price": 69.99,
-        "url": "https://www.lsgiochi.it/product/14550172/seti-search-for-extraterrestrial-intelligence-italiano"
-      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -173,6 +169,10 @@
   {
     "name": "Horrified",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 41.84,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/125151-horrified.html"
+      },
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
@@ -258,6 +258,10 @@
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
+      "DragonStore": {
+        "price": 49.99,
+        "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
       }
     }
   },
@@ -434,10 +438,6 @@
         "price": 22.49,
         "url": "https://fantasiastore.it/it/giochi-di-carte/29233-forest-shuffle.html"
       },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
-      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
@@ -587,6 +587,10 @@
   {
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
+      },
       "MagicMerchant": {
         "price": 42.2,
         "url": "https://magicmerchant.it/catalogue/dominion-seconda-edizione-52378/"
@@ -739,13 +743,13 @@
   {
     "name": "Azul",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 31.49,
-        "url": "https://fantasiastore.it/it/grandi-classici/67024-azul.html"
-      },
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
+      },
+      "GetYourFun": {
+        "price": 44.99,
+        "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 38.24,
@@ -1192,6 +1196,10 @@
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 52.81,
+        "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
+      },
       "LSGiochi": {
         "price": 39.9,
         "url": "https://www.lsgiochi.it/product/9966200/cascadia"
@@ -1439,6 +1447,10 @@
   {
     "name": "The Crew",
     "prezzi": {
+      "DungeonDice": {
+        "price": 16.99,
+        "url": "https://www.dungeondice.it/22687-the-crew.html"
+      },
       "GetYourFun": {
         "price": 16.9,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
@@ -1809,10 +1821,6 @@
   {
     "name": "Scythe",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 72.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/1952-scythe.html"
-      },
       "MagicMerchant": {
         "price": 80.91,
         "url": "https://magicmerchant.it/catalogue/scythe-32495/"
