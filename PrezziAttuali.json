@@ -94,6 +94,10 @@
   {
     "name": "Arcs",
     "prezzi": {
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/22972-arcs.html"
+      },
       "UPlay": {
         "price": 61.16,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
@@ -273,7 +277,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "MagicMerchant": {
@@ -563,7 +567,7 @@
     "name": "Nidavellir",
     "prezzi": {
       "DungeonDice": {
-        "price": 37.99,
+        "price": 28.49,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "MagicMerchant": {
@@ -1694,7 +1698,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "MagicMerchant": {
@@ -1783,10 +1787,6 @@
       "FantasiaStore": {
         "price": 61.59,
         "url": "https://fantasiastore.it/it/cooperativi/7465-spirit-island-ita.html"
-      },
-      "DungeonDice": {
-        "price": 79.99,
-        "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
       "MagicMerchant": {
         "price": 75.1,
@@ -1930,7 +1930,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "MagicMerchant": {
@@ -1965,12 +1965,7 @@
   },
   {
     "name": "Evenfall",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 45.3,
-        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Crack List",
