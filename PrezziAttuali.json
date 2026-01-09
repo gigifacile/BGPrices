@@ -94,6 +94,10 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
       },
+      "GetYourFun": {
+        "price": 55.24,
+        "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 61.16,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
@@ -206,10 +210,6 @@
   {
     "name": "Great Western Trail - Nuova Zelanda",
     "prezzi": {
-      "MagicMerchant": {
-        "price": 23.96,
-        "url": "https://magicmerchant.it/catalogue/great-western-trail-nuova-zelanda-71226/"
-      },
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
@@ -655,7 +655,7 @@
     "name": "Stone Age",
     "prezzi": {
       "UPlay": {
-        "price": 40.49,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LSGiochi": {
@@ -1042,7 +1042,7 @@
     "name": "L'Isola dei Gatti",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
@@ -1136,10 +1136,6 @@
       "MagicMerchant": {
         "price": 38.93,
         "url": "https://magicmerchant.it/catalogue/great-western-trail-argentina-66413/"
-      },
-      "Player1": {
-        "price": 41.9,
-        "url": "https://player1.it/prodotto/great-western-trail-argentina/"
       },
       "LaFeltrinelli": {
         "price": 49.42,
@@ -1387,10 +1383,6 @@
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
       },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
-      },
       "DragonStore": {
         "price": 29.99,
         "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
@@ -1457,10 +1449,6 @@
       "FantasiaStore": {
         "price": 21.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
-      },
-      "GetYourFun": {
-        "price": 24.99,
-        "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       }
     }
   },
