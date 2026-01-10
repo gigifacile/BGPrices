@@ -94,14 +94,6 @@
   {
     "name": "Arcs",
     "prezzi": {
-      "DungeonDice": {
-        "price": 64.99,
-        "url": "https://www.dungeondice.it/22972-arcs.html"
-      },
-      "GetYourFun": {
-        "price": 55.24,
-        "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 61.16,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
@@ -164,10 +156,6 @@
         "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
-      "LSGiochi": {
-        "price": 34.99,
-        "url": "https://www.lsgiochi.it/product/14195265/harmonies"
-      },
       "DragonStore": {
         "price": 34.99,
         "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
@@ -190,7 +178,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 45.0,
+        "price": 38.25,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -1866,10 +1854,6 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
