@@ -19,6 +19,10 @@
         "price": 24.99,
         "url": "https://www.dungeondice.it/34459-castle-combo.html"
       },
+      "MagicMerchant": {
+        "price": 23.4,
+        "url": "https://magicmerchant.it/catalogue/castle-combo-82014/"
+      },
       "GetYourFun": {
         "price": 24.99,
         "url": "https://www.getyourfun.it/036033-castle-combo-giochi-di-carte.html"
@@ -93,6 +97,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
+      },
+      "GetYourFun": {
+        "price": 55.24,
+        "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 61.16,
@@ -182,7 +190,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 38.25,
+        "price": 45.0,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -1020,6 +1028,10 @@
         "price": 34.97,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
       },
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
+      },
       "IlCovoDelNerd": {
         "price": 49.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
@@ -1747,6 +1759,10 @@
         "price": 78.99,
         "url": "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html"
       },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -1979,6 +1995,10 @@
       "DungeonDice": {
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
+      },
+      "MagicMerchant": {
+        "price": 22.89,
+        "url": "https://magicmerchant.it/catalogue/crack-list-75391/"
       },
       "GetYourFun": {
         "price": 19.99,
