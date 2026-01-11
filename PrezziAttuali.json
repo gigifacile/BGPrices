@@ -251,6 +251,10 @@
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
       },
+      "LaFeltrinelli": {
+        "price": 49.9,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
       "DragonStore": {
         "price": 49.99,
         "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
@@ -924,6 +928,10 @@
         "price": 46.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
+      "LaFeltrinelli": {
+        "price": 35.99,
+        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
+      },
       "IlCovoDelNerd": {
         "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/kutna-hora-la-citta-dellargento/"
@@ -946,7 +954,7 @@
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 98.92,
+        "price": 105.51,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       }
     }
@@ -1142,6 +1150,10 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/federation/"
       },
+      "UPlay": {
+        "price": 59.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
+      },
       "LaFeltrinelli": {
         "price": 41.99,
         "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
@@ -1155,17 +1167,9 @@
         "price": 79.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/13367-inis-big-box.html"
       },
-      "DungeonDice": {
-        "price": 98.99,
-        "url": "https://www.dungeondice.it/25648-inis-big-box.html"
-      },
       "MagicMerchant": {
         "price": 98.89,
         "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
@@ -1847,10 +1851,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1875,10 +1875,6 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
-      },
-      "GetYourFun": {
-        "price": 55.17,
-        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
         "price": 53.9,
