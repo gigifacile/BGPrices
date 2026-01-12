@@ -57,7 +57,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
       },
       "LSGiochi": {
-        "price": 69.99,
+        "price": 99.99,
         "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
       },
       "DragonStore": {
@@ -178,7 +178,7 @@
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
       "GetYourFun": {
-        "price": 38.25,
+        "price": 45.0,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -475,6 +475,10 @@
         "price": 41.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2566-agricola.html"
       },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/21782-agricola.html"
+      },
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/agricola-47772/"
@@ -644,12 +648,20 @@
       "LaFeltrinelli": {
         "price": 57.11,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
+      },
+      "DragonStore": {
+        "price": 64.99,
+        "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
       }
     }
   },
   {
     "name": "Stone Age",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 34.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/7320-stone-age-linizio-del-viaggio.html"
+      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
@@ -720,12 +732,7 @@
   },
   {
     "name": "Architetti del Regno Occidentale",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 60.41,
-        "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Visconti del Regno Occidentale",
@@ -751,6 +758,10 @@
   {
     "name": "Azul",
     "prezzi": {
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/10719-azul.html"
+      },
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/azul-35255/"
@@ -941,13 +952,21 @@
         "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
+      "MagicMerchant": {
+        "price": 113.9,
+        "url": "https://magicmerchant.it/catalogue/hegemony-versione-estesa-76479/"
+      },
       "GetYourFun": {
-        "price": 89.93,
+        "price": 101.92,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 105.51,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
+      },
+      "DragonStore": {
+        "price": 119.99,
+        "url": "https://www.dragonstore.it/gestionali-hegemony-versione-estesa-italiana.1.1.385.gp.32904.uw"
       }
     }
   },
@@ -1000,8 +1019,12 @@
   {
     "name": "Viandanti a Sud del Tigri",
     "prezzi": {
+      "MagicMerchant": {
+        "price": 49.89,
+        "url": "https://magicmerchant.it/catalogue/viandanti-a-sud-del-tigri-64965/"
+      },
       "GetYourFun": {
-        "price": 22.5,
+        "price": 49.99,
         "url": "https://www.getyourfun.it/013185-viandanti-a-sud-del-tigri-giochi-gestionali.html"
       },
       "Player1": {
@@ -1011,6 +1034,10 @@
       "UPlay": {
         "price": 34.97,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
       },
       "IlCovoDelNerd": {
         "price": 49.9,
@@ -1330,6 +1357,10 @@
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 50.1,
+        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
+      },
       "IlCovoDelNerd": {
         "price": 64.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/yokohama/"
@@ -1395,6 +1426,10 @@
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/12879033/mlem-agenzia-spaziale"
+      },
+      "DragonStore": {
+        "price": 29.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-mlem-agenzia-spaziale.1.1.115.gp.32734.uw"
       }
     }
   },
@@ -1421,6 +1456,10 @@
       "FantasiaStore": {
         "price": 21.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
+      },
+      "GetYourFun": {
+        "price": 22.49,
+        "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       }
     }
   },
@@ -1648,6 +1687,10 @@
         "price": 49.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
+      },
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
@@ -1827,10 +1870,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1896,6 +1935,10 @@
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/16941892/looot-il-bottino-dei-vichinghi"
+      },
+      "DragonStore": {
+        "price": 29.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-looot-il-bottino-dei-vichinghi.1.1.115.gp.33422.uw"
       }
     }
   },
