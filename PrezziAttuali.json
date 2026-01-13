@@ -214,10 +214,6 @@
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
-      "UPlay": {
-        "price": 50.92,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
-      },
       "LaFeltrinelli": {
         "price": 49.42,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
@@ -250,10 +246,6 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DragonStore": {
         "price": 49.99,
@@ -457,10 +449,6 @@
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 28.49,
-        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
   },
@@ -575,7 +563,7 @@
     "name": "Nidavellir",
     "prezzi": {
       "DungeonDice": {
-        "price": 28.49,
+        "price": 37.99,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "MagicMerchant": {
@@ -732,7 +720,12 @@
   },
   {
     "name": "Architetti del Regno Occidentale",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 60.41,
+        "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
+      }
+    }
   },
   {
     "name": "Visconti del Regno Occidentale",
@@ -790,6 +783,10 @@
       "FantasiaStore": {
         "price": 37.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
+      },
+      "DungeonDice": {
+        "price": 37.49,
+        "url": "https://www.dungeondice.it/6052-seasons.html"
       },
       "MagicMerchant": {
         "price": 46.9,
@@ -1718,7 +1715,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
       },
       "DungeonDice": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "MagicMerchant": {
@@ -1887,10 +1884,6 @@
   {
     "name": "Root",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 64.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/4214-root-ita.html"
-      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
@@ -1950,7 +1943,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
       },
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "MagicMerchant": {
