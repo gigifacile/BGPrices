@@ -123,6 +123,10 @@
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
       },
+      "GetYourFun": {
+        "price": 66.41,
+        "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
+      },
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/cyclades-edizione-leggendaria/"
@@ -210,10 +214,6 @@
   {
     "name": "Great Western Trail - Nuova Zelanda",
     "prezzi": {
-      "MagicMerchant": {
-        "price": 23.36,
-        "url": "https://magicmerchant.it/catalogue/great-western-trail-nuova-zelanda-71226/"
-      },
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
@@ -277,7 +277,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "MagicMerchant": {
@@ -291,10 +291,6 @@
       "UPlay": {
         "price": 55.93,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
-      },
-      "LaFeltrinelli": {
-        "price": 55.93,
-        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       },
       "DragonStore": {
         "price": 79.99,
@@ -330,10 +326,6 @@
   {
     "name": "Trajan Deluxe",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 35.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
-      },
       "MagicMerchant": {
         "price": 46.9,
         "url": "https://magicmerchant.it/catalogue/trajan-deluxe-68316/"
@@ -510,6 +502,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 56.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
@@ -832,6 +828,10 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
+      },
       "IlCovoDelNerd": {
         "price": 44.99,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
@@ -981,6 +981,10 @@
         "price": 113.91,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
+      "LaFeltrinelli": {
+        "price": 105.51,
+        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
+      },
       "DragonStore": {
         "price": 119.99,
         "url": "https://www.dragonstore.it/gestionali-hegemony-versione-estesa-italiana.1.1.385.gp.32904.uw"
@@ -1053,7 +1057,7 @@
         "url": "https://player1.it/prodotto/viandanti-a-sud-del-tigri/"
       },
       "UPlay": {
-        "price": 37.75,
+        "price": 34.97,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
       },
       "LaFeltrinelli": {
@@ -1116,7 +1120,7 @@
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "MagicMerchant": {
-        "price": 29.35,
+        "price": 41.93,
         "url": "https://magicmerchant.it/catalogue/le-havre-66594/"
       },
       "GetYourFun": {
@@ -1345,10 +1349,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
-      "MagicMerchant": {
-        "price": 33.91,
-        "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
-      },
       "GetYourFun": {
         "price": 39.99,
         "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
@@ -1423,6 +1423,10 @@
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
       },
+      "LSGiochi": {
+        "price": 29.99,
+        "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
+      },
       "DragonStore": {
         "price": 29.99,
         "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
@@ -1455,10 +1459,6 @@
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.99,
-        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
         "price": 29.9,
@@ -1832,6 +1832,10 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
+      },
       "IlCovoDelNerd": {
         "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
@@ -1864,6 +1868,10 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "LSGiochi": {
         "price": 63.99,
@@ -2040,17 +2048,9 @@
   {
     "name": "Crack List",
     "prezzi": {
-      "DungeonDice": {
-        "price": 22.99,
-        "url": "https://www.dungeondice.it/32612-crack-list.html"
-      },
       "MagicMerchant": {
         "price": 22.89,
         "url": "https://magicmerchant.it/catalogue/crack-list-75391/"
-      },
-      "GetYourFun": {
-        "price": 16.99,
-        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
         "price": 21.84,
