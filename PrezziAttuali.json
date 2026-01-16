@@ -197,6 +197,10 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
+      "LaFeltrinelli": {
+        "price": 31.49,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -391,6 +395,10 @@
       "FantasiaStore": {
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
+      },
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
       },
       "MagicMerchant": {
         "price": 14.65,
@@ -1094,7 +1102,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1255,10 +1263,6 @@
       "MagicMerchant": {
         "price": 37.9,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
-      },
-      "GetYourFun": {
-        "price": 33.99,
-        "url": "https://www.getyourfun.it/03869-cascadia-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 30.9,
@@ -1901,6 +1905,10 @@
   {
     "name": "Scythe",
     "prezzi": {
+      "DungeonDice": {
+        "price": 71.99,
+        "url": "https://www.dungeondice.it/6038-scythe.html"
+      },
       "GetYourFun": {
         "price": 67.43,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
@@ -2062,10 +2070,6 @@
       "MagicMerchant": {
         "price": 22.89,
         "url": "https://magicmerchant.it/catalogue/crack-list-75391/"
-      },
-      "GetYourFun": {
-        "price": 16.99,
-        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
         "price": 21.84,
