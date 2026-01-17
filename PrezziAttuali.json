@@ -156,6 +156,10 @@
         "price": 33.15,
         "url": "https://magicmerchant.it/catalogue/harmonies-76471/"
       },
+      "GetYourFun": {
+        "price": 27.74,
+        "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
+      },
       "Player1": {
         "price": 25.9,
         "url": "https://player1.it/prodotto/harmonies/"
@@ -189,6 +193,10 @@
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
+      "GetYourFun": {
+        "price": 38.25,
+        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
+      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
@@ -210,9 +218,17 @@
   {
     "name": "Great Western Trail - Nuova Zelanda",
     "prezzi": {
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
+      },
+      "UPlay": {
+        "price": 50.92,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
         "price": 49.42,
@@ -507,6 +523,10 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
       },
+      "LaFeltrinelli": {
+        "price": 56.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
+      },
       "IlCovoDelNerd": {
         "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
@@ -535,10 +555,6 @@
       "GetYourFun": {
         "price": 79.99,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 67.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 75.99,
@@ -931,10 +947,6 @@
         "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 47.59,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
@@ -957,7 +969,7 @@
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
       },
       "UPlay": {
-        "price": 46.17,
+        "price": 39.57,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
       "LaFeltrinelli": {
@@ -1009,6 +1021,10 @@
       "GetYourFun": {
         "price": 48.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 87.99,
+        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       }
     }
   },
@@ -1088,10 +1104,6 @@
       "GetYourFun": {
         "price": 44.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1219,6 +1231,10 @@
         "price": 98.89,
         "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
       },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1281,10 +1297,6 @@
         "price": 19.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
-      },
       "LaFeltrinelli": {
         "price": 35.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1301,10 +1313,6 @@
       "MagicMerchant": {
         "price": 34.93,
         "url": "https://magicmerchant.it/catalogue/golem-55633/"
-      },
-      "LaFeltrinelli": {
-        "price": 34.99,
-        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -1543,10 +1551,6 @@
   {
     "name": "Splendor",
     "prezzi": {
-      "MagicMerchant": {
-        "price": 34.89,
-        "url": "https://magicmerchant.it/catalogue/splendor-seconda-edizone-3019/"
-      },
       "UPlay": {
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
@@ -1617,10 +1621,6 @@
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
-      },
-      "GetYourFun": {
-        "price": 54.99,
-        "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 46.75,
@@ -1801,6 +1801,10 @@
       "LaFeltrinelli": {
         "price": 78.99,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      },
+      "UPlay": {
+        "price": 67.14,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
       },
       "DragonStore": {
         "price": 78.99,
@@ -2079,10 +2083,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
