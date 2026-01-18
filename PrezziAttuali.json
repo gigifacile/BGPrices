@@ -193,6 +193,10 @@
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/horrified-75434/"
       },
+      "GetYourFun": {
+        "price": 38.25,
+        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
+      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
@@ -221,10 +225,6 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
-      },
-      "UPlay": {
-        "price": 50.92,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
       },
       "LaFeltrinelli": {
         "price": 49.42,
@@ -258,6 +258,10 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.9,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DragonStore": {
         "price": 49.99,
@@ -961,7 +965,7 @@
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
       },
       "UPlay": {
-        "price": 39.57,
+        "price": 46.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
       "LaFeltrinelli": {
@@ -1096,6 +1100,10 @@
       "GetYourFun": {
         "price": 44.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1109,10 +1117,6 @@
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
-      },
-      "GetYourFun": {
-        "price": 41.9,
-        "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 39.94,
@@ -1155,10 +1159,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/22774-dune.html"
-      },
-      "MagicMerchant": {
-        "price": 29.95,
-        "url": "https://magicmerchant.it/catalogue/dune-49568/"
       },
       "GetYourFun": {
         "price": 59.99,
@@ -1239,10 +1239,6 @@
       "MagicMerchant": {
         "price": 37.9,
         "url": "https://magicmerchant.it/catalogue/cascadia-55641/"
-      },
-      "Player1": {
-        "price": 30.9,
-        "url": "https://player1.it/prodotto/cascadia/"
       },
       "UPlay": {
         "price": 33.92,
@@ -1369,10 +1365,6 @@
   {
     "name": "Yokohama - Seconda Edizione",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 48.74,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html"
-      },
       "MagicMerchant": {
         "price": 61.0,
         "url": "https://magicmerchant.it/catalogue/yokohama-seconda-edizione-78753/"
@@ -1500,6 +1492,10 @@
       "GetYourFun": {
         "price": 22.49,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
+      },
+      "LSGiochi": {
+        "price": 24.99,
+        "url": "https://www.lsgiochi.it/product/15788817/faraway-cover-arancione"
       }
     }
   },
@@ -1614,6 +1610,10 @@
         "price": 54.99,
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
       },
+      "GetYourFun": {
+        "price": 54.99,
+        "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 46.75,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
@@ -1656,6 +1656,10 @@
       "MagicMerchant": {
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
+      },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
   },
@@ -1718,6 +1722,10 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/dune-imperium/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
         "price": 42.49,
@@ -1856,10 +1864,6 @@
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
-      "LSGiochi": {
-        "price": 63.99,
-        "url": "https://www.lsgiochi.it/product/10018403/spirit-island"
-      },
       "DragonStore": {
         "price": 79.99,
         "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
@@ -1869,10 +1873,6 @@
   {
     "name": "Scythe",
     "prezzi": {
-      "DungeonDice": {
-        "price": 71.99,
-        "url": "https://www.dungeondice.it/6038-scythe.html"
-      },
       "GetYourFun": {
         "price": 67.43,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
@@ -1901,6 +1901,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
@@ -2059,6 +2063,10 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
         "price": 59.99,
