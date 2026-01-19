@@ -85,6 +85,10 @@
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/seti-ricerca-di-intelligenza-extraterrestre-79766/"
       },
+      "GetYourFun": {
+        "price": 61.59,
+        "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 71.24,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
@@ -400,10 +404,6 @@
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
       },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
-      },
       "MagicMerchant": {
         "price": 14.65,
         "url": "https://magicmerchant.it/catalogue/port-royal-big-box-65013/"
@@ -544,17 +544,9 @@
   {
     "name": "Terra Mystica - L'Era delle Scoperte",
     "prezzi": {
-      "DungeonDice": {
-        "price": 79.99,
-        "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
-      },
       "MagicMerchant": {
         "price": 67.91,
         "url": "https://magicmerchant.it/catalogue/terra-mystica-lera-delle-scoperte-68297/"
-      },
-      "GetYourFun": {
-        "price": 79.99,
-        "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -685,6 +677,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/7315-stone-age.html"
+      },
+      "UPlay": {
+        "price": 40.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-stone-age.html"
       },
       "LSGiochi": {
         "price": 49.99,
@@ -872,6 +868,10 @@
       "MagicMerchant": {
         "price": 67.91,
         "url": "https://magicmerchant.it/catalogue/fields-of-arle-big-box-67381/"
+      },
+      "GetYourFun": {
+        "price": 79.99,
+        "url": "https://www.getyourfun.it/019576-fields-of-arle-big-box-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 79.9,
@@ -1606,6 +1606,10 @@
   {
     "name": "Dorfromantik – Sakura",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 43.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/179639-dorfromantik-sakura.html"
+      },
       "DungeonDice": {
         "price": 54.99,
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
@@ -1794,10 +1798,6 @@
         "price": 78.99,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
-      "UPlay": {
-        "price": 71.09,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
-      },
       "DragonStore": {
         "price": 78.99,
         "url": "https://www.dragonstore.it/classici-famiglia-barrage-italiano.1.1.115.gp.26729.uw"
@@ -1860,10 +1860,6 @@
         "price": 71.91,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
-      },
       "DragonStore": {
         "price": 79.99,
         "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
@@ -1909,10 +1905,6 @@
       "GetYourFun": {
         "price": 39.99,
         "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
-      },
-      "UPlay": {
-        "price": 39.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
       },
       "LSGiochi": {
         "price": 39.99,
@@ -2068,10 +2060,6 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
-      "UPlay": {
-        "price": 53.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
       "LaFeltrinelli": {
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -2125,6 +2113,10 @@
       "MagicMerchant": {
         "price": 59.89,
         "url": "https://magicmerchant.it/catalogue/the-wolves-66495/"
+      },
+      "UPlay": {
+        "price": 59.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
