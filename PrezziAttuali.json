@@ -77,17 +77,9 @@
         "price": 69.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/159676-seti-ricerca-di-intelligenza-extraterrestre-ita.html"
       },
-      "DungeonDice": {
-        "price": 69.99,
-        "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
-      },
       "MagicMerchant": {
         "price": 66.4,
         "url": "https://magicmerchant.it/catalogue/seti-ricerca-di-intelligenza-extraterrestre-79766/"
-      },
-      "GetYourFun": {
-        "price": 61.59,
-        "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 71.24,
@@ -270,6 +262,10 @@
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
+      "DadiEMattoncini": {
+        "price": 49.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
       },
       "DragonStore": {
         "price": 49.99,
@@ -768,7 +764,12 @@
   },
   {
     "name": "Architetti del Regno Occidentale",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 60.41,
+        "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
+      }
+    }
   },
   {
     "name": "Visconti del Regno Occidentale",
@@ -1128,6 +1129,10 @@
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
+      },
+      "GetYourFun": {
+        "price": 41.9,
+        "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 42.29,
@@ -1653,6 +1658,10 @@
       "UPlay": {
         "price": 55.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 54.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
       }
     }
   },
@@ -1725,6 +1734,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
+      },
+      "IlCovoDelNerd": {
+        "price": 59.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune-imperium-insurrezione/"
       }
     }
   },
@@ -1951,6 +1964,10 @@
   {
     "name": "Root",
     "prezzi": {
+      "MagicMerchant": {
+        "price": 61.65,
+        "url": "https://magicmerchant.it/catalogue/root-38109/"
+      },
       "GetYourFun": {
         "price": 58.41,
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
@@ -2063,6 +2080,10 @@
         "price": 22.89,
         "url": "https://magicmerchant.it/catalogue/crack-list-75391/"
       },
+      "GetYourFun": {
+        "price": 16.99,
+        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
+      },
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
@@ -2103,10 +2124,6 @@
       "IlCovoDelNerd": {
         "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/le-rovine-perdute-di-arnak/"
-      },
-      "LSGiochi": {
-        "price": 59.99,
-        "url": "https://www.lsgiochi.it/product/10086794/le-rovine-perdute-di-arnak"
       }
     }
   },
