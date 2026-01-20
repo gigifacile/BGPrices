@@ -165,7 +165,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DragonStore": {
@@ -404,6 +404,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 17.99,
+        "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
+      },
       "MagicMerchant": {
         "price": 14.65,
         "url": "https://magicmerchant.it/catalogue/port-royal-big-box-65013/"
@@ -560,8 +564,12 @@
         "price": 79.99,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
+      "UPlay": {
         "price": 79.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
+      },
+      "LaFeltrinelli": {
+        "price": 75.99,
         "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
       },
       "DadiEMattoncini": {
@@ -760,12 +768,7 @@
   },
   {
     "name": "Architetti del Regno Occidentale",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 60.41,
-        "url": "https://www.lafeltrinelli.it/magic-store-88050-architetti-del-giocattolo-fever-games/e/0735850157108"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Visconti del Regno Occidentale",
@@ -1106,7 +1109,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1125,10 +1128,6 @@
       "MagicMerchant": {
         "price": 44.89,
         "url": "https://magicmerchant.it/catalogue/alta-tensione-recharged-43679/"
-      },
-      "GetYourFun": {
-        "price": 41.9,
-        "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 42.29,
@@ -1369,6 +1368,10 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
+      "MagicMerchant": {
+        "price": 33.91,
+        "url": "https://magicmerchant.it/catalogue/res-arcana-49698/"
+      },
       "GetYourFun": {
         "price": 39.99,
         "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
@@ -1475,6 +1478,10 @@
       "UPlay": {
         "price": 29.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "DadiEMattoncini": {
         "price": 29.99,
@@ -1646,10 +1653,6 @@
       "UPlay": {
         "price": 55.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 54.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
       }
     }
   },
@@ -1722,10 +1725,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
-      },
-      "IlCovoDelNerd": {
-        "price": 59.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune-imperium-insurrezione/"
       }
     }
   },
@@ -1989,6 +1988,10 @@
         "price": 22.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
       },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
+      },
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/16941892/looot-il-bottino-dei-vichinghi"
@@ -2089,6 +2092,10 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
+      "UPlay": {
+        "price": 53.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
+      },
       "LaFeltrinelli": {
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -2129,6 +2136,10 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
+      },
+      "DragonStore": {
+        "price": 49.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-el-grande-nuova-edizione-italiana-2-mini-espansioni.1.1.115.gp.32239.uw"
       }
     }
   },
@@ -2150,6 +2161,10 @@
       "IlCovoDelNerd": {
         "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/the-wolves/"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-the-wolves-italiano.1.1.115.gp.31990.uw"
       }
     }
   }
