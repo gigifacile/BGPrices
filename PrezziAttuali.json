@@ -383,10 +383,6 @@
         "price": 26.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
-      "LaFeltrinelli": {
-        "price": 26.99,
-        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
-      },
       "LSGiochi": {
         "price": 26.99,
         "url": "https://www.lsgiochi.it/product/13810049/captain-flip"
@@ -450,7 +446,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
-        "price": 70.2,
+        "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DragonStore": {
@@ -1291,7 +1287,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "MagicMerchant": {
@@ -1952,6 +1948,10 @@
   {
     "name": "Root",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 64.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/4214-root-ita.html"
+      },
       "MagicMerchant": {
         "price": 61.65,
         "url": "https://magicmerchant.it/catalogue/root-38109/"
@@ -1967,6 +1967,10 @@
       "UPlay": {
         "price": 58.41,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
+      },
+      "LaFeltrinelli": {
+        "price": 64.9,
+        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "IlCovoDelNerd": {
         "price": 64.9,
@@ -2100,6 +2104,10 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
+      },
+      "UPlay": {
+        "price": 53.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
         "price": 56.99,
