@@ -309,6 +309,10 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
       },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
+      },
       "UPlay": {
         "price": 37.83,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-it-s-a-wonderful-world--edizione-italiana-.html"
@@ -584,10 +588,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
-      },
-      "LSGiochi": {
-        "price": 59.99,
-        "url": "https://www.lsgiochi.it/product/10098089/tiletum"
       },
       "DragonStore": {
         "price": 59.99,
@@ -1149,7 +1149,7 @@
     "name": "Dune",
     "prezzi": {
       "DungeonDice": {
-        "price": 30.0,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "GetYourFun": {
@@ -1219,10 +1219,6 @@
         "price": 98.89,
         "url": "https://magicmerchant.it/catalogue/inis-big-box-56819/"
       },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1247,10 +1243,6 @@
       "UPlay": {
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 52.81,
-        "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       },
       "LSGiochi": {
         "price": 39.9,
@@ -1623,6 +1615,10 @@
         "price": 54.99,
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
       },
+      "GetYourFun": {
+        "price": 54.99,
+        "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 46.75,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
@@ -1662,10 +1658,6 @@
   {
     "name": "Thunder Road - Vendetta",
     "prezzi": {
-      "DungeonDice": {
-        "price": 69.99,
-        "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
-      },
       "MagicMerchant": {
         "price": 69.89,
         "url": "https://magicmerchant.it/catalogue/thunder-road-vendetta-80592/"
@@ -1694,10 +1686,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
-      },
-      "Player1": {
-        "price": 45.9,
-        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "UPlay": {
         "price": 50.99,
@@ -1943,6 +1931,10 @@
       "MagicMerchant": {
         "price": 61.65,
         "url": "https://magicmerchant.it/catalogue/root-38109/"
+      },
+      "GetYourFun": {
+        "price": 64.99,
+        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
         "price": 53.9,
