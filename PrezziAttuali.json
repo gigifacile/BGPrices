@@ -28,6 +28,10 @@
   {
     "name": "Everdell Farshore",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 79.99,
+        "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
+      },
       "GetYourFun": {
         "price": 99.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
@@ -64,6 +68,10 @@
       "FantasiaStore": {
         "price": 69.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/159676-seti-ricerca-di-intelligenza-extraterrestre-ita.html"
+      },
+      "DungeonDice": {
+        "price": 69.99,
+        "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
       },
       "LaFeltrinelli": {
         "price": 71.24,
@@ -348,6 +356,10 @@
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
       },
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
+      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
@@ -355,6 +367,10 @@
       "UPlay": {
         "price": 25.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
       },
       "DragonStore": {
         "price": 29.9,
@@ -365,6 +381,10 @@
   {
     "name": "Heat",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 48.74,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
+      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
@@ -409,10 +429,6 @@
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 28.49,
-        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "LSGiochi": {
         "price": 29.99,
@@ -736,6 +752,10 @@
   {
     "name": "Fields of Arle - Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
+      },
       "GetYourFun": {
         "price": 79.99,
         "url": "https://www.getyourfun.it/019576-fields-of-arle-big-box-giochi-gestionali.html"
@@ -815,8 +835,12 @@
         "price": 29.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
       },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
+      },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 41.39,
         "url": "https://www.getyourfun.it/019780-kutna-hora-la-citta-dell-argento-giochi-gestionali.html"
       },
       "Player1": {
@@ -851,6 +875,10 @@
       "LaFeltrinelli": {
         "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
+      },
+      "IlCovoDelNerd": {
+        "price": 119.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/hegemony-versione-estesa/"
       },
       "DragonStore": {
         "price": 119.99,
@@ -937,7 +965,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 41.39,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -962,7 +990,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
       "LaFeltrinelli": {
-        "price": 53.99,
+        "price": 58.31,
         "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
       },
       "DragonStore": {
@@ -1138,6 +1166,10 @@
         "price": 32.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
       },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/25620-golem.html"
+      },
       "LaFeltrinelli": {
         "price": 34.99,
         "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
@@ -1148,7 +1180,7 @@
     "name": "Terra Nova",
     "prezzi": {
       "GetYourFun": {
-        "price": 37.49,
+        "price": 34.49,
         "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
       },
       "Player1": {
@@ -1210,7 +1242,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 77.99,
+        "price": 80.31,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "IlCovoDelNerd": {
@@ -1237,10 +1269,6 @@
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
-      },
-      "DragonStore": {
-        "price": 29.99,
-        "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
       }
     }
   },
@@ -1360,7 +1388,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
       "LaFeltrinelli": {
-        "price": 46.5,
+        "price": 51.45,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "DadiEMattoncini": {
@@ -1437,6 +1465,10 @@
       "IlCovoDelNerd": {
         "price": 54.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
+      },
+      "LSGiochi": {
+        "price": 49.99,
+        "url": "https://www.lsgiochi.it/product/18771825/dorfromantik-sakura-edizione-italiana"
       }
     }
   },
@@ -1577,6 +1609,10 @@
         "price": 55.29,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
       },
+      "DungeonDice": {
+        "price": 78.99,
+        "url": "https://www.dungeondice.it/12981-barrage.html"
+      },
       "LaFeltrinelli": {
         "price": 78.99,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
@@ -1590,6 +1626,10 @@
   {
     "name": "Nucleum",
     "prezzi": {
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/32226-nucleum.html"
+      },
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
@@ -1620,7 +1660,7 @@
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 55.19,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1645,7 +1685,7 @@
     "name": "Scythe",
     "prezzi": {
       "GetYourFun": {
-        "price": 67.49,
+        "price": 62.09,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1727,8 +1767,12 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
+      },
       "GetYourFun": {
-        "price": 22.49,
+        "price": 20.69,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
       },
       "LaFeltrinelli": {
@@ -1753,7 +1797,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "GetYourFun": {
@@ -1826,6 +1870,10 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
+      },
+      "Player1": {
+        "price": 40.9,
+        "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
         "price": 50.99,
