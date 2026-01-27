@@ -245,7 +245,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "GetYourFun": {
@@ -402,10 +402,6 @@
         "price": 22.49,
         "url": "https://fantasiastore.it/it/giochi-di-carte/29233-forest-shuffle.html"
       },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
-      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
@@ -488,12 +484,8 @@
         "price": 79.99,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
-      "UPlay": {
-        "price": 67.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
-      },
       "LaFeltrinelli": {
-        "price": 75.99,
+        "price": 79.99,
         "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
       },
       "DadiEMattoncini": {
@@ -576,6 +568,10 @@
       "GetYourFun": {
         "price": 61.66,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
+      },
+      "Player1": {
+        "price": 48.9,
+        "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
         "price": 64.9,
@@ -979,7 +975,7 @@
     "name": "Le Havre",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 24.0,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "GetYourFun": {
@@ -1014,6 +1010,10 @@
       "UPlay": {
         "price": 51.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 60.0,
+        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
       },
       "DragonStore": {
         "price": 59.99,
@@ -1853,7 +1853,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/28051-el-grande-nuova-edizione.html"
       },
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "GetYourFun": {
