@@ -430,6 +430,10 @@
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 28.49,
+        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
+      },
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/11975171/forest-shuffle"
@@ -792,10 +796,6 @@
       "UPlay": {
         "price": 37.43,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
-      },
-      "LaFeltrinelli": {
-        "price": 46.11,
-        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1261,10 +1261,6 @@
       "GetYourFun": {
         "price": 29.99,
         "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 23.9,
-        "url": "https://player1.it/prodotto/the-white-castle/"
       },
       "UPlay": {
         "price": 33.96,
