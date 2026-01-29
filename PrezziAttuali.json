@@ -78,7 +78,7 @@
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
       },
       "LaFeltrinelli": {
-        "price": 71.24,
+        "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "IlCovoDelNerd": {
@@ -265,7 +265,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "GetYourFun": {
@@ -559,16 +559,12 @@
     "name": "Nidavellir",
     "prezzi": {
       "DungeonDice": {
-        "price": 28.49,
+        "price": 37.99,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
         "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 32.29,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
       }
     }
   },
@@ -608,6 +604,10 @@
       "Player1": {
         "price": 48.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
+      },
+      "LaFeltrinelli": {
+        "price": 64.9,
+        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "DragonStore": {
         "price": 64.99,
@@ -1052,7 +1052,7 @@
     "name": "Dune",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 30.0,
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "GetYourFun": {
@@ -1204,7 +1204,7 @@
     "name": "Terra Nova",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/30238-terra-nova.html"
       },
       "GetYourFun": {
@@ -1493,10 +1493,6 @@
       "IlCovoDelNerd": {
         "price": 54.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
-      },
-      "LSGiochi": {
-        "price": 49.99,
-        "url": "https://www.lsgiochi.it/product/18771825/dorfromantik-sakura-edizione-italiana"
       }
     }
   },
