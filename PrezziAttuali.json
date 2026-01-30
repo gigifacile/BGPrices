@@ -149,7 +149,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 33.24,
+        "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -169,10 +169,6 @@
   {
     "name": "Horrified",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 41.84,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/125151-horrified.html"
-      },
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
@@ -368,10 +364,6 @@
         "price": 17.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/19885-port-royal-big-box.html"
       },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
-      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
@@ -393,10 +385,6 @@
   {
     "name": "Heat",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 48.74,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/19216-heat.html"
-      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
@@ -416,10 +404,6 @@
       "LaFeltrinelli": {
         "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
-      },
-      "DragonStore": {
-        "price": 64.99,
-        "url": "https://www.dragonstore.it/gestionali-heat-pedal-to-the-metal-italiano.1.1.385.gp.31795.uw"
       }
     }
   },
@@ -429,10 +413,6 @@
       "FantasiaStore": {
         "price": 22.49,
         "url": "https://fantasiastore.it/it/giochi-di-carte/29233-forest-shuffle.html"
-      },
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
       },
       "GetYourFun": {
         "price": 25.49,
@@ -537,10 +517,6 @@
   {
     "name": "Tiletum",
     "prezzi": {
-      "DungeonDice": {
-        "price": 59.99,
-        "url": "https://www.dungeondice.it/28624-tiletum.html"
-      },
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
@@ -565,6 +541,10 @@
       "GetYourFun": {
         "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 32.29,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
       }
     }
   },
@@ -706,10 +686,6 @@
   {
     "name": "Azul",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 31.49,
-        "url": "https://fantasiastore.it/it/grandi-classici/67024-azul.html"
-      },
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/10719-azul.html"
@@ -1605,7 +1581,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
       },
       "DungeonDice": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "GetYourFun": {
@@ -1702,10 +1678,6 @@
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
-      },
-      "DragonStore": {
-        "price": 79.99,
-        "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
       }
     }
   },
@@ -1825,7 +1797,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
       },
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "GetYourFun": {
@@ -1866,10 +1838,6 @@
   {
     "name": "Crack List",
     "prezzi": {
-      "DungeonDice": {
-        "price": 22.99,
-        "url": "https://www.dungeondice.it/32612-crack-list.html"
-      },
       "GetYourFun": {
         "price": 22.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
