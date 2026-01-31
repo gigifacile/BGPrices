@@ -1749,6 +1749,10 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1968,10 +1972,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
-      },
-      "GetYourFun": {
-        "price": 56.95,
-        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
