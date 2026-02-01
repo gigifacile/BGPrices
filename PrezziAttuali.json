@@ -102,6 +102,10 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
       },
+      "GetYourFun": {
+        "price": 55.24,
+        "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 61.16,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
@@ -589,10 +593,6 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 50.04,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/378-viticulture-essential-edition.html"
-      },
       "GetYourFun": {
         "price": 61.66,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
@@ -1097,6 +1097,10 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
