@@ -657,7 +657,7 @@
     "name": "Bonfire",
     "prezzi": {
       "FantasiaStore": {
-        "price": 45.64,
+        "price": 54.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12977-bonfire.html"
       },
       "UPlay": {
@@ -1098,10 +1098,6 @@
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1541,10 +1537,6 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
       },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
-      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/wargames-dune-imperium-insurrezione.1.1.117.gp.33393.uw"
@@ -1956,10 +1948,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
-      },
-      "GetYourFun": {
-        "price": 56.95,
-        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
