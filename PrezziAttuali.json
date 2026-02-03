@@ -98,6 +98,10 @@
   {
     "name": "Arcs",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 51.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/186086-arcs-conflitti-e-collasso-nellorlo-ita.html"
+      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
@@ -119,6 +123,10 @@
   {
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
+      "DungeonDice": {
+        "price": 35.0,
+        "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
+      },
       "GetYourFun": {
         "price": 66.41,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
@@ -130,6 +138,10 @@
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/17525449/cyclades-edizione-leggendaria"
+      },
+      "DragonStore": {
+        "price": 69.99,
+        "url": "https://www.dragonstore.it/fantasy-cyclades-edizione-leggendaria.1.1.116.gp.33683.uw"
       }
     }
   },
@@ -155,10 +167,6 @@
       "UPlay": {
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 34.99,
-        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
         "price": 34.99,
@@ -300,10 +308,6 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -1927,6 +1931,10 @@
       "FantasiaStore": {
         "price": 39.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/28051-el-grande-nuova-edizione.html"
+      },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "GetYourFun": {
         "price": 49.99,
