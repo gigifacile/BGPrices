@@ -860,7 +860,7 @@
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "GetYourFun": {
-        "price": 52.79,
+        "price": 41.39,
         "url": "https://www.getyourfun.it/019780-kutna-hora-la-citta-dell-argento-giochi-gestionali.html"
       },
       "Player1": {
@@ -955,10 +955,6 @@
   {
     "name": "Viandanti a Sud del Tigri",
     "prezzi": {
-      "GetYourFun": {
-        "price": 22.5,
-        "url": "https://www.getyourfun.it/013185-viandanti-a-sud-del-tigri-giochi-gestionali.html"
-      },
       "Player1": {
         "price": 24.9,
         "url": "https://player1.it/prodotto/viandanti-a-sud-del-tigri/"
@@ -985,7 +981,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 50.99,
+        "price": 41.39,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1204,7 +1200,7 @@
         "url": "https://www.dungeondice.it/30238-terra-nova.html"
       },
       "GetYourFun": {
-        "price": 43.99,
+        "price": 34.49,
         "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
       },
       "Player1": {
@@ -1725,7 +1721,7 @@
     "name": "Scythe",
     "prezzi": {
       "GetYourFun": {
-        "price": 76.42,
+        "price": 62.03,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1816,7 +1812,7 @@
         "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
       },
       "GetYourFun": {
-        "price": 25.49,
+        "price": 20.69,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
       },
       "LaFeltrinelli": {
@@ -1936,10 +1932,6 @@
   {
     "name": "El Grande",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 39.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/28051-el-grande-nuova-edizione.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
@@ -1972,10 +1964,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
-      },
-      "GetYourFun": {
-        "price": 56.95,
-        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
