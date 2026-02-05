@@ -37,7 +37,7 @@
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "GetYourFun": {
-        "price": 99.99,
+        "price": 74.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
       "Player1": {
@@ -124,7 +124,7 @@
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
       "GetYourFun": {
-        "price": 66.41,
+        "price": 69.9,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -149,7 +149,7 @@
         "url": "https://www.dungeondice.it/27178-harmonies.html"
       },
       "GetYourFun": {
-        "price": 34.99,
+        "price": 26.24,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -201,10 +201,6 @@
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
-      "DadiEMattoncini": {
-        "price": 39.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
-      },
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/13639084/horrified-edizione-italiana"
@@ -215,7 +211,7 @@
     "name": "Great Western Trail - Nuova Zelanda",
     "prezzi": {
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
       },
       "Player1": {
@@ -225,10 +221,6 @@
       "UPlay": {
         "price": 50.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-great-western-trail--nuova-zelanda.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.42,
-        "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
@@ -247,6 +239,10 @@
   {
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
+      },
       "Player1": {
         "price": 39.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
@@ -254,10 +250,6 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -380,6 +372,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
+      },
       "GetYourFun": {
         "price": 25.42,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
@@ -432,6 +428,10 @@
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/10217311/heat-pedal-to-the-metal"
+      },
+      "DragonStore": {
+        "price": 64.99,
+        "url": "https://www.dragonstore.it/gestionali-heat-pedal-to-the-metal-italiano.1.1.385.gp.31795.uw"
       }
     }
   },
@@ -567,7 +567,7 @@
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
-        "price": 37.99,
+        "price": 28.49,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
       },
       "UPlay": {
@@ -605,8 +605,12 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
+      },
       "GetYourFun": {
-        "price": 61.66,
+        "price": 44.78,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "Player1": {
@@ -704,6 +708,10 @@
       "GetYourFun": {
         "price": 53.99,
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
+      },
+      "DragonStore": {
+        "price": 34.9,
+        "url": "https://www.dragonstore.it/fantasy-earth-italiano.1.1.116.gp.31899.uw"
       }
     }
   },
@@ -777,7 +785,7 @@
         "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
       },
       "GetYourFun": {
-        "price": 79.99,
+        "price": 67.99,
         "url": "https://www.getyourfun.it/019576-fields-of-arle-big-box-giochi-gestionali.html"
       },
       "UPlay": {
@@ -835,7 +843,7 @@
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "GetYourFun": {
-        "price": 55.99,
+        "price": 41.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
       "UPlay": {
@@ -889,7 +897,7 @@
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
       "GetYourFun": {
-        "price": 113.91,
+        "price": 82.73,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
@@ -998,7 +1006,7 @@
         "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
       },
       "GetYourFun": {
-        "price": 46.99,
+        "price": 35.24,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1019,7 +1027,7 @@
     "name": "Le Havre",
     "prezzi": {
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
@@ -1044,7 +1052,7 @@
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -1101,10 +1109,6 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
@@ -1383,7 +1387,7 @@
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
       "GetYourFun": {
-        "price": 16.9,
+        "price": 12.68,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
       },
       "UPlay": {
@@ -1462,7 +1466,7 @@
     "name": "Orléans",
     "prezzi": {
       "GetYourFun": {
-        "price": 49.99,
+        "price": 47.49,
         "url": "https://www.getyourfun.it/0651-orleans-giochi-gestionali.html"
       }
     }
@@ -1489,6 +1493,10 @@
       "IlCovoDelNerd": {
         "price": 54.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
+      },
+      "DragonStore": {
+        "price": 54.99,
+        "url": "https://www.dragonstore.it/gestionali-dorfromantik-sakura-edizione-italiana.1.1.385.gp.34169.uw"
       }
     }
   },
@@ -1498,12 +1506,7 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 47.08,
-        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Karak",
@@ -1517,7 +1520,7 @@
     "name": "Thunder Road - Vendetta",
     "prezzi": {
       "GetYourFun": {
-        "price": 69.99,
+        "price": 52.49,
         "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -1571,7 +1574,7 @@
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
       },
       "GetYourFun": {
-        "price": 49.99,
+        "price": 37.49,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1617,7 +1620,7 @@
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
       },
       "Player1": {
@@ -1775,7 +1778,7 @@
         "url": "https://www.dungeondice.it/18526-root.html"
       },
       "GetYourFun": {
-        "price": 64.99,
+        "price": 61.74,
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1841,7 +1844,7 @@
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
@@ -1904,7 +1907,7 @@
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
@@ -1937,7 +1940,7 @@
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "GetYourFun": {
-        "price": 49.99,
+        "price": 37.49,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "UPlay": {
