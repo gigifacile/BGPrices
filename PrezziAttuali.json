@@ -144,10 +144,6 @@
   {
     "name": "Harmonies",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 26.24,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/100246-harmonies.html"
-      },
       "DungeonDice": {
         "price": 34.99,
         "url": "https://www.dungeondice.it/27178-harmonies.html"
@@ -171,6 +167,10 @@
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 34.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/harmonies/"
       },
       "LSGiochi": {
         "price": 34.99,
@@ -277,7 +277,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "GetYourFun": {
@@ -325,6 +325,10 @@
       "FantasiaStore": {
         "price": 35.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
       },
       "IlCovoDelNerd": {
         "price": 49.9,
@@ -671,6 +675,10 @@
       "UPlay": {
         "price": 46.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-bonfire--edizione-italiana-.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 54.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
       }
     }
   },
@@ -1025,6 +1033,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-havre--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
   },
@@ -1032,7 +1044,7 @@
     "name": "Dune",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 30.0,
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "GetYourFun": {
@@ -1080,6 +1092,10 @@
       "UPlay": {
         "price": 59.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
       }
     }
   },
@@ -1252,6 +1268,10 @@
       "LaFeltrinelli": {
         "price": 80.31,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
+      },
+      "IlCovoDelNerd": {
+        "price": 64.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/yokohama/"
       }
     }
   },
@@ -1694,6 +1714,10 @@
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
+      },
+      "LSGiochi": {
+        "price": 79.99,
+        "url": "https://www.lsgiochi.it/product/10018403/spirit-island"
       }
     }
   },
