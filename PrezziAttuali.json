@@ -98,10 +98,6 @@
   {
     "name": "Arcs",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 51.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/186086-arcs-conflitti-e-collasso-nellorlo-ita.html"
-      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
@@ -190,7 +186,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 38.21,
+        "price": 44.95,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -384,10 +380,6 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
-      },
       "GetYourFun": {
         "price": 25.42,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
@@ -617,10 +609,6 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
-      "DungeonDice": {
-        "price": 64.99,
-        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
-      },
       "GetYourFun": {
         "price": 44.78,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
@@ -905,7 +893,7 @@
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
       "GetYourFun": {
-        "price": 82.73,
+        "price": 101.92,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
@@ -997,7 +985,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 41.39,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1117,6 +1105,10 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
@@ -1988,6 +1980,10 @@
       "DungeonDice": {
         "price": 35.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
+      },
+      "GetYourFun": {
+        "price": 59.95,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
