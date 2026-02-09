@@ -88,10 +88,6 @@
       "IlCovoDelNerd": {
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
-      },
-      "LSGiochi": {
-        "price": 55.99,
-        "url": "https://www.lsgiochi.it/product/14550172/seti-search-for-extraterrestrial-intelligence-italiano"
       }
     }
   },
@@ -273,7 +269,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "GetYourFun": {
@@ -776,10 +772,6 @@
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-fields-of-arle--big-box.html"
       },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
-      },
       "LSGiochi": {
         "price": 79.99,
         "url": "https://www.lsgiochi.it/product/12086390/fields-of-arle-big-box"
@@ -1032,7 +1024,7 @@
     "name": "Dune",
     "prezzi": {
       "DungeonDice": {
-        "price": 30.0,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "GetYourFun": {
