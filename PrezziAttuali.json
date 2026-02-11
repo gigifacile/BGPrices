@@ -78,7 +78,7 @@
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 74.99,
+        "price": 71.24,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "IlCovoDelNerd": {
@@ -90,6 +90,10 @@
   {
     "name": "Arcs",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 51.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/186086-arcs-conflitti-e-collasso-nellorlo-ita.html"
+      },
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
@@ -111,6 +115,10 @@
   {
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
+      "DungeonDice": {
+        "price": 35.0,
+        "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
+      },
       "GetYourFun": {
         "price": 69.9,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
@@ -289,6 +297,10 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
       },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
+      },
       "UPlay": {
         "price": 37.83,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-it-s-a-wonderful-world--edizione-italiana-.html"
@@ -327,10 +339,6 @@
   {
     "name": "Captain Flip",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 20.64,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/84908-captain-flip.html"
-      },
       "DungeonDice": {
         "price": 26.99,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
@@ -398,7 +406,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
-        "price": 64.99,
+        "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DadiEMattoncini": {
@@ -435,7 +443,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "LSGiochi": {
@@ -651,6 +659,10 @@
       "UPlay": {
         "price": 46.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-bonfire--edizione-italiana-.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 54.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
       }
     }
   },
@@ -860,6 +872,10 @@
         "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
+      "Player1": {
+        "price": 94.9,
+        "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
+      },
       "LaFeltrinelli": {
         "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
@@ -890,6 +906,10 @@
   {
     "name": "Apiary",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 50.39,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
+      },
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
@@ -923,10 +943,6 @@
   {
     "name": "Viandanti a Sud del Tigri",
     "prezzi": {
-      "Player1": {
-        "price": 24.9,
-        "url": "https://player1.it/prodotto/viandanti-a-sud-del-tigri/"
-      },
       "UPlay": {
         "price": 37.75,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
@@ -1117,6 +1133,10 @@
   {
     "name": "Starship Captains",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 14.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
@@ -1128,6 +1148,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
   },
@@ -1168,7 +1192,7 @@
         "url": "https://player1.it/prodotto/terra-nova/"
       },
       "UPlay": {
-        "price": 29.99,
+        "price": 36.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -1253,10 +1277,6 @@
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
-      },
-      "DragonStore": {
-        "price": 29.99,
-        "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
       }
     }
   },
@@ -1366,6 +1386,14 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
+      },
+      "LSGiochi": {
+        "price": 44.99,
+        "url": "https://www.lsgiochi.it/product/10049239/ciarlatani-di-quedlinburgo"
+      },
+      "DragonStore": {
+        "price": 44.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-ciarlatani-di-quedlinburgo.1.1.115.gp.27384.uw"
       }
     }
   },
@@ -1531,7 +1559,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
       },
       "LaFeltrinelli": {
-        "price": 59.99,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "DragonStore": {
@@ -1566,10 +1594,6 @@
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 49.99,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/dune-imperium/"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1698,7 +1722,7 @@
     "name": "Scythe",
     "prezzi": {
       "GetYourFun": {
-        "price": 62.03,
+        "price": 76.42,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1914,7 +1938,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 49.99,
+        "price": 47.49,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
