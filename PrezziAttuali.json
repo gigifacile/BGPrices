@@ -269,7 +269,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "GetYourFun": {
@@ -508,6 +508,10 @@
         "price": 79.99,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 67.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
+      },
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
@@ -594,7 +598,7 @@
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "Player1": {
-        "price": 48.9,
+        "price": 52.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
@@ -872,6 +876,10 @@
         "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
+      "GetYourFun": {
+        "price": 101.92,
+        "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 94.9,
         "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
@@ -1020,7 +1028,7 @@
     "name": "Dune",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 30.0,
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "GetYourFun": {
@@ -1387,6 +1395,10 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
       },
+      "UPlay": {
+        "price": 38.24,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
+      },
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/10049239/ciarlatani-di-quedlinburgo"
@@ -1745,6 +1757,10 @@
       "DungeonDice": {
         "price": 23.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
