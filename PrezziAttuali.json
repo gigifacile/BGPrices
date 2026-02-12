@@ -73,10 +73,6 @@
         "price": 69.99,
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
       },
-      "GetYourFun": {
-        "price": 61.59,
-        "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
-      },
       "LaFeltrinelli": {
         "price": 71.24,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
@@ -317,10 +313,6 @@
       "FantasiaStore": {
         "price": 35.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
       },
       "IlCovoDelNerd": {
         "price": 49.9,
@@ -1090,10 +1082,6 @@
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1285,6 +1273,10 @@
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
+      },
+      "DragonStore": {
+        "price": 29.99,
+        "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
       }
     }
   },
@@ -1973,10 +1965,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
-      },
-      "GetYourFun": {
-        "price": 59.95,
-        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
