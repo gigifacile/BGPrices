@@ -119,10 +119,6 @@
   {
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
-      "DungeonDice": {
-        "price": 35.0,
-        "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
-      },
       "GetYourFun": {
         "price": 69.9,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
@@ -152,10 +148,6 @@
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 33.24,
-        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
@@ -182,7 +174,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 44.95,
+        "price": 38.21,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -300,10 +292,6 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -652,7 +640,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
       "LaFeltrinelli": {
-        "price": 109.99,
+        "price": 104.49,
         "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       },
       "LSGiochi": {
@@ -710,10 +698,6 @@
   {
     "name": "Azul",
     "prezzi": {
-      "DungeonDice": {
-        "price": 44.99,
-        "url": "https://www.dungeondice.it/10719-azul.html"
-      },
       "GetYourFun": {
         "price": 44.9,
         "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
@@ -787,10 +771,6 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-fields-of-arle--big-box.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
       },
       "LSGiochi": {
         "price": 79.99,
@@ -1013,6 +993,10 @@
         "price": 39.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
+      "LaFeltrinelli": {
+        "price": 53.99,
+        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
+      },
       "DragonStore": {
         "price": 37.6,
         "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
@@ -1029,6 +1013,10 @@
       "Player1": {
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-havre/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
   },
@@ -1285,10 +1273,6 @@
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
-      },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
       }
     }
   },
@@ -1787,6 +1771,10 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1885,10 +1873,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
-      },
-      "LSGiochi": {
-        "price": 59.99,
-        "url": "https://www.lsgiochi.it/product/11986021/ratti-di-wistar"
       },
       "DragonStore": {
         "price": 47.99,
