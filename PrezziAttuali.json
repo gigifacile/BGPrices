@@ -164,6 +164,10 @@
         "price": 34.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/harmonies/"
       },
+      "LSGiochi": {
+        "price": 34.99,
+        "url": "https://www.lsgiochi.it/product/14195265/harmonies"
+      },
       "DragonStore": {
         "price": 27.99,
         "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
@@ -176,10 +180,6 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/32494-horrified.html"
-      },
-      "GetYourFun": {
-        "price": 38.21,
-        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
         "price": 38.24,
@@ -203,7 +203,7 @@
     "name": "Great Western Trail - Nuova Zelanda",
     "prezzi": {
       "GetYourFun": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
       },
       "Player1": {
@@ -272,10 +272,6 @@
         "price": 63.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
-      "GetYourFun": {
-        "price": 79.9,
-        "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 59.93,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
@@ -296,10 +292,6 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -571,10 +563,6 @@
         "price": 49.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
       },
-      "GetYourFun": {
-        "price": 42.42,
-        "url": "https://www.getyourfun.it/0739-dominion-nasce-un-regno-giochi-di-carte.html"
-      },
       "DragonStore": {
         "price": 39.92,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
@@ -725,6 +713,10 @@
       "LaFeltrinelli": {
         "price": 42.74,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
+      "LSGiochi": {
+        "price": 44.99,
+        "url": "https://www.lsgiochi.it/product/10101293/azul"
       }
     }
   },
@@ -773,7 +765,7 @@
         "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
       },
       "GetYourFun": {
-        "price": 67.99,
+        "price": 79.99,
         "url": "https://www.getyourfun.it/019576-fields-of-arle-big-box-giochi-gestionali.html"
       },
       "UPlay": {
@@ -909,6 +901,10 @@
   {
     "name": "Village Big Box",
     "prezzi": {
+      "GetYourFun": {
+        "price": 52.0,
+        "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 87.99,
         "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
@@ -1015,12 +1011,16 @@
     "name": "Le Havre",
     "prezzi": {
       "GetYourFun": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-havre/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
   },
@@ -1270,10 +1270,6 @@
         "price": 29.99,
         "url": "https://www.dungeondice.it/31788-the-white-castle.html"
       },
-      "GetYourFun": {
-        "price": 29.99,
-        "url": "https://www.getyourfun.it/019711-the-white-castle-giochi-gestionali.html"
-      },
       "UPlay": {
         "price": 33.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
@@ -1511,7 +1507,12 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 47.08,
+        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
+      }
+    }
   },
   {
     "name": "Karak",
@@ -1670,6 +1671,10 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      },
       "UPlay": {
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
@@ -1800,7 +1805,7 @@
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "UPlay": {
-        "price": 58.41,
+        "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
       "DadiEMattoncini": {
