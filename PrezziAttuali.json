@@ -148,6 +148,10 @@
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 33.24,
+        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
+      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
@@ -174,7 +178,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 38.21,
+        "price": 44.95,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -381,10 +385,6 @@
   {
     "name": "Heat",
     "prezzi": {
-      "DungeonDice": {
-        "price": 64.99,
-        "url": "https://www.dungeondice.it/29880-heat.html"
-      },
       "GetYourFun": {
         "price": 64.99,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
@@ -772,6 +772,10 @@
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-fields-of-arle--big-box.html"
       },
+      "LaFeltrinelli": {
+        "price": 79.99,
+        "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
+      },
       "LSGiochi": {
         "price": 79.99,
         "url": "https://www.lsgiochi.it/product/12086390/fields-of-arle-big-box"
@@ -969,7 +973,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 41.39,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1024,7 +1028,7 @@
     "name": "Dune",
     "prezzi": {
       "DungeonDice": {
-        "price": 30.0,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "GetYourFun": {
@@ -1801,12 +1805,8 @@
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "UPlay": {
-        "price": 67.14,
+        "price": 58.41,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
-      },
-      "DadiEMattoncini": {
-        "price": 64.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       },
       "IlCovoDelNerd": {
         "price": 64.9,
