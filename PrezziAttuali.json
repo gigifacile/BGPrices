@@ -103,7 +103,7 @@
         "url": "https://www.dungeondice.it/22972-arcs.html"
       },
       "GetYourFun": {
-        "price": 44.84,
+        "price": 55.24,
         "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -200,6 +200,10 @@
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/13639084/horrified-edizione-italiana"
+      },
+      "DragonStore": {
+        "price": 35.99,
+        "url": "https://www.dragonstore.it/horror-horrified-edizione-italiana.1.1.386.gp.32796.uw"
       }
     }
   },
@@ -322,10 +326,6 @@
         "price": 35.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
       },
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
-      },
       "IlCovoDelNerd": {
         "price": 49.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/trajan-deluxe/"
@@ -446,10 +446,6 @@
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/11975171/forest-shuffle"
-      },
       "DragonStore": {
         "price": 23.99,
         "url": "https://www.dragonstore.it/classici-famiglia-forest-shuffle-italiano.1.1.115.gp.32727.uw"
@@ -490,10 +486,6 @@
       "LSGiochi": {
         "price": 47.99,
         "url": "https://www.lsgiochi.it/product/10130291/agricola"
-      },
-      "DragonStore": {
-        "price": 47.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-agricola-nuova-edizione.1.1.115.gp.9340.uw"
       }
     }
   },
@@ -507,10 +499,6 @@
       "GetYourFun": {
         "price": 79.99,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 54.9,
-        "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
       },
       "UPlay": {
         "price": 67.99,
@@ -675,6 +663,10 @@
       "IlCovoDelNerd": {
         "price": 54.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
+      },
+      "DragonStore": {
+        "price": 43.99,
+        "url": "https://www.dragonstore.it/gestionali-bonfire-italiano.1.1.385.gp.28000.uw"
       }
     }
   },
@@ -831,7 +823,7 @@
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "GetYourFun": {
-        "price": 41.99,
+        "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1018,6 +1010,10 @@
   {
     "name": "Le Havre",
     "prezzi": {
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/3780-le-havre.html"
+      },
       "GetYourFun": {
         "price": 44.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
@@ -1748,6 +1744,10 @@
       "LSGiochi": {
         "price": 79.99,
         "url": "https://www.lsgiochi.it/product/10018403/spirit-island"
+      },
+      "DragonStore": {
+        "price": 63.99,
+        "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
       }
     }
   },
@@ -1890,7 +1890,12 @@
   },
   {
     "name": "Evenfall",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 45.3,
+        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
+      }
+    }
   },
   {
     "name": "Crack List",
@@ -1952,10 +1957,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
-      },
-      "GetYourFun": {
-        "price": 49.99,
-        "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 42.49,
