@@ -57,7 +57,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
       },
       "LSGiochi": {
-        "price": 99.99,
+        "price": 79.99,
         "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
       }
     }
@@ -136,6 +136,10 @@
   {
     "name": "Harmonies",
     "prezzi": {
+      "DungeonDice": {
+        "price": 34.99,
+        "url": "https://www.dungeondice.it/27178-harmonies.html"
+      },
       "GetYourFun": {
         "price": 26.24,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
@@ -507,6 +511,10 @@
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
+      },
+      "UPlay": {
+        "price": 67.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -1882,12 +1890,7 @@
   },
   {
     "name": "Evenfall",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 45.3,
-        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Crack List",
