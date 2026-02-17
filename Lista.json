@@ -290,7 +290,7 @@
   },
   {
     "name": "Agricola",
-    "threshold": 38.9,
+    "threshold": 30.0,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/2566-agricola.html",
       "https://www.dungeondice.it/21782-agricola.html",
@@ -577,7 +577,7 @@
   },
   {
     "name": "Kutná Hora - La Città dell'Argento",
-    "threshold": 29.99,
+    "threshold": 24.0,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html",
       "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html",
@@ -1248,7 +1248,7 @@
   },
   {
     "name": "Nucleum",
-    "threshold": 33.99,
+    "threshold": 29.99,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html",
       "https://www.dungeondice.it/32226-nucleum.html",
@@ -1346,7 +1346,7 @@
   },
   {
     "name": "Ratti di Wistar",
-    "threshold": 30.0,
+    "threshold": 29.99,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html",
       "https://www.dungeondice.it/31616-ratti-di-wistar.html",
