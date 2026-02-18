@@ -178,7 +178,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 44.95,
+        "price": 38.21,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -250,10 +250,6 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -772,10 +768,6 @@
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-fields-of-arle--big-box.html"
       },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
-      },
       "LSGiochi": {
         "price": 79.99,
         "url": "https://www.lsgiochi.it/product/12086390/fields-of-arle-big-box"
@@ -872,10 +864,6 @@
   {
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
-      "DungeonDice": {
-        "price": 119.99,
-        "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
-      },
       "GetYourFun": {
         "price": 101.92,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
@@ -1953,10 +1941,6 @@
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 47.49,
-        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 39.99,
