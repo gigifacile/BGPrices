@@ -102,6 +102,10 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
       },
+      "GetYourFun": {
+        "price": 55.24,
+        "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 61.16,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
@@ -135,10 +139,6 @@
       "DungeonDice": {
         "price": 34.99,
         "url": "https://www.dungeondice.it/27178-harmonies.html"
-      },
-      "GetYourFun": {
-        "price": 26.24,
-        "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 25.9,
@@ -300,10 +300,6 @@
       "DungeonDice": {
         "price": 33.74,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -698,6 +694,10 @@
   {
     "name": "Azul",
     "prezzi": {
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/10719-azul.html"
+      },
       "GetYourFun": {
         "price": 44.9,
         "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
@@ -975,6 +975,10 @@
       "GetYourFun": {
         "price": 41.39,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1191,6 +1195,10 @@
         "price": 49.99,
         "url": "https://www.dungeondice.it/30238-terra-nova.html"
       },
+      "GetYourFun": {
+        "price": 43.99,
+        "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/terra-nova/"
@@ -1386,10 +1394,6 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
-      },
-      "UPlay": {
-        "price": 38.24,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
       },
       "LSGiochi": {
         "price": 44.99,
@@ -1775,10 +1779,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1805,7 +1805,7 @@
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "UPlay": {
-        "price": 58.41,
+        "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
       "IlCovoDelNerd": {
