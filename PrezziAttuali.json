@@ -124,7 +124,7 @@
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
       },
       "GetYourFun": {
-        "price": 69.9,
+        "price": 69.99,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -186,7 +186,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 38.21,
+        "price": 38.24,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -281,11 +281,11 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
       },
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "GetYourFun": {
-        "price": 79.9,
+        "price": 79.99,
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
       },
       "UPlay": {
@@ -373,7 +373,7 @@
     "name": "Port Royal Big Box",
     "prezzi": {
       "GetYourFun": {
-        "price": 25.42,
+        "price": 25.49,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
       },
       "UPlay": {
@@ -542,17 +542,9 @@
   {
     "name": "Nidavellir",
     "prezzi": {
-      "DungeonDice": {
-        "price": 28.49,
-        "url": "https://www.dungeondice.it/23035-nidavellir.html"
-      },
       "GetYourFun": {
-        "price": 28.49,
+        "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 32.29,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
       }
     }
   },
@@ -594,7 +586,7 @@
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
       "GetYourFun": {
-        "price": 44.78,
+        "price": 44.84,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "Player1": {
@@ -703,7 +695,7 @@
         "url": "https://www.dungeondice.it/10719-azul.html"
       },
       "GetYourFun": {
-        "price": 44.9,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
       },
       "Player1": {
@@ -877,7 +869,7 @@
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
       "GetYourFun": {
-        "price": 101.92,
+        "price": 101.99,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
       },
       "Player1": {
@@ -923,7 +915,7 @@
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "GetYourFun": {
-        "price": 67.92,
+        "price": 67.99,
         "url": "https://www.getyourfun.it/019812--apiary-giochi-gestionali.html"
       },
       "Player1": {
@@ -1250,7 +1242,7 @@
     "name": "Yokohama - Seconda Edizione",
     "prezzi": {
       "GetYourFun": {
-        "price": 64.9,
+        "price": 64.99,
         "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1375,7 +1367,7 @@
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
       "GetYourFun": {
-        "price": 12.68,
+        "price": 12.74,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
       },
       "UPlay": {
@@ -1547,10 +1539,6 @@
   {
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 50.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/135803-dune-imperium-insurrezione-ita.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
@@ -1747,7 +1735,7 @@
         "url": "https://www.dungeondice.it/6038-scythe.html"
       },
       "GetYourFun": {
-        "price": 76.42,
+        "price": 76.49,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1813,7 +1801,7 @@
         "url": "https://player1.it/prodotto/root/"
       },
       "UPlay": {
-        "price": 67.14,
+        "price": 58.41,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
       "IlCovoDelNerd": {
@@ -1980,7 +1968,7 @@
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
       },
       "GetYourFun": {
-        "price": 59.95,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
