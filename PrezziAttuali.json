@@ -247,6 +247,10 @@
   {
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 39.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/21270-aeons-end-ita.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
@@ -551,6 +555,10 @@
   {
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 37.49,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
@@ -1002,6 +1010,10 @@
   {
     "name": "Le Havre",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 29.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/23241-le-havre.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
@@ -1089,10 +1101,6 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
@@ -1241,6 +1249,10 @@
   {
     "name": "Yokohama - Seconda Edizione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 48.74,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html"
+      },
       "GetYourFun": {
         "price": 64.99,
         "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
@@ -1387,6 +1399,10 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
       },
+      "UPlay": {
+        "price": 47.23,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
+      },
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/10049239/ciarlatani-di-quedlinburgo"
@@ -1508,12 +1524,7 @@
   },
   {
     "name": "Flip 7",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/37331-flip-7.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Thunder Road - Vendetta",
@@ -1539,6 +1550,10 @@
   {
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 50.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/135803-dune-imperium-insurrezione-ita.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
@@ -1746,10 +1761,6 @@
         "price": 76.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
       },
-      "DadiEMattoncini": {
-        "price": 89.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
-      },
       "DragonStore": {
         "price": 71.99,
         "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
@@ -1811,10 +1822,6 @@
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/9981966/root"
-      },
-      "DragonStore": {
-        "price": 51.99,
-        "url": "https://www.dragonstore.it/fantasy-root-italiano.1.1.116.gp.26074.uw"
       }
     }
   },
