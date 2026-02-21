@@ -18,6 +18,10 @@
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/34459-castle-combo.html"
+      },
+      "GetYourFun": {
+        "price": 24.99,
+        "url": "https://www.getyourfun.it/036033-castle-combo-giochi-di-carte.html"
       }
     }
   },
@@ -182,7 +186,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 38.24,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -233,6 +237,10 @@
       "LSGiochi": {
         "price": 59.99,
         "url": "https://www.lsgiochi.it/product/12323854/great-western-trail-nuova-zelanda"
+      },
+      "DragonStore": {
+        "price": 47.92,
+        "url": "https://www.dragonstore.it/wargames-great-western-trail-nuova-zelanda-italiano.1.1.117.gp.32348.uw"
       }
     }
   },
@@ -304,6 +312,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -512,6 +524,10 @@
         "price": 67.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
+      "LaFeltrinelli": {
+        "price": 79.99,
+        "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
+      },
       "DadiEMattoncini": {
         "price": 79.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/terra-mystica-%E2%80%93-l%E2%80%99era-delle-scoperte.html"
@@ -547,8 +563,12 @@
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
-        "price": 37.99,
+        "price": 28.49,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 32.29,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-nidavellir--edizione-italiana-.html"
       }
     }
   },
@@ -981,7 +1001,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 41.39,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1109,6 +1129,10 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "UPlay": {
         "price": 84.14,
@@ -1704,7 +1728,7 @@
     "name": "Nucleum",
     "prezzi": {
       "FantasiaStore": {
-        "price": 44.99,
+        "price": 50.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
       },
       "DungeonDice": {
@@ -1797,10 +1821,6 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
