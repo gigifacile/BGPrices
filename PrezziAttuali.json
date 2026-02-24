@@ -32,10 +32,6 @@
         "price": 79.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
       },
-      "DungeonDice": {
-        "price": 50.0,
-        "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
-      },
       "GetYourFun": {
         "price": 74.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
@@ -57,7 +53,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
       },
       "LSGiochi": {
-        "price": 79.99,
+        "price": 99.99,
         "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
       },
       "DragonStore": {
@@ -409,10 +405,6 @@
         "price": 64.99,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
-      "Player1": {
-        "price": 47.9,
-        "url": "https://player1.it/prodotto/heat/"
-      },
       "UPlay": {
         "price": 55.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
@@ -428,10 +420,6 @@
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/10217311/heat-pedal-to-the-metal"
-      },
-      "DragonStore": {
-        "price": 64.99,
-        "url": "https://www.dragonstore.it/gestionali-heat-pedal-to-the-metal-italiano.1.1.385.gp.31795.uw"
       }
     }
   },
@@ -985,7 +973,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 41.39,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1416,7 +1404,7 @@
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
       },
       "UPlay": {
-        "price": 47.23,
+        "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
       },
       "LaFeltrinelli": {
@@ -1443,10 +1431,6 @@
       "LaFeltrinelli": {
         "price": 46.5,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
-      "DadiEMattoncini": {
-        "price": 34.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
       },
       "IlCovoDelNerd": {
         "price": 30.0,
@@ -2001,6 +1985,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
