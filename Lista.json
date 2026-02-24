@@ -21,7 +21,7 @@
   },
   {
     "name": "Everdell Farshore",
-    "threshold": 59.99,
+    "threshold": 50.0,
     "links": [
       "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html",
       "https://www.dungeondice.it/24508-everdell-farshore.html",
@@ -414,7 +414,7 @@
   },
   {
     "name": "Rising Sun",
-    "threshold": 76.93,
+    "threshold": 54.99,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/1476-rising-sun.html",
       "https://www.dungeondice.it/10533-rising-sun.html",
@@ -503,7 +503,7 @@
   },
   {
     "name": "Seasons",
-    "threshold": 29.9,
+    "threshold": 24.99,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html",
       "https://www.dungeondice.it/6052-seasons.html",
@@ -1214,7 +1214,7 @@
   },
   {
     "name": "Concordia",
-    "threshold": 40.9,
+    "threshold": 35.99,
     "links": [
       "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html",
       "https://www.dungeondice.it/1757-concordia.html",
