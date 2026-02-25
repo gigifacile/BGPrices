@@ -36,10 +36,6 @@
         "price": 74.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 75.9,
-        "url": "https://player1.it/prodotto/everdell-farshore/"
-      },
       "UPlay": {
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
@@ -80,10 +76,6 @@
       "Player1": {
         "price": 58.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
-      },
-      "LaFeltrinelli": {
-        "price": 74.99,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "IlCovoDelNerd": {
         "price": 60.1,
@@ -188,6 +180,10 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
+      },
+      "LaFeltrinelli": {
+        "price": 42.74,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
         "price": 39.99,
@@ -1903,10 +1899,6 @@
       "GetYourFun": {
         "price": 44.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
-      },
-      "Player1": {
-        "price": 40.9,
-        "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
         "price": 50.99,
