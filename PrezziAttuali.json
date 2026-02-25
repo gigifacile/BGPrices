@@ -189,10 +189,6 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-horrified-universal-monsters.html"
       },
-      "LaFeltrinelli": {
-        "price": 42.74,
-        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
-      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -397,10 +393,6 @@
   {
     "name": "Heat",
     "prezzi": {
-      "DungeonDice": {
-        "price": 64.99,
-        "url": "https://www.dungeondice.it/29880-heat.html"
-      },
       "GetYourFun": {
         "price": 64.99,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
@@ -468,7 +460,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2566-agricola.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 56.99,
         "url": "https://www.getyourfun.it/029-agricola-giochi-gestionali.html"
       },
       "UPlay": {
@@ -507,10 +499,6 @@
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
-      },
-      "UPlay": {
-        "price": 67.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -631,10 +619,6 @@
   {
     "name": "Rising Sun",
     "prezzi": {
-      "DungeonDice": {
-        "price": 54.99,
-        "url": "https://www.dungeondice.it/10533-rising-sun.html"
-      },
       "GetYourFun": {
         "price": 109.99,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
@@ -919,7 +903,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "GetYourFun": {
@@ -973,12 +957,8 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 41.39,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
-      },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1323,10 +1303,6 @@
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
-      "DadiEMattoncini": {
-        "price": 29.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/mlem-agenzia-spaziale.html"
-      },
       "IlCovoDelNerd": {
         "price": 25.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
@@ -1538,7 +1514,7 @@
         "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
       },
       "GetYourFun": {
-        "price": 52.49,
+        "price": 69.99,
         "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
       },
       "UPlay": {
