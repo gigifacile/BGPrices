@@ -148,6 +148,10 @@
         "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
+      },
       "IlCovoDelNerd": {
         "price": 30.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/harmonies/"
@@ -231,6 +235,10 @@
   {
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 39.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/21270-aeons-end-ita.html"
+      },
       "Player1": {
         "price": 39.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
@@ -256,6 +264,10 @@
   {
     "name": "Revive",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 61.59,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
+      },
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/30317-revive.html"
@@ -356,6 +368,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "GetYourFun": {
+        "price": 25.49,
+        "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
+      },
       "UPlay": {
         "price": 25.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
@@ -384,6 +400,10 @@
       "LaFeltrinelli": {
         "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       },
       "LSGiochi": {
         "price": 64.99,
@@ -476,6 +496,10 @@
         "price": 54.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
       },
+      "UPlay": {
+        "price": 67.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
+      },
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
@@ -515,7 +539,7 @@
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
-        "price": 28.49,
+        "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
       },
       "UPlay": {
@@ -560,6 +584,10 @@
       "DungeonDice": {
         "price": 45.49,
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
+      },
+      "GetYourFun": {
+        "price": 55.24,
+        "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "Player1": {
         "price": 52.9,
@@ -686,10 +714,6 @@
       "FantasiaStore": {
         "price": 37.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
-      },
-      "DungeonDice": {
-        "price": 24.99,
-        "url": "https://www.dungeondice.it/6052-seasons.html"
       },
       "GetYourFun": {
         "price": 49.99,
@@ -933,8 +957,12 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 41.39,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-l-isola-dei-gatti.html"
       }
     }
   },
@@ -1388,6 +1416,10 @@
         "price": 46.5,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
+      },
       "IlCovoDelNerd": {
         "price": 30.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
@@ -1489,10 +1521,6 @@
   {
     "name": "Thunder Road - Vendetta",
     "prezzi": {
-      "DungeonDice": {
-        "price": 69.99,
-        "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
-      },
       "GetYourFun": {
         "price": 69.99,
         "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
@@ -1584,10 +1612,6 @@
       "FantasiaStore": {
         "price": 43.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
-      },
-      "DungeonDice": {
-        "price": 35.99,
-        "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "GetYourFun": {
         "price": 44.99,
@@ -1941,6 +1965,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
