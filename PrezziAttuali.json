@@ -148,10 +148,6 @@
         "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
-      "DadiEMattoncini": {
-        "price": 34.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
-      },
       "IlCovoDelNerd": {
         "price": 30.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/harmonies/"
@@ -174,7 +170,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 38.24,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -522,7 +518,7 @@
         "url": "https://www.dungeondice.it/28624-tiletum.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
       },
       "DragonStore": {
@@ -555,6 +551,10 @@
   {
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 37.49,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
@@ -581,9 +581,9 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
-      "DungeonDice": {
-        "price": 45.49,
-        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
+      "GetYourFun": {
+        "price": 55.24,
+        "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "Player1": {
         "price": 52.9,
@@ -953,7 +953,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 41.39,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1270,10 +1270,6 @@
         "price": 25.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
       },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
-      },
       "DragonStore": {
         "price": 29.99,
         "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
@@ -1379,10 +1375,6 @@
   {
     "name": "Ciarlatani di Quedlinburgo",
     "prezzi": {
-      "DungeonDice": {
-        "price": 44.99,
-        "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
-      },
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
@@ -1501,7 +1493,7 @@
     "name": "Alhambra",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 47.08,
+        "price": 47.47,
         "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
       }
     }
@@ -1758,6 +1750,10 @@
         "price": 23.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1790,6 +1786,10 @@
       "UPlay": {
         "price": 55.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
+      },
+      "LaFeltrinelli": {
+        "price": 61.66,
+        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "IlCovoDelNerd": {
         "price": 55.8,
