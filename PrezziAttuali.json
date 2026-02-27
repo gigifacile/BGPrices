@@ -115,6 +115,10 @@
   {
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
+      "DungeonDice": {
+        "price": 35.0,
+        "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
+      },
       "GetYourFun": {
         "price": 69.99,
         "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
@@ -695,7 +699,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
       },
       "LaFeltrinelli": {
-        "price": 44.99,
+        "price": 42.74,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "LSGiochi": {
@@ -953,7 +957,7 @@
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 41.39,
         "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1140,10 +1144,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
-      },
-      "LSGiochi": {
-        "price": 69.99,
-        "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
   },
