@@ -1228,10 +1228,6 @@
         "price": 39.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
-      "LSGiochi": {
-        "price": 39.99,
-        "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
-      },
       "DragonStore": {
         "price": 39.99,
         "url": "https://www.dragonstore.it/fantasy-res-arcana-italiano.1.1.116.gp.28398.uw"
@@ -1503,12 +1499,7 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 47.08,
-        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Karak",
