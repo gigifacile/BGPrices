@@ -132,10 +132,6 @@
   {
     "name": "Harmonies",
     "prezzi": {
-      "DungeonDice": {
-        "price": 24.49,
-        "url": "https://www.dungeondice.it/27178-harmonies.html"
-      },
       "GetYourFun": {
         "price": 34.99,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
@@ -170,7 +166,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 38.24,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -831,10 +827,6 @@
   {
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/72178-kutna-hora-la-citta-dellargento.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
@@ -1002,10 +994,6 @@
   {
     "name": "Le Havre",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/23241-le-havre.html"
-      },
       "DungeonDice": {
         "price": 35.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
@@ -1758,10 +1746,6 @@
       "DungeonDice": {
         "price": 23.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
-      },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
