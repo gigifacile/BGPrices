@@ -32,6 +32,10 @@
         "price": 79.99,
         "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
       },
+      "DungeonDice": {
+        "price": 50.0,
+        "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
+      },
       "GetYourFun": {
         "price": 99.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
@@ -166,7 +170,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 38.24,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -288,6 +292,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -715,6 +723,10 @@
         "price": 37.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
       },
+      "DungeonDice": {
+        "price": 24.99,
+        "url": "https://www.dungeondice.it/6052-seasons.html"
+      },
       "GetYourFun": {
         "price": 49.99,
         "url": "https://www.getyourfun.it/0910-seasons-giochi-per-famiglia.html"
@@ -978,7 +990,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-alta-tensione--recharged.html"
       },
       "LaFeltrinelli": {
-        "price": 58.31,
+        "price": 53.99,
         "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
       },
       "DragonStore": {
@@ -1230,7 +1242,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 80.31,
+        "price": 77.99,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "IlCovoDelNerd": {
@@ -1388,10 +1400,6 @@
         "price": 26.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
-      "LaFeltrinelli": {
-        "price": 51.45,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
@@ -1523,6 +1531,10 @@
   {
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 41.99,
+        "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
+      },
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
@@ -1743,10 +1755,6 @@
         "price": 23.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1783,6 +1791,10 @@
       "LaFeltrinelli": {
         "price": 61.66,
         "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
+      },
+      "LSGiochi": {
+        "price": 64.99,
+        "url": "https://www.lsgiochi.it/product/9981966/root"
       }
     }
   },
