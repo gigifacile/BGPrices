@@ -85,10 +85,6 @@
         "price": 60.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
       },
-      "LSGiochi": {
-        "price": 69.99,
-        "url": "https://www.lsgiochi.it/product/14550172/seti-search-for-extraterrestrial-intelligence-italiano"
-      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -166,7 +162,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 38.24,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -231,6 +227,10 @@
         "price": 39.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21270-aeons-end-ita.html"
       },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
+      },
       "Player1": {
         "price": 39.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
@@ -269,7 +269,7 @@
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 59.93,
+        "price": 47.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
       },
       "LaFeltrinelli": {
@@ -404,6 +404,10 @@
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/10217311/heat-pedal-to-the-metal"
+      },
+      "DragonStore": {
+        "price": 64.99,
+        "url": "https://www.dragonstore.it/gestionali-heat-pedal-to-the-metal-italiano.1.1.385.gp.31795.uw"
       }
     }
   },
@@ -726,10 +730,6 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
         "price": 38.7,
@@ -1385,7 +1385,7 @@
     "name": "Splendor",
     "prezzi": {
       "UPlay": {
-        "price": 26.24,
+        "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
       "LaFeltrinelli": {
@@ -1403,6 +1403,10 @@
       "LSGiochi": {
         "price": 34.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
+      },
+      "DragonStore": {
+        "price": 34.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
       }
     }
   },
@@ -1725,10 +1729,6 @@
       "UPlay": {
         "price": 76.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
-      },
-      "DadiEMattoncini": {
-        "price": 89.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
       },
       "DragonStore": {
         "price": 89.99,
