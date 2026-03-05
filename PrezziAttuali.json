@@ -128,6 +128,10 @@
   {
     "name": "Harmonies",
     "prezzi": {
+      "DungeonDice": {
+        "price": 34.99,
+        "url": "https://www.dungeondice.it/27178-harmonies.html"
+      },
       "GetYourFun": {
         "price": 34.99,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
@@ -467,6 +471,10 @@
         "price": 41.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2566-agricola.html"
       },
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/21782-agricola.html"
+      },
       "GetYourFun": {
         "price": 56.99,
         "url": "https://www.getyourfun.it/029-agricola-giochi-gestionali.html"
@@ -529,6 +537,10 @@
   {
     "name": "Tiletum",
     "prezzi": {
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/28624-tiletum.html"
+      },
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
@@ -727,6 +739,10 @@
       "FantasiaStore": {
         "price": 37.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
+      },
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/6052-seasons.html"
       },
       "GetYourFun": {
         "price": 49.99,
@@ -1111,6 +1127,10 @@
       "UPlay": {
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 52.81,
+        "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       }
     }
   },
@@ -1182,10 +1202,6 @@
       "UPlay": {
         "price": 29.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       }
     }
   },
@@ -1391,6 +1407,10 @@
       "LaFeltrinelli": {
         "price": 46.5,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
+      },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
       },
       "IlCovoDelNerd": {
         "price": 30.0,
@@ -1717,10 +1737,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1749,6 +1765,10 @@
       "UPlay": {
         "price": 55.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
+      },
+      "LaFeltrinelli": {
+        "price": 61.66,
+        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "LSGiochi": {
         "price": 64.99,
@@ -1858,6 +1878,10 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
+      },
+      "Player1": {
+        "price": 40.9,
+        "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "UPlay": {
         "price": 50.99,
