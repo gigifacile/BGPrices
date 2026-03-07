@@ -40,6 +40,10 @@
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
       },
+      "UPlay": {
+        "price": 84.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
         "price": 99.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
@@ -1307,7 +1311,7 @@
     "name": "MLEM - Agenzia Spaziale",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 22.49,
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
       },
       "GetYourFun": {
