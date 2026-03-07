@@ -40,10 +40,6 @@
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
       },
-      "UPlay": {
-        "price": 84.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-everdell-farshore--edizione-italiana-.html"
-      },
       "LaFeltrinelli": {
         "price": 99.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
@@ -55,10 +51,6 @@
       "LSGiochi": {
         "price": 99.99,
         "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
-      },
-      "DragonStore": {
-        "price": 99.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-everdell-farshore-italiano.1.1.115.gp.33725.uw"
       }
     }
   },
@@ -153,7 +145,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 33.24,
+        "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -182,7 +174,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 38.24,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -260,7 +252,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
       },
       "LaFeltrinelli": {
-        "price": 47.4,
+        "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
@@ -463,7 +455,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "LSGiochi": {
@@ -595,10 +587,6 @@
   {
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 37.49,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/14856-dominion-seconda-edizione-edizione-2022.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
@@ -793,7 +781,7 @@
     "name": "Fields of Arle - Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
       },
       "GetYourFun": {
@@ -947,7 +935,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
       },
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "GetYourFun": {
@@ -1091,6 +1079,10 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
+      },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -1161,7 +1153,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
       },
       "DungeonDice": {
-        "price": 24.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
@@ -1203,7 +1195,7 @@
     "name": "Terra Nova",
     "prezzi": {
       "DungeonDice": {
-        "price": 32.49,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/30238-terra-nova.html"
       },
       "GetYourFun": {
@@ -1244,7 +1236,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 39.99,
+        "price": 37.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
       "DragonStore": {
@@ -1739,10 +1731,6 @@
         "price": 76.49,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
-      "Player1": {
-        "price": 63.9,
-        "url": "https://player1.it/prodotto/scythe/"
-      },
       "UPlay": {
         "price": 76.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
@@ -1759,6 +1747,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
@@ -1788,10 +1780,6 @@
       "UPlay": {
         "price": 55.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
-      },
-      "LaFeltrinelli": {
-        "price": 61.66,
-        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "LSGiochi": {
         "price": 64.99,
