@@ -126,6 +126,10 @@
       "UPlay": {
         "price": 59.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cyclades--edizione-leggendaria.html"
+      },
+      "DragonStore": {
+        "price": 69.99,
+        "url": "https://www.dragonstore.it/fantasy-cyclades-edizione-leggendaria.1.1.116.gp.33683.uw"
       }
     }
   },
@@ -285,7 +289,7 @@
         "url": "https://www.getyourfun.it/018894-revive-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 47.94,
+        "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-revive.html"
       },
       "LaFeltrinelli": {
@@ -304,6 +308,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -730,6 +738,10 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
       },
+      "LaFeltrinelli": {
+        "price": 42.74,
+        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/10101293/azul"
@@ -1106,6 +1118,10 @@
   {
     "name": "Inis - Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 98.99,
+        "url": "https://www.dungeondice.it/25648-inis-big-box.html"
+      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1180,6 +1196,10 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -1309,10 +1329,6 @@
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.99,
-        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
         "price": 25.7,
@@ -1516,6 +1532,10 @@
   {
     "name": "Thunder Road - Vendetta",
     "prezzi": {
+      "DungeonDice": {
+        "price": 69.99,
+        "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
+      },
       "GetYourFun": {
         "price": 69.99,
         "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
@@ -1740,10 +1760,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
-      "GetYourFun": {
-        "price": 39.99,
-        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
-      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1776,6 +1792,10 @@
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/9981966/root"
+      },
+      "DragonStore": {
+        "price": 64.99,
+        "url": "https://www.dragonstore.it/fantasy-root-italiano.1.1.116.gp.26074.uw"
       }
     }
   },
@@ -1856,6 +1876,10 @@
       "GetYourFun": {
         "price": 22.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
+      },
+      "LaFeltrinelli": {
+        "price": 21.84,
+        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "LSGiochi": {
         "price": 22.99,
