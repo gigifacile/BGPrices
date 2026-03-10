@@ -78,7 +78,7 @@
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
       "LaFeltrinelli": {
-        "price": 71.24,
+        "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "IlCovoDelNerd": {
@@ -153,7 +153,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-harmonies--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -739,7 +739,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
       },
       "LaFeltrinelli": {
-        "price": 42.74,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "LSGiochi": {
@@ -1122,6 +1122,10 @@
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1329,6 +1333,10 @@
       "UPlay": {
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
         "price": 25.7,
@@ -1686,7 +1694,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
       "Player1": {
@@ -1759,6 +1767,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
@@ -1895,7 +1907,7 @@
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/9966-le-rovine-perdute-di-arnak.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "GetYourFun": {
