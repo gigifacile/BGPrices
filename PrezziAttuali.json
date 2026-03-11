@@ -1107,6 +1107,10 @@
         "price": 39.99,
         "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 33.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
         "price": 37.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
@@ -1128,8 +1132,12 @@
         "price": 64.99,
         "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 55.25,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
-        "price": 77.99,
+        "price": 76.74,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "IlCovoDelNerd": {
@@ -1148,6 +1156,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/31788-the-white-castle.html"
+      },
+      "UPlay": {
+        "price": 25.46,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
       },
       "DragonStore": {
         "price": 29.99,
@@ -1173,6 +1185,10 @@
       "GetYourFun": {
         "price": 29.99,
         "url": "https://www.getyourfun.it/019825-mlem-agenzia-spaziale-giochi-per-famiglia.html"
+      },
+      "UPlay": {
+        "price": 25.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-mlem--agenzia-spaziale.html"
       },
       "LaFeltrinelli": {
         "price": 29.99,
@@ -1233,6 +1249,10 @@
         "price": 16.99,
         "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
       },
+      "UPlay": {
+        "price": 14.37,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-crew.html"
+      },
       "LaFeltrinelli": {
         "price": 14.01,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
@@ -1242,6 +1262,10 @@
   {
     "name": "Ciarlatani di Quedlinburgo",
     "prezzi": {
+      "UPlay": {
+        "price": 38.24,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
+      },
       "LaFeltrinelli": {
         "price": 45.0,
         "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
@@ -1259,6 +1283,10 @@
   {
     "name": "Splendor",
     "prezzi": {
+      "UPlay": {
+        "price": 29.74,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
+      },
       "LaFeltrinelli": {
         "price": 46.5,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
@@ -1321,6 +1349,10 @@
         "price": 46.74,
         "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
       },
+      "UPlay": {
+        "price": 46.75,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
+      },
       "IlCovoDelNerd": {
         "price": 47.2,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
@@ -1363,6 +1395,10 @@
         "price": 69.99,
         "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
       },
+      "UPlay": {
+        "price": 65.95,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
@@ -1383,6 +1419,10 @@
       "Player1": {
         "price": 48.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
       },
       "LaFeltrinelli": {
         "price": 59.99,
@@ -1416,6 +1456,10 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
+      },
+      "UPlay": {
+        "price": 42.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
       },
       "DragonStore": {
         "price": 49.9,
@@ -1479,6 +1523,10 @@
         "price": 78.99,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
+      "UPlay": {
+        "price": 67.14,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
+      },
       "DragonStore": {
         "price": 78.99,
         "url": "https://www.dragonstore.it/classici-famiglia-barrage-italiano.1.1.115.gp.26729.uw"
@@ -1521,6 +1569,10 @@
         "price": 67.99,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
+      "UPlay": {
+        "price": 67.92,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
@@ -1546,6 +1598,10 @@
         "price": 76.49,
         "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
       },
+      "UPlay": {
+        "price": 76.42,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
+      },
       "DragonStore": {
         "price": 89.99,
         "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
@@ -1562,6 +1618,10 @@
       "GetYourFun": {
         "price": 39.99,
         "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
+      },
+      "UPlay": {
+        "price": 33.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
       },
       "DragonStore": {
         "price": 39.9,
@@ -1583,6 +1643,10 @@
       "GetYourFun": {
         "price": 61.74,
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
+      },
+      "UPlay": {
+        "price": 55.17,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
       },
       "LSGiochi": {
         "price": 64.99,
@@ -1637,6 +1701,10 @@
       "Player1": {
         "price": 44.9,
         "url": "https://player1.it/prodotto/ratti-di-wistar/"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-i-ratti-di-wistar--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 59.99,
@@ -1697,6 +1765,10 @@
         "price": 40.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
+      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
@@ -1722,6 +1794,10 @@
         "price": 49.99,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
+      "UPlay": {
+        "price": 42.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
+      },
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
@@ -1746,6 +1822,10 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
+      },
+      "UPlay": {
+        "price": 50.96,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
