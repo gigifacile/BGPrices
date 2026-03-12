@@ -194,7 +194,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 38.24,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -1165,7 +1165,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/19523-starship-captains.html"
       },
       "DungeonDice": {
-        "price": 49.99,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
@@ -1271,10 +1271,6 @@
       "UPlay": {
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 76.74,
-        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "IlCovoDelNerd": {
         "price": 55.8,
@@ -1527,6 +1523,10 @@
         "price": 69.99,
         "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
       },
+      "GetYourFun": {
+        "price": 69.99,
+        "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
+      },
       "UPlay": {
         "price": 65.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
@@ -1547,6 +1547,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
       },
       "Player1": {
         "price": 44.9,
@@ -1576,6 +1580,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
+      },
+      "GetYourFun": {
+        "price": 49.99,
+        "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "Player1": {
         "price": 36.9,
@@ -1610,6 +1618,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 40.9,
         "url": "https://player1.it/prodotto/concordia/"
@@ -1634,6 +1646,10 @@
       "DungeonDice": {
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
+      },
+      "GetYourFun": {
+        "price": 67.14,
+        "url": "https://www.getyourfun.it/0288-barrage-giochi-gestionali.html"
       },
       "Player1": {
         "price": 54.9,
@@ -1685,6 +1701,10 @@
   {
     "name": "Spirit Island",
     "prezzi": {
+      "GetYourFun": {
+        "price": 67.99,
+        "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
@@ -1710,6 +1730,10 @@
         "price": 89.99,
         "url": "https://www.dungeondice.it/6038-scythe.html"
       },
+      "GetYourFun": {
+        "price": 76.49,
+        "url": "https://www.getyourfun.it/062-scythe-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 76.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
@@ -1726,6 +1750,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
@@ -1748,6 +1776,10 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
       },
+      "GetYourFun": {
+        "price": 61.74,
+        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
+      },
       "UPlay": {
         "price": 55.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
@@ -1768,6 +1800,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
+      },
+      "GetYourFun": {
+        "price": 25.49,
+        "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
       },
       "LaFeltrinelli": {
         "price": 29.9,
@@ -1793,6 +1829,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
         "price": 44.9,
@@ -1828,6 +1868,10 @@
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
       },
+      "GetYourFun": {
+        "price": 22.99,
+        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
+      },
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
@@ -1848,6 +1892,10 @@
       "DungeonDice": {
         "price": 35.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
         "price": 40.9,
@@ -1878,6 +1926,10 @@
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
+      "GetYourFun": {
+        "price": 49.99,
+        "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
+      },
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-el-grande---nuova-edizione--edizione-italiana-.html"
@@ -1902,6 +1954,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/032257-the-wolves-ed-italiana-giochi-gestionali.html"
       },
       "UPlay": {
         "price": 50.96,
