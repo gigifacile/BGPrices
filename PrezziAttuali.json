@@ -37,7 +37,7 @@
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "GetYourFun": {
-        "price": 99.99,
+        "price": 74.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
       "Player1": {
@@ -223,7 +223,7 @@
     "name": "Great Western Trail - Nuova Zelanda",
     "prezzi": {
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
       },
       "Player1": {
@@ -579,7 +579,7 @@
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
-        "price": 37.99,
+        "price": 28.49,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
       },
       "UPlay": {
@@ -611,6 +611,10 @@
       "DungeonDice": {
         "price": 99.99,
         "url": "https://www.dungeondice.it/30862-obsession.html"
+      },
+      "DragonStore": {
+        "price": 99.99,
+        "url": "https://www.dragonstore.it/gestionali-obsession-italiano.1.1.385.gp.32432.uw"
       }
     }
   },
@@ -651,6 +655,10 @@
   {
     "name": "Rising Sun",
     "prezzi": {
+      "DungeonDice": {
+        "price": 109.99,
+        "url": "https://www.dungeondice.it/10533-rising-sun.html"
+      },
       "GetYourFun": {
         "price": 109.99,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
@@ -737,6 +745,10 @@
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
+      "IlCovoDelNerd": {
+        "price": 38.6,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/azul/"
       },
       "LSGiochi": {
         "price": 44.99,
@@ -847,7 +859,7 @@
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "GetYourFun": {
-        "price": 55.99,
+        "price": 41.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
       "UPlay": {
@@ -899,10 +911,6 @@
       "GetYourFun": {
         "price": 101.99,
         "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
-      },
-      "Player1": {
-        "price": 94.9,
-        "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
       },
       "LaFeltrinelli": {
         "price": 119.9,
@@ -1035,7 +1043,7 @@
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
       },
       "Player1": {
@@ -1060,7 +1068,7 @@
         "url": "https://www.dungeondice.it/22774-dune.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
       "UPlay": {
@@ -1271,6 +1279,10 @@
       "UPlay": {
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 76.74,
+        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "IlCovoDelNerd": {
         "price": 55.8,
@@ -1524,7 +1536,7 @@
         "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
       },
       "GetYourFun": {
-        "price": 69.99,
+        "price": 52.49,
         "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -1582,7 +1594,7 @@
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
       },
       "GetYourFun": {
-        "price": 49.99,
+        "price": 37.49,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1619,7 +1631,7 @@
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
       },
       "Player1": {
@@ -1738,6 +1750,10 @@
         "price": 76.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
       },
+      "DadiEMattoncini": {
+        "price": 89.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
+      },
       "DragonStore": {
         "price": 89.99,
         "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
@@ -1779,6 +1795,10 @@
       "GetYourFun": {
         "price": 61.74,
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
+      },
+      "Player1": {
+        "price": 53.9,
+        "url": "https://player1.it/prodotto/root/"
       },
       "UPlay": {
         "price": 55.17,
@@ -1831,7 +1851,7 @@
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
       "Player1": {
@@ -1894,7 +1914,7 @@
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "GetYourFun": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
