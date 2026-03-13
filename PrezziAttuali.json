@@ -317,10 +317,6 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
       },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
-      },
       "UPlay": {
         "price": 37.83,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-it-s-a-wonderful-world--edizione-italiana-.html"
@@ -378,10 +374,6 @@
       "LaFeltrinelli": {
         "price": 25.64,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
-      },
-      "DragonStore": {
-        "price": 21.59,
-        "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
       }
     }
   },
@@ -503,6 +495,10 @@
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
+      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
@@ -575,7 +571,7 @@
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
-        "price": 37.99,
+        "price": 28.49,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
       },
       "UPlay": {
@@ -700,7 +696,12 @@
   },
   {
     "name": "Architetti del Regno Occidentale",
-    "prezzi": {}
+    "prezzi": {
+      "IlCovoDelNerd": {
+        "price": 19.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/architetti-del-regno-occidentale/"
+      }
+    }
   },
   {
     "name": "Visconti del Regno Occidentale",
@@ -726,6 +727,10 @@
   {
     "name": "Azul",
     "prezzi": {
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/10719-azul.html"
+      },
       "GetYourFun": {
         "price": 44.99,
         "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
@@ -1130,6 +1135,10 @@
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
       },
+      "IlCovoDelNerd": {
+        "price": 19.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/inis-big-box/"
+      },
       "DragonStore": {
         "price": 79.99,
         "url": "https://www.dragonstore.it/fantasy-inis-big-box-italiano.1.1.116.gp.29761.uw"
@@ -1301,6 +1310,10 @@
         "price": 25.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
       },
+      "IlCovoDelNerd": {
+        "price": 19.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
+      },
       "DragonStore": {
         "price": 23.99,
         "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
@@ -1354,6 +1367,10 @@
       "DungeonDice": {
         "price": 81.99,
         "url": "https://www.dungeondice.it/3666-la-festa-per-odino.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 19.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/la-festa-per-odino/"
       }
     }
   },
@@ -1464,6 +1481,10 @@
   {
     "name": "Catan - Big Box",
     "prezzi": {
+      "IlCovoDelNerd": {
+        "price": 19.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/catan-big-box-edizione-2021/"
+      },
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/9966223/catan-big-box"
@@ -1571,6 +1592,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
+      },
+      "IlCovoDelNerd": {
+        "price": 51.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune-imperium-insurrezione/"
       },
       "DragonStore": {
         "price": 47.99,
@@ -1749,10 +1774,6 @@
       "DadiEMattoncini": {
         "price": 89.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
-      },
-      "DragonStore": {
-        "price": 71.99,
-        "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
       }
     }
   },
@@ -1799,6 +1820,10 @@
       "UPlay": {
         "price": 55.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
+      },
+      "LaFeltrinelli": {
+        "price": 61.66,
+        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "LSGiochi": {
         "price": 64.99,
@@ -1874,6 +1899,10 @@
       "LaFeltrinelli": {
         "price": 45.3,
         "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
+      },
+      "IlCovoDelNerd": {
+        "price": 19.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
       }
     }
   },
@@ -1892,6 +1921,10 @@
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
+      "IlCovoDelNerd": {
+        "price": 19.7,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
+      },
       "LSGiochi": {
         "price": 22.99,
         "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
@@ -1906,7 +1939,7 @@
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/9966-le-rovine-perdute-di-arnak.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
