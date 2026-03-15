@@ -89,10 +89,6 @@
         "price": 60.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
       },
-      "LSGiochi": {
-        "price": 69.99,
-        "url": "https://www.lsgiochi.it/product/14550172/seti-search-for-extraterrestrial-intelligence-italiano"
-      },
       "DragonStore": {
         "price": 55.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -190,7 +186,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 38.24,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -498,10 +494,6 @@
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
-      },
-      "LSGiochi": {
-        "price": 47.99,
-        "url": "https://www.lsgiochi.it/product/10130291/agricola"
       },
       "DragonStore": {
         "price": 47.99,
@@ -1599,6 +1591,10 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/dune-imperium/"
       },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
+      },
       "UPlay": {
         "price": 42.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
@@ -1756,6 +1752,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
       },
       "UPlay": {
         "price": 33.99,
@@ -1918,10 +1918,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
