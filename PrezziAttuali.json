@@ -186,7 +186,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 38.24,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -927,10 +927,6 @@
   {
     "name": "Apiary",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 50.39,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/67039-apiary.html"
-      },
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
@@ -1364,6 +1360,14 @@
       "FantasiaStore": {
         "price": 21.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
+      },
+      "GetYourFun": {
+        "price": 22.49,
+        "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
+      },
+      "UPlay": {
+        "price": 21.24,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
       }
     }
   },
@@ -1753,6 +1757,10 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/26678-trekking-through-history.html"
       },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/019983-trekking-through-history-giochi-per-famiglia.html"
+      },
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
@@ -1882,6 +1890,10 @@
         "price": 22.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
+      "LaFeltrinelli": {
+        "price": 21.84,
+        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
+      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
@@ -1910,10 +1922,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-rovine-perdute-di-arnak.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
