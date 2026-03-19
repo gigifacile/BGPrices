@@ -376,6 +376,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
+      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
@@ -601,6 +605,10 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
+      },
       "GetYourFun": {
         "price": 55.24,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
@@ -848,7 +856,7 @@
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "GetYourFun": {
-        "price": 41.99,
+        "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1226,6 +1234,10 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
+      },
+      "LSGiochi": {
+        "price": 49.99,
+        "url": "https://www.lsgiochi.it/product/10217339/terra-nova"
       }
     }
   },
@@ -1685,6 +1697,10 @@
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
       },
+      "LSGiochi": {
+        "price": 78.99,
+        "url": "https://www.lsgiochi.it/product/10089262/barrage"
+      },
       "DragonStore": {
         "price": 63.19,
         "url": "https://www.dragonstore.it/classici-famiglia-barrage-italiano.1.1.115.gp.26729.uw"
@@ -1723,6 +1739,10 @@
   {
     "name": "Spirit Island",
     "prezzi": {
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/21947-spirit-island.html"
+      },
       "GetYourFun": {
         "price": 67.99,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
@@ -1920,7 +1940,7 @@
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
