@@ -136,10 +136,6 @@
   {
     "name": "Harmonies",
     "prezzi": {
-      "DungeonDice": {
-        "price": 24.49,
-        "url": "https://www.dungeondice.it/27178-harmonies.html"
-      },
       "GetYourFun": {
         "price": 26.24,
         "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
@@ -182,7 +178,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 38.24,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -308,10 +304,6 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -785,6 +777,10 @@
         "price": 38.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
       },
+      "LSGiochi": {
+        "price": 45.99,
+        "url": "https://www.lsgiochi.it/product/10150898/seasons"
+      },
       "DragonStore": {
         "price": 39.99,
         "url": "https://www.dragonstore.it/gestionali-seasons-italiano.1.1.385.gp.14828.uw"
@@ -1102,6 +1098,10 @@
       "UPlay": {
         "price": 59.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
       }
     }
   },
@@ -1244,6 +1244,10 @@
       "LaFeltrinelli": {
         "price": 39.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
+      },
+      "LSGiochi": {
+        "price": 39.99,
+        "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
       },
       "DragonStore": {
         "price": 31.99,
@@ -1535,7 +1539,7 @@
     "name": "Thunder Road - Vendetta",
     "prezzi": {
       "GetYourFun": {
-        "price": 52.49,
+        "price": 69.99,
         "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -1757,6 +1761,10 @@
       "UPlay": {
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo--trekking-through-history--edizione-italiana-.html"
+      },
+      "LSGiochi": {
+        "price": 39.99,
+        "url": "https://www.lsgiochi.it/product/14392861/trekking-through-history"
       },
       "DragonStore": {
         "price": 31.92,
