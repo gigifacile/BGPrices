@@ -81,6 +81,10 @@
         "price": 58.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
+      "LaFeltrinelli": {
+        "price": 74.99,
+        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
+      },
       "IlCovoDelNerd": {
         "price": 60.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
@@ -250,6 +254,10 @@
       "UPlay": {
         "price": 42.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.9,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -483,10 +491,6 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "IlCovoDelNerd": {
         "price": 51.5,
@@ -1162,10 +1166,6 @@
         "price": 19.9,
         "url": "https://player1.it/prodotto/starship-captains/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -1570,10 +1570,6 @@
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune-imperium-insurrezione/"
-      },
-      "DragonStore": {
-        "price": 47.99,
-        "url": "https://www.dragonstore.it/wargames-dune-imperium-insurrezione.1.1.117.gp.33393.uw"
       }
     }
   },
@@ -1779,6 +1775,10 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
       },
+      "GetYourFun": {
+        "price": 64.99,
+        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
+      },
       "Player1": {
         "price": 53.9,
         "url": "https://player1.it/prodotto/root/"
@@ -1948,10 +1948,6 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
-      },
-      "DragonStore": {
-        "price": 39.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-el-grande-nuova-edizione-italiana-2-mini-espansioni.1.1.115.gp.32239.uw"
       }
     }
   },
