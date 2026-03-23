@@ -305,6 +305,10 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
       },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
+      },
       "UPlay": {
         "price": 37.83,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-it-s-a-wonderful-world--edizione-italiana-.html"
@@ -325,10 +329,6 @@
       "FantasiaStore": {
         "price": 35.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
@@ -556,7 +556,7 @@
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
-        "price": 28.49,
+        "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
       },
       "UPlay": {
@@ -731,10 +731,6 @@
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
-      },
-      "IlCovoDelNerd": {
-        "price": 38.6,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/azul/"
       },
       "LSGiochi": {
         "price": 44.99,
@@ -1165,6 +1161,10 @@
       "Player1": {
         "price": 19.9,
         "url": "https://player1.it/prodotto/starship-captains/"
+      },
+      "UPlay": {
+        "price": 50.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
       },
       "LaFeltrinelli": {
         "price": 59.99,
@@ -1913,7 +1913,7 @@
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
