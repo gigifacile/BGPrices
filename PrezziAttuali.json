@@ -109,6 +109,10 @@
       "UPlay": {
         "price": 61.16,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-arcs---conflitti-e-collasso-nell-orlo.html"
+      },
+      "DragonStore": {
+        "price": 51.99,
+        "url": "https://www.dragonstore.it/fantascienza-arcs-conflitti-e-collasso-nell-orlo.1.1.46.gp.34362.uw"
       }
     }
   },
@@ -189,10 +193,6 @@
         "price": 42.74,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
-      "DadiEMattoncini": {
-        "price": 39.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
-      },
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/13639084/horrified-edizione-italiana"
@@ -207,7 +207,7 @@
     "name": "Great Western Trail - Nuova Zelanda",
     "prezzi": {
       "GetYourFun": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
       },
       "Player1": {
@@ -304,6 +304,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -919,6 +923,10 @@
   {
     "name": "Village Big Box",
     "prezzi": {
+      "GetYourFun": {
+        "price": 52.0,
+        "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 87.99,
         "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
@@ -995,10 +1003,6 @@
   {
     "name": "Alta Tensione - Recharged",
     "prezzi": {
-      "DungeonDice": {
-        "price": 32.89,
-        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
-      },
       "GetYourFun": {
         "price": 39.94,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
@@ -1258,10 +1262,6 @@
   {
     "name": "Yokohama - Seconda Edizione",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 48.74,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/138017-yokohama.html"
-      },
       "GetYourFun": {
         "price": 64.99,
         "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
@@ -1371,7 +1371,7 @@
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
       },
       "GetYourFun": {
-        "price": 24.99,
+        "price": 18.74,
         "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       },
       "UPlay": {
@@ -1394,10 +1394,6 @@
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
-      },
-      "UPlay": {
-        "price": 14.37,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-crew.html"
       }
     }
   },
@@ -1409,7 +1405,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
       },
       "LaFeltrinelli": {
-        "price": 45.0,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
       },
       "LSGiochi": {
@@ -1538,10 +1534,6 @@
   {
     "name": "Thunder Road - Vendetta",
     "prezzi": {
-      "GetYourFun": {
-        "price": 69.99,
-        "url": "https://www.getyourfun.it/036722-thunder-road-vendetta-giochi-di-avventura.html"
-      },
       "UPlay": {
         "price": 65.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
@@ -1642,10 +1634,6 @@
   {
     "name": "Barrage",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 55.29,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
-      },
       "DungeonDice": {
         "price": 47.39,
         "url": "https://www.dungeondice.it/12981-barrage.html"
@@ -1679,10 +1667,6 @@
   {
     "name": "Nucleum",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 50.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/72176-nucleum-ita.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
@@ -1866,6 +1850,10 @@
   {
     "name": "Evenfall",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 45.3,
+        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
+      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
@@ -1959,7 +1947,7 @@
     "name": "The Wolves",
     "prezzi": {
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
