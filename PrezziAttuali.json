@@ -193,6 +193,10 @@
         "price": 42.74,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
+      "DadiEMattoncini": {
+        "price": 39.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
+      },
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/13639084/horrified-edizione-italiana"
@@ -447,6 +451,10 @@
         "price": 25.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
+      },
       "LSGiochi": {
         "price": 29.99,
         "url": "https://www.lsgiochi.it/product/11975171/forest-shuffle"
@@ -609,6 +617,10 @@
       "Player1": {
         "price": 52.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
+      },
+      "LaFeltrinelli": {
+        "price": 64.9,
+        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "DragonStore": {
         "price": 64.99,
@@ -1630,6 +1642,10 @@
   {
     "name": "Barrage",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 55.29,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
+      },
       "DungeonDice": {
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
@@ -1764,7 +1780,7 @@
         "url": "https://www.dungeondice.it/18526-root.html"
       },
       "GetYourFun": {
-        "price": 64.99,
+        "price": 48.74,
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
