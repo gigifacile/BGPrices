@@ -81,10 +81,6 @@
         "price": 58.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
-      "LaFeltrinelli": {
-        "price": 71.24,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
       "IlCovoDelNerd": {
         "price": 60.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
@@ -308,6 +304,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -552,7 +552,7 @@
     "name": "Nidavellir",
     "prezzi": {
       "DungeonDice": {
-        "price": 37.99,
+        "price": 24.69,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
@@ -645,7 +645,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
       },
       "LaFeltrinelli": {
-        "price": 109.99,
+        "price": 110.0,
         "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       },
       "LSGiochi": {
@@ -1017,7 +1017,7 @@
     "name": "Le Havre",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "GetYourFun": {
@@ -1516,7 +1516,12 @@
   },
   {
     "name": "Karak",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 39.99,
+        "url": "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
+      }
+    }
   },
   {
     "name": "Flip 7",
