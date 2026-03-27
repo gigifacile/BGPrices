@@ -711,10 +711,6 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
-      "DungeonDice": {
-        "price": 34.55,
-        "url": "https://www.dungeondice.it/30284-earth.html"
-      },
       "GetYourFun": {
         "price": 53.99,
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
@@ -913,6 +909,10 @@
       "Player1": {
         "price": 94.9,
         "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
+      },
+      "LaFeltrinelli": {
+        "price": 113.9,
+        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "IlCovoDelNerd": {
         "price": 103.1,
@@ -1119,10 +1119,6 @@
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/inis-big-box/"
-      },
-      "DragonStore": {
-        "price": 99.99,
-        "url": "https://www.dragonstore.it/fantasy-inis-big-box-italiano.1.1.116.gp.29761.uw"
       }
     }
   },
@@ -1517,7 +1513,7 @@
     "name": "Alhambra",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 47.08,
+        "price": 47.47,
         "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
       }
     }
@@ -1904,6 +1900,10 @@
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
       },
+      "GetYourFun": {
+        "price": 22.99,
+        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
+      },
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
@@ -1930,7 +1930,7 @@
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "GetYourFun": {
-        "price": 44.99,
+        "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
