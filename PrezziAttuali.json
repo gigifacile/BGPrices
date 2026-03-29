@@ -933,7 +933,7 @@
     "name": "Apiary",
     "prezzi": {
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "GetYourFun": {
@@ -1091,6 +1091,10 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/federation/"
       },
+      "UPlay": {
+        "price": 59.49,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
+      },
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
@@ -1153,6 +1157,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
   },
@@ -1663,10 +1671,6 @@
         "price": 78.99,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
-      "UPlay": {
-        "price": 67.14,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
-      },
       "LSGiochi": {
         "price": 78.99,
         "url": "https://www.lsgiochi.it/product/10089262/barrage"
@@ -1720,10 +1724,6 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "LSGiochi": {
         "price": 79.99,
@@ -1789,7 +1789,7 @@
         "url": "https://www.dungeondice.it/18526-root.html"
       },
       "GetYourFun": {
-        "price": 48.74,
+        "price": 64.99,
         "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1799,10 +1799,6 @@
       "UPlay": {
         "price": 55.17,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-root.html"
-      },
-      "LaFeltrinelli": {
-        "price": 61.66,
-        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "DragonStore": {
         "price": 64.99,
