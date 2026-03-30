@@ -375,6 +375,10 @@
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
+      },
+      "LaFeltrinelli": {
+        "price": 26.99,
+        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       }
     }
   },
@@ -560,7 +564,7 @@
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
-        "price": 28.49,
+        "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
       },
       "UPlay": {
@@ -803,7 +807,7 @@
         "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
       },
       "LSGiochi": {
-        "price": 47.99,
+        "price": 79.99,
         "url": "https://www.lsgiochi.it/product/12086390/fields-of-arle-big-box"
       },
       "DragonStore": {
@@ -1205,7 +1209,7 @@
         "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       },
       "LSGiochi": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.lsgiochi.it/product/10217339/terra-nova"
       }
     }
@@ -1378,12 +1382,7 @@
   },
   {
     "name": "The Crew",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 16.99,
-        "url": "https://www.dungeondice.it/22687-the-crew.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
@@ -1426,7 +1425,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
       },
       "LSGiochi": {
-        "price": 25.99,
+        "price": 34.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
       },
       "DragonStore": {
@@ -1671,10 +1670,6 @@
         "price": 67.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-barrage.html"
       },
-      "LSGiochi": {
-        "price": 78.99,
-        "url": "https://www.lsgiochi.it/product/10089262/barrage"
-      },
       "DragonStore": {
         "price": 78.99,
         "url": "https://www.dragonstore.it/classici-famiglia-barrage-italiano.1.1.115.gp.26729.uw"
@@ -1891,6 +1886,10 @@
       "GetYourFun": {
         "price": 22.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
+      },
+      "LaFeltrinelli": {
+        "price": 21.84,
+        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "IlCovoDelNerd": {
         "price": 19.7,
