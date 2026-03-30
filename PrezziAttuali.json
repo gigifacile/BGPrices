@@ -564,7 +564,7 @@
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
-        "price": 37.99,
+        "price": 28.49,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
       },
       "UPlay": {
@@ -635,10 +635,6 @@
   {
     "name": "Stone Age",
     "prezzi": {
-      "DungeonDice": {
-        "price": 49.99,
-        "url": "https://www.dungeondice.it/7315-stone-age.html"
-      },
       "LSGiochi": {
         "price": 49.99,
         "url": "https://www.lsgiochi.it/product/9982140/stone-age"
@@ -853,7 +849,7 @@
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "GetYourFun": {
-        "price": 41.99,
+        "price": 55.99,
         "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
       },
       "UPlay": {
@@ -1136,6 +1132,10 @@
       "UPlay": {
         "price": 33.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-cascadia--edizione-italiana-.html"
+      },
+      "LSGiochi": {
+        "price": 39.9,
+        "url": "https://www.lsgiochi.it/product/9966200/cascadia"
       }
     }
   },
@@ -1146,10 +1146,6 @@
   {
     "name": "Starship Captains",
     "prezzi": {
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/28831-starship-captains.html"
-      },
       "Player1": {
         "price": 19.9,
         "url": "https://player1.it/prodotto/starship-captains/"
@@ -1787,10 +1783,6 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
       },
-      "GetYourFun": {
-        "price": 64.99,
-        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
-      },
       "Player1": {
         "price": 53.9,
         "url": "https://player1.it/prodotto/root/"
@@ -1882,10 +1874,6 @@
       "DungeonDice": {
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
-      },
-      "GetYourFun": {
-        "price": 22.99,
-        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
         "price": 21.84,
