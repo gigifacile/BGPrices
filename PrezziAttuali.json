@@ -186,7 +186,7 @@
         "url": "https://www.dungeondice.it/32494-horrified.html"
       },
       "GetYourFun": {
-        "price": 38.24,
+        "price": 44.99,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "UPlay": {
@@ -606,10 +606,6 @@
         "price": 55.24,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 52.9,
-        "url": "https://player1.it/prodotto/viticulture-essential-edition/"
-      },
       "LaFeltrinelli": {
         "price": 61.66,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
@@ -694,6 +690,10 @@
       "FantasiaStore": {
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
+      },
+      "DungeonDice": {
+        "price": 34.55,
+        "url": "https://www.dungeondice.it/30284-earth.html"
       },
       "GetYourFun": {
         "price": 53.99,
@@ -797,10 +797,6 @@
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
-      },
-      "LSGiochi": {
-        "price": 79.99,
-        "url": "https://www.lsgiochi.it/product/12086390/fields-of-arle-big-box"
       },
       "DragonStore": {
         "price": 79.99,
@@ -1137,7 +1133,12 @@
   },
   {
     "name": "Endeavor - Abissi Marini",
-    "prezzi": {}
+    "prezzi": {
+      "LSGiochi": {
+        "price": 52.99,
+        "url": "https://www.lsgiochi.it/product/13454885/endeavor-abissi-marini"
+      }
+    }
   },
   {
     "name": "Starship Captains",
@@ -1771,10 +1772,6 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
       },
-      "GetYourFun": {
-        "price": 64.99,
-        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
-      },
       "Player1": {
         "price": 53.9,
         "url": "https://player1.it/prodotto/root/"
@@ -1871,6 +1868,10 @@
         "price": 22.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
+      "LaFeltrinelli": {
+        "price": 21.84,
+        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
+      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
@@ -1943,7 +1944,7 @@
     "name": "The Wolves",
     "prezzi": {
       "UPlay": {
-        "price": 50.96,
+        "price": 59.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
       },
       "IlCovoDelNerd": {
