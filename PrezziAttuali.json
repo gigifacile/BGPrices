@@ -389,6 +389,10 @@
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
       },
+      "LSGiochi": {
+        "price": 29.9,
+        "url": "https://www.lsgiochi.it/product/10006991/port-royal-big-box"
+      },
       "DragonStore": {
         "price": 29.99,
         "url": "https://www.dragonstore.it/gestionali-port-royal-big-box-italiano.1.1.385.gp.31768.uw"
@@ -417,6 +421,10 @@
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
+      },
+      "LSGiochi": {
+        "price": 64.99,
+        "url": "https://www.lsgiochi.it/product/10217311/heat-pedal-to-the-metal"
       },
       "DragonStore": {
         "price": 64.99,
@@ -639,10 +647,6 @@
       "UPlay": {
         "price": 84.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
-      },
-      "LaFeltrinelli": {
-        "price": 110.0,
-        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       },
       "DragonStore": {
         "price": 109.99,
@@ -991,6 +995,10 @@
   {
     "name": "Alta Tensione - Recharged",
     "prezzi": {
+      "DungeonDice": {
+        "price": 46.99,
+        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
+      },
       "GetYourFun": {
         "price": 46.99,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
@@ -1268,6 +1276,10 @@
         "price": 25.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
       },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
+      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
@@ -1358,6 +1370,10 @@
       "UPlay": {
         "price": 21.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-faraway---cover-arancione.html"
+      },
+      "LSGiochi": {
+        "price": 18.99,
+        "url": "https://www.lsgiochi.it/product/15788817/faraway-cover-arancione"
       }
     }
   },
@@ -1489,7 +1505,7 @@
     "name": "Alhambra",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 47.47,
+        "price": 47.08,
         "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
       }
     }
@@ -1672,6 +1688,10 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
       },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
+      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
@@ -1700,10 +1720,6 @@
       "UPlay": {
         "price": 67.92,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "LSGiochi": {
         "price": 79.99,
@@ -1759,10 +1775,6 @@
       "FantasiaStore": {
         "price": 64.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/4214-root-ita.html"
-      },
-      "GetYourFun": {
-        "price": 64.99,
-        "url": "https://www.getyourfun.it/0304-root-giochi-di-guerra.html"
       },
       "Player1": {
         "price": 53.9,
@@ -1860,6 +1872,10 @@
         "price": 22.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
+      "LaFeltrinelli": {
+        "price": 21.84,
+        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
+      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
@@ -1931,6 +1947,10 @@
   {
     "name": "The Wolves",
     "prezzi": {
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/30518-the-wolves.html"
+      },
       "UPlay": {
         "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
