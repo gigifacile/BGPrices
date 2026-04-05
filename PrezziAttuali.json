@@ -330,6 +330,10 @@
         "price": 35.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
       },
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
+      },
       "IlCovoDelNerd": {
         "price": 42.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/trajan-deluxe/"
@@ -446,10 +450,6 @@
       "LaFeltrinelli": {
         "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
-      },
-      "DragonStore": {
-        "price": 23.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-forest-shuffle-italiano.1.1.115.gp.32727.uw"
       }
     }
   },
@@ -705,7 +705,7 @@
         "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
       },
       "Player1": {
-        "price": 31.49,
+        "price": 33.9,
         "url": "https://player1.it/prodotto/azul/"
       },
       "UPlay": {
@@ -1159,6 +1159,10 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -1860,10 +1864,6 @@
       "DungeonDice": {
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
-      },
-      "GetYourFun": {
-        "price": 22.99,
-        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
         "price": 21.84,
