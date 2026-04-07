@@ -879,7 +879,7 @@
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
       "DungeonDice": {
-        "price": 119.99,
+        "price": 95.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
       "GetYourFun": {
@@ -948,6 +948,10 @@
       "UPlay": {
         "price": 37.75,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
+      },
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
@@ -1138,6 +1142,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
+      },
+      "LSGiochi": {
+        "price": 17.99,
+        "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
   },
@@ -1372,10 +1380,6 @@
       "UPlay": {
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-ciarlatani-di-quedlinburgo.html"
-      },
-      "LaFeltrinelli": {
-        "price": 42.74,
-        "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
       },
       "LSGiochi": {
         "price": 44.99,
@@ -1812,7 +1816,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "GetYourFun": {
@@ -1885,6 +1889,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
         "price": 40.9,
