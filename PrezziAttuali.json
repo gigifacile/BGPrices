@@ -77,10 +77,6 @@
         "price": 61.59,
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 69.99,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
       "IlCovoDelNerd": {
         "price": 60.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
@@ -1095,10 +1091,6 @@
       "GetYourFun": {
         "price": 43.99,
         "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -1118,7 +1110,7 @@
         "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       },
       "LSGiochi": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.lsgiochi.it/product/10217339/terra-nova"
       }
     }
@@ -1345,10 +1337,6 @@
       "LSGiochi": {
         "price": 34.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
-      },
-      "DragonStore": {
-        "price": 27.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
       }
     }
   },
@@ -1502,10 +1490,6 @@
   {
     "name": "Dune Imperium",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 37.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/10327-dune-imperium-ita.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
@@ -1513,10 +1497,6 @@
       "GetYourFun": {
         "price": 49.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
         "price": 42.49,
@@ -1705,6 +1685,10 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
       },
       "LSGiochi": {
         "price": 29.99,
