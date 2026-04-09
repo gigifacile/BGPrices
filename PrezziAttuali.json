@@ -256,7 +256,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
       },
       "LaFeltrinelli": {
-        "price": 49.9,
+        "price": 47.4,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
@@ -308,6 +308,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       },
       "UPlay": {
         "price": 37.83,
@@ -385,10 +389,6 @@
         "price": 25.42,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 29.9,
-        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
-      },
       "LSGiochi": {
         "price": 29.9,
         "url": "https://www.lsgiochi.it/product/10006991/port-royal-big-box"
@@ -452,7 +452,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
@@ -636,17 +636,9 @@
         "price": 104.49,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
       },
-      "UPlay": {
-        "price": 84.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-rising-sun.html"
-      },
       "LaFeltrinelli": {
         "price": 110.0,
         "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
-      },
-      "DragonStore": {
-        "price": 87.99,
-        "url": "https://www.dragonstore.it/gestionali-rising-sun-italiano.1.1.385.gp.24498.uw"
       }
     }
   },
@@ -1085,7 +1077,7 @@
     "name": "Inis - Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 98.99,
+        "price": 74.24,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
       "GetYourFun": {
@@ -1265,7 +1257,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
       },
       "LaFeltrinelli": {
-        "price": 29.99,
+        "price": 28.49,
         "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       },
       "IlCovoDelNerd": {
