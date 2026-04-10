@@ -52,10 +52,6 @@
         "price": 99.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
-      "IlCovoDelNerd": {
-        "price": 85.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
-      },
       "LSGiochi": {
         "price": 99.99,
         "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
@@ -88,10 +84,6 @@
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
-      "IlCovoDelNerd": {
-        "price": 60.1,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
       },
       "DragonStore": {
         "price": 55.99,
@@ -168,10 +160,6 @@
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
       },
-      "IlCovoDelNerd": {
-        "price": 30.0,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/harmonies/"
-      },
       "LSGiochi": {
         "price": 34.99,
         "url": "https://www.lsgiochi.it/product/14195265/harmonies"
@@ -225,10 +213,6 @@
       "LaFeltrinelli": {
         "price": 49.42,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
-      },
-      "IlCovoDelNerd": {
-        "price": 51.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/adventure-games/great-western-trail-nuova-zelanda/"
       },
       "LSGiochi": {
         "price": 59.99,
@@ -337,10 +321,6 @@
       "LaFeltrinelli": {
         "price": 41.16,
         "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
-      },
-      "IlCovoDelNerd": {
-        "price": 42.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/trajan-deluxe/"
       }
     }
   },
@@ -491,10 +471,6 @@
       "LaFeltrinelli": {
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
-      },
-      "IlCovoDelNerd": {
-        "price": 51.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
       },
       "DragonStore": {
         "price": 47.99,
@@ -657,10 +633,6 @@
         "price": 46.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-bonfire--edizione-italiana-.html"
       },
-      "IlCovoDelNerd": {
-        "price": 47.2,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
-      },
       "DragonStore": {
         "price": 43.99,
         "url": "https://www.dragonstore.it/gestionali-bonfire-italiano.1.1.385.gp.28000.uw"
@@ -669,12 +641,7 @@
   },
   {
     "name": "Architetti del Regno Occidentale",
-    "prezzi": {
-      "IlCovoDelNerd": {
-        "price": 19.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/architetti-del-regno-occidentale/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Visconti del Regno Occidentale",
@@ -748,10 +715,6 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
-      },
-      "IlCovoDelNerd": {
-        "price": 38.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
       },
       "LSGiochi": {
         "price": 45.99,
@@ -835,10 +798,6 @@
       "UPlay": {
         "price": 47.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-grand-austria-hotel--seconda-edizione-.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 48.1,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/grand-austria-hotel/"
       }
     }
   },
@@ -865,10 +824,6 @@
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       },
-      "IlCovoDelNerd": {
-        "price": 51.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/kutna-hora-la-citta-dellargento/"
-      },
       "LSGiochi": {
         "price": 59.99,
         "url": "https://www.lsgiochi.it/product/11970291/kutna-hora-the-city-of-silver-cranio-creations-italiano"
@@ -889,10 +844,6 @@
       "LaFeltrinelli": {
         "price": 113.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
-      },
-      "IlCovoDelNerd": {
-        "price": 103.1,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/hegemony-versione-estesa/"
       }
     }
   },
@@ -928,10 +879,6 @@
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
-      "IlCovoDelNerd": {
-        "price": 68.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
-      },
       "DragonStore": {
         "price": 63.99,
         "url": "https://www.dragonstore.it/gestionali-apiary-italiano.1.1.385.gp.32653.uw"
@@ -948,10 +895,6 @@
       "LaFeltrinelli": {
         "price": 41.16,
         "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
-      },
-      "IlCovoDelNerd": {
-        "price": 42.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
       }
     }
   },
@@ -1091,10 +1034,6 @@
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 19.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/inis-big-box/"
       }
     }
   },
@@ -1144,7 +1083,7 @@
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       },
       "LSGiochi": {
-        "price": 33.99,
+        "price": 39.99,
         "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
@@ -1242,10 +1181,6 @@
       "LaFeltrinelli": {
         "price": 76.74,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
-      },
-      "IlCovoDelNerd": {
-        "price": 55.8,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/yokohama/"
       }
     }
   },
@@ -1263,10 +1198,6 @@
       "LaFeltrinelli": {
         "price": 28.49,
         "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
-      },
-      "IlCovoDelNerd": {
-        "price": 19.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
       },
       "DragonStore": {
         "price": 23.99,
@@ -1301,10 +1232,6 @@
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
-      "IlCovoDelNerd": {
-        "price": 25.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
-      },
       "DragonStore": {
         "price": 23.99,
         "url": "https://www.dragonstore.it/classici-famiglia-mlem-agenzia-spaziale.1.1.115.gp.32734.uw"
@@ -1321,10 +1248,6 @@
       "DungeonDice": {
         "price": 81.99,
         "url": "https://www.dungeondice.it/3666-la-festa-per-odino.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 19.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/la-festa-per-odino/"
       }
     }
   },
@@ -1406,10 +1329,6 @@
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
       },
-      "IlCovoDelNerd": {
-        "price": 30.0,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
-      },
       "LSGiochi": {
         "price": 34.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
@@ -1431,10 +1350,6 @@
   {
     "name": "Catan - Big Box",
     "prezzi": {
-      "IlCovoDelNerd": {
-        "price": 19.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/catan-big-box-edizione-2021/"
-      },
       "LSGiochi": {
         "price": 69.99,
         "url": "https://www.lsgiochi.it/product/9966223/catan-big-box"
@@ -1463,10 +1378,6 @@
       "UPlay": {
         "price": 46.75,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dorfromantik--sakura.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 47.2,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
       },
       "LSGiochi": {
         "price": 49.99,
@@ -1552,10 +1463,6 @@
       "LaFeltrinelli": {
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
-      },
-      "IlCovoDelNerd": {
-        "price": 51.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune-imperium-insurrezione/"
       },
       "DragonStore": {
         "price": 47.99,
@@ -1676,10 +1583,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
-      },
-      "IlCovoDelNerd": {
-        "price": 51.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
       },
       "DragonStore": {
         "price": 47.99,
@@ -1847,10 +1750,6 @@
       "LaFeltrinelli": {
         "price": 45.3,
         "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
-      },
-      "IlCovoDelNerd": {
-        "price": 19.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
       }
     }
   },
@@ -1868,10 +1767,6 @@
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
-      },
-      "IlCovoDelNerd": {
-        "price": 19.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
       },
       "LSGiochi": {
         "price": 22.99,
@@ -1905,10 +1800,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
-      },
-      "IlCovoDelNerd": {
-        "price": 51.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/le-rovine-perdute-di-arnak/"
       },
       "LSGiochi": {
         "price": 59.99,
@@ -1955,10 +1846,6 @@
       "UPlay": {
         "price": 50.96,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-wolves.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 51.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/the-wolves/"
       },
       "DragonStore": {
         "price": 47.99,
