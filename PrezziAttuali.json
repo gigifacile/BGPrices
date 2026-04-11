@@ -309,6 +309,10 @@
         "price": 31.49,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
       },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
+      },
       "UPlay": {
         "price": 37.83,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-it-s-a-wonderful-world--edizione-italiana-.html"
@@ -425,10 +429,6 @@
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
-      },
-      "LSGiochi": {
-        "price": 64.99,
-        "url": "https://www.lsgiochi.it/product/10217311/heat-pedal-to-the-metal"
       }
     }
   },
@@ -452,7 +452,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
-        "price": 29.99,
+        "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
@@ -611,7 +611,7 @@
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 64.9,
+        "price": 53.54,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       }
     }
@@ -1072,14 +1072,6 @@
   {
     "name": "Inis - Big Box",
     "prezzi": {
-      "DungeonDice": {
-        "price": 74.24,
-        "url": "https://www.dungeondice.it/25648-inis-big-box.html"
-      },
-      "GetYourFun": {
-        "price": 99.0,
-        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
-      },
       "UPlay": {
         "price": 84.14,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
@@ -1130,6 +1122,14 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-starship-captains.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
+      },
+      "LSGiochi": {
+        "price": 63.99,
+        "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
   },
@@ -1222,10 +1222,6 @@
       "UPlay": {
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 76.74,
-        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       },
       "IlCovoDelNerd": {
         "price": 55.8,
