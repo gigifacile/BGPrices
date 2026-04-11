@@ -367,10 +367,6 @@
       "UPlay": {
         "price": 22.94,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
-      },
-      "LaFeltrinelli": {
-        "price": 25.64,
-        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       }
     }
   },
@@ -415,7 +411,7 @@
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
-        "price": 47.9,
+        "price": 49.9,
         "url": "https://player1.it/prodotto/heat/"
       },
       "UPlay": {
@@ -708,10 +704,6 @@
         "price": 38.24,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-azul--edizione-italiana-2024-.html"
       },
-      "LaFeltrinelli": {
-        "price": 44.9,
-        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
-      },
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/10101293/azul"
@@ -879,7 +871,7 @@
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
       "DungeonDice": {
-        "price": 95.99,
+        "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
       "GetYourFun": {
@@ -1015,6 +1007,10 @@
       "UPlay": {
         "price": 50.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-le-havre--edizione-italiana-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
   },
@@ -1062,10 +1058,6 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/federation/"
-      },
-      "UPlay": {
-        "price": 69.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
       "LaFeltrinelli": {
         "price": 69.99,
@@ -1138,10 +1130,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
-      },
-      "LSGiochi": {
-        "price": 39.99,
-        "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
   },
@@ -1665,10 +1653,6 @@
   {
     "name": "Nucleum",
     "prezzi": {
-      "DungeonDice": {
-        "price": 59.99,
-        "url": "https://www.dungeondice.it/32226-nucleum.html"
-      },
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/nucleum/"
@@ -1790,6 +1774,10 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
+      },
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
@@ -1816,7 +1804,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
       },
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "GetYourFun": {
