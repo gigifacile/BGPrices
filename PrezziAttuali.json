@@ -85,10 +85,6 @@
         "price": 53.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
-      "LaFeltrinelli": {
-        "price": 69.99,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
       "IlCovoDelNerd": {
         "price": 60.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
@@ -590,7 +586,7 @@
     "name": "Obsession",
     "prezzi": {
       "DungeonDice": {
-        "price": 74.99,
+        "price": 99.99,
         "url": "https://www.dungeondice.it/30862-obsession.html"
       },
       "DragonStore": {
@@ -708,10 +704,6 @@
         "price": 44.9,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
-      "LSGiochi": {
-        "price": 44.99,
-        "url": "https://www.lsgiochi.it/product/10101293/azul"
-      },
       "DragonStore": {
         "price": 35.99,
         "url": "https://www.dragonstore.it/classici-famiglia-azul-italiano.1.1.115.gp.32737.uw"
@@ -821,7 +813,7 @@
     "name": "Grand Austria Hotel",
     "prezzi": {
       "DungeonDice": {
-        "price": 55.99,
+        "price": 36.39,
         "url": "https://www.dungeondice.it/27950-grand-austria-hotel.html"
       },
       "GetYourFun": {
@@ -1063,6 +1055,10 @@
         "price": 45.9,
         "url": "https://player1.it/prodotto/federation/"
       },
+      "UPlay": {
+        "price": 69.99,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
+      },
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
@@ -1223,6 +1219,10 @@
         "price": 55.25,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-yokohama--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 76.74,
+        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
+      },
       "IlCovoDelNerd": {
         "price": 55.8,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/yokohama/"
@@ -1343,12 +1343,7 @@
   },
   {
     "name": "The Crew",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 16.9,
-        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
