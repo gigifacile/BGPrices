@@ -210,10 +210,6 @@
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
-      "LaFeltrinelli": {
-        "price": 49.42,
-        "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
-      },
       "IlCovoDelNerd": {
         "price": 51.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/adventure-games/great-western-trail-nuova-zelanda/"
@@ -244,7 +240,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-aeon-s-end---seconda-edizione-italiana.html"
       },
       "LaFeltrinelli": {
-        "price": 47.4,
+        "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
@@ -353,7 +349,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-captain-flip.html"
       },
       "LaFeltrinelli": {
-        "price": 25.64,
+        "price": 26.99,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       }
     }
@@ -872,10 +868,6 @@
   {
     "name": "Apiary",
     "prezzi": {
-      "DungeonDice": {
-        "price": 55.99,
-        "url": "https://www.dungeondice.it/32351-apiary.html"
-      },
       "GetYourFun": {
         "price": 67.99,
         "url": "https://www.getyourfun.it/019812--apiary-giochi-gestionali.html"
@@ -1028,7 +1020,7 @@
         "url": "https://player1.it/prodotto/federation/"
       },
       "UPlay": {
-        "price": 59.49,
+        "price": 69.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-federation-.html"
       },
       "LaFeltrinelli": {
@@ -1041,7 +1033,7 @@
     "name": "Inis - Big Box",
     "prezzi": {
       "UPlay": {
-        "price": 84.14,
+        "price": 89.09,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-inis---big-box.html"
       },
       "IlCovoDelNerd": {
@@ -1096,7 +1088,7 @@
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       },
       "LSGiochi": {
-        "price": 34.99,
+        "price": 62.99,
         "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
@@ -1510,7 +1502,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium---insurrezione.html"
       },
       "LaFeltrinelli": {
-        "price": 56.99,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "IlCovoDelNerd": {
@@ -1526,10 +1518,6 @@
   {
     "name": "Dune Imperium",
     "prezzi": {
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/23931-dune-imperium.html"
-      },
       "GetYourFun": {
         "price": 49.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
