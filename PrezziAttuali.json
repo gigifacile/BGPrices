@@ -247,10 +247,6 @@
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
-      "DadiEMattoncini": {
-        "price": 49.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
-      },
       "LSGiochi": {
         "price": 49.99,
         "url": "https://www.lsgiochi.it/product/11164777/aeon-s-end-seconda-edizione"
@@ -369,14 +365,6 @@
         "price": 25.49,
         "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
       },
-      "UPlay": {
-        "price": 25.42,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-port-royal--big-box--edizione-italiana-.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.9,
-        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
-      },
       "LSGiochi": {
         "price": 29.9,
         "url": "https://www.lsgiochi.it/product/10006991/port-royal-big-box"
@@ -393,10 +381,6 @@
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/heat/"
-      },
-      "UPlay": {
-        "price": 55.24,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
         "price": 61.74,
@@ -422,10 +406,6 @@
       "Player1": {
         "price": 22.9,
         "url": "https://player1.it/prodotto/forest-shuffle/"
-      },
-      "UPlay": {
-        "price": 25.49,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 28.49,
@@ -456,10 +436,6 @@
         "price": 41.9,
         "url": "https://player1.it/prodotto/agricola/"
       },
-      "UPlay": {
-        "price": 50.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
@@ -488,10 +464,6 @@
       "Player1": {
         "price": 60.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
-      },
-      "UPlay": {
-        "price": 67.99,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-mystica--l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -1166,10 +1138,6 @@
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 39.99,
-        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
-      },
       "LSGiochi": {
         "price": 39.99,
         "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
@@ -1358,10 +1326,6 @@
         "price": 29.74,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
-      "LaFeltrinelli": {
-        "price": 30.9,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
@@ -1483,6 +1447,10 @@
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      },
+      "DadiEMattoncini": {
+        "price": 69.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-d-avventura/thunder-road-vendetta.html"
       }
     }
   },
