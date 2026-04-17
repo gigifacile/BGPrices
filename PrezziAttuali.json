@@ -86,7 +86,7 @@
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
       "LaFeltrinelli": {
-        "price": 69.99,
+        "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "IlCovoDelNerd": {
@@ -267,10 +267,6 @@
       "FantasiaStore": {
         "price": 61.59,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
-      },
-      "DungeonDice": {
-        "price": 55.99,
-        "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "GetYourFun": {
         "price": 67.99,
@@ -611,6 +607,10 @@
       "GetYourFun": {
         "price": 104.49,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
+      },
+      "LaFeltrinelli": {
+        "price": 110.0,
+        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       }
     }
   },
@@ -1092,7 +1092,7 @@
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       },
       "LSGiochi": {
-        "price": 62.99,
+        "price": 109.99,
         "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
@@ -1132,6 +1132,10 @@
       "UPlay": {
         "price": 36.49,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
+      },
+      "LaFeltrinelli": {
+        "price": 47.49,
+        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       },
       "LSGiochi": {
         "price": 49.99,
@@ -1200,6 +1204,10 @@
   {
     "name": "The White Castle",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/31788-the-white-castle.html"
+      },
       "UPlay": {
         "price": 25.46,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-the-white-castle.html"
@@ -1476,6 +1484,10 @@
         "price": 65.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-thunder-road--vendetta--edizione-italiana-.html"
       },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      },
       "DadiEMattoncini": {
         "price": 69.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-d-avventura/thunder-road-vendetta.html"
@@ -1635,7 +1647,7 @@
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
       "GetYourFun": {
-        "price": 67.99,
+        "price": 55.19,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
       "Player1": {
@@ -1704,6 +1716,10 @@
       "Player1": {
         "price": 53.9,
         "url": "https://player1.it/prodotto/root/"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       },
       "DragonStore": {
         "price": 64.99,
