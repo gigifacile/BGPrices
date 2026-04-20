@@ -231,10 +231,6 @@
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
-      "DadiEMattoncini": {
-        "price": 49.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
-      },
       "LSGiochi": {
         "price": 49.99,
         "url": "https://www.lsgiochi.it/product/11164777/aeon-s-end-seconda-edizione"
@@ -297,10 +293,6 @@
       "FantasiaStore": {
         "price": 35.49,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
-      },
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
@@ -1074,10 +1066,6 @@
         "price": 33.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-res-arcana--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 39.99,
-        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
-      },
       "LSGiochi": {
         "price": 39.99,
         "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
@@ -1228,6 +1216,10 @@
   {
     "name": "The Crew",
     "prezzi": {
+      "UPlay": {
+        "price": 14.37,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-the-crew.html"
+      },
       "LaFeltrinelli": {
         "price": 16.9,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
