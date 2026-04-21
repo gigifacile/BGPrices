@@ -488,7 +488,7 @@
     "name": "Nidavellir",
     "prezzi": {
       "DungeonDice": {
-        "price": 37.99,
+        "price": 24.69,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
@@ -560,7 +560,7 @@
     "name": "Stone Age",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 37.49,
         "url": "https://www.dungeondice.it/7315-stone-age.html"
       },
       "LSGiochi": {
@@ -838,7 +838,7 @@
     "name": "Viandanti a Sud del Tigri",
     "prezzi": {
       "UPlay": {
-        "price": 37.75,
+        "price": 50.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-viandanti-a-sud-del-tigri.html"
       },
       "LaFeltrinelli": {
@@ -1050,7 +1050,7 @@
         "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
       },
       "UPlay": {
-        "price": 36.49,
+        "price": 44.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-terra-nova--edizione-2023-.html"
       },
       "LaFeltrinelli": {
@@ -1684,6 +1684,10 @@
   {
     "name": "Evenfall",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 45.3,
+        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
+      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
