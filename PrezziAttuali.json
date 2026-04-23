@@ -77,6 +77,10 @@
         "price": 44.18,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
+      "LaFeltrinelli": {
+        "price": 74.99,
+        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
+      },
       "IlCovoDelNerd": {
         "price": 60.1,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/seti-ricerca-di-intelligenza-extraterrestre/"
@@ -162,7 +166,7 @@
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "LaFeltrinelli": {
-        "price": 44.99,
+        "price": 42.74,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
@@ -239,6 +243,10 @@
       "FantasiaStore": {
         "price": 61.59,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/21007-revive-ita.html"
+      },
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/30317-revive.html"
       },
       "GetYourFun": {
         "price": 67.99,
@@ -475,10 +483,6 @@
   {
     "name": "Nidavellir",
     "prezzi": {
-      "DungeonDice": {
-        "price": 24.69,
-        "url": "https://www.dungeondice.it/23035-nidavellir.html"
-      },
       "GetYourFun": {
         "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
@@ -529,10 +533,6 @@
       "GetYourFun": {
         "price": 55.24,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 57.11,
-        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "LSGiochi": {
         "price": 64.99,
@@ -775,7 +775,7 @@
         "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
       },
       "LaFeltrinelli": {
-        "price": 105.51,
+        "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "IlCovoDelNerd": {
@@ -883,6 +883,10 @@
       "Player1": {
         "price": 31.89,
         "url": "https://player1.it/prodotto/le-havre/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
   },
@@ -992,7 +996,7 @@
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       },
       "LSGiochi": {
-        "price": 42.99,
+        "price": 47.99,
         "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
@@ -1007,10 +1011,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
-      },
-      "GetYourFun": {
-        "price": 43.99,
-        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 47.49,
@@ -1196,10 +1196,6 @@
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
-      "GetYourFun": {
-        "price": 16.99,
-        "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
-      },
       "LaFeltrinelli": {
         "price": 16.9,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
@@ -1212,6 +1208,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
       },
       "LSGiochi": {
         "price": 44.99,
@@ -1590,10 +1590,6 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
-      },
       "GetYourFun": {
         "price": 20.69,
         "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
