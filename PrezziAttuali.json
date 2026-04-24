@@ -268,10 +268,6 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       }
     }
   },
@@ -367,8 +363,12 @@
         "url": "https://player1.it/prodotto/heat/"
       },
       "LaFeltrinelli": {
-        "price": 61.74,
+        "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       },
       "LSGiochi": {
         "price": 64.99,
@@ -611,6 +611,10 @@
         "price": 34.99,
         "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
       },
+      "DungeonDice": {
+        "price": 53.99,
+        "url": "https://www.dungeondice.it/30284-earth.html"
+      },
       "GetYourFun": {
         "price": 53.99,
         "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
@@ -777,6 +781,10 @@
       "Player1": {
         "price": 73.69,
         "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
+      },
+      "LaFeltrinelli": {
+        "price": 119.9,
+        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "IlCovoDelNerd": {
         "price": 103.1,
@@ -994,10 +1002,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
-      },
-      "LSGiochi": {
-        "price": 47.99,
-        "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
   },
@@ -1172,7 +1176,7 @@
     "name": "Faraway - Cover Arancione",
     "prezzi": {
       "FantasiaStore": {
-        "price": 21.99,
+        "price": 14.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
       },
       "DungeonDice": {
@@ -1241,6 +1245,10 @@
       "LaFeltrinelli": {
         "price": 30.9,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
+      },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
       },
       "IlCovoDelNerd": {
         "price": 30.0,
