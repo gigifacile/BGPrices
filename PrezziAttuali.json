@@ -534,6 +534,10 @@
         "price": 55.24,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
+      "LaFeltrinelli": {
+        "price": 57.11,
+        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
+      },
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/10788425/viticulture-essential-edition"
@@ -548,7 +552,7 @@
     "name": "Stone Age",
     "prezzi": {
       "DungeonDice": {
-        "price": 37.49,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/7315-stone-age.html"
       },
       "LSGiochi": {
@@ -1012,6 +1016,10 @@
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
       },
+      "GetYourFun": {
+        "price": 43.99,
+        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 47.49,
         "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
@@ -1195,6 +1203,10 @@
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
+      },
+      "GetYourFun": {
+        "price": 16.99,
+        "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
       },
       "LaFeltrinelli": {
         "price": 16.9,
