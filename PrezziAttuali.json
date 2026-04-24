@@ -354,6 +354,10 @@
   {
     "name": "Heat",
     "prezzi": {
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/29880-heat.html"
+      },
       "GetYourFun": {
         "price": 64.99,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
@@ -577,10 +581,6 @@
   {
     "name": "Bonfire",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 54.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/12977-bonfire.html"
-      },
       "IlCovoDelNerd": {
         "price": 47.2,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
@@ -777,10 +777,6 @@
       "Player1": {
         "price": 73.69,
         "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
-      },
-      "LaFeltrinelli": {
-        "price": 119.9,
-        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "IlCovoDelNerd": {
         "price": 103.1,
@@ -1246,10 +1242,6 @@
         "price": 30.9,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
-      "DadiEMattoncini": {
-        "price": 34.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
-      },
       "IlCovoDelNerd": {
         "price": 30.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
@@ -1377,6 +1369,10 @@
   {
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
+      },
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
@@ -1402,6 +1398,10 @@
   {
     "name": "Dune Imperium",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/23931-dune-imperium.html"
+      },
       "GetYourFun": {
         "price": 49.99,
         "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
