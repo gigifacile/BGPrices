@@ -260,6 +260,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
+      "GetYourFun": {
+        "price": 45.0,
+        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
       }
     }
   },
@@ -354,6 +358,10 @@
         "price": 40.9,
         "url": "https://player1.it/prodotto/heat/"
       },
+      "LaFeltrinelli": {
+        "price": 64.99,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
@@ -382,10 +390,6 @@
       "LaFeltrinelli": {
         "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
-      },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/11975171/forest-shuffle"
       }
     }
   },
@@ -1191,10 +1195,6 @@
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
-      },
-      "GetYourFun": {
-        "price": 16.99,
-        "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
       },
       "LaFeltrinelli": {
         "price": 16.9,
