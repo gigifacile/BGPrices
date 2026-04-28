@@ -40,10 +40,6 @@
         "price": 99.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
-      "Player1": {
-        "price": 62.21,
-        "url": "https://player1.it/prodotto/everdell-farshore/"
-      },
       "LaFeltrinelli": {
         "price": 99.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
@@ -161,6 +157,10 @@
         "price": 44.99,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
+      "LaFeltrinelli": {
+        "price": 42.74,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -252,16 +252,7 @@
   },
   {
     "name": "It's a Wonderful World",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 44.99,
-        "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
-      },
-      "GetYourFun": {
-        "price": 45.0,
-        "url": "https://www.getyourfun.it/0993-it-s-a-wonderful-world-giochi-di-carte.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Race for the Galaxy - Seconda Edizione",
@@ -382,10 +373,6 @@
       "Player1": {
         "price": 18.77,
         "url": "https://player1.it/prodotto/forest-shuffle/"
-      },
-      "LaFeltrinelli": {
-        "price": 28.49,
-        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
   },
