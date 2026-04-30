@@ -513,7 +513,7 @@
     "name": "Obsession",
     "prezzi": {
       "DungeonDice": {
-        "price": 74.99,
+        "price": 99.99,
         "url": "https://www.dungeondice.it/30862-obsession.html"
       },
       "DragonStore": {
@@ -769,10 +769,6 @@
         "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
-      "GetYourFun": {
-        "price": 82.79,
-        "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
-      },
       "LaFeltrinelli": {
         "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
@@ -810,6 +806,10 @@
       "Player1": {
         "price": 45.0,
         "url": "https://player1.it/prodotto/apiary/"
+      },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
       "IlCovoDelNerd": {
         "price": 79.9,
@@ -1315,12 +1315,7 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 47.08,
-        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Karak",
@@ -1528,6 +1523,10 @@
       "Player1": {
         "price": 46.64,
         "url": "https://player1.it/prodotto/spirit-island/"
+      },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "LSGiochi": {
         "price": 79.99,
