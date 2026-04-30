@@ -119,10 +119,6 @@
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
       },
-      "GetYourFun": {
-        "price": 69.99,
-        "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
-      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/fantasy-cyclades-edizione-leggendaria.1.1.116.gp.33683.uw"
@@ -534,7 +530,7 @@
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 57.11,
+        "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "LSGiochi": {
@@ -995,7 +991,7 @@
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       },
       "LSGiochi": {
-        "price": 34.99,
+        "price": 20.99,
         "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
@@ -1319,12 +1315,7 @@
   },
   {
     "name": "Karak",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 39.99,
-        "url": "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Flip 7",
