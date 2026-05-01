@@ -49,7 +49,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
       },
       "LSGiochi": {
-        "price": 99.99,
+        "price": 69.99,
         "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
       },
       "DragonStore": {
@@ -160,6 +160,10 @@
       "GetYourFun": {
         "price": 44.99,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
         "price": 39.99,
@@ -284,7 +288,7 @@
     "name": "Captain Flip",
     "prezzi": {
       "DungeonDice": {
-        "price": 26.99,
+        "price": 20.24,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
       "GetYourFun": {
@@ -508,10 +512,6 @@
       "LaFeltrinelli": {
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
-      },
-      "LSGiochi": {
-        "price": 64.99,
-        "url": "https://www.lsgiochi.it/product/10788425/viticulture-essential-edition"
       },
       "DragonStore": {
         "price": 64.99,
