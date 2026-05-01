@@ -509,10 +509,6 @@
         "price": 55.24,
         "url": "https://www.getyourfun.it/022-viticulture-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 64.9,
-        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
-      },
       "DragonStore": {
         "price": 64.99,
         "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
@@ -925,6 +921,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
+      },
+      "LSGiochi": {
+        "price": 34.99,
+        "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
   },
@@ -1403,10 +1403,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/nucleum-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055585566"
-      },
       "IlCovoDelNerd": {
         "price": 41.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
@@ -1528,10 +1524,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
       },
       "DragonStore": {
         "price": 39.99,
