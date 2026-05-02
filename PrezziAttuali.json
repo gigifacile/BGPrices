@@ -530,7 +530,7 @@
     "name": "Viticulture Essential Edition",
     "prezzi": {
       "DungeonDice": {
-        "price": 64.99,
+        "price": 51.99,
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
       "GetYourFun": {
@@ -630,10 +630,6 @@
       "Player1": {
         "price": 27.79,
         "url": "https://player1.it/prodotto/azul/"
-      },
-      "LaFeltrinelli": {
-        "price": 42.74,
-        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DragonStore": {
         "price": 44.99,
@@ -1241,10 +1237,6 @@
   {
     "name": "Splendor",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 30.9,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
