@@ -631,6 +631,10 @@
         "price": 27.79,
         "url": "https://player1.it/prodotto/azul/"
       },
+      "LaFeltrinelli": {
+        "price": 42.74,
+        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
       "DragonStore": {
         "price": 44.99,
         "url": "https://www.dragonstore.it/classici-famiglia-azul-italiano.1.1.115.gp.32737.uw"
@@ -995,7 +999,7 @@
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       },
       "LSGiochi": {
-        "price": 34.99,
+        "price": 89.99,
         "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
@@ -1175,7 +1179,7 @@
     "name": "Faraway - Cover Arancione",
     "prezzi": {
       "FantasiaStore": {
-        "price": 14.99,
+        "price": 21.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
       },
       "DungeonDice": {
@@ -1237,6 +1241,10 @@
   {
     "name": "Splendor",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 30.9,
+        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
+      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
