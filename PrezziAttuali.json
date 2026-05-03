@@ -169,6 +169,10 @@
         "price": 44.99,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -216,7 +220,7 @@
         "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
       },
       "LaFeltrinelli": {
-        "price": 47.4,
+        "price": 43.91,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
@@ -689,10 +693,6 @@
         "price": 49.92,
         "url": "https://player1.it/prodotto/fields-of-arle-big-box/"
       },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
-      },
       "DragonStore": {
         "price": 79.99,
         "url": "https://www.dragonstore.it/gestionali-fields-of-arle-big-box.1.1.385.gp.32215.uw"
@@ -925,6 +925,10 @@
       "Player1": {
         "price": 37.62,
         "url": "https://player1.it/prodotto/federation/"
+      },
+      "LaFeltrinelli": {
+        "price": 35.0,
+        "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
       }
     }
   },
@@ -1187,6 +1191,10 @@
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
+      "GetYourFun": {
+        "price": 16.99,
+        "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
+      },
       "LaFeltrinelli": {
         "price": 16.9,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
@@ -1207,10 +1215,6 @@
       "LSGiochi": {
         "price": 44.99,
         "url": "https://www.lsgiochi.it/product/10049239/ciarlatani-di-quedlinburgo"
-      },
-      "DragonStore": {
-        "price": 44.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-ciarlatani-di-quedlinburgo.1.1.115.gp.27384.uw"
       }
     }
   },
@@ -1708,6 +1712,10 @@
       "GetYourFun": {
         "price": 49.99,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 49.99,
