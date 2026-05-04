@@ -170,7 +170,7 @@
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "LaFeltrinelli": {
-        "price": 38.9,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
@@ -349,10 +349,6 @@
         "price": 64.99,
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
-      "Player1": {
-        "price": 40.9,
-        "url": "https://player1.it/prodotto/heat/"
-      },
       "LaFeltrinelli": {
         "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
@@ -439,6 +435,10 @@
       "GetYourFun": {
         "price": 79.99,
         "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
+      },
+      "Player1": {
+        "price": 49.92,
+        "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -985,6 +985,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
+      },
+      "LSGiochi": {
+        "price": 139.99,
+        "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
   },
@@ -1354,10 +1358,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/020078-dune-imperium-insurrezione-giochi-di-guerra.html"
-      },
-      "Player1": {
-        "price": 38.44,
-        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "LaFeltrinelli": {
         "price": 59.99,
