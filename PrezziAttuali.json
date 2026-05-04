@@ -300,7 +300,7 @@
     "name": "Captain Flip",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.24,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
       "GetYourFun": {
@@ -356,10 +356,6 @@
       "Player1": {
         "price": 40.9,
         "url": "https://player1.it/prodotto/heat/"
-      },
-      "LaFeltrinelli": {
-        "price": 61.74,
-        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DadiEMattoncini": {
         "price": 64.99,
@@ -693,6 +689,10 @@
         "price": 49.92,
         "url": "https://player1.it/prodotto/fields-of-arle-big-box/"
       },
+      "LaFeltrinelli": {
+        "price": 79.99,
+        "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
+      },
       "DragonStore": {
         "price": 79.99,
         "url": "https://www.dragonstore.it/gestionali-fields-of-arle-big-box.1.1.385.gp.32215.uw"
@@ -979,7 +979,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 27.49,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
