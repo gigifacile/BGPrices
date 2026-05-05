@@ -378,10 +378,6 @@
         "price": 18.77,
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
-      "LaFeltrinelli": {
-        "price": 29.99,
-        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
-      },
       "IlCovoDelNerd": {
         "price": 20.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/forest-shuffle/"
@@ -558,20 +554,12 @@
       "GetYourFun": {
         "price": 104.49,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
-      },
-      "LaFeltrinelli": {
-        "price": 110.0,
-        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       }
     }
   },
   {
     "name": "Bonfire",
     "prezzi": {
-      "IlCovoDelNerd": {
-        "price": 38.4,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/bonfire/"
-      },
       "DragonStore": {
         "price": 54.99,
         "url": "https://www.dragonstore.it/gestionali-bonfire-italiano.1.1.385.gp.28000.uw"
@@ -1704,10 +1692,6 @@
       "GetYourFun": {
         "price": 49.99,
         "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 49.99,
