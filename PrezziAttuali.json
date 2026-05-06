@@ -33,7 +33,7 @@
         "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
       },
       "DungeonDice": {
-        "price": 99.99,
+        "price": 74.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "GetYourFun": {
@@ -169,6 +169,10 @@
         "price": 44.99,
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -194,10 +198,6 @@
         "price": 34.34,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
-      "LaFeltrinelli": {
-        "price": 49.42,
-        "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
-      },
       "IlCovoDelNerd": {
         "price": 41.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/adventure-games/great-western-trail-nuova-zelanda/"
@@ -211,10 +211,6 @@
   {
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 43.91,
-        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
@@ -349,6 +345,10 @@
         "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
+      },
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/10217311/heat-pedal-to-the-metal"
@@ -439,6 +439,10 @@
       "DadiEMattoncini": {
         "price": 79.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/terra-mystica-%E2%80%93-l%E2%80%99era-delle-scoperte.html"
+      },
+      "LSGiochi": {
+        "price": 49.99,
+        "url": "https://www.lsgiochi.it/product/11430747/terra-mystica-l-era-delle-scoperte"
       },
       "DragonStore": {
         "price": 49.99,
@@ -706,12 +710,7 @@
   },
   {
     "name": "Grand Austria Hotel",
-    "prezzi": {
-      "GetYourFun": {
-        "price": 55.99,
-        "url": "https://www.getyourfun.it/05008-grand-austria-hotel-giochi-gestionali.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Kutná Hora - La Città dell'Argento",
@@ -737,7 +736,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/kutna-hora-la-citta-dellargento/"
       },
       "LSGiochi": {
-        "price": 59.99,
+        "price": 29.99,
         "url": "https://www.lsgiochi.it/product/11970291/kutna-hora-the-city-of-silver-cranio-creations-italiano"
       }
     }
@@ -769,6 +768,10 @@
       "GetYourFun": {
         "price": 52.0,
         "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 87.99,
+        "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
       }
     }
   },
@@ -783,6 +786,10 @@
         "price": 45.0,
         "url": "https://player1.it/prodotto/apiary/"
       },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
+      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
@@ -796,6 +803,10 @@
   {
     "name": "Viandanti a Sud del Tigri",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
+      },
       "IlCovoDelNerd": {
         "price": 34.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
@@ -826,6 +837,10 @@
         "price": 46.99,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
+      "LaFeltrinelli": {
+        "price": 53.99,
+        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
+      },
       "DragonStore": {
         "price": 46.99,
         "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
@@ -846,6 +861,10 @@
       "Player1": {
         "price": 31.89,
         "url": "https://player1.it/prodotto/le-havre/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
   },
@@ -920,10 +939,6 @@
         "price": 35.19,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/12292-cascadia.html"
       },
-      "Player1": {
-        "price": 26.97,
-        "url": "https://player1.it/prodotto/cascadia/"
-      },
       "LSGiochi": {
         "price": 39.9,
         "url": "https://www.lsgiochi.it/product/9966200/cascadia"
@@ -953,6 +968,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
+      },
+      "LSGiochi": {
+        "price": 34.99,
+        "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
   },
@@ -997,7 +1016,7 @@
         "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       },
       "LSGiochi": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.lsgiochi.it/product/10217339/terra-nova"
       }
     }
@@ -1185,10 +1204,6 @@
   {
     "name": "Splendor",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 30.9,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
@@ -1522,10 +1537,6 @@
       "Player1": {
         "price": 44.18,
         "url": "https://player1.it/prodotto/root/"
-      },
-      "LaFeltrinelli": {
-        "price": 61.66,
-        "url": "https://www.lafeltrinelli.it/root-gioco-di-potere-giustizia-giocattolo-ms-edizioni/e/8051772100155"
       },
       "DadiEMattoncini": {
         "price": 64.99,
