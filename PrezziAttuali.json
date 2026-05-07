@@ -726,6 +726,10 @@
         "price": 67.99,
         "url": "https://www.getyourfun.it/019812--apiary-giochi-gestionali.html"
       },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
+      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
@@ -886,7 +890,7 @@
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       },
       "LSGiochi": {
-        "price": 44.99,
+        "price": 23.99,
         "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
@@ -1116,6 +1120,10 @@
         "price": 30.9,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
+      },
       "LSGiochi": {
         "price": 34.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
@@ -1196,6 +1204,10 @@
   {
     "name": "Karak",
     "prezzi": {
+      "DungeonDice": {
+        "price": 39.99,
+        "url": "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
+      },
       "GetYourFun": {
         "price": 39.99,
         "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
@@ -1401,6 +1413,10 @@
         "price": 89.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
       },
+      "IlCovoDelNerd": {
+        "price": 62.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/scythe/"
+      },
       "DragonStore": {
         "price": 89.99,
         "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
@@ -1535,10 +1551,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 41.9,
