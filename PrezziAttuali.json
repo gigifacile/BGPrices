@@ -81,6 +81,10 @@
         "price": 50.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
+      "LaFeltrinelli": {
+        "price": 71.24,
+        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
+      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -114,10 +118,6 @@
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
-      },
-      "GetYourFun": {
-        "price": 69.99,
-        "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
       },
       "DragonStore": {
         "price": 69.99,
@@ -810,10 +810,6 @@
         "price": 46.99,
         "url": "https://www.getyourfun.it/0311-alta-tensione-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 53.99,
-        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
-      },
       "DragonStore": {
         "price": 46.99,
         "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
@@ -847,10 +843,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
-      },
-      "LaFeltrinelli": {
-        "price": 60.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
       },
       "DragonStore": {
         "price": 59.99,
@@ -1025,6 +1017,10 @@
       "GetYourFun": {
         "price": 55.24,
         "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 76.74,
+        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       }
     }
   },
@@ -1178,7 +1174,7 @@
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
       },
       "LSGiochi": {
-        "price": 34.99,
+        "price": 24.99,
         "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
       }
     }
