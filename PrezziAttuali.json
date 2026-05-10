@@ -33,7 +33,7 @@
         "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
       },
       "DungeonDice": {
-        "price": 74.99,
+        "price": 99.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "GetYourFun": {
@@ -81,10 +81,6 @@
         "price": 50.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
-      "LaFeltrinelli": {
-        "price": 71.24,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -118,6 +114,10 @@
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
+      },
+      "GetYourFun": {
+        "price": 69.99,
+        "url": "https://www.getyourfun.it/030704-cyclades-edizione-leggendaria-giochi-di-guerra.html"
       },
       "DragonStore": {
         "price": 69.99,
@@ -618,7 +618,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
       },
       "DungeonDice": {
-        "price": 37.49,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
       },
       "GetYourFun": {
@@ -628,6 +628,10 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/seasons/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "LSGiochi": {
         "price": 45.99,
@@ -1021,10 +1025,6 @@
       "GetYourFun": {
         "price": 55.24,
         "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
-      },
-      "LaFeltrinelli": {
-        "price": 76.74,
-        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       }
     }
   },
@@ -1260,6 +1260,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
