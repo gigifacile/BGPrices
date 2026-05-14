@@ -36,6 +36,10 @@
         "price": 99.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
+      "GetYourFun": {
+        "price": 99.99,
+        "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
@@ -68,6 +72,10 @@
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
+      },
+      "GetYourFun": {
+        "price": 61.59,
+        "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
       "Player1": {
         "price": 50.9,
@@ -124,6 +132,10 @@
         "price": 34.99,
         "url": "https://www.dungeondice.it/27178-harmonies.html"
       },
+      "GetYourFun": {
+        "price": 34.99,
+        "url": "https://www.getyourfun.it/019958-harmonies-giochi-per-famiglia.html"
+      },
       "Player1": {
         "price": 25.9,
         "url": "https://player1.it/prodotto/harmonies/"
@@ -145,6 +157,10 @@
   {
     "name": "Horrified",
     "prezzi": {
+      "GetYourFun": {
+        "price": 44.99,
+        "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
+      },
       "LaFeltrinelli": {
         "price": 42.74,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
@@ -162,13 +178,13 @@
   {
     "name": "Great Western Trail - Nuova Zelanda",
     "prezzi": {
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/019656-great-western-trail-nuova-zelanda-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
-      },
-      "LaFeltrinelli": {
-        "price": 49.42,
-        "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
       },
       "LSGiochi": {
         "price": 59.99,
@@ -182,6 +198,10 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
+      },
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -276,9 +296,9 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
+      "GetYourFun": {
+        "price": 25.49,
+        "url": "https://www.getyourfun.it/018617-port-royal-big-box-giochi-di-carte.html"
       },
       "LaFeltrinelli": {
         "price": 29.9,
@@ -300,6 +320,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
+      },
+      "GetYourFun": {
+        "price": 64.99,
+        "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 49.9,
@@ -325,6 +349,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
+      },
+      "GetYourFun": {
+        "price": 25.49,
+        "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 22.9,
@@ -376,6 +404,10 @@
         "price": 50.0,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
       },
+      "GetYourFun": {
+        "price": 79.99,
+        "url": "https://www.getyourfun.it/019633-terra-mystica-l-era-delle-scoperte-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 60.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
@@ -393,6 +425,10 @@
   {
     "name": "Tiletum",
     "prezzi": {
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
+      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-tiletum-italiano.1.1.385.gp.31439.uw"
@@ -491,6 +527,10 @@
   {
     "name": "Rising Sun",
     "prezzi": {
+      "GetYourFun": {
+        "price": 104.49,
+        "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
+      },
       "LaFeltrinelli": {
         "price": 110.0,
         "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
@@ -529,6 +569,10 @@
       "DungeonDice": {
         "price": 53.99,
         "url": "https://www.dungeondice.it/30284-earth.html"
+      },
+      "GetYourFun": {
+        "price": 53.99,
+        "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
       }
     }
   },
@@ -538,6 +582,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/10719-azul.html"
+      },
+      "GetYourFun": {
+        "price": 44.99,
+        "url": "https://www.getyourfun.it/078-azul-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 33.9,
@@ -651,6 +699,10 @@
         "price": 29.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
+      "GetYourFun": {
+        "price": 52.79,
+        "url": "https://www.getyourfun.it/019780-kutna-hora-la-citta-dell-argento-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
@@ -672,6 +724,10 @@
         "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
+      "GetYourFun": {
+        "price": 101.99,
+        "url": "https://www.getyourfun.it/019912-hegemony-versione-estesa-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 93.9,
         "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
@@ -689,6 +745,10 @@
   {
     "name": "Village Big Box",
     "prezzi": {
+      "GetYourFun": {
+        "price": 52.0,
+        "url": "https://www.getyourfun.it/018143-village-big-box-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 87.99,
         "url": "https://www.lafeltrinelli.it/village-big-box-base-ita-giocattolo-asmodee/e/4061897532001"
@@ -739,6 +799,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/30137-l-isola-dei-gatti.html"
+      },
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/018815-l-isola-dei-gatti-giochi-gestionali.html"
       }
     }
   },
@@ -787,6 +851,10 @@
   {
     "name": "Dune",
     "prezzi": {
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
+      },
       "LaFeltrinelli": {
         "price": 60.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
@@ -803,16 +871,16 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
-      },
-      "LaFeltrinelli": {
-        "price": 30.0,
-        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
   {
     "name": "Federation",
     "prezzi": {
+      "GetYourFun": {
+        "price": 69.99,
+        "url": "https://www.getyourfun.it/019577-federation-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/federation/"
@@ -829,6 +897,10 @@
       "DungeonDice": {
         "price": 98.99,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
+      },
+      "GetYourFun": {
+        "price": 99.0,
+        "url": "https://www.getyourfun.it/04482-inis-big-box-giochi-di-guerra.html"
       },
       "IlCovoDelNerd": {
         "price": 16.0,
@@ -907,6 +979,10 @@
         "price": 24.99,
         "url": "https://www.dungeondice.it/30238-terra-nova.html"
       },
+      "GetYourFun": {
+        "price": 43.99,
+        "url": "https://www.getyourfun.it/019593-terra-nova-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/terra-nova/"
@@ -953,6 +1029,10 @@
   {
     "name": "Yokohama - Seconda Edizione",
     "prezzi": {
+      "GetYourFun": {
+        "price": 55.24,
+        "url": "https://www.getyourfun.it/020071-yokohama-seconda-edizione-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 73.46,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
@@ -1048,6 +1128,10 @@
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
+      },
+      "GetYourFun": {
+        "price": 24.99,
+        "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       }
     }
   },
@@ -1062,6 +1146,10 @@
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
+      "GetYourFun": {
+        "price": 16.99,
+        "url": "https://www.getyourfun.it/01059-the-crew-alla-scoperta-del-pianeta-nove-giochi-di-carte.html"
+      },
       "LaFeltrinelli": {
         "price": 16.06,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
@@ -1071,6 +1159,10 @@
   {
     "name": "Ciarlatani di Quedlinburgo",
     "prezzi": {
+      "DungeonDice": {
+        "price": 31.49,
+        "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
+      },
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
@@ -1170,7 +1262,12 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 47.08,
+        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
+      }
+    }
   },
   {
     "name": "Karak",
@@ -1178,6 +1275,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
+      },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/034242-karak-seconda-edizione-giochi-di-avventura.html"
       }
     }
   },
@@ -1246,6 +1347,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
+      },
+      "GetYourFun": {
+        "price": 49.99,
+        "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
       },
       "Player1": {
         "price": 38.9,
@@ -1464,6 +1569,10 @@
         "price": 40.0,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
+      "GetYourFun": {
+        "price": 50.99,
+        "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 44.9,
         "url": "https://player1.it/prodotto/ratti-di-wistar/"
@@ -1498,6 +1607,10 @@
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
       },
+      "GetYourFun": {
+        "price": 22.99,
+        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
+      },
       "LaFeltrinelli": {
         "price": 22.99,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
@@ -1520,8 +1633,12 @@
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/9966-le-rovine-perdute-di-arnak.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/03162-le-rovine-perdute-di-arnak-giochi-di-avventura.html"
       },
       "Player1": {
         "price": 41.9,
