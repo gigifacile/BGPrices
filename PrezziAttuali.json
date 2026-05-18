@@ -629,7 +629,7 @@
     "name": "Fields of Arle - Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
       },
       "GetYourFun": {
@@ -873,7 +873,7 @@
         "url": "https://player1.it/prodotto/federation/"
       },
       "LaFeltrinelli": {
-        "price": 35.0,
+        "price": 69.99,
         "url": "https://www.lafeltrinelli.it/federation-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584637"
       }
     }
@@ -921,7 +921,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 27.49,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
@@ -1147,7 +1147,7 @@
     "name": "Ciarlatani di Quedlinburgo",
     "prezzi": {
       "DungeonDice": {
-        "price": 31.49,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
       },
       "LaFeltrinelli": {
@@ -1228,10 +1228,6 @@
       "GetYourFun": {
         "price": 54.99,
         "url": "https://www.getyourfun.it/035887-dorfromantik-sakura-giochi-per-famiglia.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 38.4,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
       },
       "LSGiochi": {
         "price": 42.99,
@@ -1577,6 +1573,10 @@
   {
     "name": "Evenfall",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 45.3,
+        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
+      },
       "IlCovoDelNerd": {
         "price": 16.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
@@ -1612,7 +1612,7 @@
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/9966-le-rovine-perdute-di-arnak.html"
       },
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "GetYourFun": {
