@@ -78,7 +78,7 @@
         "url": "https://www.getyourfun.it/029852-seti-ricerca-di-intelligenza-extraterrestre-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
-        "price": 71.24,
+        "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "DragonStore": {
@@ -93,6 +93,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
+      },
+      "GetYourFun": {
+        "price": 61.74,
+        "url": "https://www.getyourfun.it/036916-arcs-giochi-di-guerra.html"
       },
       "DragonStore": {
         "price": 64.99,
@@ -150,7 +154,7 @@
         "url": "https://www.getyourfun.it/019956-horrified-giochi-di-avventura.html"
       },
       "LaFeltrinelli": {
-        "price": 42.74,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
@@ -316,6 +320,10 @@
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       },
+      "IlCovoDelNerd": {
+        "price": 45.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/heat/"
+      },
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/10217311/heat-pedal-to-the-metal"
@@ -373,6 +381,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
+      },
+      "IlCovoDelNerd": {
+        "price": 41.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
       },
       "DragonStore": {
         "price": 59.99,
@@ -473,7 +485,7 @@
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
-        "price": 61.66,
+        "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "DragonStore": {
@@ -590,6 +602,10 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
+      },
+      "IlCovoDelNerd": {
+        "price": 31.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
       },
       "DragonStore": {
         "price": 49.99,
@@ -900,6 +916,10 @@
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
       },
+      "GetYourFun": {
+        "price": 43.99,
+        "url": "https://www.getyourfun.it/03826-golem-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
@@ -977,7 +997,7 @@
         "url": "https://www.dungeondice.it/31788-the-white-castle.html"
       },
       "LaFeltrinelli": {
-        "price": 29.99,
+        "price": 28.49,
         "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       },
       "IlCovoDelNerd": {
@@ -1016,6 +1036,10 @@
       "LaFeltrinelli": {
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
+      },
+      "IlCovoDelNerd": {
+        "price": 20.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
       },
       "DragonStore": {
         "price": 29.99,
@@ -1113,6 +1137,10 @@
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 24.4,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
       },
       "LSGiochi": {
         "price": 26.24,
@@ -1242,7 +1270,7 @@
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "LaFeltrinelli": {
-        "price": 56.99,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "IlCovoDelNerd": {
