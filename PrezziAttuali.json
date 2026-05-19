@@ -178,10 +178,6 @@
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-nuova-zelanda/"
       },
-      "LaFeltrinelli": {
-        "price": 49.42,
-        "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
-      },
       "LSGiochi": {
         "price": 59.99,
         "url": "https://www.lsgiochi.it/product/12323854/great-western-trail-nuova-zelanda"
@@ -191,6 +187,10 @@
   {
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
+      },
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
@@ -307,6 +307,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
+      },
+      "GetYourFun": {
+        "price": 64.99,
+        "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
         "price": 49.9,
@@ -545,10 +549,6 @@
   {
     "name": "Earth",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 29.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/20980-earth-ita.html"
-      },
       "DungeonDice": {
         "price": 53.99,
         "url": "https://www.dungeondice.it/30284-earth.html"
@@ -561,10 +561,6 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/10719-azul.html"
-      },
-      "Player1": {
-        "price": 33.9,
-        "url": "https://player1.it/prodotto/azul/"
       },
       "LaFeltrinelli": {
         "price": 42.74,
@@ -962,6 +958,10 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
+      "GetYourFun": {
+        "price": 39.99,
+        "url": "https://www.getyourfun.it/03190-res-arcana-giochi-gestionali.html"
+      },
       "LaFeltrinelli": {
         "price": 39.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
@@ -1078,6 +1078,10 @@
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
+      },
+      "GetYourFun": {
+        "price": 24.99,
+        "url": "https://www.getyourfun.it/027906-faraway-cover-arancione-giochi-per-famiglia.html"
       },
       "LSGiochi": {
         "price": 24.99,
@@ -1290,6 +1294,10 @@
         "price": 49.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
       },
+      "GetYourFun": {
+        "price": 49.99,
+        "url": "https://www.getyourfun.it/03365-dune-imperium-giochi-di-guerra.html"
+      },
       "Player1": {
         "price": 38.9,
         "url": "https://player1.it/prodotto/dune-imperium/"
@@ -1474,6 +1482,10 @@
         "price": 29.99,
         "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
       },
+      "GetYourFun": {
+        "price": 25.49,
+        "url": "https://www.getyourfun.it/020012-looot-giochi-per-famiglia.html"
+      },
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
@@ -1520,10 +1532,6 @@
   {
     "name": "Evenfall",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 45.3,
-        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
-      },
       "IlCovoDelNerd": {
         "price": 16.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
@@ -1536,6 +1544,10 @@
       "DungeonDice": {
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
+      },
+      "GetYourFun": {
+        "price": 22.99,
+        "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
       },
       "LaFeltrinelli": {
         "price": 21.84,
@@ -1586,6 +1598,10 @@
       "DungeonDice": {
         "price": 34.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
+      },
+      "GetYourFun": {
+        "price": 49.99,
+        "url": "https://www.getyourfun.it/019755-el-grande-nuova-edizione-giochi-gestionali.html"
       },
       "LaFeltrinelli": {
         "price": 49.99,
