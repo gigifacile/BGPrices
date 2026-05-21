@@ -332,10 +332,6 @@
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       },
-      "IlCovoDelNerd": {
-        "price": 45.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/heat/"
-      },
       "LSGiochi": {
         "price": 64.99,
         "url": "https://www.lsgiochi.it/product/10217311/heat-pedal-to-the-metal"
@@ -826,7 +822,7 @@
     "name": "Le Havre",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "GetYourFun": {
@@ -929,7 +925,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.49,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
