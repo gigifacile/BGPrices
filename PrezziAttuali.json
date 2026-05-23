@@ -476,7 +476,7 @@
     "name": "Obsession",
     "prezzi": {
       "DungeonDice": {
-        "price": 99.99,
+        "price": 69.99,
         "url": "https://www.dungeondice.it/30862-obsession.html"
       },
       "DragonStore": {
@@ -529,10 +529,6 @@
       "GetYourFun": {
         "price": 104.49,
         "url": "https://www.getyourfun.it/072-rising-sun-giochi-di-guerra.html"
-      },
-      "LaFeltrinelli": {
-        "price": 110.0,
-        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
       }
     }
   },
@@ -773,7 +769,12 @@
   },
   {
     "name": "Viandanti a Sud del Tigri",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
+      }
+    }
   },
   {
     "name": "L'Isola dei Gatti",
@@ -823,10 +824,6 @@
       "Player1": {
         "price": 38.9,
         "url": "https://player1.it/prodotto/le-havre/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
   },
