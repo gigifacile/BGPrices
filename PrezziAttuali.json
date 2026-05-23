@@ -773,12 +773,7 @@
   },
   {
     "name": "Viandanti a Sud del Tigri",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "L'Isola dei Gatti",
@@ -1596,6 +1591,10 @@
       "GetYourFun": {
         "price": 22.99,
         "url": "https://www.getyourfun.it/027516-crack-list-party-game.html"
+      },
+      "LaFeltrinelli": {
+        "price": 22.99,
+        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "IlCovoDelNerd": {
         "price": 16.0,
