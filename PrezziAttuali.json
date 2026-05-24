@@ -582,6 +582,10 @@
         "price": 33.9,
         "url": "https://player1.it/prodotto/azul/"
       },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
       "IlCovoDelNerd": {
         "price": 31.4,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/azul/"
@@ -660,10 +664,6 @@
       "Player1": {
         "price": 24.9,
         "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
-      },
-      "LaFeltrinelli": {
-        "price": 46.11,
-        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       },
       "DragonStore": {
         "price": 39.92,
@@ -814,7 +814,7 @@
     "name": "Le Havre",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "GetYourFun": {
@@ -1227,10 +1227,6 @@
       "LSGiochi": {
         "price": 54.99,
         "url": "https://www.lsgiochi.it/product/18771825/dorfromantik-sakura-edizione-italiana"
-      },
-      "DragonStore": {
-        "price": 43.99,
-        "url": "https://www.dragonstore.it/gestionali-dorfromantik-sakura-edizione-italiana.1.1.385.gp.34169.uw"
       }
     }
   },
