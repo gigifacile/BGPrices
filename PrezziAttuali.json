@@ -70,7 +70,7 @@
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
       },
       "LaFeltrinelli": {
-        "price": 74.99,
+        "price": 71.24,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "DragonStore": {
@@ -296,10 +296,6 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.99,
-        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
   },
@@ -420,10 +416,6 @@
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
-      "IlCovoDelNerd": {
-        "price": 45.4,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viticulture-essential-edition/"
-      },
       "DragonStore": {
         "price": 51.99,
         "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
@@ -501,10 +493,6 @@
       "IlCovoDelNerd": {
         "price": 31.4,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/azul/"
-      },
-      "DragonStore": {
-        "price": 35.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-azul-italiano.1.1.115.gp.32737.uw"
       }
     }
   },
@@ -702,6 +690,10 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
+      "LaFeltrinelli": {
+        "price": 60.0,
+        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
+      },
       "DragonStore": {
         "price": 47.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -766,6 +758,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
+      },
+      "LSGiochi": {
+        "price": 18.99,
+        "url": "https://www.lsgiochi.it/product/10088873/starship-captains"
       }
     }
   },
@@ -817,10 +813,6 @@
       "LSGiochi": {
         "price": 39.99,
         "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
-      },
-      "DragonStore": {
-        "price": 31.99,
-        "url": "https://www.dragonstore.it/fantasy-res-arcana-italiano.1.1.116.gp.28398.uw"
       }
     }
   },
@@ -1106,7 +1098,7 @@
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
       "LaFeltrinelli": {
-        "price": 59.99,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "DragonStore": {
@@ -1247,10 +1239,6 @@
         "price": 89.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
       },
-      "IlCovoDelNerd": {
-        "price": 62.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/scythe/"
-      },
       "DragonStore": {
         "price": 71.99,
         "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
@@ -1315,10 +1303,6 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
-      },
       "DragonStore": {
         "price": 39.99,
         "url": "https://www.dragonstore.it/gestionali-ratti-di-wistar-italiano.1.1.385.gp.32401.uw"
@@ -1328,6 +1312,10 @@
   {
     "name": "Evenfall",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 45.3,
+        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
+      },
       "IlCovoDelNerd": {
         "price": 16.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
