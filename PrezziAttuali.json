@@ -123,10 +123,6 @@
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
-      },
-      "DragonStore": {
-        "price": 27.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
       }
     }
   },
@@ -247,6 +243,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
+      },
       "LSGiochi": {
         "price": 29.9,
         "url": "https://www.lsgiochi.it/product/10006991/port-royal-big-box"
@@ -702,10 +702,6 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
-      "LaFeltrinelli": {
-        "price": 60.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
       "DragonStore": {
         "price": 47.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -1052,7 +1048,12 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 47.08,
+        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
+      }
+    }
   },
   {
     "name": "Karak",
@@ -1327,10 +1328,6 @@
   {
     "name": "Evenfall",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 45.3,
-        "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
-      },
       "IlCovoDelNerd": {
         "price": 16.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
