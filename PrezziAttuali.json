@@ -40,10 +40,6 @@
         "price": 99.99,
         "url": "https://www.getyourfun.it/030481-everdell-farshore-giochi-gestionali.html"
       },
-      "LaFeltrinelli": {
-        "price": 99.99,
-        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
-      },
       "IlCovoDelNerd": {
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -296,6 +292,10 @@
       "GetYourFun": {
         "price": 25.49,
         "url": "https://www.getyourfun.it/019731-forest-shuffle-giochi-per-famiglia.html"
+      },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
   },
@@ -1210,10 +1210,6 @@
         "price": 79.99,
         "url": "https://www.getyourfun.it/0840-spirit-island-giochi-di-guerra.html"
       },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
-      },
       "LSGiochi": {
         "price": 79.99,
         "url": "https://www.lsgiochi.it/product/10018403/spirit-island"
@@ -1302,6 +1298,10 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/019698-ratti-di-wistar-giochi-gestionali.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
       },
       "DragonStore": {
         "price": 39.99,
