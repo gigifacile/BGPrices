@@ -534,10 +534,6 @@
       "LaFeltrinelli": {
         "price": 42.74,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
-      },
-      "IlCovoDelNerd": {
-        "price": 31.4,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/azul/"
       }
     }
   },
@@ -574,7 +570,7 @@
     "name": "Fields of Arle - Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 55.99,
         "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
       },
       "Player1": {
@@ -659,10 +655,6 @@
       "LaFeltrinelli": {
         "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
-      },
-      "DragonStore": {
-        "price": 95.99,
-        "url": "https://www.dragonstore.it/gestionali-hegemony-versione-estesa-italiana.1.1.385.gp.32904.uw"
       }
     }
   },
@@ -806,10 +798,6 @@
   {
     "name": "Inis - Big Box",
     "prezzi": {
-      "DungeonDice": {
-        "price": 74.24,
-        "url": "https://www.dungeondice.it/25648-inis-big-box.html"
-      },
       "IlCovoDelNerd": {
         "price": 16.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/inis-big-box/"
@@ -911,6 +899,10 @@
       "LaFeltrinelli": {
         "price": 73.46,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
+      },
+      "IlCovoDelNerd": {
+        "price": 45.4,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/yokohama/"
       }
     }
   },
@@ -1513,6 +1505,10 @@
   {
     "name": "The Wolves",
     "prezzi": {
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/30518-the-wolves.html"
+      },
       "DragonStore": {
         "price": 47.99,
         "url": "https://www.dragonstore.it/classici-famiglia-the-wolves-italiano.1.1.115.gp.31990.uw"
