@@ -48,10 +48,6 @@
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
       },
-      "LSGiochi": {
-        "price": 99.99,
-        "url": "https://www.lsgiochi.it/product/16863671/everdell-farshore-italiano"
-      },
       "DragonStore": {
         "price": 79.99,
         "url": "https://www.dragonstore.it/classici-famiglia-everdell-farshore-italiano.1.1.115.gp.33725.uw"
@@ -149,10 +145,6 @@
       "LaFeltrinelli": {
         "price": 49.42,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
-      },
-      "LSGiochi": {
-        "price": 59.99,
-        "url": "https://www.lsgiochi.it/product/12323854/great-western-trail-nuova-zelanda"
       }
     }
   },
@@ -170,10 +162,6 @@
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
-      },
-      "LSGiochi": {
-        "price": 49.99,
-        "url": "https://www.lsgiochi.it/product/11164777/aeon-s-end-seconda-edizione"
       },
       "DragonStore": {
         "price": 39.99,
@@ -197,6 +185,10 @@
   {
     "name": "It's a Wonderful World",
     "prezzi": {
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
       "DragonStore": {
         "price": 35.6,
         "url": "https://www.dragonstore.it/fantascienza-it-s-a-wonderful-world-italiano.1.1.46.gp.27358.uw"
@@ -256,10 +248,6 @@
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
       },
-      "LSGiochi": {
-        "price": 29.9,
-        "url": "https://www.lsgiochi.it/product/10006991/port-royal-big-box"
-      },
       "DragonStore": {
         "price": 23.99,
         "url": "https://www.dragonstore.it/gestionali-port-royal-big-box-italiano.1.1.385.gp.31768.uw"
@@ -284,10 +272,6 @@
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
-      },
-      "LSGiochi": {
-        "price": 64.99,
-        "url": "https://www.lsgiochi.it/product/10217311/heat-pedal-to-the-metal"
       }
     }
   },
@@ -433,10 +417,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/7315-stone-age.html"
-      },
-      "LSGiochi": {
-        "price": 49.99,
-        "url": "https://www.lsgiochi.it/product/9982140/stone-age"
       }
     }
   },
@@ -525,10 +505,6 @@
   {
     "name": "Fields of Arle - Big Box",
     "prezzi": {
-      "DungeonDice": {
-        "price": 55.99,
-        "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
-      },
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
@@ -549,10 +525,6 @@
       "LaFeltrinelli": {
         "price": 46.11,
         "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
-      },
-      "DragonStore": {
-        "price": 39.92,
-        "url": "https://www.dragonstore.it/gestionali-studiosi-a-sud-del-tigri.1.1.385.gp.32868.uw"
       }
     }
   },
@@ -683,6 +655,10 @@
   {
     "name": "Dune",
     "prezzi": {
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
+      },
       "LaFeltrinelli": {
         "price": 60.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
@@ -734,12 +710,7 @@
   },
   {
     "name": "Endeavor - Abissi Marini",
-    "prezzi": {
-      "LSGiochi": {
-        "price": 52.99,
-        "url": "https://www.lsgiochi.it/product/13454885/endeavor-abissi-marini"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Starship Captains",
@@ -781,10 +752,6 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
-      },
-      "LSGiochi": {
-        "price": 49.99,
-        "url": "https://www.lsgiochi.it/product/10217339/terra-nova"
       }
     }
   },
@@ -798,10 +765,6 @@
       "LaFeltrinelli": {
         "price": 39.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
-      },
-      "LSGiochi": {
-        "price": 39.99,
-        "url": "https://www.lsgiochi.it/product/10150765/res-arcana"
       }
     }
   },
@@ -836,10 +799,6 @@
       "IlCovoDelNerd": {
         "price": 16.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
-      },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/11962593/the-white-castle"
       },
       "DragonStore": {
         "price": 23.99,
@@ -941,10 +900,6 @@
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
-      },
-      "LSGiochi": {
-        "price": 44.99,
-        "url": "https://www.lsgiochi.it/product/10049239/ciarlatani-di-quedlinburgo"
       }
     }
   },
@@ -966,10 +921,6 @@
       "IlCovoDelNerd": {
         "price": 24.4,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
-      },
-      "LSGiochi": {
-        "price": 34.99,
-        "url": "https://www.lsgiochi.it/product/15148722/splendor-seconda-edizione"
       },
       "DragonStore": {
         "price": 27.99,
@@ -995,10 +946,6 @@
       "IlCovoDelNerd": {
         "price": 16.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/catan-big-box-edizione-2021/"
-      },
-      "LSGiochi": {
-        "price": 69.99,
-        "url": "https://www.lsgiochi.it/product/9966223/catan-big-box"
       }
     }
   },
@@ -1132,10 +1079,6 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
       },
-      "LSGiochi": {
-        "price": 59.99,
-        "url": "https://www.lsgiochi.it/product/18304559/concordia"
-      },
       "DragonStore": {
         "price": 47.99,
         "url": "https://www.dragonstore.it/gestionali-concordia-edizione-italiana.1.1.385.gp.17773.uw"
@@ -1156,10 +1099,6 @@
       "LaFeltrinelli": {
         "price": 78.99,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
-      },
-      "LSGiochi": {
-        "price": 78.99,
-        "url": "https://www.lsgiochi.it/product/10089262/barrage"
       },
       "DragonStore": {
         "price": 63.19,
@@ -1202,10 +1141,6 @@
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
-      },
-      "LSGiochi": {
-        "price": 79.99,
-        "url": "https://www.lsgiochi.it/product/10018403/spirit-island"
       },
       "DragonStore": {
         "price": 63.99,
@@ -1266,10 +1201,6 @@
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
-      },
-      "LSGiochi": {
-        "price": 29.99,
-        "url": "https://www.lsgiochi.it/product/16941892/looot-il-bottino-dei-vichinghi"
       },
       "DragonStore": {
         "price": 23.99,
@@ -1333,10 +1264,6 @@
       "IlCovoDelNerd": {
         "price": 16.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
-      },
-      "LSGiochi": {
-        "price": 22.99,
-        "url": "https://www.lsgiochi.it/product/12847402/crack-list-italiano"
       }
     }
   },
@@ -1350,10 +1277,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 41.9,
