@@ -44,10 +44,6 @@
         "price": 67.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
       },
-      "LaFeltrinelli": {
-        "price": 94.99,
-        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
-      },
       "IlCovoDelNerd": {
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -282,7 +278,7 @@
         "url": "https://www.getyourfun.it/018232-heat-giochi-per-famiglia.html"
       },
       "Player1": {
-        "price": 44.9,
+        "price": 49.9,
         "url": "https://player1.it/prodotto/heat/"
       },
       "LaFeltrinelli": {
@@ -387,7 +383,7 @@
     "name": "Nidavellir",
     "prezzi": {
       "DungeonDice": {
-        "price": 37.99,
+        "price": 24.69,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
@@ -531,10 +527,6 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/seasons/"
-      },
-      "LaFeltrinelli": {
-        "price": 47.49,
-        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
         "price": 31.5,
@@ -896,10 +888,6 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.99,
-        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
         "price": 20.9,
