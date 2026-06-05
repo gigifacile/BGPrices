@@ -382,7 +382,12 @@
   },
   {
     "name": "Rising Sun",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 110.0,
+        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
+      }
+    }
   },
   {
     "name": "Bonfire",
@@ -429,6 +434,10 @@
       "LaFeltrinelli": {
         "price": 42.74,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
+      "DadiEMattoncini": {
+        "price": 44.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-astratti/azul.html"
       }
     }
   },
