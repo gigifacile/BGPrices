@@ -32,10 +32,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
-      "LaFeltrinelli": {
-        "price": 99.99,
-        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
-      },
       "IlCovoDelNerd": {
         "price": 99.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -259,7 +255,7 @@
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
@@ -818,10 +814,6 @@
       "DungeonDice": {
         "price": 10.19,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
-      },
-      "LaFeltrinelli": {
-        "price": 16.9,
-        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
@@ -833,7 +825,7 @@
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
       },
       "LaFeltrinelli": {
-        "price": 44.99,
+        "price": 42.74,
         "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
       }
     }
@@ -1095,6 +1087,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       }
     }
   },
@@ -1152,10 +1148,6 @@
         "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
       },
-      "LaFeltrinelli": {
-        "price": 22.99,
-        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
-      },
       "IlCovoDelNerd": {
         "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
@@ -1174,7 +1166,7 @@
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
-        "price": 59.99,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
