@@ -1,12 +1,7 @@
 [
   {
     "name": "Cartographers",
-    "prezzi": {
-      "DragonStore": {
-        "price": 24.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-cartographers-edizione-italiana.1.1.115.gp.26485.uw"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Castle Combo",
@@ -16,7 +11,7 @@
     "name": "Everdell Farshore",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 99.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "Player1": {
@@ -30,10 +25,6 @@
       "IlCovoDelNerd": {
         "price": 99.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
-      },
-      "DragonStore": {
-        "price": 99.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-everdell-farshore-italiano.1.1.115.gp.33725.uw"
       }
     }
   },
@@ -51,10 +42,6 @@
       "LaFeltrinelli": {
         "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
-      "DragonStore": {
-        "price": 69.99,
-        "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
       }
     }
   },
@@ -64,10 +51,6 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
-      },
-      "DragonStore": {
-        "price": 64.99,
-        "url": "https://www.dragonstore.it/fantascienza-arcs-conflitti-e-collasso-nell-orlo.1.1.46.gp.34362.uw"
       }
     }
   },
@@ -77,10 +60,6 @@
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
-      },
-      "DragonStore": {
-        "price": 69.99,
-        "url": "https://www.dragonstore.it/fantasy-cyclades-edizione-leggendaria.1.1.116.gp.33683.uw"
       }
     }
   },
@@ -115,10 +94,6 @@
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
-      },
-      "DragonStore": {
-        "price": 44.99,
-        "url": "https://www.dragonstore.it/horror-horrified-edizione-italiana.1.1.386.gp.32796.uw"
       }
     }
   },
@@ -149,10 +124,6 @@
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
-      },
-      "DragonStore": {
-        "price": 49.99,
-        "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
       }
     }
   },
@@ -162,10 +133,6 @@
       "LaFeltrinelli": {
         "price": 65.91,
         "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
-      },
-      "DragonStore": {
-        "price": 79.99,
-        "url": "https://www.dragonstore.it/gestionali-revive-italiano.1.1.385.gp.32100.uw"
       }
     }
   },
@@ -175,10 +142,6 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
-      },
-      "DragonStore": {
-        "price": 44.5,
-        "url": "https://www.dragonstore.it/fantascienza-it-s-a-wonderful-world-italiano.1.1.46.gp.27358.uw"
       }
     }
   },
@@ -209,10 +172,6 @@
       "LaFeltrinelli": {
         "price": 26.99,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
-      },
-      "DragonStore": {
-        "price": 26.99,
-        "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
       }
     }
   },
@@ -226,10 +185,6 @@
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
-      },
-      "DragonStore": {
-        "price": 29.99,
-        "url": "https://www.dragonstore.it/gestionali-port-royal-big-box-italiano.1.1.385.gp.31768.uw"
       }
     }
   },
@@ -258,7 +213,7 @@
     "name": "Forest Shuffle",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
       },
       "Player1": {
@@ -279,7 +234,7 @@
     "name": "Agricola",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/21782-agricola.html"
       },
       "Player1": {
@@ -293,10 +248,6 @@
       "IlCovoDelNerd": {
         "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-agricola-nuova-edizione.1.1.115.gp.9340.uw"
       }
     }
   },
@@ -304,7 +255,7 @@
     "name": "Terra Mystica - L'Era delle Scoperte",
     "prezzi": {
       "DungeonDice": {
-        "price": 50.39,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
       },
       "Player1": {
@@ -327,10 +278,6 @@
       "GetYourFun": {
         "price": 59.99,
         "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/gestionali-tiletum-italiano.1.1.385.gp.31439.uw"
       }
     }
   },
@@ -348,10 +295,6 @@
       "GetYourFun": {
         "price": 37.99,
         "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
-      },
-      "DragonStore": {
-        "price": 24.99,
-        "url": "https://www.dragonstore.it/fantasy-nidavellir-italiano.1.1.116.gp.27990.uw"
       }
     }
   },
@@ -366,20 +309,11 @@
   },
   {
     "name": "Obsession",
-    "prezzi": {
-      "DragonStore": {
-        "price": 99.99,
-        "url": "https://www.dragonstore.it/gestionali-obsession-italiano.1.1.385.gp.32432.uw"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
-      "DungeonDice": {
-        "price": 38.99,
-        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
-      },
       "Player1": {
         "price": 46.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
@@ -387,10 +321,6 @@
       "LaFeltrinelli": {
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
-      },
-      "DragonStore": {
-        "price": 64.99,
-        "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
       }
     }
   },
@@ -414,12 +344,7 @@
   },
   {
     "name": "Bonfire",
-    "prezzi": {
-      "DragonStore": {
-        "price": 54.99,
-        "url": "https://www.dragonstore.it/gestionali-bonfire-italiano.1.1.385.gp.28000.uw"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Architetti del Regno Occidentale",
@@ -451,7 +376,7 @@
     "name": "Azul",
     "prezzi": {
       "DungeonDice": {
-        "price": 31.49,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/10719-azul.html"
       },
       "Player1": {
@@ -472,7 +397,7 @@
     "name": "Seasons",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
       },
       "Player1": {
@@ -486,10 +411,6 @@
       "IlCovoDelNerd": {
         "price": 44.99,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
-      },
-      "DragonStore": {
-        "price": 49.99,
-        "url": "https://www.dragonstore.it/gestionali-seasons-italiano.1.1.385.gp.14828.uw"
       }
     }
   },
@@ -503,10 +424,6 @@
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/fields-of-arle-big-box-giocattolo-cranio-creations/e/8034055584644"
-      },
-      "DragonStore": {
-        "price": 79.99,
-        "url": "https://www.dragonstore.it/gestionali-fields-of-arle-big-box.1.1.385.gp.32215.uw"
       }
     }
   },
@@ -535,7 +452,7 @@
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "GetYourFun": {
@@ -545,6 +462,10 @@
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
   },
@@ -554,10 +475,6 @@
       "LaFeltrinelli": {
         "price": 113.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
-      },
-      "DragonStore": {
-        "price": 119.99,
-        "url": "https://www.dragonstore.it/gestionali-hegemony-versione-estesa-italiana.1.1.385.gp.32904.uw"
       }
     }
   },
@@ -569,7 +486,7 @@
     "name": "Apiary",
     "prezzi": {
       "DungeonDice": {
-        "price": 47.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "Player1": {
@@ -583,10 +500,6 @@
       "IlCovoDelNerd": {
         "price": 79.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
-      },
-      "DragonStore": {
-        "price": 79.99,
-        "url": "https://www.dragonstore.it/gestionali-apiary-italiano.1.1.385.gp.32653.uw"
       }
     }
   },
@@ -612,12 +525,8 @@
     "name": "Alta Tensione - Recharged",
     "prezzi": {
       "DungeonDice": {
-        "price": 28.19,
-        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
-      },
-      "DragonStore": {
         "price": 46.99,
-        "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
+        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
       }
     }
   },
@@ -652,10 +561,6 @@
       "LaFeltrinelli": {
         "price": 60.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
       }
     }
   },
@@ -695,10 +600,6 @@
       "IlCovoDelNerd": {
         "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/inis-big-box/"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/fantasy-inis-big-box-italiano.1.1.116.gp.29761.uw"
       }
     }
   },
@@ -714,7 +615,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
@@ -731,7 +632,7 @@
     "name": "Golem",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
       },
       "LaFeltrinelli": {
@@ -743,10 +644,6 @@
   {
     "name": "Terra Nova",
     "prezzi": {
-      "DungeonDice": {
-        "price": 24.99,
-        "url": "https://www.dungeondice.it/30238-terra-nova.html"
-      },
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/terra-nova/"
@@ -761,7 +658,7 @@
     "name": "Res Arcana",
     "prezzi": {
       "DungeonDice": {
-        "price": 23.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
       "LaFeltrinelli": {
@@ -801,10 +698,6 @@
       "IlCovoDelNerd": {
         "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
-      },
-      "DragonStore": {
-        "price": 29.99,
-        "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
       }
     }
   },
@@ -820,7 +713,7 @@
     "name": "MLEM - Agenzia Spaziale",
     "prezzi": {
       "DungeonDice": {
-        "price": 20.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
       },
       "LaFeltrinelli": {
@@ -830,10 +723,6 @@
       "IlCovoDelNerd": {
         "price": 29.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
-      },
-      "DragonStore": {
-        "price": 29.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-mlem-agenzia-spaziale.1.1.115.gp.32734.uw"
       }
     }
   },
@@ -900,10 +789,6 @@
   {
     "name": "Splendor",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 30.9,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
@@ -911,10 +796,6 @@
       "IlCovoDelNerd": {
         "price": 34.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/splendor-nuova-edizione/"
-      },
-      "DragonStore": {
-        "price": 34.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
       }
     }
   },
@@ -984,10 +865,6 @@
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/37331-flip-7.html"
-      },
-      "DragonStore": {
-        "price": 16.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-flip-7-edizione-italiana.1.1.115.gp.34395.uw"
       }
     }
   },
@@ -1018,10 +895,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/wargames-dune-imperium-insurrezione.1.1.117.gp.33393.uw"
       }
     }
   },
@@ -1029,7 +902,7 @@
     "name": "Dune Imperium",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
       },
       "Player1": {
@@ -1039,10 +912,6 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
-      },
-      "DragonStore": {
-        "price": 49.9,
-        "url": "https://www.dragonstore.it/gestionali-dune-imperium-il-gioco-da-tavolo.1.1.385.gp.28573.uw"
       }
     }
   },
@@ -1054,7 +923,7 @@
     "name": "Concordia",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "GetYourFun": {
@@ -1064,10 +933,6 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/concordia/"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/gestionali-concordia-edizione-italiana.1.1.385.gp.17773.uw"
       }
     }
   },
@@ -1081,10 +946,6 @@
       "LaFeltrinelli": {
         "price": 78.99,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
-      },
-      "DragonStore": {
-        "price": 78.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-barrage-italiano.1.1.115.gp.26729.uw"
       }
     }
   },
@@ -1106,10 +967,6 @@
       "IlCovoDelNerd": {
         "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/gestionali-nucleum-italiano.1.1.385.gp.32562.uw"
       }
     }
   },
@@ -1123,10 +980,6 @@
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
-      },
-      "DragonStore": {
-        "price": 79.99,
-        "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
       }
     }
   },
@@ -1140,21 +993,12 @@
       "DadiEMattoncini": {
         "price": 89.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
-      },
-      "DragonStore": {
-        "price": 89.99,
-        "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
       }
     }
   },
   {
     "name": "Trekking Through History",
-    "prezzi": {
-      "DragonStore": {
-        "price": 24.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-trekking-through-history-edizione-italiana.1.1.115.gp.33033.uw"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Root",
@@ -1162,6 +1006,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       }
     }
   },
@@ -1171,10 +1019,6 @@
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
-      },
-      "DragonStore": {
-        "price": 29.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-looot-il-bottino-dei-vichinghi.1.1.115.gp.33422.uw"
       }
     }
   },
@@ -1182,7 +1026,7 @@
     "name": "Ratti di Wistar",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "Player1": {
@@ -1218,6 +1062,10 @@
       "LaFeltrinelli": {
         "price": 22.99,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
+      },
+      "IlCovoDelNerd": {
+        "price": 22.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
       }
     }
   },
@@ -1239,10 +1087,6 @@
       "IlCovoDelNerd": {
         "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/le-rovine-perdute-di-arnak/"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/gestionali-le-rovine-perdute-di-arnak.1.1.385.gp.28660.uw"
       }
     }
   },
@@ -1250,16 +1094,12 @@
     "name": "El Grande",
     "prezzi": {
       "DungeonDice": {
-        "price": 34.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
-      },
-      "DragonStore": {
-        "price": 49.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-el-grande-nuova-edizione-italiana-2-mini-espansioni.1.1.115.gp.32239.uw"
       }
     }
   },
@@ -1269,10 +1109,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-the-wolves-italiano.1.1.115.gp.31990.uw"
       }
     }
   }
