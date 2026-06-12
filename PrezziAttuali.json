@@ -530,6 +530,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/019780-kutna-hora-la-citta-dell-argento-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
@@ -876,7 +880,7 @@
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
       },
       "LaFeltrinelli": {
-        "price": 42.74,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
       }
     }
@@ -952,7 +956,7 @@
     "name": "Alhambra",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 47.08,
+        "price": 47.51,
         "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
       }
     }
