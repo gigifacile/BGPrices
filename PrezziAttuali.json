@@ -109,7 +109,7 @@
     "name": "Horrified",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 44.99,
+        "price": 42.74,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
       },
       "DadiEMattoncini": {
@@ -302,10 +302,6 @@
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
-      },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
       }
     }
   },
@@ -389,7 +385,12 @@
   },
   {
     "name": "Rising Sun",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 110.0,
+        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
+      }
+    }
   },
   {
     "name": "Bonfire",
@@ -1024,7 +1025,7 @@
         "url": "https://player1.it/prodotto/dune-imperium/"
       },
       "LaFeltrinelli": {
-        "price": 49.99,
+        "price": 47.49,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "DragonStore": {
@@ -1234,6 +1235,10 @@
       "Player1": {
         "price": 42.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
+      },
+      "LaFeltrinelli": {
+        "price": 56.99,
+        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
