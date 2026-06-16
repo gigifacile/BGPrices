@@ -333,6 +333,10 @@
   {
     "name": "Tiletum",
     "prezzi": {
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/09973-tiletum-giochi-gestionali.html"
+      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-tiletum-italiano.1.1.385.gp.31439.uw"
@@ -349,6 +353,10 @@
       "DungeonDice": {
         "price": 37.99,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
+      },
+      "GetYourFun": {
+        "price": 37.99,
+        "url": "https://www.getyourfun.it/02994-nidavellir-giochi-gestionali.html"
       },
       "DragonStore": {
         "price": 24.99,
@@ -437,6 +445,10 @@
       "DungeonDice": {
         "price": 53.99,
         "url": "https://www.dungeondice.it/30284-earth.html"
+      },
+      "GetYourFun": {
+        "price": 53.99,
+        "url": "https://www.getyourfun.it/018905-earth-giochi-gestionali.html"
       }
     }
   },
@@ -535,6 +547,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/019780-kutna-hora-la-citta-dell-argento-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
@@ -629,6 +645,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/019600-le-havre-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 48.9,
         "url": "https://player1.it/prodotto/le-havre/"
@@ -642,6 +662,10 @@
   {
     "name": "Dune",
     "prezzi": {
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
+      },
       "LaFeltrinelli": {
         "price": 60.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
@@ -668,6 +692,10 @@
   {
     "name": "Federation",
     "prezzi": {
+      "GetYourFun": {
+        "price": 69.99,
+        "url": "https://www.getyourfun.it/019577-federation-giochi-gestionali.html"
+      },
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/federation/"
@@ -991,6 +1019,10 @@
         "price": 69.99,
         "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
       },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      },
       "DadiEMattoncini": {
         "price": 69.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-d-avventura/thunder-road-vendetta.html"
@@ -1053,6 +1085,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
+      },
+      "GetYourFun": {
+        "price": 59.99,
+        "url": "https://www.getyourfun.it/0512-concordia-giochi-gestionali.html"
       },
       "Player1": {
         "price": 41.9,
