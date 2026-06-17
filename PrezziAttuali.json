@@ -121,6 +121,10 @@
   {
     "name": "Horrified",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 42.74,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -260,10 +264,6 @@
       "LaFeltrinelli": {
         "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
-      },
-      "DadiEMattoncini": {
-        "price": 64.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       }
     }
   },
@@ -275,7 +275,7 @@
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       }
     }
@@ -1268,6 +1268,10 @@
       "Player1": {
         "price": 42.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
