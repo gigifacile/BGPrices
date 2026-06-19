@@ -61,10 +61,6 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
-      "LaFeltrinelli": {
-        "price": 71.24,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -107,6 +103,10 @@
       "Player1": {
         "price": 25.9,
         "url": "https://player1.it/prodotto/harmonies/"
+      },
+      "LaFeltrinelli": {
+        "price": 33.24,
+        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
         "price": 34.99,
@@ -1157,10 +1157,6 @@
   {
     "name": "Spirit Island",
     "prezzi": {
-      "DungeonDice": {
-        "price": 79.99,
-        "url": "https://www.dungeondice.it/21947-spirit-island.html"
-      },
       "Player1": {
         "price": 58.9,
         "url": "https://player1.it/prodotto/spirit-island/"
@@ -1241,10 +1237,6 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/ratti-di-wistar/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
       }
     }
   },
