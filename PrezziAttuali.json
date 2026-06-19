@@ -756,7 +756,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
       },
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
       },
       "LaFeltrinelli": {
@@ -905,7 +905,7 @@
     "name": "Ciarlatani di Quedlinburgo",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
       },
       "LaFeltrinelli": {
@@ -983,12 +983,7 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 47.51,
-        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Karak",
