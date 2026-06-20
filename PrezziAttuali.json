@@ -61,6 +61,10 @@
         "price": 52.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
+      "LaFeltrinelli": {
+        "price": 71.24,
+        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
+      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -355,7 +359,7 @@
     "name": "Nidavellir",
     "prezzi": {
       "DungeonDice": {
-        "price": 26.59,
+        "price": 37.99,
         "url": "https://www.dungeondice.it/23035-nidavellir.html"
       },
       "GetYourFun": {
@@ -904,7 +908,7 @@
     "name": "The Crew",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 16.9,
+        "price": 16.06,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
@@ -1237,6 +1241,10 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/ratti-di-wistar/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
       }
     }
   },
