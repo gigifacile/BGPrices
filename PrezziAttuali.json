@@ -155,7 +155,12 @@
   },
   {
     "name": "Trajan Deluxe",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
+      }
+    }
   },
   {
     "name": "Arboretum",
@@ -474,10 +479,6 @@
       "DungeonDice": {
         "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
-      },
-      "LaFeltrinelli": {
-        "price": 119.9,
-        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "IlCovoDelNerd": {
         "price": 119.9,
