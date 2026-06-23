@@ -96,7 +96,7 @@
         "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
-        "price": 33.24,
+        "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -376,6 +376,10 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
+      },
       "Player1": {
         "price": 46.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
@@ -751,10 +755,6 @@
   {
     "name": "Terra Nova",
     "prezzi": {
-      "Player1": {
-        "price": 35.9,
-        "url": "https://player1.it/prodotto/terra-nova/"
-      },
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
@@ -828,7 +828,7 @@
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
@@ -1036,6 +1036,10 @@
         "price": 38.9,
         "url": "https://player1.it/prodotto/dune-imperium/"
       },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
+      },
       "DragonStore": {
         "price": 49.9,
         "url": "https://www.dragonstore.it/gestionali-dune-imperium-il-gioco-da-tavolo.1.1.385.gp.28573.uw"
@@ -1116,6 +1120,10 @@
   {
     "name": "Spirit Island",
     "prezzi": {
+      "DungeonDice": {
+        "price": 79.99,
+        "url": "https://www.dungeondice.it/21947-spirit-island.html"
+      },
       "Player1": {
         "price": 58.9,
         "url": "https://player1.it/prodotto/spirit-island/"
@@ -1133,6 +1141,10 @@
   {
     "name": "Scythe",
     "prezzi": {
+      "DungeonDice": {
+        "price": 89.99,
+        "url": "https://www.dungeondice.it/6038-scythe.html"
+      },
       "Player1": {
         "price": 66.9,
         "url": "https://player1.it/prodotto/scythe/"
@@ -1172,6 +1184,10 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
+      },
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
