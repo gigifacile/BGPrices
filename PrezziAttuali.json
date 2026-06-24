@@ -395,12 +395,7 @@
   },
   {
     "name": "Obsession",
-    "prezzi": {
-      "DragonStore": {
-        "price": 99.99,
-        "url": "https://www.dragonstore.it/gestionali-obsession-italiano.1.1.385.gp.32432.uw"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Viticulture Essential Edition",
@@ -582,10 +577,6 @@
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
   },
@@ -1013,7 +1004,7 @@
     "name": "Alhambra",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 53.0,
+        "price": 47.51,
         "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
       }
     }
