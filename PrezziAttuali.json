@@ -129,10 +129,6 @@
   {
     "name": "Horrified",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 44.99,
-        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
-      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -347,10 +343,6 @@
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
-      },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
       }
     }
   },
@@ -437,7 +429,12 @@
   },
   {
     "name": "Rising Sun",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 110.0,
+        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
+      }
+    }
   },
   {
     "name": "Bonfire",
@@ -933,6 +930,10 @@
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
+      },
+      "DragonStore": {
+        "price": 44.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-ciarlatani-di-quedlinburgo.1.1.115.gp.27384.uw"
       }
     }
   },
@@ -1221,10 +1222,6 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
-      },
-      "DadiEMattoncini": {
-        "price": 64.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       }
     }
   },
