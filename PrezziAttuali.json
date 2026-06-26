@@ -437,12 +437,7 @@
   },
   {
     "name": "Rising Sun",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 110.0,
-        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Bonfire",
@@ -693,6 +688,10 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
+      "LaFeltrinelli": {
+        "price": 60.0,
+        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
+      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -799,6 +798,10 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
+      },
+      "LaFeltrinelli": {
+        "price": 39.99,
+        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
       "DragonStore": {
         "price": 39.99,
@@ -1006,12 +1009,7 @@
   },
   {
     "name": "Alhambra",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 47.51,
-        "url": "https://www.lafeltrinelli.it/alhambra-gioco-da-tavolo-giocattolo-devir/e/8436589620629"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Karak",
@@ -1222,6 +1220,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       }
     }
   },
