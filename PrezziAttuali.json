@@ -10,20 +10,11 @@
   },
   {
     "name": "Castle Combo",
-    "prezzi": {
-      "FantasiaStore": {
-        "price": 21.24,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/174298-castle-combo.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Everdell Farshore",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 79.99,
-        "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
@@ -31,6 +22,10 @@
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
+      },
+      "LaFeltrinelli": {
+        "price": 99.99,
+        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
       "IlCovoDelNerd": {
         "price": 99.9,
@@ -45,10 +40,6 @@
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 69.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/159676-seti-ricerca-di-intelligenza-extraterrestre-ita.html"
-      },
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
@@ -105,7 +96,7 @@
         "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -214,10 +205,6 @@
   {
     "name": "Trajan Deluxe",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 35.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
-      },
       "LaFeltrinelli": {
         "price": 41.16,
         "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
@@ -498,10 +485,6 @@
   {
     "name": "Seasons",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 37.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
-      },
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
@@ -773,10 +756,6 @@
   {
     "name": "Golem",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 32.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
@@ -802,10 +781,6 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
-      },
-      "LaFeltrinelli": {
-        "price": 39.99,
-        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
       "DragonStore": {
         "price": 39.99,
@@ -904,10 +879,6 @@
   {
     "name": "Faraway - Cover Arancione",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 21.99,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
-      },
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
@@ -1091,10 +1062,6 @@
   {
     "name": "Concordia",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 43.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
@@ -1116,10 +1083,6 @@
   {
     "name": "Barrage",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 78.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
-      },
       "DungeonDice": {
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
@@ -1127,6 +1090,10 @@
       "Player1": {
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
+      },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "DragonStore": {
         "price": 78.99,
@@ -1233,20 +1200,12 @@
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
-      },
-      "DragonStore": {
-        "price": 29.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-looot-il-bottino-dei-vichinghi.1.1.115.gp.33422.uw"
       }
     }
   },
   {
     "name": "Ratti di Wistar",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 47.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
