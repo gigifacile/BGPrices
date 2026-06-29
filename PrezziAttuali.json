@@ -273,10 +273,6 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
       },
-      "Player1": {
-        "price": 49.9,
-        "url": "https://player1.it/prodotto/heat/"
-      },
       "LaFeltrinelli": {
         "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
@@ -330,6 +326,10 @@
       "Player1": {
         "price": 42.9,
         "url": "https://player1.it/prodotto/agricola/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
@@ -911,6 +911,10 @@
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
+      },
+      "DadiEMattoncini": {
+        "price": 24.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/faraway-cover-arancione.html"
       }
     }
   },
@@ -924,6 +928,10 @@
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
+      },
+      "LaFeltrinelli": {
+        "price": 16.9,
+        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
