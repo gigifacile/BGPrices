@@ -696,10 +696,6 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
-      "LaFeltrinelli": {
-        "price": 60.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -793,7 +789,12 @@
   },
   {
     "name": "Terra Nova",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
+      }
+    }
   },
   {
     "name": "Res Arcana",
@@ -1243,7 +1244,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
       },
       "DungeonDice": {
-        "price": 59.99,
+        "price": 38.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "Player1": {
