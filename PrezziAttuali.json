@@ -514,6 +514,10 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/seasons/"
       },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
+      },
       "IlCovoDelNerd": {
         "price": 44.99,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
@@ -792,7 +796,7 @@
     "name": "Res Arcana",
     "prezzi": {
       "DungeonDice": {
-        "price": 39.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
       "LaFeltrinelli": {
@@ -922,7 +926,7 @@
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
       "LaFeltrinelli": {
-        "price": 16.9,
+        "price": 16.06,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
@@ -1054,7 +1058,7 @@
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "LaFeltrinelli": {
-        "price": 56.99,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       }
     }
@@ -1138,7 +1142,7 @@
     "name": "Nucleum",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
       "Player1": {
