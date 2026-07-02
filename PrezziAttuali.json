@@ -10,11 +10,20 @@
   },
   {
     "name": "Castle Combo",
-    "prezzi": {}
+    "prezzi": {
+      "FantasiaStore": {
+        "price": 21.24,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/174298-castle-combo.html"
+      }
+    }
   },
   {
     "name": "Everdell Farshore",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 79.99,
+        "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
+      },
       "DungeonDice": {
         "price": 99.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
@@ -40,6 +49,10 @@
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 69.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/159676-seti-ricerca-di-intelligenza-extraterrestre-ita.html"
+      },
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
@@ -205,6 +218,10 @@
   {
     "name": "Trajan Deluxe",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 35.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
+      },
       "LaFeltrinelli": {
         "price": 41.16,
         "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
@@ -288,6 +305,10 @@
       "LaFeltrinelli": {
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
+      },
+      "IlCovoDelNerd": {
+        "price": 29.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/forest-shuffle/"
       },
       "DragonStore": {
         "price": 29.99,
@@ -390,7 +411,12 @@
   },
   {
     "name": "Obsession",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 99.99,
+        "url": "https://www.dungeondice.it/30862-obsession.html"
+      }
+    }
   },
   {
     "name": "Viticulture Essential Edition",
@@ -489,6 +515,10 @@
   {
     "name": "Seasons",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 37.49,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
@@ -534,6 +564,10 @@
       "Player1": {
         "price": 24.9,
         "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
+      },
+      "LaFeltrinelli": {
+        "price": 46.11,
+        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       }
     }
   },
@@ -667,10 +701,6 @@
         "price": 59.99,
         "url": "https://www.getyourfun.it/03031-dune-il-gioco-da-tavolo-giochi-di-guerra.html"
       },
-      "LaFeltrinelli": {
-        "price": 60.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -748,6 +778,10 @@
   {
     "name": "Golem",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 32.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
+      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
@@ -875,6 +909,10 @@
   {
     "name": "Faraway - Cover Arancione",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 21.99,
+        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
+      },
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
@@ -988,12 +1026,7 @@
   },
   {
     "name": "Karak",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 39.99,
-        "url": "https://www.dungeondice.it/35972-karak-seconda-edizione.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Flip 7",
@@ -1062,6 +1095,10 @@
   {
     "name": "Concordia",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 43.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
@@ -1083,6 +1120,10 @@
   {
     "name": "Barrage",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 78.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
+      },
       "DungeonDice": {
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
@@ -1128,10 +1169,6 @@
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
-      },
-      "Player1": {
-        "price": 58.9,
-        "url": "https://player1.it/prodotto/spirit-island/"
       },
       "LaFeltrinelli": {
         "price": 79.9,
@@ -1198,6 +1235,10 @@
   {
     "name": "Ratti di Wistar",
     "prezzi": {
+      "FantasiaStore": {
+        "price": 47.99,
+        "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
+      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
