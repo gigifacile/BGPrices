@@ -274,7 +274,7 @@
         "url": "https://www.dungeondice.it/29880-heat.html"
       },
       "LaFeltrinelli": {
-        "price": 61.74,
+        "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DadiEMattoncini": {
@@ -490,7 +490,7 @@
         "url": "https://player1.it/prodotto/azul/"
       },
       "LaFeltrinelli": {
-        "price": 44.99,
+        "price": 44.9,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DadiEMattoncini": {
@@ -785,7 +785,12 @@
   },
   {
     "name": "Terra Nova",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
+      }
+    }
   },
   {
     "name": "Res Arcana",
@@ -1239,7 +1244,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
       },
       "DungeonDice": {
-        "price": 38.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "Player1": {
