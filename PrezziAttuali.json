@@ -426,7 +426,7 @@
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
       "Player1": {
-        "price": 46.9,
+        "price": 49.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
@@ -606,6 +606,10 @@
       "DungeonDice": {
         "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
+      },
+      "Player1": {
+        "price": 99.9,
+        "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
       },
       "LaFeltrinelli": {
         "price": 119.9,
@@ -1169,6 +1173,10 @@
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
+      },
+      "Player1": {
+        "price": 60.9,
+        "url": "https://player1.it/prodotto/spirit-island/"
       },
       "LaFeltrinelli": {
         "price": 79.9,
