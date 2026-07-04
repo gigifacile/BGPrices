@@ -303,7 +303,7 @@
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
       "LaFeltrinelli": {
-        "price": 29.99,
+        "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "IlCovoDelNerd": {
@@ -648,7 +648,12 @@
   },
   {
     "name": "Viandanti a Sud del Tigri",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
+      }
+    }
   },
   {
     "name": "L'Isola dei Gatti",
@@ -1061,7 +1066,7 @@
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "LaFeltrinelli": {
-        "price": 59.99,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       }
     }
