@@ -10,20 +10,11 @@
   },
   {
     "name": "Castle Combo",
-    "prezzi": {
-      "FantasiaStore": {
-        "price": 21.24,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/174298-castle-combo.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Everdell Farshore",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 79.99,
-        "url": "https://fantasiastore.it/it/giochi-di-carte/158470-everdell-farshore-ita.html"
-      },
       "DungeonDice": {
         "price": 99.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
@@ -49,10 +40,6 @@
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 69.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/159676-seti-ricerca-di-intelligenza-extraterrestre-ita.html"
-      },
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
@@ -112,9 +99,9 @@
         "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
-      "IlCovoDelNerd": {
-        "price": 24.4,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/harmonies/"
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
       },
       "DragonStore": {
         "price": 34.99,
@@ -128,6 +115,10 @@
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
+      "DadiEMattoncini": {
+        "price": 39.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
       },
       "DragonStore": {
         "price": 44.99,
@@ -162,6 +153,10 @@
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
+      "DadiEMattoncini": {
+        "price": 49.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
       },
       "DragonStore": {
         "price": 49.99,
@@ -202,10 +197,6 @@
   {
     "name": "Trajan Deluxe",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 35.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/25824-trajan-deluxe.html"
-      },
       "LaFeltrinelli": {
         "price": 41.16,
         "url": "https://www.lafeltrinelli.it/trajan-deluxe-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532568"
@@ -261,6 +252,10 @@
         "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
+      },
       "IlCovoDelNerd": {
         "price": 45.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/heat/"
@@ -314,10 +309,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
-      },
-      "IlCovoDelNerd": {
-        "price": 41.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/agricola/"
       },
       "DragonStore": {
         "price": 59.99,
@@ -409,10 +400,6 @@
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
-      "IlCovoDelNerd": {
-        "price": 45.4,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viticulture-essential-edition/"
-      },
       "DragonStore": {
         "price": 64.99,
         "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
@@ -481,16 +468,16 @@
       "LaFeltrinelli": {
         "price": 44.9,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
+      "DadiEMattoncini": {
+        "price": 44.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-astratti/azul.html"
       }
     }
   },
   {
     "name": "Seasons",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 37.49,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/7463-seasons.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
@@ -754,10 +741,6 @@
   {
     "name": "Golem",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 32.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/12940-golem.html"
-      },
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
@@ -800,10 +783,6 @@
       "LaFeltrinelli": {
         "price": 73.46,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
-      },
-      "IlCovoDelNerd": {
-        "price": 45.4,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/yokohama/"
       }
     }
   },
@@ -885,13 +864,13 @@
   {
     "name": "Faraway - Cover Arancione",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 21.99,
-        "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
-      },
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
+      },
+      "DadiEMattoncini": {
+        "price": 24.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/faraway-cover-arancione.html"
       }
     }
   },
@@ -939,6 +918,10 @@
       "LaFeltrinelli": {
         "price": 30.9,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
+      },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
       },
       "IlCovoDelNerd": {
         "price": 24.4,
@@ -1028,6 +1011,10 @@
       "Player1": {
         "price": 46.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
+      },
+      "LaFeltrinelli": {
+        "price": 56.99,
+        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       }
     }
   },
@@ -1045,10 +1032,6 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
-      },
-      "DragonStore": {
-        "price": 49.9,
-        "url": "https://www.dragonstore.it/gestionali-dune-imperium-il-gioco-da-tavolo.1.1.385.gp.28573.uw"
       }
     }
   },
@@ -1059,10 +1042,6 @@
   {
     "name": "Concordia",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 43.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
@@ -1080,10 +1059,6 @@
   {
     "name": "Barrage",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 78.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/5743-barrage.html"
-      },
       "DungeonDice": {
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
@@ -1112,6 +1087,10 @@
       "Player1": {
         "price": 42.9,
         "url": "https://player1.it/prodotto/nucleum/"
+      },
+      "DadiEMattoncini": {
+        "price": 59.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/nucleum.html"
       },
       "IlCovoDelNerd": {
         "price": 41.9,
@@ -1151,6 +1130,10 @@
         "price": 66.9,
         "url": "https://player1.it/prodotto/scythe/"
       },
+      "DadiEMattoncini": {
+        "price": 89.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
+      },
       "DragonStore": {
         "price": 89.99,
         "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
@@ -1172,6 +1155,10 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
+      },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       }
     }
   },
@@ -1191,10 +1178,6 @@
   {
     "name": "Ratti di Wistar",
     "prezzi": {
-      "FantasiaStore": {
-        "price": 47.99,
-        "url": "https://fantasiastore.it/it/giochi-per-esperti/47048-ratti-di-wistar.html"
-      },
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
@@ -1230,7 +1213,7 @@
         "url": "https://www.dungeondice.it/32612-crack-list.html"
       },
       "LaFeltrinelli": {
-        "price": 22.99,
+        "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "IlCovoDelNerd": {
