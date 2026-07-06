@@ -112,10 +112,6 @@
         "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
-      "DadiEMattoncini": {
-        "price": 34.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
-      },
       "IlCovoDelNerd": {
         "price": 24.4,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/harmonies/"
@@ -132,10 +128,6 @@
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
-      },
-      "DadiEMattoncini": {
-        "price": 39.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
       },
       "DragonStore": {
         "price": 44.99,
@@ -170,10 +162,6 @@
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
-      "DadiEMattoncini": {
-        "price": 49.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
       },
       "DragonStore": {
         "price": 49.99,
@@ -273,10 +261,6 @@
         "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
-      "DadiEMattoncini": {
-        "price": 64.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
-      },
       "IlCovoDelNerd": {
         "price": 45.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/heat/"
@@ -355,10 +339,6 @@
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
-      },
-      "DadiEMattoncini": {
-        "price": 79.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/terra-mystica-%E2%80%93-l%E2%80%99era-delle-scoperte.html"
       }
     }
   },
@@ -501,10 +481,6 @@
       "LaFeltrinelli": {
         "price": 44.9,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
-      },
-      "DadiEMattoncini": {
-        "price": 44.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-astratti/azul.html"
       }
     }
   },
@@ -916,10 +892,6 @@
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
-      },
-      "DadiEMattoncini": {
-        "price": 24.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/faraway-cover-arancione.html"
       }
     }
   },
@@ -967,10 +939,6 @@
       "LaFeltrinelli": {
         "price": 30.9,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
-      "DadiEMattoncini": {
-        "price": 34.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
       },
       "IlCovoDelNerd": {
         "price": 24.4,
@@ -1060,10 +1028,6 @@
       "Player1": {
         "price": 46.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
-      },
-      "LaFeltrinelli": {
-        "price": 56.99,
-        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       }
     }
   },
@@ -1187,10 +1151,6 @@
         "price": 66.9,
         "url": "https://player1.it/prodotto/scythe/"
       },
-      "DadiEMattoncini": {
-        "price": 89.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
-      },
       "DragonStore": {
         "price": 89.99,
         "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
@@ -1212,10 +1172,6 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
-      },
-      "DadiEMattoncini": {
-        "price": 64.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       }
     }
   },
