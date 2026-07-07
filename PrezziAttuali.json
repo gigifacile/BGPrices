@@ -449,7 +449,7 @@
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
       "IlCovoDelNerd": {
-        "price": 16.0,
+        "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/architetti-del-regno-occidentale/"
       }
     }
@@ -612,10 +612,6 @@
         "price": 54.9,
         "url": "https://player1.it/prodotto/apiary/"
       },
-      "LaFeltrinelli": {
-        "price": 65.91,
-        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
-      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
@@ -725,7 +721,7 @@
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
       "IlCovoDelNerd": {
-        "price": 16.0,
+        "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/inis-big-box/"
       },
       "DragonStore": {
@@ -827,7 +823,7 @@
         "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       },
       "IlCovoDelNerd": {
-        "price": 16.0,
+        "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
       },
       "DragonStore": {
@@ -877,7 +873,7 @@
         "url": "https://www.dungeondice.it/3666-la-festa-per-odino.html"
       },
       "IlCovoDelNerd": {
-        "price": 16.0,
+        "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/la-festa-per-odino/"
       }
     }
@@ -892,6 +888,10 @@
       "FantasiaStore": {
         "price": 21.99,
         "url": "https://fantasiastore.it/it/giochi-semplici-e-family-games/142899-faraway-cover-arancione.html"
+      },
+      "DungeonDice": {
+        "price": 24.99,
+        "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
       },
       "DadiEMattoncini": {
         "price": 24.99,
@@ -970,7 +970,7 @@
     "name": "Catan - Big Box",
     "prezzi": {
       "IlCovoDelNerd": {
-        "price": 16.0,
+        "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/catan-big-box-edizione-2021/"
       }
     }
@@ -1237,7 +1237,7 @@
         "url": "https://www.lafeltrinelli.it/evenfall-gioco-da-tavolo-giocattolo-dv-giochi/e/8033609532810"
       },
       "IlCovoDelNerd": {
-        "price": 16.0,
+        "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
       }
     }
@@ -1254,7 +1254,7 @@
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "IlCovoDelNerd": {
-        "price": 16.0,
+        "price": 22.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
       }
     }
