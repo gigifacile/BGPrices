@@ -189,10 +189,6 @@
   {
     "name": "It's a Wonderful World",
     "prezzi": {
-      "IlCovoDelNerd": {
-        "price": 31.2,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/its-a-wonderful-world/"
-      },
       "DragonStore": {
         "price": 44.5,
         "url": "https://www.dragonstore.it/fantascienza-it-s-a-wonderful-world-italiano.1.1.46.gp.27358.uw"
@@ -458,7 +454,7 @@
     "name": "Earth",
     "prezzi": {
       "DungeonDice": {
-        "price": 53.99,
+        "price": 32.39,
         "url": "https://www.dungeondice.it/30284-earth.html"
       },
       "GetYourFun": {
@@ -506,10 +502,6 @@
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
-      },
-      "IlCovoDelNerd": {
-        "price": 31.5,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
       },
       "DragonStore": {
         "price": 49.99,
@@ -693,6 +685,10 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.42,
+        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -1069,7 +1065,7 @@
         "url": "https://fantasiastore.it/it/giochi-per-esperti/2276-concordia.html"
       },
       "DungeonDice": {
-        "price": 38.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/1757-concordia.html"
       },
       "GetYourFun": {
