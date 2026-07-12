@@ -23,6 +23,10 @@
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
       },
+      "LaFeltrinelli": {
+        "price": 99.99,
+        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
+      },
       "IlCovoDelNerd": {
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -757,10 +761,6 @@
       "LaFeltrinelli": {
         "price": 39.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
-      },
-      "DragonStore": {
-        "price": 39.99,
-        "url": "https://www.dragonstore.it/fantasy-res-arcana-italiano.1.1.116.gp.28398.uw"
       }
     }
   },
@@ -982,7 +982,12 @@
   },
   {
     "name": "Thunder Road - Vendetta",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      }
+    }
   },
   {
     "name": "Dune Imperium - Insurrezione",
@@ -1138,10 +1143,6 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/18526-root.html"
-      },
-      "DadiEMattoncini": {
-        "price": 64.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/root-un-gioco-di-potere-e-giustizia-nei-boschi-gioco-base.html"
       }
     }
   },
