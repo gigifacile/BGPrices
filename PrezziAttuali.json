@@ -27,10 +27,6 @@
         "price": 99.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
-      "IlCovoDelNerd": {
-        "price": 69.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
-      },
       "DragonStore": {
         "price": 99.99,
         "url": "https://www.dragonstore.it/classici-famiglia-everdell-farshore-italiano.1.1.115.gp.33725.uw"
@@ -45,7 +41,7 @@
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
       },
       "LaFeltrinelli": {
-        "price": 74.99,
+        "price": 71.24,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "DragonStore": {
@@ -90,10 +86,6 @@
       "Player1": {
         "price": 26.9,
         "url": "https://player1.it/prodotto/harmonies/"
-      },
-      "LaFeltrinelli": {
-        "price": 33.24,
-        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
         "price": 34.99,
@@ -214,10 +206,6 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
-      },
       "LaFeltrinelli": {
         "price": 24.67,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
@@ -294,7 +282,7 @@
         "url": "https://player1.it/prodotto/agricola/"
       },
       "LaFeltrinelli": {
-        "price": 59.99,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       },
       "DragonStore": {
@@ -469,6 +457,10 @@
   {
     "name": "Seasons",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/6052-seasons.html"
+      },
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/seasons/"
@@ -667,6 +659,10 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.42,
+        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -687,7 +683,7 @@
     "name": "Inis - Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 98.99,
+        "price": 74.24,
         "url": "https://www.dungeondice.it/25648-inis-big-box.html"
       },
       "IlCovoDelNerd": {
