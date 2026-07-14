@@ -27,6 +27,10 @@
         "price": 99.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       },
+      "IlCovoDelNerd": {
+        "price": 69.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
+      },
       "DragonStore": {
         "price": 99.99,
         "url": "https://www.dragonstore.it/classici-famiglia-everdell-farshore-italiano.1.1.115.gp.33725.uw"
@@ -86,6 +90,10 @@
       "Player1": {
         "price": 26.9,
         "url": "https://player1.it/prodotto/harmonies/"
+      },
+      "LaFeltrinelli": {
+        "price": 34.99,
+        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
         "price": 34.99,
@@ -226,10 +234,6 @@
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/heat/"
-      },
-      "LaFeltrinelli": {
-        "price": 64.99,
-        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DadiEMattoncini": {
         "price": 64.99,
@@ -574,10 +578,6 @@
         "price": 54.9,
         "url": "https://player1.it/prodotto/apiary/"
       },
-      "LaFeltrinelli": {
-        "price": 65.91,
-        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
-      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
@@ -710,10 +710,6 @@
       "Player1": {
         "price": 21.9,
         "url": "https://player1.it/prodotto/starship-captains/"
-      },
-      "LaFeltrinelli": {
-        "price": 30.0,
-        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
   },
@@ -723,10 +719,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
-      },
-      "LaFeltrinelli": {
-        "price": 25.0,
-        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -859,10 +851,6 @@
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
-      },
-      "LaFeltrinelli": {
-        "price": 16.06,
-        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
