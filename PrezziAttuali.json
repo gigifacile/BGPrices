@@ -260,6 +260,10 @@
         "price": 22.9,
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
+      },
       "IlCovoDelNerd": {
         "price": 29.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/forest-shuffle/"
@@ -305,10 +309,6 @@
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
-      },
-      "LaFeltrinelli": {
-        "price": 79.99,
-        "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
       },
       "DadiEMattoncini": {
         "price": 79.99,
