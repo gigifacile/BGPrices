@@ -201,10 +201,6 @@
         "price": 26.99,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
-      "LaFeltrinelli": {
-        "price": 26.99,
-        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
-      },
       "DragonStore": {
         "price": 26.99,
         "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
@@ -309,6 +305,10 @@
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
+      },
+      "LaFeltrinelli": {
+        "price": 79.99,
+        "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
       },
       "DadiEMattoncini": {
         "price": 79.99,
@@ -721,7 +721,7 @@
     "name": "Golem",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 25.0,
+        "price": 57.19,
         "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
