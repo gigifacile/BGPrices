@@ -537,12 +537,8 @@
   {
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
-      "Player1": {
-        "price": 97.9,
-        "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
-      },
       "LaFeltrinelli": {
-        "price": 119.9,
+        "price": 113.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "DragonStore": {
@@ -558,17 +554,9 @@
   {
     "name": "Apiary",
     "prezzi": {
-      "DungeonDice": {
-        "price": 79.99,
-        "url": "https://www.dungeondice.it/32351-apiary.html"
-      },
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/apiary/"
-      },
-      "LaFeltrinelli": {
-        "price": 65.91,
-        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
       "IlCovoDelNerd": {
         "price": 55.9,
@@ -627,6 +615,10 @@
   {
     "name": "Dune",
     "prezzi": {
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/22774-dune.html"
+      },
       "LaFeltrinelli": {
         "price": 60.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
@@ -680,7 +672,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 27.49,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
@@ -715,7 +707,7 @@
     "name": "Res Arcana",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
       "LaFeltrinelli": {
@@ -1059,7 +1051,7 @@
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
       "LaFeltrinelli": {
-        "price": 79.9,
+        "price": 75.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "DragonStore": {
@@ -1173,6 +1165,10 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 41.9,
