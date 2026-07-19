@@ -18,6 +18,10 @@
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
       },
+      "LaFeltrinelli": {
+        "price": 99.99,
+        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
+      },
       "IlCovoDelNerd": {
         "price": 69.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/everdell-farshore/"
@@ -168,12 +172,7 @@
   },
   {
     "name": "Port Royal Big Box",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 24.67,
-        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Heat",
@@ -718,7 +717,7 @@
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
       "LaFeltrinelli": {
-        "price": 16.06,
+        "price": 16.9,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
@@ -830,7 +829,7 @@
     "name": "Thunder Road - Vendetta",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 85.54,
+        "price": 69.99,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
