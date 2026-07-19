@@ -95,6 +95,10 @@
         "price": 26.9,
         "url": "https://player1.it/prodotto/harmonies/"
       },
+      "LaFeltrinelli": {
+        "price": 34.99,
+        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
+      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
@@ -309,6 +313,10 @@
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
+      },
+      "LaFeltrinelli": {
+        "price": 79.99,
+        "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
       },
       "DadiEMattoncini": {
         "price": 79.99,
