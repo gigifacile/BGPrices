@@ -126,7 +126,7 @@
     "name": "Great Western Trail - Nuova Zelanda",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 59.99,
+        "price": 49.42,
         "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
       }
     }
@@ -160,7 +160,7 @@
     "name": "Revive",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 79.9,
+        "price": 65.91,
         "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
       },
       "DragonStore": {
@@ -214,6 +214,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 24.67,
+        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
+      },
       "DragonStore": {
         "price": 23.99,
         "url": "https://www.dragonstore.it/gestionali-port-royal-big-box-italiano.1.1.385.gp.31768.uw"
@@ -223,10 +227,6 @@
   {
     "name": "Heat",
     "prezzi": {
-      "DungeonDice": {
-        "price": 38.99,
-        "url": "https://www.dungeondice.it/29880-heat.html"
-      },
       "Player1": {
         "price": 50.9,
         "url": "https://player1.it/prodotto/heat/"
@@ -494,6 +494,10 @@
       "Player1": {
         "price": 24.9,
         "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
+      },
+      "LaFeltrinelli": {
+        "price": 46.11,
+        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       }
     }
   },
@@ -546,6 +550,14 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
+      "Player1": {
+        "price": 54.9,
+        "url": "https://player1.it/prodotto/apiary/"
+      },
+      "LaFeltrinelli": {
+        "price": 65.91,
+        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
+      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
@@ -558,7 +570,12 @@
   },
   {
     "name": "Viandanti a Sud del Tigri",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
+      }
+    }
   },
   {
     "name": "L'Isola dei Gatti",
@@ -618,6 +635,10 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.42,
+        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -666,7 +687,12 @@
   },
   {
     "name": "Golem",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 57.19,
+        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
+      }
+    }
   },
   {
     "name": "Terra Nova",
@@ -714,6 +740,10 @@
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       },
+      "IlCovoDelNerd": {
+        "price": 22.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
+      },
       "DragonStore": {
         "price": 23.99,
         "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
@@ -759,6 +789,10 @@
       "DungeonDice": {
         "price": 81.99,
         "url": "https://www.dungeondice.it/3666-la-festa-per-odino.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 22.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/la-festa-per-odino/"
       }
     }
   },
