@@ -45,7 +45,7 @@
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
       "LaFeltrinelli": {
-        "price": 71.24,
+        "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       },
       "DragonStore": {
@@ -92,7 +92,7 @@
         "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -124,12 +124,7 @@
   },
   {
     "name": "Great Western Trail - Nuova Zelanda",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 49.42,
-        "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Aeon's End - Seconda Edizione",
@@ -228,7 +223,7 @@
     "name": "Heat",
     "prezzi": {
       "DungeonDice": {
-        "price": 64.99,
+        "price": 38.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
       },
       "Player1": {
@@ -236,7 +231,7 @@
         "url": "https://player1.it/prodotto/heat/"
       },
       "LaFeltrinelli": {
-        "price": 64.99,
+        "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DadiEMattoncini": {
@@ -371,6 +366,10 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
+      "Player1": {
+        "price": 49.9,
+        "url": "https://player1.it/prodotto/viticulture-essential-edition/"
+      },
       "LaFeltrinelli": {
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
@@ -450,7 +449,7 @@
     "name": "Seasons",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
       },
       "Player1": {
