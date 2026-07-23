@@ -142,10 +142,6 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
@@ -214,10 +210,6 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 24.67,
-        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
-      },
       "DragonStore": {
         "price": 23.99,
         "url": "https://www.dragonstore.it/gestionali-port-royal-big-box-italiano.1.1.385.gp.31768.uw"
@@ -230,6 +222,10 @@
       "Player1": {
         "price": 50.9,
         "url": "https://player1.it/prodotto/heat/"
+      },
+      "LaFeltrinelli": {
+        "price": 61.74,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DadiEMattoncini": {
         "price": 64.99,
@@ -586,7 +582,7 @@
     "name": "Alta Tensione - Recharged",
     "prezzi": {
       "DungeonDice": {
-        "price": 46.99,
+        "price": 30.54,
         "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
       },
       "DragonStore": {
