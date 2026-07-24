@@ -359,10 +359,6 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
-      "DungeonDice": {
-        "price": 45.49,
-        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
-      },
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
@@ -1049,10 +1045,6 @@
       "LaFeltrinelli": {
         "price": 75.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
-      },
-      "DragonStore": {
-        "price": 63.99,
-        "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
       }
     }
   },
