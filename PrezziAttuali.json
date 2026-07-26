@@ -99,12 +99,7 @@
   },
   {
     "name": "Great Western Trail - Nuova Zelanda",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 49.42,
-        "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Aeon's End - Seconda Edizione",
@@ -657,6 +652,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
+      },
+      "LaFeltrinelli": {
+        "price": 28.49,
+        "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
         "price": 20.9,
