@@ -15,10 +15,6 @@
   {
     "name": "Everdell Farshore",
     "prezzi": {
-      "DungeonDice": {
-        "price": 99.99,
-        "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
-      },
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
@@ -210,6 +206,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
+      },
       "LaFeltrinelli": {
         "price": 24.67,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
@@ -359,6 +359,10 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
+      },
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
@@ -521,6 +525,10 @@
   {
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
+      "DungeonDice": {
+        "price": 119.99,
+        "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
+      },
       "LaFeltrinelli": {
         "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
@@ -1123,6 +1131,10 @@
   {
     "name": "Crack List",
     "prezzi": {
+      "DungeonDice": {
+        "price": 22.99,
+        "url": "https://www.dungeondice.it/32612-crack-list.html"
+      },
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
