@@ -926,7 +926,12 @@
   },
   {
     "name": "Thunder Road - Vendetta",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      }
+    }
   },
   {
     "name": "Dune Imperium - Insurrezione",
@@ -1035,6 +1040,10 @@
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
+      },
+      "DragonStore": {
+        "price": 79.99,
+        "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
       }
     }
   },
@@ -1114,10 +1123,6 @@
   {
     "name": "Crack List",
     "prezzi": {
-      "DungeonDice": {
-        "price": 22.99,
-        "url": "https://www.dungeondice.it/32612-crack-list.html"
-      },
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
