@@ -605,6 +605,10 @@
       "Player1": {
         "price": 48.9,
         "url": "https://player1.it/prodotto/le-havre/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
   },
@@ -766,7 +770,7 @@
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
@@ -982,10 +986,6 @@
   {
     "name": "Concordia",
     "prezzi": {
-      "DungeonDice": {
-        "price": 38.99,
-        "url": "https://www.dungeondice.it/1757-concordia.html"
-      },
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/concordia/"
@@ -1038,7 +1038,7 @@
     "name": "Spirit Island",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
       "LaFeltrinelli": {
