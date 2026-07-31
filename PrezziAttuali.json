@@ -142,6 +142,10 @@
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
+      "DadiEMattoncini": {
+        "price": 49.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
+      },
       "DragonStore": {
         "price": 49.99,
         "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
@@ -259,6 +263,10 @@
       "LaFeltrinelli": {
         "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
+      },
+      "IlCovoDelNerd": {
+        "price": 29.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/forest-shuffle/"
       },
       "DragonStore": {
         "price": 29.99,
@@ -521,10 +529,6 @@
   {
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
-      "DungeonDice": {
-        "price": 119.99,
-        "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
-      },
       "LaFeltrinelli": {
         "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
@@ -883,7 +887,12 @@
   },
   {
     "name": "Catan - Big Box",
-    "prezzi": {}
+    "prezzi": {
+      "IlCovoDelNerd": {
+        "price": 22.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/catan-big-box-edizione-2021/"
+      }
+    }
   },
   {
     "name": "Mantis Falls",
