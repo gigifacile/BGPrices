@@ -99,6 +99,10 @@
         "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
+      },
       "DragonStore": {
         "price": 34.99,
         "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
@@ -137,10 +141,6 @@
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
-      "DadiEMattoncini": {
-        "price": 49.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
       },
       "DragonStore": {
         "price": 49.99,
@@ -235,6 +235,10 @@
         "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
+      "DadiEMattoncini": {
+        "price": 64.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
+      },
       "DragonStore": {
         "price": 64.99,
         "url": "https://www.dragonstore.it/gestionali-heat-pedal-to-the-metal-italiano.1.1.385.gp.31795.uw"
@@ -255,10 +259,6 @@
       "LaFeltrinelli": {
         "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
-      },
-      "IlCovoDelNerd": {
-        "price": 29.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/forest-shuffle/"
       },
       "DragonStore": {
         "price": 29.99,
@@ -854,6 +854,10 @@
         "price": 30.9,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
+      },
       "DragonStore": {
         "price": 34.99,
         "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
@@ -879,12 +883,7 @@
   },
   {
     "name": "Catan - Big Box",
-    "prezzi": {
-      "IlCovoDelNerd": {
-        "price": 22.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/catan-big-box-edizione-2021/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Mantis Falls",
