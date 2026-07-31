@@ -15,6 +15,10 @@
   {
     "name": "Everdell Farshore",
     "prezzi": {
+      "DungeonDice": {
+        "price": 50.0,
+        "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
+      },
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
@@ -190,7 +194,7 @@
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
       "LaFeltrinelli": {
-        "price": 26.99,
+        "price": 25.64,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
@@ -205,6 +209,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
+      },
+      "LaFeltrinelli": {
+        "price": 24.67,
+        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
       },
       "DragonStore": {
         "price": 29.99,
@@ -1153,7 +1161,7 @@
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "LaFeltrinelli": {
-        "price": 47.49,
+        "price": 49.99,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
