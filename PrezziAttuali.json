@@ -44,10 +44,6 @@
         "price": 54.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
-      "LaFeltrinelli": {
-        "price": 74.99,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -602,9 +598,9 @@
   {
     "name": "Le Havre",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
+      "Player1": {
+        "price": 48.9,
+        "url": "https://player1.it/prodotto/le-havre/"
       }
     }
   },
@@ -925,12 +921,7 @@
   },
   {
     "name": "Thunder Road - Vendetta",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 69.99,
-        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Dune Imperium - Insurrezione",
