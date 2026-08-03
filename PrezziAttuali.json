@@ -44,6 +44,10 @@
         "price": 54.9,
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
+      "LaFeltrinelli": {
+        "price": 74.99,
+        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
+      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -56,10 +60,6 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 64.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/arcs-conflitti-e-collasso-nellorlo-gioco-base/"
       },
       "DragonStore": {
         "price": 64.99,
@@ -108,10 +108,6 @@
   {
     "name": "Horrified",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 38.9,
-        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
-      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -458,7 +454,7 @@
         "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
-        "price": 31.5,
+        "price": 44.99,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/card-games/seasons/"
       },
       "DragonStore": {
@@ -555,7 +551,7 @@
         "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
       "IlCovoDelNerd": {
-        "price": 55.9,
+        "price": 79.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
       },
       "DragonStore": {
@@ -601,6 +597,10 @@
       "Player1": {
         "price": 48.9,
         "url": "https://player1.it/prodotto/le-havre/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
   },
@@ -766,7 +766,7 @@
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "IlCovoDelNerd": {
-        "price": 20.9,
+        "price": 29.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/party-games/mlem-agenzia-spaziale/"
       },
       "DragonStore": {
@@ -921,7 +921,12 @@
   },
   {
     "name": "Thunder Road - Vendetta",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      }
+    }
   },
   {
     "name": "Dune Imperium - Insurrezione",
@@ -1005,10 +1010,6 @@
       "DadiEMattoncini": {
         "price": 59.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/nucleum.html"
-      },
-      "IlCovoDelNerd": {
-        "price": 41.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
       },
       "DragonStore": {
         "price": 59.99,
@@ -1139,7 +1140,7 @@
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
-        "price": 41.9,
+        "price": 59.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/le-rovine-perdute-di-arnak/"
       },
       "DragonStore": {
