@@ -15,10 +15,6 @@
   {
     "name": "Everdell Farshore",
     "prezzi": {
-      "DungeonDice": {
-        "price": 50.0,
-        "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
-      },
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
@@ -37,7 +33,7 @@
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 69.99,
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
       },
       "Player1": {
@@ -75,7 +71,7 @@
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
       "DungeonDice": {
-        "price": 48.99,
+        "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
       },
       "DragonStore": {
@@ -299,7 +295,7 @@
     "name": "Terra Mystica - L'Era delle Scoperte",
     "prezzi": {
       "DungeonDice": {
-        "price": 47.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
       },
       "Player1": {
@@ -450,7 +446,7 @@
     "name": "Seasons",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
       },
       "Player1": {
@@ -494,10 +490,6 @@
       "Player1": {
         "price": 24.9,
         "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
-      },
-      "LaFeltrinelli": {
-        "price": 46.11,
-        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       }
     }
   },
@@ -513,7 +505,7 @@
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 24.0,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "Player1": {
@@ -521,7 +513,7 @@
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
       },
       "LaFeltrinelli": {
-        "price": 56.99,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
@@ -808,7 +800,7 @@
     "name": "Faraway - Cover Arancione",
     "prezzi": {
       "DungeonDice": {
-        "price": 17.49,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
       },
       "DadiEMattoncini": {
@@ -906,7 +898,7 @@
     "name": "Dorfromantik – Sakura",
     "prezzi": {
       "DungeonDice": {
-        "price": 54.99,
+        "price": 32.99,
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
       }
     }
@@ -940,7 +932,7 @@
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
       "LaFeltrinelli": {
@@ -957,7 +949,7 @@
     "name": "Dune Imperium",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
       },
       "Player1": {
@@ -1008,7 +1000,7 @@
     "name": "Nucleum",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
       "Player1": {
@@ -1033,7 +1025,7 @@
     "name": "Spirit Island",
     "prezzi": {
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
       "LaFeltrinelli": {
@@ -1127,7 +1119,7 @@
         "url": "https://www.dungeondice.it/32612-crack-list.html"
       },
       "LaFeltrinelli": {
-        "price": 22.99,
+        "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "IlCovoDelNerd": {
@@ -1165,7 +1157,7 @@
     "name": "El Grande",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "LaFeltrinelli": {
