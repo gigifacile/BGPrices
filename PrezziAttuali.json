@@ -15,6 +15,10 @@
   {
     "name": "Everdell Farshore",
     "prezzi": {
+      "DungeonDice": {
+        "price": 99.99,
+        "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
+      },
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
@@ -490,6 +494,10 @@
       "Player1": {
         "price": 24.9,
         "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
+      },
+      "LaFeltrinelli": {
+        "price": 46.11,
+        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       }
     }
   },
