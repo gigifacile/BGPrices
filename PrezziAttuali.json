@@ -261,7 +261,7 @@
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
       "LaFeltrinelli": {
-        "price": 29.99,
+        "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "IlCovoDelNerd": {
@@ -288,6 +288,10 @@
       "Player1": {
         "price": 42.9,
         "url": "https://player1.it/prodotto/agricola/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
       }
     }
   },
@@ -985,9 +989,9 @@
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
       },
-      "LaFeltrinelli": {
-        "price": 78.99,
-        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      "Player1": {
+        "price": 59.9,
+        "url": "https://player1.it/prodotto/barrage/"
       },
       "DragonStore": {
         "price": 78.99,
