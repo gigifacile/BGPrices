@@ -40,10 +40,6 @@
         "price": 69.99,
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
       },
-      "Player1": {
-        "price": 54.9,
-        "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
-      },
       "LaFeltrinelli": {
         "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
@@ -90,10 +86,6 @@
       "DungeonDice": {
         "price": 34.99,
         "url": "https://www.dungeondice.it/27178-harmonies.html"
-      },
-      "Player1": {
-        "price": 26.9,
-        "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
         "price": 33.24,
@@ -301,10 +293,6 @@
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
-      },
-      "Player1": {
-        "price": 54.9,
-        "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
       },
       "LaFeltrinelli": {
         "price": 79.99,
@@ -667,7 +655,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 27.49,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
@@ -975,7 +963,12 @@
   },
   {
     "name": "Concordia",
-    "prezzi": {}
+    "prezzi": {
+      "Player1": {
+        "price": 41.9,
+        "url": "https://player1.it/prodotto/concordia/"
+      }
+    }
   },
   {
     "name": "Barrage",
@@ -1090,10 +1083,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
-      "Player1": {
-        "price": 41.9,
-        "url": "https://player1.it/prodotto/ratti-di-wistar/"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
@@ -1132,10 +1121,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
-      },
-      "Player1": {
-        "price": 45.9,
-        "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "LaFeltrinelli": {
         "price": 59.99,
