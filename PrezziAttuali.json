@@ -524,9 +524,9 @@
   {
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 119.9,
-        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
+      "DungeonDice": {
+        "price": 119.99,
+        "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
       "DragonStore": {
         "price": 119.99,
@@ -992,6 +992,10 @@
       "Player1": {
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
+      },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "DragonStore": {
         "price": 78.99,
