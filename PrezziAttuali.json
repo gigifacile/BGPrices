@@ -336,7 +336,12 @@
   },
   {
     "name": "Dominion - Seconda Edizione",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
+      }
+    }
   },
   {
     "name": "Obsession",
@@ -1014,10 +1019,6 @@
         "price": 59.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/nucleum.html"
       },
-      "IlCovoDelNerd": {
-        "price": 59.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/nucleum/"
-      },
       "DragonStore": {
         "price": 47.99,
         "url": "https://www.dragonstore.it/gestionali-nucleum-italiano.1.1.385.gp.32562.uw"
@@ -1107,12 +1108,7 @@
   },
   {
     "name": "Evenfall",
-    "prezzi": {
-      "IlCovoDelNerd": {
-        "price": 19.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Crack List",
@@ -1124,10 +1120,6 @@
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
-      },
-      "IlCovoDelNerd": {
-        "price": 19.7,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
       }
     }
   },
@@ -1145,10 +1137,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
-      },
-      "IlCovoDelNerd": {
-        "price": 59.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/le-rovine-perdute-di-arnak/"
       },
       "DragonStore": {
         "price": 47.99,
