@@ -359,10 +359,6 @@
         "price": 49.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
-      "LaFeltrinelli": {
-        "price": 64.9,
-        "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
-      },
       "DragonStore": {
         "price": 51.99,
         "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
@@ -696,12 +692,7 @@
   },
   {
     "name": "Terra Nova",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Res Arcana",
@@ -709,10 +700,6 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
-      },
-      "LaFeltrinelli": {
-        "price": 39.99,
-        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       },
       "DragonStore": {
         "price": 31.99,
@@ -722,7 +709,12 @@
   },
   {
     "name": "Yokohama - Seconda Edizione",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 73.46,
+        "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
+      }
+    }
   },
   {
     "name": "Calico",
@@ -966,7 +958,12 @@
   },
   {
     "name": "Concordia",
-    "prezzi": {}
+    "prezzi": {
+      "Player1": {
+        "price": 41.9,
+        "url": "https://player1.it/prodotto/concordia/"
+      }
+    }
   },
   {
     "name": "Barrage",
@@ -1013,10 +1010,6 @@
   {
     "name": "Spirit Island",
     "prezzi": {
-      "DungeonDice": {
-        "price": 79.99,
-        "url": "https://www.dungeondice.it/21947-spirit-island.html"
-      },
       "Player1": {
         "price": 60.9,
         "url": "https://player1.it/prodotto/spirit-island/"
@@ -1156,6 +1149,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 39.99,
