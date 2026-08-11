@@ -22,10 +22,6 @@
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
-      },
-      "LaFeltrinelli": {
-        "price": 99.99,
-        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       }
     }
   },
@@ -187,6 +183,10 @@
         "price": 50.9,
         "url": "https://player1.it/prodotto/heat/"
       },
+      "LaFeltrinelli": {
+        "price": 64.99,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
@@ -222,7 +222,7 @@
     "name": "Agricola",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/21782-agricola.html"
       },
       "Player1": {
@@ -260,7 +260,7 @@
     "name": "Tiletum",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 44.99,
         "url": "https://www.dungeondice.it/28624-tiletum.html"
       }
     }
@@ -368,7 +368,7 @@
     "name": "Seasons",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
       },
       "Player1": {
@@ -423,7 +423,7 @@
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.0,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "Player1": {
@@ -524,6 +524,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/22774-dune.html"
+      },
+      "LaFeltrinelli": {
+        "price": 60.0,
+        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
       }
     }
   },
@@ -570,7 +574,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
@@ -609,7 +613,7 @@
     "name": "Res Arcana",
     "prezzi": {
       "DungeonDice": {
-        "price": 39.99,
+        "price": 23.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
       "LaFeltrinelli": {
@@ -726,12 +730,7 @@
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 44.99,
-        "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "L'Oracolo di Delphi",
@@ -819,10 +818,6 @@
       "Player1": {
         "price": 46.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       }
     }
   },
@@ -1010,7 +1005,7 @@
     "name": "El Grande",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
       },
       "LaFeltrinelli": {
