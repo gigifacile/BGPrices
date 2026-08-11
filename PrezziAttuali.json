@@ -22,6 +22,10 @@
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
+      },
+      "LaFeltrinelli": {
+        "price": 99.99,
+        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
       }
     }
   },
@@ -38,7 +42,7 @@
     "name": "Arcs",
     "prezzi": {
       "DungeonDice": {
-        "price": 64.99,
+        "price": 48.74,
         "url": "https://www.dungeondice.it/22972-arcs.html"
       },
       "IlCovoDelNerd": {
@@ -68,7 +72,7 @@
         "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
-        "price": 33.24,
+        "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -389,7 +393,7 @@
     "name": "Fields of Arle - Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
       },
       "Player1": {
@@ -461,7 +465,7 @@
     "name": "Apiary",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 63.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "Player1": {
@@ -615,10 +619,6 @@
       "DungeonDice": {
         "price": 23.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
-      },
-      "LaFeltrinelli": {
-        "price": 39.99,
-        "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       }
     }
   },
@@ -730,7 +730,12 @@
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
+      }
+    }
   },
   {
     "name": "L'Oracolo di Delphi",
@@ -815,9 +820,17 @@
   {
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
+      },
       "Player1": {
         "price": 46.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       }
     }
   },
