@@ -41,6 +41,10 @@
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 74.99,
+        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
+      },
       "DragonStore": {
         "price": 55.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -603,14 +607,6 @@
   {
     "name": "Dune",
     "prezzi": {
-      "DungeonDice": {
-        "price": 30.0,
-        "url": "https://www.dungeondice.it/22774-dune.html"
-      },
-      "LaFeltrinelli": {
-        "price": 60.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
       "DragonStore": {
         "price": 47.99,
         "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
@@ -692,12 +688,7 @@
   },
   {
     "name": "Terra Nova",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Res Arcana",
@@ -846,10 +837,6 @@
   {
     "name": "Splendor",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 49.25,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
@@ -947,6 +934,10 @@
   {
     "name": "Dune Imperium",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/23931-dune-imperium.html"
+      },
       "Player1": {
         "price": 38.9,
         "url": "https://player1.it/prodotto/dune-imperium/"
@@ -968,6 +959,10 @@
   {
     "name": "Concordia",
     "prezzi": {
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/1757-concordia.html"
+      },
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/concordia/"
