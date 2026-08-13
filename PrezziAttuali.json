@@ -41,10 +41,6 @@
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 74.99,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
       "DragonStore": {
         "price": 55.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -93,7 +89,7 @@
         "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -258,7 +254,7 @@
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "IlCovoDelNerd": {
@@ -365,7 +361,7 @@
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
-        "price": 64.9,
+        "price": 61.66,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "DragonStore": {
@@ -376,12 +372,7 @@
   },
   {
     "name": "Stone Age",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 49.99,
-        "url": "https://www.dungeondice.it/7315-stone-age.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Rising Sun",
@@ -795,10 +786,6 @@
   {
     "name": "La Festa per Odino",
     "prezzi": {
-      "DungeonDice": {
-        "price": 81.99,
-        "url": "https://www.dungeondice.it/3666-la-festa-per-odino.html"
-      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/la-festa-per-odino/"
@@ -1073,12 +1060,7 @@
   },
   {
     "name": "Root",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 64.99,
-        "url": "https://www.dungeondice.it/18526-root.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Looot: Il Bottino dei Vichinghi",
