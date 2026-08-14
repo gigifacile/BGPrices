@@ -1,7 +1,12 @@
 [
   {
     "name": "Cartographers",
-    "prezzi": {}
+    "prezzi": {
+      "DragonStore": {
+        "price": 24.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-cartographers-edizione-italiana.1.1.115.gp.26485.uw"
+      }
+    }
   },
   {
     "name": "Castle Combo",
@@ -26,6 +31,10 @@
       "LaFeltrinelli": {
         "price": 99.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
+      },
+      "DragonStore": {
+        "price": 79.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-everdell-farshore-italiano.1.1.115.gp.33725.uw"
       }
     }
   },
@@ -35,6 +44,10 @@
       "LaFeltrinelli": {
         "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
+      },
+      "DragonStore": {
+        "price": 55.99,
+        "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
       }
     }
   },
@@ -48,6 +61,10 @@
       "IlCovoDelNerd": {
         "price": 55.8,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/arcs-conflitti-e-collasso-nellorlo-gioco-base/"
+      },
+      "DragonStore": {
+        "price": 51.99,
+        "url": "https://www.dragonstore.it/fantascienza-arcs-conflitti-e-collasso-nell-orlo.1.1.46.gp.34362.uw"
       }
     }
   },
@@ -57,6 +74,10 @@
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
+      },
+      "DragonStore": {
+        "price": 55.99,
+        "url": "https://www.dragonstore.it/fantasy-cyclades-edizione-leggendaria.1.1.116.gp.33683.uw"
       }
     }
   },
@@ -78,6 +99,10 @@
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
+      },
+      "DragonStore": {
+        "price": 27.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
       }
     }
   },
@@ -87,6 +112,10 @@
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
+      },
+      "DragonStore": {
+        "price": 35.99,
+        "url": "https://www.dragonstore.it/horror-horrified-edizione-italiana.1.1.386.gp.32796.uw"
       }
     }
   },
@@ -117,12 +146,21 @@
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
+      },
+      "DragonStore": {
+        "price": 39.99,
+        "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
       }
     }
   },
   {
     "name": "Revive",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 65.91,
+        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
+      }
+    }
   },
   {
     "name": "It's a Wonderful World",
@@ -130,6 +168,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
+      "DragonStore": {
+        "price": 35.6,
+        "url": "https://www.dragonstore.it/fantascienza-it-s-a-wonderful-world-italiano.1.1.46.gp.27358.uw"
       }
     }
   },
@@ -155,6 +197,10 @@
       "LaFeltrinelli": {
         "price": 26.99,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
+      },
+      "DragonStore": {
+        "price": 21.59,
+        "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
       }
     }
   },
@@ -165,9 +211,9 @@
         "price": 29.99,
         "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
       },
-      "LaFeltrinelli": {
-        "price": 24.67,
-        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
+      "DragonStore": {
+        "price": 23.99,
+        "url": "https://www.dragonstore.it/gestionali-port-royal-big-box-italiano.1.1.385.gp.31768.uw"
       }
     }
   },
@@ -189,6 +235,10 @@
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
+      },
+      "DragonStore": {
+        "price": 51.99,
+        "url": "https://www.dragonstore.it/gestionali-heat-pedal-to-the-metal-italiano.1.1.385.gp.31795.uw"
       }
     }
   },
@@ -210,6 +260,10 @@
       "IlCovoDelNerd": {
         "price": 25.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/forest-shuffle/"
+      },
+      "DragonStore": {
+        "price": 23.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-forest-shuffle-italiano.1.1.115.gp.32727.uw"
       }
     }
   },
@@ -270,7 +324,12 @@
   },
   {
     "name": "Nidavellir",
-    "prezzi": {}
+    "prezzi": {
+      "DragonStore": {
+        "price": 24.99,
+        "url": "https://www.dragonstore.it/fantasy-nidavellir-italiano.1.1.116.gp.27990.uw"
+      }
+    }
   },
   {
     "name": "Dominion - Seconda Edizione",
@@ -304,6 +363,10 @@
       "LaFeltrinelli": {
         "price": 61.66,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
+      },
+      "DragonStore": {
+        "price": 51.99,
+        "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
       }
     }
   },
@@ -317,7 +380,12 @@
   },
   {
     "name": "Bonfire",
-    "prezzi": {}
+    "prezzi": {
+      "DragonStore": {
+        "price": 43.99,
+        "url": "https://www.dragonstore.it/gestionali-bonfire-italiano.1.1.385.gp.28000.uw"
+      }
+    }
   },
   {
     "name": "Architetti del Regno Occidentale",
@@ -592,12 +660,7 @@
   },
   {
     "name": "Terra Nova",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Res Arcana",
@@ -864,6 +927,10 @@
       "Player1": {
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
+      },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       }
     }
   },
