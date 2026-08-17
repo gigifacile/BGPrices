@@ -41,10 +41,6 @@
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 74.99,
-        "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
       "DragonStore": {
         "price": 55.99,
         "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
@@ -376,7 +372,12 @@
   },
   {
     "name": "Rising Sun",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 110.0,
+        "url": "https://www.lafeltrinelli.it/rising-sun-base-ita-gioco-giocattolo-asmodee/e/3558380051404"
+      }
+    }
   },
   {
     "name": "Bonfire",
@@ -577,6 +578,10 @@
         "price": 46.99,
         "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
       },
+      "LaFeltrinelli": {
+        "price": 44.9,
+        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
+      },
       "DragonStore": {
         "price": 37.6,
         "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
@@ -769,7 +774,12 @@
   },
   {
     "name": "Istanbul - Big Box",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 54.9,
+        "url": "https://www.lafeltrinelli.it/istanbul-big-box-edizione-italiana-giocattolo-raven/e/8032680821189"
+      }
+    }
   },
   {
     "name": "La Festa per Odino",
@@ -981,6 +991,10 @@
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
+      },
       "DragonStore": {
         "price": 63.19,
         "url": "https://www.dragonstore.it/classici-famiglia-barrage-italiano.1.1.115.gp.26729.uw"
@@ -1120,6 +1134,10 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
