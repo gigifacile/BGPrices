@@ -155,7 +155,12 @@
   },
   {
     "name": "Revive",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 65.91,
+        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
+      }
+    }
   },
   {
     "name": "It's a Wonderful World",
@@ -192,10 +197,6 @@
       "LaFeltrinelli": {
         "price": 26.99,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
-      },
-      "DragonStore": {
-        "price": 21.59,
-        "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
       }
     }
   },
@@ -980,10 +981,6 @@
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
-      "LaFeltrinelli": {
-        "price": 78.99,
-        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
-      },
       "DragonStore": {
         "price": 63.19,
         "url": "https://www.dragonstore.it/classici-famiglia-barrage-italiano.1.1.115.gp.26729.uw"
@@ -1123,10 +1120,6 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
