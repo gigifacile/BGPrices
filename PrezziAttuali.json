@@ -220,6 +220,10 @@
         "price": 50.9,
         "url": "https://player1.it/prodotto/heat/"
       },
+      "LaFeltrinelli": {
+        "price": 64.99,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
@@ -469,7 +473,7 @@
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 24.0,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "Player1": {
@@ -534,12 +538,7 @@
   },
   {
     "name": "Viandanti a Sud del Tigri",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "L'Isola dei Gatti",
@@ -599,6 +598,10 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.42,
+        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
