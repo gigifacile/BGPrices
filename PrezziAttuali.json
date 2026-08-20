@@ -93,7 +93,7 @@
         "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
-        "price": 33.24,
+        "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -340,7 +340,7 @@
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
-        "price": 61.66,
+        "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "DragonStore": {
@@ -538,7 +538,12 @@
   },
   {
     "name": "Viandanti a Sud del Tigri",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
+      }
+    }
   },
   {
     "name": "L'Isola dei Gatti",
@@ -708,7 +713,7 @@
         "url": "https://www.dungeondice.it/31788-the-white-castle.html"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       },
       "IlCovoDelNerd": {
@@ -777,10 +782,6 @@
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/32383-faraway-cover-arancione.html"
-      },
-      "DadiEMattoncini": {
-        "price": 24.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/faraway-cover-arancione.html"
       }
     }
   },
@@ -791,10 +792,6 @@
   {
     "name": "The Crew",
     "prezzi": {
-      "DungeonDice": {
-        "price": 11.89,
-        "url": "https://www.dungeondice.it/22687-the-crew.html"
-      },
       "LaFeltrinelli": {
         "price": 16.9,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
