@@ -41,10 +41,6 @@
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
-      "DungeonDice": {
-        "price": 69.99,
-        "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
-      },
       "LaFeltrinelli": {
         "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
@@ -224,10 +220,6 @@
         "price": 50.9,
         "url": "https://player1.it/prodotto/heat/"
       },
-      "LaFeltrinelli": {
-        "price": 64.99,
-        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
-      },
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
@@ -303,12 +295,7 @@
   },
   {
     "name": "Tiletum",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 35.99,
-        "url": "https://www.dungeondice.it/28624-tiletum.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Hansa Teutonica - Big Box",
@@ -344,10 +331,6 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
-      "DungeonDice": {
-        "price": 38.99,
-        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
-      },
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
@@ -616,10 +599,6 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/great-western-trail-argentina/"
-      },
-      "LaFeltrinelli": {
-        "price": 49.42,
-        "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
       }
     }
   },
@@ -1012,10 +991,6 @@
   {
     "name": "Spirit Island",
     "prezzi": {
-      "Player1": {
-        "price": 60.9,
-        "url": "https://player1.it/prodotto/spirit-island/"
-      },
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
@@ -1028,10 +1003,6 @@
       "DadiEMattoncini": {
         "price": 89.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
-      },
-      "DragonStore": {
-        "price": 71.99,
-        "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
       }
     }
   },
