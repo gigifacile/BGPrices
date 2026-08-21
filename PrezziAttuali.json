@@ -92,10 +92,6 @@
         "price": 26.9,
         "url": "https://player1.it/prodotto/harmonies/"
       },
-      "LaFeltrinelli": {
-        "price": 34.99,
-        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
@@ -386,12 +382,7 @@
   },
   {
     "name": "Earth",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 32.39,
-        "url": "https://www.dungeondice.it/30284-earth.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Azul",
