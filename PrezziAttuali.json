@@ -41,6 +41,10 @@
   {
     "name": "SETI - Ricerca di Intelligenza Extraterrestre",
     "prezzi": {
+      "DungeonDice": {
+        "price": 69.99,
+        "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
+      },
       "LaFeltrinelli": {
         "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
@@ -617,6 +621,10 @@
   {
     "name": "Inis - Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 98.99,
+        "url": "https://www.dungeondice.it/25648-inis-big-box.html"
+      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/inis-big-box/"
@@ -998,6 +1006,10 @@
       "DadiEMattoncini": {
         "price": 89.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
+      },
+      "DragonStore": {
+        "price": 71.99,
+        "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
       }
     }
   },
