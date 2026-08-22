@@ -339,6 +339,10 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
+      "Player1": {
+        "price": 49.9,
+        "url": "https://player1.it/prodotto/viticulture-essential-edition/"
+      },
       "LaFeltrinelli": {
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
@@ -667,12 +671,7 @@
   },
   {
     "name": "Terra Nova",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Res Arcana",
@@ -955,6 +954,10 @@
       "Player1": {
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
+      },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "DragonStore": {
         "price": 63.19,
