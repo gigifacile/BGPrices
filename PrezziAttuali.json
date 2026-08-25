@@ -125,7 +125,12 @@
   },
   {
     "name": "Great Western Trail - Nuova Zelanda",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 49.42,
+        "url": "https://www.lafeltrinelli.it/great-western-trail-nuova-zelanda-giocattolo-ghenos-games/e/8033609532643"
+      }
+    }
   },
   {
     "name": "Aeon's End - Seconda Edizione",
@@ -133,10 +138,6 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
-      },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
         "price": 49.99,
@@ -219,6 +220,10 @@
         "price": 50.9,
         "url": "https://player1.it/prodotto/heat/"
       },
+      "LaFeltrinelli": {
+        "price": 64.99,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
+      },
       "DadiEMattoncini": {
         "price": 64.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
@@ -235,6 +240,10 @@
       "Player1": {
         "price": 22.9,
         "url": "https://player1.it/prodotto/forest-shuffle/"
+      },
+      "LaFeltrinelli": {
+        "price": 29.99,
+        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
       },
       "IlCovoDelNerd": {
         "price": 25.7,
@@ -389,6 +398,10 @@
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
+      "IlCovoDelNerd": {
+        "price": 38.6,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/azul/"
       },
       "DragonStore": {
         "price": 35.99,
@@ -781,12 +794,7 @@
   },
   {
     "name": "The Crew",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 16.9,
-        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
@@ -986,6 +994,10 @@
   {
     "name": "Spirit Island",
     "prezzi": {
+      "Player1": {
+        "price": 61.9,
+        "url": "https://player1.it/prodotto/spirit-island/"
+      },
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
@@ -995,6 +1007,10 @@
   {
     "name": "Scythe",
     "prezzi": {
+      "Player1": {
+        "price": 74.9,
+        "url": "https://player1.it/prodotto/scythe/"
+      },
       "DadiEMattoncini": {
         "price": 89.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
@@ -1069,7 +1085,7 @@
         "url": "https://www.dungeondice.it/32612-crack-list.html"
       },
       "LaFeltrinelli": {
-        "price": 21.84,
+        "price": 22.99,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "IlCovoDelNerd": {
