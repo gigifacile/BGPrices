@@ -252,10 +252,6 @@
       "IlCovoDelNerd": {
         "price": 25.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/forest-shuffle/"
-      },
-      "DragonStore": {
-        "price": 23.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-forest-shuffle-italiano.1.1.115.gp.32727.uw"
       }
     }
   },
@@ -900,7 +896,12 @@
   },
   {
     "name": "Thunder Road - Vendetta",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      }
+    }
   },
   {
     "name": "Dune Imperium - Insurrezione",
