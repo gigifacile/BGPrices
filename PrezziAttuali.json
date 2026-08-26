@@ -486,6 +486,10 @@
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
+      },
+      "LaFeltrinelli": {
+        "price": 30.0,
+        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
   },
@@ -699,7 +703,7 @@
     "name": "Yokohama - Seconda Edizione",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 73.46,
+        "price": 70.15,
         "url": "https://www.lafeltrinelli.it/yokohama-gioco-da-tavolo-giocattolo-dv-giochi/e/8058697272165"
       }
     }
@@ -896,12 +900,7 @@
   },
   {
     "name": "Thunder Road - Vendetta",
-    "prezzi": {
-      "LaFeltrinelli": {
-        "price": 69.99,
-        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Dune Imperium - Insurrezione",
