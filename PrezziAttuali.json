@@ -139,6 +139,10 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
+      "LaFeltrinelli": {
+        "price": 49.9,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
@@ -482,10 +486,6 @@
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
-      },
-      "LaFeltrinelli": {
-        "price": 30.0,
-        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
   },
@@ -794,7 +794,12 @@
   },
   {
     "name": "The Crew",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 16.9,
+        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
+      }
+    }
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
@@ -1014,10 +1019,6 @@
       "DadiEMattoncini": {
         "price": 89.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
-      },
-      "DragonStore": {
-        "price": 71.99,
-        "url": "https://www.dragonstore.it/gestionali-scythe-italiano.1.1.385.gp.22009.uw"
       }
     }
   },
