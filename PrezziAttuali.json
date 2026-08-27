@@ -139,10 +139,6 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
-      "LaFeltrinelli": {
-        "price": 49.9,
-        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
@@ -1038,14 +1034,6 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
-      "DungeonDice": {
-        "price": 17.99,
-        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
-      },
-      "LaFeltrinelli": {
-        "price": 29.9,
-        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
-      },
       "DragonStore": {
         "price": 23.99,
         "url": "https://www.dragonstore.it/classici-famiglia-looot-il-bottino-dei-vichinghi.1.1.115.gp.33422.uw"
@@ -1086,7 +1074,7 @@
         "url": "https://www.dungeondice.it/32612-crack-list.html"
       },
       "LaFeltrinelli": {
-        "price": 22.99,
+        "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "IlCovoDelNerd": {
