@@ -139,6 +139,10 @@
         "price": 36.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
+      "LaFeltrinelli": {
+        "price": 47.4,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
       "DadiEMattoncini": {
         "price": 49.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
@@ -241,10 +245,6 @@
         "price": 22.9,
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
-      "LaFeltrinelli": {
-        "price": 29.99,
-        "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
-      },
       "IlCovoDelNerd": {
         "price": 25.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/forest-shuffle/"
@@ -275,10 +275,6 @@
   {
     "name": "Terra Mystica - L'Era delle Scoperte",
     "prezzi": {
-      "DungeonDice": {
-        "price": 47.99,
-        "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
-      },
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/terra-mystica-lera-delle-scoperte/"
@@ -953,10 +949,6 @@
   {
     "name": "Barrage",
     "prezzi": {
-      "DungeonDice": {
-        "price": 47.39,
-        "url": "https://www.dungeondice.it/12981-barrage.html"
-      },
       "Player1": {
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
@@ -1034,6 +1026,10 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
+      },
       "DragonStore": {
         "price": 23.99,
         "url": "https://www.dragonstore.it/classici-famiglia-looot-il-bottino-dei-vichinghi.1.1.115.gp.33422.uw"
@@ -1086,10 +1082,6 @@
   {
     "name": "Le Rovine Perdute di Arnak",
     "prezzi": {
-      "DungeonDice": {
-        "price": 35.99,
-        "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
-      },
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
@@ -1131,6 +1123,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
+      },
+      "IlCovoDelNerd": {
+        "price": 51.5,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/the-wolves/"
       },
       "DragonStore": {
         "price": 47.99,
