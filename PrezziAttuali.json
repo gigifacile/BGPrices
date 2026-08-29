@@ -189,10 +189,6 @@
   {
     "name": "It's a Wonderful World",
     "prezzi": {
-      "DungeonDice": {
-        "price": 26.99,
-        "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
-      },
       "IlCovoDelNerd": {
         "price": 38.3,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/its-a-wonderful-world/"
@@ -619,6 +615,10 @@
   {
     "name": "Viandanti a Sud del Tigri",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 41.16,
+        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
+      },
       "IlCovoDelNerd": {
         "price": 42.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
@@ -640,6 +640,10 @@
       "DungeonDice": {
         "price": 46.99,
         "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
+      },
+      "LaFeltrinelli": {
+        "price": 44.9,
+        "url": "https://www.lafeltrinelli.it/alta-tensione-recharged-gioco-da-giocattolo-giochi-uniti/e/8058773205797"
       },
       "DragonStore": {
         "price": 37.6,
