@@ -1026,7 +1026,12 @@
   },
   {
     "name": "Thunder Road - Vendetta",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      }
+    }
   },
   {
     "name": "Dune Imperium - Insurrezione",
