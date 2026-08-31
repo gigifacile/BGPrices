@@ -353,12 +353,7 @@
   },
   {
     "name": "Dominion - Seconda Edizione",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 34.99,
-        "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Obsession",
@@ -549,7 +544,7 @@
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
       },
       "LaFeltrinelli": {
-        "price": 30.0,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       },
       "IlCovoDelNerd": {
@@ -746,7 +741,7 @@
         "url": "https://player1.it/prodotto/starship-captains/"
       },
       "LaFeltrinelli": {
-        "price": 30.0,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
@@ -1204,10 +1199,6 @@
       "Player1": {
         "price": 41.9,
         "url": "https://player1.it/prodotto/ratti-di-wistar/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
       }
     }
   },
