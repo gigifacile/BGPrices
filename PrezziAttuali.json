@@ -155,6 +155,10 @@
   {
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
+      },
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
@@ -357,7 +361,12 @@
   },
   {
     "name": "Dominion - Seconda Edizione",
-    "prezzi": {}
+    "prezzi": {
+      "DragonStore": {
+        "price": 49.9,
+        "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
+      }
+    }
   },
   {
     "name": "Obsession",
@@ -646,7 +655,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 45.9,
+        "price": 37.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
