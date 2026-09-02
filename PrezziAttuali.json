@@ -380,6 +380,10 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
+      },
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
@@ -655,7 +659,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 37.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -823,10 +827,6 @@
         "price": 29.99,
         "url": "https://www.dungeondice.it/31788-the-white-castle.html"
       },
-      "LaFeltrinelli": {
-        "price": 28.49,
-        "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
-      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
@@ -989,6 +989,10 @@
   {
     "name": "Dorfromantik – Sakura",
     "prezzi": {
+      "DungeonDice": {
+        "price": 54.99,
+        "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
+      },
       "IlCovoDelNerd": {
         "price": 47.2,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dorfromantik-sakura/"
