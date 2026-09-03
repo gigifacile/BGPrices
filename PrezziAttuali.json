@@ -164,7 +164,7 @@
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
       "LaFeltrinelli": {
-        "price": 47.4,
+        "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DadiEMattoncini": {
@@ -742,7 +742,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 27.49,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
@@ -832,7 +832,7 @@
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
       },
       "DragonStore": {
-        "price": 29.99,
+        "price": 31.99,
         "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
       }
     }
@@ -903,6 +903,10 @@
   {
     "name": "The Crew",
     "prezzi": {
+      "DungeonDice": {
+        "price": 16.99,
+        "url": "https://www.dungeondice.it/22687-the-crew.html"
+      },
       "LaFeltrinelli": {
         "price": 16.9,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
@@ -1179,10 +1183,6 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 29.9,
-        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
-      },
       "IlCovoDelNerd": {
         "price": 29.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/looot-il-bottino-dei-vichinghi/"
