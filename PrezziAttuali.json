@@ -265,10 +265,6 @@
         "price": 70.2,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
-      "DadiEMattoncini": {
-        "price": 64.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
-      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/heat/"
@@ -615,10 +611,6 @@
   {
     "name": "Viandanti a Sud del Tigri",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 41.16,
-        "url": "https://www.lafeltrinelli.it/viandanti-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770131"
-      },
       "IlCovoDelNerd": {
         "price": 42.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viandanti-a-sud-del-tigri/"
@@ -655,7 +647,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -1108,7 +1100,7 @@
     "name": "Nucleum",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
       "Player1": {
@@ -1183,6 +1175,10 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
+      },
       "IlCovoDelNerd": {
         "price": 29.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/looot-il-bottino-dei-vichinghi/"
