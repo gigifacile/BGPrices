@@ -307,6 +307,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/21782-agricola.html"
       },
+      "Player1": {
+        "price": 42.9,
+        "url": "https://player1.it/prodotto/agricola/"
+      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
@@ -475,10 +479,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
-      },
-      "Player1": {
-        "price": 36.9,
-        "url": "https://player1.it/prodotto/seasons/"
       },
       "LaFeltrinelli": {
         "price": 49.99,
@@ -655,7 +655,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 43.9,
+        "price": 60.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -748,10 +748,6 @@
       "Player1": {
         "price": 21.9,
         "url": "https://player1.it/prodotto/starship-captains/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
       }
     }
   },
@@ -1209,12 +1205,8 @@
     "name": "Ratti di Wistar",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
-      },
-      "Player1": {
-        "price": 41.9,
-        "url": "https://player1.it/prodotto/ratti-di-wistar/"
       },
       "LaFeltrinelli": {
         "price": 59.99,
