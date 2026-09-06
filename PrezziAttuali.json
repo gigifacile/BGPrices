@@ -317,6 +317,10 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
+      "Player1": {
+        "price": 49.9,
+        "url": "https://player1.it/prodotto/viticulture-essential-edition/"
+      },
       "LaFeltrinelli": {
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
@@ -425,10 +429,6 @@
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
-      },
-      "Player1": {
-        "price": 60.9,
-        "url": "https://player1.it/prodotto/fields-of-arle-big-box/"
       }
     }
   },
@@ -486,10 +486,6 @@
   {
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
-      "Player1": {
-        "price": 97.9,
-        "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
-      },
       "LaFeltrinelli": {
         "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
@@ -560,7 +556,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 60.9,
+        "price": 37.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -988,10 +984,6 @@
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
-      },
-      "Player1": {
-        "price": 61.9,
-        "url": "https://player1.it/prodotto/spirit-island/"
       },
       "LaFeltrinelli": {
         "price": 79.9,
