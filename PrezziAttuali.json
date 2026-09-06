@@ -305,7 +305,7 @@
     "name": "Obsession",
     "prezzi": {
       "DungeonDice": {
-        "price": 99.99,
+        "price": 74.99,
         "url": "https://www.dungeondice.it/30862-obsession.html"
       }
     }
@@ -316,10 +316,6 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
-      },
-      "Player1": {
-        "price": 49.9,
-        "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
         "price": 64.9,
@@ -490,10 +486,6 @@
   {
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
-      "DungeonDice": {
-        "price": 119.99,
-        "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
-      },
       "Player1": {
         "price": 97.9,
         "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
@@ -568,7 +560,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 43.9,
+        "price": 60.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -597,6 +589,10 @@
   {
     "name": "Great Western Trail - Argentina",
     "prezzi": {
+      "Player1": {
+        "price": 41.9,
+        "url": "https://player1.it/prodotto/great-western-trail-argentina/"
+      },
       "LaFeltrinelli": {
         "price": 49.42,
         "url": "https://www.lafeltrinelli.it/dv-giochi-great-western-trail-giocattolo-dv-giochi/e/8033609532490"
