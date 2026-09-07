@@ -112,6 +112,10 @@
         "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
+      },
       "IlCovoDelNerd": {
         "price": 30.0,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/harmonies/"
@@ -124,6 +128,10 @@
       "LaFeltrinelli": {
         "price": 38.9,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
+      "DadiEMattoncini": {
+        "price": 39.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
       },
       "DragonStore": {
         "price": 44.99,
@@ -154,6 +162,10 @@
       "LaFeltrinelli": {
         "price": 41.16,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
+      "DadiEMattoncini": {
+        "price": 49.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
       },
       "DragonStore": {
         "price": 49.99,
@@ -315,6 +327,10 @@
       "LaFeltrinelli": {
         "price": 79.99,
         "url": "https://www.lafeltrinelli.it/terra-mystica-era-delle-scoperte-giocattolo-cranio-creations/e/8034055585498"
+      },
+      "DadiEMattoncini": {
+        "price": 79.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/terra-mystica-%E2%80%93-l%E2%80%99era-delle-scoperte.html"
       }
     }
   },
@@ -328,12 +344,7 @@
   },
   {
     "name": "Nidavellir",
-    "prezzi": {
-      "DragonStore": {
-        "price": 24.99,
-        "url": "https://www.dragonstore.it/fantasy-nidavellir-italiano.1.1.116.gp.27990.uw"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Dominion - Seconda Edizione",
@@ -631,7 +642,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 37.9,
+        "price": 60.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -680,12 +691,7 @@
   },
   {
     "name": "Federation",
-    "prezzi": {
-      "Player1": {
-        "price": 45.9,
-        "url": "https://player1.it/prodotto/federation/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Inis - Big Box",
@@ -795,10 +801,6 @@
   {
     "name": "The White Castle",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 30.4,
-        "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
-      },
       "IlCovoDelNerd": {
         "price": 19.7,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
@@ -908,6 +910,10 @@
       "LaFeltrinelli": {
         "price": 35.0,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
+      },
+      "DadiEMattoncini": {
+        "price": 34.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
       },
       "IlCovoDelNerd": {
         "price": 30.0,
@@ -1112,6 +1118,10 @@
       "Player1": {
         "price": 74.9,
         "url": "https://player1.it/prodotto/scythe/"
+      },
+      "DadiEMattoncini": {
+        "price": 89.99,
+        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
       },
       "IlCovoDelNerd": {
         "price": 89.9,
