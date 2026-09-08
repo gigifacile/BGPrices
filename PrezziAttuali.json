@@ -642,7 +642,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 43.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -658,10 +658,6 @@
   {
     "name": "Dune",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 60.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
       "IlCovoDelNerd": {
         "price": 51.6,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune/"
