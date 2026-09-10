@@ -257,6 +257,10 @@
   {
     "name": "Heat",
     "prezzi": {
+      "DungeonDice": {
+        "price": 64.99,
+        "url": "https://www.dungeondice.it/29880-heat.html"
+      },
       "Player1": {
         "price": 50.9,
         "url": "https://player1.it/prodotto/heat/"
@@ -454,6 +458,10 @@
         "price": 44.99,
         "url": "https://www.dungeondice.it/10719-azul.html"
       },
+      "Player1": {
+        "price": 34.9,
+        "url": "https://player1.it/prodotto/azul/"
+      },
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
@@ -646,7 +654,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 37.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -662,10 +670,6 @@
   {
     "name": "Dune",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 60.0,
-        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
       "IlCovoDelNerd": {
         "price": 51.6,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune/"
@@ -1022,6 +1026,10 @@
   {
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 59.99,
+        "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
+      },
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
