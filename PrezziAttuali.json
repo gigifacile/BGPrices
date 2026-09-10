@@ -386,10 +386,6 @@
       "IlCovoDelNerd": {
         "price": 64.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/viticulture-essential-edition/"
-      },
-      "DragonStore": {
-        "price": 64.99,
-        "url": "https://www.dragonstore.it/gestionali-viticulture-essential-edition-italiano.1.1.385.gp.23907.uw"
       }
     }
   },
@@ -670,6 +666,10 @@
   {
     "name": "Dune",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 60.0,
+        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
+      },
       "IlCovoDelNerd": {
         "price": 51.6,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/dune/"
