@@ -650,7 +650,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -769,10 +769,6 @@
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/terra-nova/"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       }
     }
   },
@@ -928,10 +924,6 @@
   {
     "name": "Splendor",
     "prezzi": {
-      "LaFeltrinelli": {
-        "price": 35.0,
-        "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
-      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
@@ -978,7 +970,12 @@
   },
   {
     "name": "Orléans",
-    "prezzi": {}
+    "prezzi": {
+      "IlCovoDelNerd": {
+        "price": 49.9,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/orleans-nuova-edizione/"
+      }
+    }
   },
   {
     "name": "Dorfromantik – Sakura",
@@ -1042,6 +1039,10 @@
   {
     "name": "Dune Imperium",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/23931-dune-imperium.html"
+      },
       "Player1": {
         "price": 38.9,
         "url": "https://player1.it/prodotto/dune-imperium/"
@@ -1261,6 +1262,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
