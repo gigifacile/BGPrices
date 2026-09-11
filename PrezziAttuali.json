@@ -363,7 +363,7 @@
     "name": "Obsession",
     "prezzi": {
       "DungeonDice": {
-        "price": 74.99,
+        "price": 99.99,
         "url": "https://www.dungeondice.it/30862-obsession.html"
       }
     }
@@ -650,7 +650,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 37.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -978,12 +978,7 @@
   },
   {
     "name": "Orléans",
-    "prezzi": {
-      "IlCovoDelNerd": {
-        "price": 49.9,
-        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/orleans-nuova-edizione/"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Dorfromantik – Sakura",
@@ -1266,10 +1261,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
