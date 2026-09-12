@@ -196,10 +196,6 @@
       "IlCovoDelNerd": {
         "price": 38.3,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/its-a-wonderful-world/"
-      },
-      "DragonStore": {
-        "price": 44.5,
-        "url": "https://www.dragonstore.it/fantascienza-it-s-a-wonderful-world-italiano.1.1.46.gp.27358.uw"
       }
     }
   },
@@ -646,7 +642,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 43.9,
+        "price": 27.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -1126,10 +1122,6 @@
       "DungeonDice": {
         "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "IlCovoDelNerd": {
         "price": 79.9,
