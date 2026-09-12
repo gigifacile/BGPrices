@@ -24,10 +24,6 @@
         "price": 40.0,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
-      "Player1": {
-        "price": 75.9,
-        "url": "https://player1.it/prodotto/everdell-farshore/"
-      },
       "LaFeltrinelli": {
         "price": 99.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
@@ -646,7 +642,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 27.9,
+        "price": 37.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -817,10 +813,6 @@
       "DungeonDice": {
         "price": 31.99,
         "url": "https://www.dungeondice.it/31788-the-white-castle.html"
-      },
-      "LaFeltrinelli": {
-        "price": 32.0,
-        "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       },
       "IlCovoDelNerd": {
         "price": 19.7,
@@ -1144,10 +1136,6 @@
   {
     "name": "Scythe",
     "prezzi": {
-      "DadiEMattoncini": {
-        "price": 89.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
-      },
       "IlCovoDelNerd": {
         "price": 89.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/scythe/"
