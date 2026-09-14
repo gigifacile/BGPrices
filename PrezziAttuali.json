@@ -597,10 +597,6 @@
         "price": 54.9,
         "url": "https://player1.it/prodotto/apiary/"
       },
-      "LaFeltrinelli": {
-        "price": 65.91,
-        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
-      },
       "IlCovoDelNerd": {
         "price": 79.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
@@ -646,7 +642,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 43.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -1085,6 +1081,10 @@
         "price": 78.99,
         "url": "https://www.dungeondice.it/12981-barrage.html"
       },
+      "Player1": {
+        "price": 59.9,
+        "url": "https://player1.it/prodotto/barrage/"
+      },
       "LaFeltrinelli": {
         "price": 78.99,
         "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
@@ -1241,6 +1241,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
+      },
+      "Player1": {
+        "price": 45.9,
+        "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "LaFeltrinelli": {
         "price": 59.99,
