@@ -193,6 +193,10 @@
   {
     "name": "It's a Wonderful World",
     "prezzi": {
+      "DungeonDice": {
+        "price": 44.99,
+        "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
       "IlCovoDelNerd": {
         "price": 38.3,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/its-a-wonderful-world/"
@@ -424,7 +428,7 @@
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
       "IlCovoDelNerd": {
-        "price": 19.7,
+        "price": 67.8,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/architetti-del-regno-occidentale/"
       }
     }
@@ -478,10 +482,6 @@
       "Player1": {
         "price": 36.9,
         "url": "https://player1.it/prodotto/seasons/"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/seasons-base-ita-gioco-da-giocattolo-asmodee/e/3558380015345"
       },
       "IlCovoDelNerd": {
         "price": 38.7,
@@ -646,7 +646,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -706,7 +706,7 @@
     "name": "Inis - Big Box",
     "prezzi": {
       "IlCovoDelNerd": {
-        "price": 19.7,
+        "price": 14.5,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/inis-big-box/"
       }
     }
@@ -762,10 +762,6 @@
   {
     "name": "Terra Nova",
     "prezzi": {
-      "Player1": {
-        "price": 35.9,
-        "url": "https://player1.it/prodotto/terra-nova/"
-      },
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
@@ -823,7 +819,7 @@
         "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       },
       "IlCovoDelNerd": {
-        "price": 19.7,
+        "price": 67.8,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
       },
       "DragonStore": {
@@ -873,7 +869,7 @@
         "url": "https://www.dungeondice.it/3666-la-festa-per-odino.html"
       },
       "IlCovoDelNerd": {
-        "price": 19.7,
+        "price": 67.8,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/la-festa-per-odino/"
       }
     }
@@ -918,6 +914,10 @@
       "LaFeltrinelli": {
         "price": 44.99,
         "url": "https://www.lafeltrinelli.it/ciarlatani-di-quedlinburgo-gioco-da-giocattolo-devir/e/8436017227901"
+      },
+      "DragonStore": {
+        "price": 44.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-ciarlatani-di-quedlinburgo.1.1.115.gp.27384.uw"
       }
     }
   },
@@ -967,7 +967,7 @@
     "name": "Catan - Big Box",
     "prezzi": {
       "IlCovoDelNerd": {
-        "price": 19.7,
+        "price": 10.2,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/catan-big-box-edizione-2021/"
       }
     }
@@ -1021,7 +1021,12 @@
   },
   {
     "name": "Thunder Road - Vendetta",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 69.99,
+        "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
+      }
+    }
   },
   {
     "name": "Dune Imperium - Insurrezione",
@@ -1221,7 +1226,7 @@
     "name": "Evenfall",
     "prezzi": {
       "IlCovoDelNerd": {
-        "price": 19.7,
+        "price": 67.8,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
       }
     }
@@ -1229,12 +1234,16 @@
   {
     "name": "Crack List",
     "prezzi": {
+      "DungeonDice": {
+        "price": 22.99,
+        "url": "https://www.dungeondice.it/32612-crack-list.html"
+      },
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       },
       "IlCovoDelNerd": {
-        "price": 19.7,
+        "price": 29.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/crack-list/"
       }
     }
