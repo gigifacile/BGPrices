@@ -133,6 +133,10 @@
   {
     "name": "Horrified",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 38.9,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -290,10 +294,6 @@
         "price": 29.99,
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
       },
-      "Player1": {
-        "price": 22.9,
-        "url": "https://player1.it/prodotto/forest-shuffle/"
-      },
       "LaFeltrinelli": {
         "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
@@ -440,7 +440,7 @@
     "name": "Architetti del Regno Occidentale",
     "prezzi": {
       "IlCovoDelNerd": {
-        "price": 17.1,
+        "price": 21.4,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/architetti-del-regno-occidentale/"
       }
     }
@@ -620,10 +620,6 @@
       "IlCovoDelNerd": {
         "price": 79.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/apiary/"
-      },
-      "DragonStore": {
-        "price": 79.99,
-        "url": "https://www.dragonstore.it/gestionali-apiary-italiano.1.1.385.gp.32653.uw"
       }
     }
   },
@@ -843,7 +839,7 @@
         "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       },
       "IlCovoDelNerd": {
-        "price": 17.1,
+        "price": 21.4,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/the-white-castle-edizione-italiana/"
       },
       "DragonStore": {
@@ -893,7 +889,7 @@
         "url": "https://www.dungeondice.it/3666-la-festa-per-odino.html"
       },
       "IlCovoDelNerd": {
-        "price": 17.1,
+        "price": 21.4,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/la-festa-per-odino/"
       }
     }
@@ -1058,10 +1054,6 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
-      },
-      "Player1": {
-        "price": 49.9,
-        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "LaFeltrinelli": {
         "price": 59.99,
@@ -1258,7 +1250,7 @@
     "name": "Evenfall",
     "prezzi": {
       "IlCovoDelNerd": {
-        "price": 17.1,
+        "price": 21.4,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/evenfall/"
       }
     }
@@ -1286,10 +1278,6 @@
       "DungeonDice": {
         "price": 35.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
-      },
-      "Player1": {
-        "price": 45.9,
-        "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "LaFeltrinelli": {
         "price": 59.99,
