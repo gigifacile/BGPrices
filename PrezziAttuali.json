@@ -294,6 +294,10 @@
         "price": 29.99,
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
       },
+      "Player1": {
+        "price": 22.9,
+        "url": "https://player1.it/prodotto/forest-shuffle/"
+      },
       "LaFeltrinelli": {
         "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
@@ -658,7 +662,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -768,10 +772,6 @@
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
-      },
-      "LaFeltrinelli": {
-        "price": 57.19,
-        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -781,10 +781,6 @@
       "Player1": {
         "price": 35.9,
         "url": "https://player1.it/prodotto/terra-nova/"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       }
     }
   },
@@ -1055,6 +1051,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
+      "Player1": {
+        "price": 49.9,
+        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
+      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
@@ -1279,9 +1279,9 @@
         "price": 35.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
+      "Player1": {
+        "price": 45.9,
+        "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "IlCovoDelNerd": {
         "price": 59.9,
