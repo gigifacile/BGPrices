@@ -108,10 +108,6 @@
         "price": 34.99,
         "url": "https://www.dungeondice.it/27178-harmonies.html"
       },
-      "Player1": {
-        "price": 26.9,
-        "url": "https://player1.it/prodotto/harmonies/"
-      },
       "LaFeltrinelli": {
         "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
@@ -163,10 +159,6 @@
   {
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
-      "DungeonDice": {
-        "price": 49.99,
-        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
-      },
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
@@ -395,10 +387,6 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
-      "Player1": {
-        "price": 49.9,
-        "url": "https://player1.it/prodotto/viticulture-essential-edition/"
-      },
       "LaFeltrinelli": {
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
@@ -479,7 +467,7 @@
         "url": "https://player1.it/prodotto/azul/"
       },
       "LaFeltrinelli": {
-        "price": 42.74,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "IlCovoDelNerd": {
@@ -588,6 +576,10 @@
   {
     "name": "Hegemony - Versione Estesa",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 119.9,
+        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
+      },
       "IlCovoDelNerd": {
         "price": 119.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/strategici/hegemony-versione-estesa/"
@@ -658,7 +650,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 60.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -707,7 +699,12 @@
   },
   {
     "name": "Federation",
-    "prezzi": {}
+    "prezzi": {
+      "Player1": {
+        "price": 45.9,
+        "url": "https://player1.it/prodotto/federation/"
+      }
+    }
   },
   {
     "name": "Inis - Big Box",
@@ -1234,6 +1231,10 @@
       "DungeonDice": {
         "price": 35.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
+      },
+      "Player1": {
+        "price": 41.9,
+        "url": "https://player1.it/prodotto/ratti-di-wistar/"
       },
       "LaFeltrinelli": {
         "price": 59.99,
