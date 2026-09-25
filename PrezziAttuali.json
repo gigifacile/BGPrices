@@ -370,7 +370,7 @@
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
       },
       "DragonStore": {
-        "price": 49.9,
+        "price": 49.99,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
       }
     }
@@ -456,7 +456,12 @@
   },
   {
     "name": "Earth",
-    "prezzi": {}
+    "prezzi": {
+      "IlCovoDelNerd": {
+        "price": 46.4,
+        "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/earth/"
+      }
+    }
   },
   {
     "name": "Azul",
@@ -657,7 +662,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 60.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -916,6 +921,10 @@
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
+      },
+      "LaFeltrinelli": {
+        "price": 16.9,
+        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
