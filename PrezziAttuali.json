@@ -258,7 +258,7 @@
     "name": "Heat",
     "prezzi": {
       "DungeonDice": {
-        "price": 64.99,
+        "price": 38.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
       },
       "Player1": {
@@ -283,7 +283,7 @@
     "name": "Forest Shuffle",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
       },
       "Player1": {
@@ -856,7 +856,7 @@
     "name": "MLEM - Agenzia Spaziale",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 17.99,
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
       },
       "LaFeltrinelli": {
@@ -1047,10 +1047,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
-      "Player1": {
-        "price": 49.9,
-        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
-      },
       "LaFeltrinelli": {
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
@@ -1069,7 +1065,7 @@
     "name": "Dune Imperium",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
       },
       "Player1": {
