@@ -269,10 +269,6 @@
         "price": 50.9,
         "url": "https://player1.it/prodotto/heat/"
       },
-      "LaFeltrinelli": {
-        "price": 64.99,
-        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
-      },
       "IlCovoDelNerd": {
         "price": 55.9,
         "url": "https://www.ilcovodelnerd.com/shop/giochi-da-tavolo/sconti-play-festival-giochi-da-tavolo/heat/"
@@ -536,10 +532,6 @@
       "Player1": {
         "price": 24.9,
         "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
-      },
-      "LaFeltrinelli": {
-        "price": 46.11,
-        "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
       },
       "IlCovoDelNerd": {
         "price": 42.9,
@@ -1045,7 +1037,12 @@
   },
   {
     "name": "Thunder Road - Vendetta",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
+      }
+    }
   },
   {
     "name": "Dune Imperium - Insurrezione",
