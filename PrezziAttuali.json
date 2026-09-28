@@ -49,6 +49,10 @@
         "price": 69.99,
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
       },
+      "Player1": {
+        "price": 57.9,
+        "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
+      },
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
@@ -470,6 +474,10 @@
         "price": 34.9,
         "url": "https://player1.it/prodotto/azul/"
       },
+      "LaFeltrinelli": {
+        "price": 44.99,
+        "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
+      },
       "DadiEMattoncini": {
         "price": 44.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-astratti/azul.html"
@@ -604,6 +612,10 @@
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/apiary/"
+      },
+      "LaFeltrinelli": {
+        "price": 65.91,
+        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
       "IlCovoDelNerd": {
         "price": 79.9,
