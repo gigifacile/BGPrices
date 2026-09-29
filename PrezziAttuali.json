@@ -24,10 +24,6 @@
         "price": 40.0,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
-      "Player1": {
-        "price": 44.9,
-        "url": "https://player1.it/prodotto/everdell-farshore/"
-      },
       "LaFeltrinelli": {
         "price": 99.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
@@ -113,6 +109,10 @@
   {
     "name": "Horrified",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 38.9,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DadiEMattoncini": {
         "price": 39.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
@@ -534,10 +534,6 @@
   {
     "name": "Le Havre",
     "prezzi": {
-      "Player1": {
-        "price": 45.9,
-        "url": "https://player1.it/prodotto/le-havre/"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
@@ -870,10 +866,6 @@
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
-      },
-      "LaFeltrinelli": {
-        "price": 56.99,
-        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "DragonStore": {
         "price": 59.99,
