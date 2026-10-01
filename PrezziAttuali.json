@@ -97,7 +97,7 @@
         "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
-        "price": 33.24,
+        "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DadiEMattoncini": {
@@ -223,10 +223,6 @@
       "LaFeltrinelli": {
         "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
-      },
-      "DadiEMattoncini": {
-        "price": 64.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/heat.html"
       },
       "DragonStore": {
         "price": 64.99,
@@ -547,7 +543,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 60.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -1031,6 +1027,10 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
+      "Player1": {
+        "price": 41.9,
+        "url": "https://player1.it/prodotto/ratti-di-wistar/"
+      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/ratti-di-wistar-gioco-da-giocattolo-cranio-creations/e/8034055585375"
@@ -1068,6 +1068,10 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
+      },
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/gestionali-le-rovine-perdute-di-arnak.1.1.385.gp.28660.uw"
       }
     }
   },
