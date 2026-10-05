@@ -733,6 +733,10 @@
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
+      },
+      "LaFeltrinelli": {
+        "price": 16.9,
+        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
@@ -850,7 +854,7 @@
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
       "Player1": {
-        "price": 49.9,
+        "price": 44.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "LaFeltrinelli": {
@@ -902,6 +906,10 @@
       "Player1": {
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
+      },
+      "LaFeltrinelli": {
+        "price": 78.99,
+        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "DragonStore": {
         "price": 78.99,
