@@ -96,6 +96,10 @@
         "price": 26.9,
         "url": "https://player1.it/prodotto/harmonies/"
       },
+      "LaFeltrinelli": {
+        "price": 34.99,
+        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
+      },
       "DadiEMattoncini": {
         "price": 34.99,
         "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
@@ -199,6 +203,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 29.9,
+        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
+      },
       "DragonStore": {
         "price": 29.99,
         "url": "https://www.dragonstore.it/gestionali-port-royal-big-box-italiano.1.1.385.gp.31768.uw"
@@ -310,7 +318,7 @@
     "name": "Viticulture Essential Edition",
     "prezzi": {
       "DungeonDice": {
-        "price": 64.99,
+        "price": 51.99,
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
       "Player1": {
@@ -447,10 +455,6 @@
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
   },
@@ -460,6 +464,10 @@
       "DungeonDice": {
         "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
+      },
+      "LaFeltrinelli": {
+        "price": 119.9,
+        "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
       },
       "DragonStore": {
         "price": 119.99,
@@ -475,7 +483,7 @@
     "name": "Apiary",
     "prezzi": {
       "DungeonDice": {
-        "price": 55.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "Player1": {
@@ -522,7 +530,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 60.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -654,6 +662,10 @@
         "price": 31.99,
         "url": "https://www.dungeondice.it/31788-the-white-castle.html"
       },
+      "LaFeltrinelli": {
+        "price": 30.4,
+        "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
+      },
       "DragonStore": {
         "price": 31.99,
         "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
@@ -721,10 +733,6 @@
       "DungeonDice": {
         "price": 16.99,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
-      },
-      "LaFeltrinelli": {
-        "price": 16.9,
-        "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
   },
@@ -799,7 +807,7 @@
     "name": "Dorfromantik – Sakura",
     "prezzi": {
       "DungeonDice": {
-        "price": 38.49,
+        "price": 54.99,
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
       }
     }
@@ -894,10 +902,6 @@
       "Player1": {
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
-      },
-      "LaFeltrinelli": {
-        "price": 78.99,
-        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
       },
       "DragonStore": {
         "price": 78.99,
