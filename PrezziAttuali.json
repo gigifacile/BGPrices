@@ -100,10 +100,6 @@
         "price": 34.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
-      "DadiEMattoncini": {
-        "price": 34.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/harmonies.html"
-      },
       "DragonStore": {
         "price": 34.99,
         "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
@@ -116,10 +112,6 @@
       "LaFeltrinelli": {
         "price": 38.9,
         "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
-      },
-      "DadiEMattoncini": {
-        "price": 39.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/horrified-la-posta-in-gioco-si-alza.html"
       },
       "DragonStore": {
         "price": 49.99,
@@ -142,10 +134,6 @@
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
-      },
-      "DadiEMattoncini": {
-        "price": 49.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/aeons-end-seconda-edizione.html"
       },
       "DragonStore": {
         "price": 49.99,
@@ -384,10 +372,6 @@
         "price": 42.74,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
-      "DadiEMattoncini": {
-        "price": 44.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-astratti/azul.html"
-      },
       "DragonStore": {
         "price": 44.99,
         "url": "https://www.dragonstore.it/classici-famiglia-azul-italiano.1.1.115.gp.32737.uw"
@@ -472,10 +456,6 @@
       "LaFeltrinelli": {
         "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
-      },
-      "DragonStore": {
-        "price": 119.99,
-        "url": "https://www.dragonstore.it/gestionali-hegemony-versione-estesa-italiana.1.1.385.gp.32904.uw"
       }
     }
   },
@@ -534,7 +514,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 37.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -772,10 +752,6 @@
         "price": 35.0,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
-      "DadiEMattoncini": {
-        "price": 34.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-da-tavolo-per-la-famiglia/strategici-semplici/splendor.html"
-      },
       "DragonStore": {
         "price": 34.99,
         "url": "https://www.dragonstore.it/classici-famiglia-splendor-seconda-edizione-italiana.1.1.115.gp.18233.uw"
@@ -945,10 +921,6 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
-      },
       "DragonStore": {
         "price": 79.99,
         "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
@@ -965,10 +937,6 @@
       "Player1": {
         "price": 74.9,
         "url": "https://player1.it/prodotto/scythe/"
-      },
-      "DadiEMattoncini": {
-        "price": 89.99,
-        "url": "https://www.dadiemattoncini.it/giochi-da-tavolo/giochi-strategici-e-gestionali/scythe.html"
       },
       "DragonStore": {
         "price": 89.99,
@@ -1026,9 +994,9 @@
   {
     "name": "Crack List",
     "prezzi": {
-      "DungeonDice": {
-        "price": 22.99,
-        "url": "https://www.dungeondice.it/32612-crack-list.html"
+      "LaFeltrinelli": {
+        "price": 19.0,
+        "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
       }
     }
   },
@@ -1056,10 +1024,6 @@
   {
     "name": "El Grande",
     "prezzi": {
-      "DungeonDice": {
-        "price": 49.99,
-        "url": "https://www.dungeondice.it/31024-el-grande.html"
-      },
       "LaFeltrinelli": {
         "price": 49.99,
         "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
@@ -1073,10 +1037,6 @@
   {
     "name": "The Wolves",
     "prezzi": {
-      "DungeonDice": {
-        "price": 59.99,
-        "url": "https://www.dungeondice.it/30518-the-wolves.html"
-      },
       "DragonStore": {
         "price": 59.99,
         "url": "https://www.dragonstore.it/classici-famiglia-the-wolves-italiano.1.1.115.gp.31990.uw"
