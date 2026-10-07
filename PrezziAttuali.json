@@ -20,7 +20,7 @@
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "Player1": {
-        "price": 41.9,
+        "price": 36.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
       },
       "LaFeltrinelli": {
@@ -59,7 +59,7 @@
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
       "DungeonDice": {
-        "price": 69.99,
+        "price": 38.49,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
       }
     }
@@ -432,7 +432,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 60.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -443,7 +443,12 @@
   },
   {
     "name": "Dune",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 60.0,
+        "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
+      }
+    }
   },
   {
     "name": "Great Western Trail - Argentina",
