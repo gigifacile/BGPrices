@@ -71,10 +71,6 @@
   {
     "name": "Cyclades - Edizione Leggendaria",
     "prezzi": {
-      "DungeonDice": {
-        "price": 38.49,
-        "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
-      },
       "DragonStore": {
         "price": 69.99,
         "url": "https://www.dragonstore.it/fantasy-cyclades-edizione-leggendaria.1.1.116.gp.33683.uw"
@@ -127,6 +123,14 @@
   {
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 49.99,
+        "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
+      },
+      "Player1": {
+        "price": 36.9,
+        "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
+      },
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
@@ -187,6 +191,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
+      },
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
@@ -298,7 +306,7 @@
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
       "Player1": {
-        "price": 49.9,
+        "price": 53.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
@@ -441,6 +449,10 @@
         "price": 119.99,
         "url": "https://www.dungeondice.it/33072-hegemony-versione-estesa.html"
       },
+      "Player1": {
+        "price": 99.9,
+        "url": "https://player1.it/prodotto/hegemony-versione-estesa/"
+      },
       "LaFeltrinelli": {
         "price": 119.9,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
@@ -461,6 +473,10 @@
       "Player1": {
         "price": 54.9,
         "url": "https://player1.it/prodotto/apiary/"
+      },
+      "LaFeltrinelli": {
+        "price": 65.91,
+        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
       },
       "DragonStore": {
         "price": 79.99,
@@ -513,10 +529,6 @@
       "LaFeltrinelli": {
         "price": 60.0,
         "url": "https://www.lafeltrinelli.it/dune-base-ita-gioco-da-giocattolo-gf9/e/9781945625732"
-      },
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/gestionali-dune-il-gioco-da-tavolo.1.1.385.gp.28031.uw"
       }
     }
   },
@@ -733,7 +745,7 @@
     "name": "Splendor",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 35.0,
+        "price": 34.99,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
       },
       "DragonStore": {
@@ -900,6 +912,10 @@
         "price": 79.99,
         "url": "https://www.dungeondice.it/21947-spirit-island.html"
       },
+      "Player1": {
+        "price": 66.9,
+        "url": "https://player1.it/prodotto/spirit-island/"
+      },
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
@@ -918,7 +934,7 @@
         "url": "https://www.dungeondice.it/6038-scythe.html"
       },
       "Player1": {
-        "price": 74.9,
+        "price": 75.9,
         "url": "https://player1.it/prodotto/scythe/"
       },
       "DragonStore": {
@@ -943,6 +959,10 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
+      },
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
