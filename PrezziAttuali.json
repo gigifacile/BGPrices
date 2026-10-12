@@ -101,6 +101,10 @@
   {
     "name": "Horrified",
     "prezzi": {
+      "LaFeltrinelli": {
+        "price": 38.9,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      },
       "DragonStore": {
         "price": 49.99,
         "url": "https://www.dragonstore.it/horror-horrified-edizione-italiana.1.1.386.gp.32796.uw"
@@ -204,6 +208,14 @@
   {
     "name": "Heat",
     "prezzi": {
+      "DungeonDice": {
+        "price": 38.99,
+        "url": "https://www.dungeondice.it/29880-heat.html"
+      },
+      "Player1": {
+        "price": 50.9,
+        "url": "https://player1.it/prodotto/heat/"
+      },
       "LaFeltrinelli": {
         "price": 64.99,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
@@ -506,7 +518,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 45.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
