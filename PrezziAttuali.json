@@ -439,6 +439,10 @@
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
   },
@@ -514,7 +518,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 37.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
