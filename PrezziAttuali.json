@@ -439,10 +439,6 @@
       "Player1": {
         "price": 37.9,
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
   },
@@ -785,7 +781,12 @@
   },
   {
     "name": "Dorfromantik – Sakura",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 54.99,
+        "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
+      }
+    }
   },
   {
     "name": "Tapestry",
@@ -911,6 +912,10 @@
       "Player1": {
         "price": 66.9,
         "url": "https://player1.it/prodotto/spirit-island/"
+      },
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "DragonStore": {
         "price": 79.99,
