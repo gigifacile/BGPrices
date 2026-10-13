@@ -21,7 +21,7 @@
     "name": "Everdell Farshore",
     "prezzi": {
       "DungeonDice": {
-        "price": 40.0,
+        "price": 99.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "Player1": {
@@ -89,7 +89,7 @@
         "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
-        "price": 34.99,
+        "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DragonStore": {
@@ -209,7 +209,7 @@
     "name": "Heat",
     "prezzi": {
       "DungeonDice": {
-        "price": 38.99,
+        "price": 64.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
       },
       "Player1": {
@@ -217,7 +217,7 @@
         "url": "https://player1.it/prodotto/heat/"
       },
       "LaFeltrinelli": {
-        "price": 64.99,
+        "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DragonStore": {
@@ -260,7 +260,7 @@
     "name": "Terra Mystica - L'Era delle Scoperte",
     "prezzi": {
       "DungeonDice": {
-        "price": 55.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
       },
       "Player1": {
@@ -433,7 +433,7 @@
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.0,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "Player1": {
@@ -505,7 +505,7 @@
     "name": "Alta Tensione - Recharged",
     "prezzi": {
       "DungeonDice": {
-        "price": 32.89,
+        "price": 46.99,
         "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
       },
       "DragonStore": {
@@ -518,7 +518,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 45.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -574,7 +574,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 27.49,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "Player1": {
@@ -591,7 +591,7 @@
     "name": "Golem",
     "prezzi": {
       "DungeonDice": {
-        "price": 24.99,
+        "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
       },
       "LaFeltrinelli": {
@@ -617,7 +617,7 @@
     "name": "Res Arcana",
     "prezzi": {
       "DungeonDice": {
-        "price": 23.99,
+        "price": 39.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
       "LaFeltrinelli": {
@@ -649,10 +649,6 @@
       "LaFeltrinelli": {
         "price": 32.0,
         "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
-      },
-      "DragonStore": {
-        "price": 31.99,
-        "url": "https://www.dragonstore.it/gestionali-the-white-castle-edizione-italiana.1.1.385.gp.32494.uw"
       }
     }
   },
@@ -672,7 +668,7 @@
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
       },
       "LaFeltrinelli": {
-        "price": 28.49,
+        "price": 29.99,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
       },
       "DragonStore": {
@@ -892,7 +888,7 @@
     "name": "Nucleum",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
       "Player1": {
@@ -915,10 +911,6 @@
       "Player1": {
         "price": 66.9,
         "url": "https://player1.it/prodotto/spirit-island/"
-      },
-      "LaFeltrinelli": {
-        "price": 79.9,
-        "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "DragonStore": {
         "price": 79.99,
@@ -977,7 +969,7 @@
     "name": "Ratti di Wistar",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "Player1": {
@@ -1011,7 +1003,7 @@
     "name": "Le Rovine Perdute di Arnak",
     "prezzi": {
       "DungeonDice": {
-        "price": 35.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "Player1": {
