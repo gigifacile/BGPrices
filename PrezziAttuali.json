@@ -378,7 +378,7 @@
         "url": "https://player1.it/prodotto/azul/"
       },
       "LaFeltrinelli": {
-        "price": 44.99,
+        "price": 42.74,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DragonStore": {
@@ -523,7 +523,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 45.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -842,6 +842,10 @@
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "DragonStore": {
         "price": 59.99,
