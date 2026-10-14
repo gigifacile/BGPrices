@@ -507,10 +507,6 @@
       "DungeonDice": {
         "price": 46.99,
         "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
-      },
-      "DragonStore": {
-        "price": 46.99,
-        "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
       }
     }
   },
@@ -518,7 +514,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 37.9,
+        "price": 45.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
