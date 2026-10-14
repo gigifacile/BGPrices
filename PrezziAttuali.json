@@ -229,6 +229,10 @@
   {
     "name": "Forest Shuffle",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/31284-forest-shuffle.html"
+      },
       "Player1": {
         "price": 23.9,
         "url": "https://player1.it/prodotto/forest-shuffle/"
@@ -283,7 +287,12 @@
   },
   {
     "name": "Nidavellir",
-    "prezzi": {}
+    "prezzi": {
+      "DragonStore": {
+        "price": 24.99,
+        "url": "https://www.dragonstore.it/fantasy-nidavellir-italiano.1.1.116.gp.27990.uw"
+      }
+    }
   },
   {
     "name": "Dominion - Seconda Edizione",
@@ -556,7 +565,12 @@
   },
   {
     "name": "Inis - Big Box",
-    "prezzi": {}
+    "prezzi": {
+      "DragonStore": {
+        "price": 59.99,
+        "url": "https://www.dragonstore.it/fantasy-inis-big-box-italiano.1.1.116.gp.29761.uw"
+      }
+    }
   },
   {
     "name": "Cascadia",
@@ -828,10 +842,6 @@
       "Player1": {
         "price": 49.9,
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
-      },
-      "LaFeltrinelli": {
-        "price": 59.99,
-        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       },
       "DragonStore": {
         "price": 59.99,
