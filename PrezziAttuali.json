@@ -91,10 +91,6 @@
       "LaFeltrinelli": {
         "price": 33.24,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
-      },
-      "DragonStore": {
-        "price": 34.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-harmonies-italiano.1.1.115.gp.33018.uw"
       }
     }
   },
@@ -319,7 +315,7 @@
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
-        "price": 61.66,
+        "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "DragonStore": {
@@ -515,7 +511,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 43.9,
+        "price": 60.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -932,6 +928,10 @@
   {
     "name": "Scythe",
     "prezzi": {
+      "DungeonDice": {
+        "price": 89.99,
+        "url": "https://www.dungeondice.it/6038-scythe.html"
+      },
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/scythe/"
