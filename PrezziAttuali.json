@@ -143,7 +143,12 @@
   },
   {
     "name": "Revive",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 79.9,
+        "url": "https://www.lafeltrinelli.it/revive-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532544"
+      }
+    }
   },
   {
     "name": "It's a Wonderful World",
@@ -402,10 +407,6 @@
   {
     "name": "Fields of Arle - Big Box",
     "prezzi": {
-      "DungeonDice": {
-        "price": 79.99,
-        "url": "https://www.dungeondice.it/30756-fields-of-arle-big-box.html"
-      },
       "DragonStore": {
         "price": 79.99,
         "url": "https://www.dragonstore.it/gestionali-fields-of-arle-big-box.1.1.385.gp.32215.uw"
@@ -594,6 +595,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
+      },
+      "LaFeltrinelli": {
+        "price": 57.19,
+        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
@@ -927,10 +932,6 @@
   {
     "name": "Scythe",
     "prezzi": {
-      "DungeonDice": {
-        "price": 89.99,
-        "url": "https://www.dungeondice.it/6038-scythe.html"
-      },
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/scythe/"
@@ -1032,6 +1033,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/31024-el-grande.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/el-grande-gioco-da-tavolo-giocattolo-giochi-uniti/e/8059386295328"
       },
       "DragonStore": {
         "price": 49.99,
