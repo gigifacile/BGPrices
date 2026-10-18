@@ -466,12 +466,7 @@
   },
   {
     "name": "Village Big Box",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 40.0,
-        "url": "https://www.dungeondice.it/29882-village-big-box.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Apiary",
@@ -520,7 +515,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 60.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -600,10 +595,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
-      },
-      "LaFeltrinelli": {
-        "price": 57.19,
-        "url": "https://www.lafeltrinelli.it/golem-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582831"
       }
     }
   },
