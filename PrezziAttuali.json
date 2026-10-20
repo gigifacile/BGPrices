@@ -314,10 +314,6 @@
   {
     "name": "Viticulture Essential Edition",
     "prezzi": {
-      "DungeonDice": {
-        "price": 64.99,
-        "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
-      },
       "Player1": {
         "price": 53.9,
         "url": "https://player1.it/prodotto/viticulture-essential-edition/"
@@ -514,7 +510,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
