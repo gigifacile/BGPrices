@@ -21,7 +21,7 @@
     "name": "Everdell Farshore",
     "prezzi": {
       "DungeonDice": {
-        "price": 40.0,
+        "price": 99.99,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "Player1": {
@@ -87,10 +87,6 @@
       "Player1": {
         "price": 26.9,
         "url": "https://player1.it/prodotto/harmonies/"
-      },
-      "LaFeltrinelli": {
-        "price": 33.24,
-        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       }
     }
   },
@@ -510,7 +506,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 43.9,
+        "price": 60.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -841,10 +837,6 @@
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
-      },
-      "DragonStore": {
-        "price": 47.99,
-        "url": "https://www.dragonstore.it/wargames-dune-imperium-insurrezione.1.1.117.gp.33393.uw"
       }
     }
   },
