@@ -87,6 +87,10 @@
       "Player1": {
         "price": 26.9,
         "url": "https://player1.it/prodotto/harmonies/"
+      },
+      "LaFeltrinelli": {
+        "price": 34.99,
+        "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       }
     }
   },
@@ -232,6 +236,10 @@
       "LaFeltrinelli": {
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
+      },
+      "DragonStore": {
+        "price": 23.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-forest-shuffle-italiano.1.1.115.gp.32727.uw"
       }
     }
   },
@@ -506,7 +514,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 60.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -597,12 +605,8 @@
     "name": "Terra Nova",
     "prezzi": {
       "Player1": {
-        "price": 35.9,
+        "price": 29.9,
         "url": "https://player1.it/prodotto/terra-nova/"
-      },
-      "LaFeltrinelli": {
-        "price": 49.99,
-        "url": "https://www.lafeltrinelli.it/terra-nova-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055584255"
       }
     }
   },
@@ -818,7 +822,7 @@
         "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
       },
       "LaFeltrinelli": {
-        "price": 69.9,
+        "price": 58.84,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
@@ -835,7 +839,7 @@
         "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
       },
       "LaFeltrinelli": {
-        "price": 59.99,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       }
     }
