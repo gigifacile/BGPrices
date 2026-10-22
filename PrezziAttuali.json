@@ -296,7 +296,7 @@
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
       "LaFeltrinelli": {
-        "price": 64.9,
+        "price": 61.66,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
       },
       "DragonStore": {
@@ -342,7 +342,7 @@
         "url": "https://www.dungeondice.it/10719-azul.html"
       },
       "LaFeltrinelli": {
-        "price": 42.74,
+        "price": 44.99,
         "url": "https://www.lafeltrinelli.it/azul-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380115960"
       },
       "DragonStore": {
@@ -777,6 +777,10 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
+      },
+      "LaFeltrinelli": {
+        "price": 49.99,
+        "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "DragonStore": {
         "price": 39.92,
