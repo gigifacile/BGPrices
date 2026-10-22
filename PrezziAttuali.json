@@ -40,10 +40,6 @@
       "LaFeltrinelli": {
         "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
-      "DragonStore": {
-        "price": 55.99,
-        "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
       }
     }
   },
@@ -370,12 +366,7 @@
   },
   {
     "name": "Fields of Arle - Big Box",
-    "prezzi": {
-      "DragonStore": {
-        "price": 63.99,
-        "url": "https://www.dragonstore.it/gestionali-fields-of-arle-big-box.1.1.385.gp.32215.uw"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Studiosi a Sud del Tigri",
