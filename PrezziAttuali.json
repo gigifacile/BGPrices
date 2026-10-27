@@ -21,7 +21,7 @@
     "name": "Everdell Farshore",
     "prezzi": {
       "DungeonDice": {
-        "price": 99.99,
+        "price": 40.0,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
       "LaFeltrinelli": {
@@ -108,7 +108,7 @@
     "name": "Aeon's End - Seconda Edizione",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
       },
       "LaFeltrinelli": {
@@ -134,7 +134,7 @@
     "name": "It's a Wonderful World",
     "prezzi": {
       "DungeonDice": {
-        "price": 44.99,
+        "price": 26.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
       }
     }
@@ -168,16 +168,12 @@
     "name": "Port Royal Big Box",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 20.99,
         "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
       },
       "LaFeltrinelli": {
         "price": 20.93,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
-      },
-      "DragonStore": {
-        "price": 23.99,
-        "url": "https://www.dragonstore.it/gestionali-port-royal-big-box-italiano.1.1.385.gp.31768.uw"
       }
     }
   },
@@ -236,7 +232,7 @@
     "name": "Terra Mystica - L'Era delle Scoperte",
     "prezzi": {
       "DungeonDice": {
-        "price": 79.99,
+        "price": 55.99,
         "url": "https://www.dungeondice.it/31170-terra-mystica-l-era-delle-scoperte.html"
       },
       "LaFeltrinelli": {
@@ -266,7 +262,7 @@
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
       },
       "DragonStore": {
@@ -330,7 +326,7 @@
     "name": "Azul",
     "prezzi": {
       "DungeonDice": {
-        "price": 44.99,
+        "price": 31.49,
         "url": "https://www.dungeondice.it/10719-azul.html"
       },
       "LaFeltrinelli": {
@@ -347,7 +343,7 @@
     "name": "Seasons",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 34.99,
         "url": "https://www.dungeondice.it/6052-seasons.html"
       },
       "LaFeltrinelli": {
@@ -385,7 +381,7 @@
     "name": "Kutná Hora - La Città dell'Argento",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 24.0,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "LaFeltrinelli": {
@@ -449,7 +445,7 @@
     "name": "Alta Tensione - Recharged",
     "prezzi": {
       "DungeonDice": {
-        "price": 46.99,
+        "price": 28.19,
         "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
       }
     }
@@ -506,7 +502,7 @@
     "name": "Starship Captains",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/28831-starship-captains.html"
       },
       "LaFeltrinelli": {
@@ -519,7 +515,7 @@
     "name": "Golem",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 24.99,
         "url": "https://www.dungeondice.it/25620-golem.html"
       },
       "LaFeltrinelli": {
@@ -536,7 +532,7 @@
     "name": "Res Arcana",
     "prezzi": {
       "DungeonDice": {
-        "price": 39.99,
+        "price": 27.99,
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
       "LaFeltrinelli": {
@@ -583,7 +579,7 @@
     "name": "MLEM - Agenzia Spaziale",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 20.99,
         "url": "https://www.dungeondice.it/32414-mlem-agenzia-spaziale.html"
       },
       "LaFeltrinelli": {
@@ -630,7 +626,7 @@
     "name": "The Crew",
     "prezzi": {
       "DungeonDice": {
-        "price": 16.99,
+        "price": 10.19,
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
       "LaFeltrinelli": {
@@ -753,7 +749,7 @@
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
       "LaFeltrinelli": {
@@ -766,7 +762,7 @@
     "name": "Dune Imperium",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 29.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
       },
       "LaFeltrinelli": {
@@ -804,7 +800,7 @@
     "name": "Nucleum",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/32226-nucleum.html"
       },
       "DragonStore": {
@@ -860,7 +856,7 @@
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
       "DungeonDice": {
-        "price": 29.99,
+        "price": 20.99,
         "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
       },
       "LaFeltrinelli": {
@@ -877,7 +873,7 @@
     "name": "Ratti di Wistar",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/31616-ratti-di-wistar.html"
       },
       "LaFeltrinelli": {
@@ -907,7 +903,7 @@
     "name": "Le Rovine Perdute di Arnak",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 41.99,
         "url": "https://www.dungeondice.it/23537-le-rovine-perdute-di-arnak.html"
       },
       "LaFeltrinelli": {
@@ -937,7 +933,7 @@
     "name": "The Wolves",
     "prezzi": {
       "DungeonDice": {
-        "price": 59.99,
+        "price": 35.99,
         "url": "https://www.dungeondice.it/30518-the-wolves.html"
       },
       "DragonStore": {
