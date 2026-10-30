@@ -367,10 +367,6 @@
   {
     "name": "Studiosi a Sud del Tigri",
     "prezzi": {
-      "DungeonDice": {
-        "price": 24.99,
-        "url": "https://www.dungeondice.it/32255-studiosi-a-sud-del-tigri.html"
-      },
       "LaFeltrinelli": {
         "price": 46.11,
         "url": "https://www.lafeltrinelli.it/studiosi-sud-del-tigri-gioco-giocattolo-ghenos-games/e/8055713770162"
@@ -393,7 +389,7 @@
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
       "LaFeltrinelli": {
-        "price": 56.99,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/kutna-hora-citta-d-argento-giocattolo-cranio-creations/e/8034055585450"
       }
     }
@@ -754,7 +750,7 @@
     "name": "Thunder Road - Vendetta",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 58.84,
+        "price": 71.91,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
