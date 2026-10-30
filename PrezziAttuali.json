@@ -66,7 +66,12 @@
   },
   {
     "name": "Horrified",
-    "prezzi": {}
+    "prezzi": {
+      "LaFeltrinelli": {
+        "price": 38.9,
+        "url": "https://www.lafeltrinelli.it/ravensburger-horrified-versione-italiana-gioco-giocattolo-ravensburger/e/4005556226818"
+      }
+    }
   },
   {
     "name": "Great Western Trail - Nuova Zelanda",
@@ -351,7 +356,7 @@
     "name": "Apiary",
     "prezzi": {
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "LaFeltrinelli": {
@@ -651,7 +656,7 @@
     "name": "Thunder Road - Vendetta",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 71.91,
+        "price": 58.84,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
