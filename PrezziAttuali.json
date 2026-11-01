@@ -451,12 +451,7 @@
   },
   {
     "name": "Alta Tensione - Recharged",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 28.19,
-        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Le Havre",
