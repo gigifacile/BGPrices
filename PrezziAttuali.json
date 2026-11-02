@@ -451,7 +451,12 @@
   },
   {
     "name": "Alta Tensione - Recharged",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 28.19,
+        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
+      }
+    }
   },
   {
     "name": "Le Havre",
@@ -461,7 +466,7 @@
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "LaFeltrinelli": {
-        "price": 59.99,
+        "price": 56.99,
         "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
       }
     }
@@ -642,6 +647,10 @@
   {
     "name": "The Crew",
     "prezzi": {
+      "DungeonDice": {
+        "price": 10.19,
+        "url": "https://www.dungeondice.it/22687-the-crew.html"
+      },
       "LaFeltrinelli": {
         "price": 16.9,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
@@ -741,7 +750,7 @@
     "name": "Thunder Road - Vendetta",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 65.36,
+        "price": 71.9,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
@@ -762,8 +771,12 @@
   {
     "name": "Dune Imperium",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/23931-dune-imperium.html"
+      },
       "LaFeltrinelli": {
-        "price": 49.99,
+        "price": 47.49,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "DragonStore": {
