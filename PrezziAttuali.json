@@ -120,7 +120,7 @@
         "url": "https://www.dungeondice.it/30452-aeon-s-end-seconda-edizione.html"
       },
       "LaFeltrinelli": {
-        "price": 47.4,
+        "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DragonStore": {
@@ -761,6 +761,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
+      },
+      "LaFeltrinelli": {
+        "price": 59.99,
+        "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
       }
     }
   },
