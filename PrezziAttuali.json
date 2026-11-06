@@ -151,6 +151,10 @@
       "DungeonDice": {
         "price": 44.99,
         "url": "https://www.dungeondice.it/21724-it-s-a-wonderful-world.html"
+      },
+      "DragonStore": {
+        "price": 44.5,
+        "url": "https://www.dragonstore.it/fantascienza-it-s-a-wonderful-world-italiano.1.1.46.gp.27358.uw"
       }
     }
   },
@@ -241,10 +245,6 @@
   {
     "name": "Agricola",
     "prezzi": {
-      "DungeonDice": {
-        "price": 59.99,
-        "url": "https://www.dungeondice.it/21782-agricola.html"
-      },
       "LaFeltrinelli": {
         "price": 57.41,
         "url": "https://www.lafeltrinelli.it/agricola-base-ita-gioco-da-giocattolo-asmodee/e/3558380081210"
@@ -512,7 +512,7 @@
         "url": "https://www.dungeondice.it/3780-le-havre.html"
       },
       "Player1": {
-        "price": 41.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -662,10 +662,6 @@
       "Player1": {
         "price": 25.9,
         "url": "https://player1.it/prodotto/the-white-castle/"
-      },
-      "LaFeltrinelli": {
-        "price": 32.0,
-        "url": "https://www.lafeltrinelli.it/white-castle-gioco-da-tavolo-giocattolo-devir/e/8436607940593"
       }
     }
   },
@@ -880,10 +876,6 @@
         "price": 59.9,
         "url": "https://player1.it/prodotto/barrage/"
       },
-      "LaFeltrinelli": {
-        "price": 78.99,
-        "url": "https://www.lafeltrinelli.it/barrage-gioco-da-tavolo-giocattolo-cranio-creations/e/8034055582114"
-      },
       "DragonStore": {
         "price": 78.99,
         "url": "https://www.dragonstore.it/classici-famiglia-barrage-italiano.1.1.115.gp.26729.uw"
@@ -1041,11 +1033,6 @@
   },
   {
     "name": "The Wolves",
-    "prezzi": {
-      "DragonStore": {
-        "price": 59.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-the-wolves-italiano.1.1.115.gp.31990.uw"
-      }
-    }
+    "prezzi": {}
   }
 ]
