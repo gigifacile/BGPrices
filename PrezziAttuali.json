@@ -195,6 +195,10 @@
   {
     "name": "Port Royal Big Box",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
+      },
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
@@ -305,12 +309,7 @@
   },
   {
     "name": "Obsession",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 69.99,
-        "url": "https://www.dungeondice.it/30862-obsession.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "Viticulture Essential Edition",
@@ -507,17 +506,18 @@
   },
   {
     "name": "Alta Tensione - Recharged",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 46.99,
+        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
+      }
+    }
   },
   {
     "name": "Le Havre",
     "prezzi": {
-      "DungeonDice": {
-        "price": 35.99,
-        "url": "https://www.dungeondice.it/3780-le-havre.html"
-      },
       "Player1": {
-        "price": 41.9,
+        "price": 60.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
