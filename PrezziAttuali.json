@@ -474,7 +474,7 @@
     "name": "Apiary",
     "prezzi": {
       "DungeonDice": {
-        "price": 63.99,
+        "price": 79.99,
         "url": "https://www.dungeondice.it/32351-apiary.html"
       },
       "Player1": {
@@ -732,6 +732,10 @@
   {
     "name": "The Crew",
     "prezzi": {
+      "DungeonDice": {
+        "price": 16.99,
+        "url": "https://www.dungeondice.it/22687-the-crew.html"
+      },
       "LaFeltrinelli": {
         "price": 16.9,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
@@ -740,12 +744,7 @@
   },
   {
     "name": "Ciarlatani di Quedlinburgo",
-    "prezzi": {
-      "DungeonDice": {
-        "price": 33.74,
-        "url": "https://www.dungeondice.it/20272-ciarlatani-di-quedlinburgo.html"
-      }
-    }
+    "prezzi": {}
   },
   {
     "name": "L'Oracolo di Delphi",
@@ -831,7 +830,7 @@
     "name": "Thunder Road - Vendetta",
     "prezzi": {
       "LaFeltrinelli": {
-        "price": 70.18,
+        "price": 71.91,
         "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
