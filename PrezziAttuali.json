@@ -330,10 +330,6 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
       },
-      "Player1": {
-        "price": 53.9,
-        "url": "https://player1.it/prodotto/viticulture-essential-edition/"
-      },
       "LaFeltrinelli": {
         "price": 64.9,
         "url": "https://www.lafeltrinelli.it/viticolture-essential-edition-gioco-da-giocattolo-ghenos-games/e/8033609530724"
@@ -791,7 +787,7 @@
     "name": "Splendor",
     "prezzi": {
       "UPlay": {
-        "price": 33.73,
+        "price": 31.98,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
       "LaFeltrinelli": {
