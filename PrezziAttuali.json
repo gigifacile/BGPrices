@@ -183,7 +183,7 @@
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
       "LaFeltrinelli": {
-        "price": 26.99,
+        "price": 25.64,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
@@ -242,7 +242,7 @@
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
       "UPlay": {
-        "price": 29.97,
+        "price": 28.47,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
@@ -263,7 +263,7 @@
     "name": "Agricola",
     "prezzi": {
       "UPlay": {
-        "price": 59.95,
+        "price": 56.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
       },
       "LaFeltrinelli": {
@@ -406,7 +406,7 @@
         "url": "https://player1.it/prodotto/seasons/"
       },
       "UPlay": {
-        "price": 40.48,
+        "price": 38.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
       "LaFeltrinelli": {
@@ -431,7 +431,7 @@
         "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
       },
       "UPlay": {
-        "price": 46.66,
+        "price": 44.16,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
       },
       "LaFeltrinelli": {
@@ -494,7 +494,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "UPlay": {
-        "price": 70.23,
+        "price": 66.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-village--big-box.html"
       }
     }
@@ -511,7 +511,7 @@
         "url": "https://player1.it/prodotto/apiary/"
       },
       "UPlay": {
-        "price": 75.3,
+        "price": 71.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-apiary--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
@@ -659,7 +659,7 @@
         "url": "https://www.dungeondice.it/23263-res-arcana.html"
       },
       "LaFeltrinelli": {
-        "price": 37.99,
+        "price": 39.99,
         "url": "https://www.lafeltrinelli.it/res-arcana-base-ita-gioco-giocattolo-asmodee/e/3558380064879"
       }
     }
@@ -791,7 +791,7 @@
     "name": "Splendor",
     "prezzi": {
       "UPlay": {
-        "price": 31.98,
+        "price": 30.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
       },
       "LaFeltrinelli": {
@@ -821,7 +821,7 @@
     "name": "Hallertau",
     "prezzi": {
       "UPlay": {
-        "price": 75.99,
+        "price": 71.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-hallertau--edizione-italiana-.html"
       }
     }
@@ -844,10 +844,6 @@
       "DungeonDice": {
         "price": 38.49,
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
-      },
-      "DragonStore": {
-        "price": 54.99,
-        "url": "https://www.dragonstore.it/gestionali-dorfromantik-sakura-edizione-italiana.1.1.385.gp.34169.uw"
       }
     }
   },
@@ -906,11 +902,11 @@
         "url": "https://player1.it/prodotto/dune-imperium/"
       },
       "LaFeltrinelli": {
-        "price": 47.49,
+        "price": 49.99,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
-        "price": 48.97,
+        "price": 46.47,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
       },
       "DragonStore": {
@@ -972,10 +968,6 @@
         "price": 66.9,
         "url": "https://player1.it/prodotto/spirit-island/"
       },
-      "UPlay": {
-        "price": 74.4,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
-      },
       "LaFeltrinelli": {
         "price": 79.9,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
@@ -996,10 +988,6 @@
       "Player1": {
         "price": 75.9,
         "url": "https://player1.it/prodotto/scythe/"
-      },
-      "UPlay": {
-        "price": 83.46,
-        "url": "https://www.uplay.it/it/gioco-da-tavolo-scythe.html"
       },
       "DragonStore": {
         "price": 89.99,
@@ -1083,7 +1071,7 @@
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
       },
       "LaFeltrinelli": {
-        "price": 56.99,
+        "price": 59.99,
         "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "DragonStore": {
