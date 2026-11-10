@@ -84,16 +84,12 @@
   {
     "name": "Harmonies",
     "prezzi": {
-      "DungeonDice": {
-        "price": 34.99,
-        "url": "https://www.dungeondice.it/27178-harmonies.html"
-      },
       "Player1": {
         "price": 26.9,
         "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
-        "price": 33.24,
+        "price": 39.99,
         "url": "https://www.lafeltrinelli.it/harmonies-base-gioco-da-tavolo-giocattolo-asmodee/e/3558380116677"
       },
       "DragonStore": {
@@ -633,7 +629,7 @@
     "name": "Golem",
     "prezzi": {
       "DungeonDice": {
-        "price": 49.99,
+        "price": 20.0,
         "url": "https://www.dungeondice.it/25620-golem.html"
       },
       "LaFeltrinelli": {
@@ -842,7 +838,7 @@
     "name": "Dorfromantik – Sakura",
     "prezzi": {
       "DungeonDice": {
-        "price": 38.49,
+        "price": 54.99,
         "url": "https://www.dungeondice.it/36987-dorfromantik-sakura.html"
       }
     }
@@ -969,7 +965,7 @@
         "url": "https://player1.it/prodotto/spirit-island/"
       },
       "LaFeltrinelli": {
-        "price": 79.9,
+        "price": 70.31,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
       },
       "DragonStore": {
