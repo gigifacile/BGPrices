@@ -52,10 +52,6 @@
       "LaFeltrinelli": {
         "price": 71.24,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
-      },
-      "DragonStore": {
-        "price": 55.99,
-        "url": "https://www.dragonstore.it/gestionali-seti-ricerca-di-intelligenza-extraterrestre.1.1.385.gp.33641.uw"
       }
     }
   },
@@ -550,7 +546,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 43.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -607,7 +603,7 @@
         "url": "https://www.dungeondice.it/25072-cascadia.html"
       },
       "Player1": {
-        "price": 32.9,
+        "price": 25.9,
         "url": "https://player1.it/prodotto/cascadia/"
       },
       "DragonStore": {
@@ -693,7 +689,7 @@
         "url": "https://www.dungeondice.it/23086-calico.html"
       },
       "Player1": {
-        "price": 33.9,
+        "price": 25.9,
         "url": "https://player1.it/prodotto/calico/"
       },
       "DragonStore": {
