@@ -50,7 +50,7 @@
         "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
       "LaFeltrinelli": {
-        "price": 71.24,
+        "price": 74.99,
         "url": "https://www.lafeltrinelli.it/cranio-creations-seti-ricerca-dell-giocattolo-cranio-creations/e/8034055586341"
       }
     }
@@ -204,10 +204,6 @@
         "price": 64.99,
         "url": "https://www.dungeondice.it/29880-heat.html"
       },
-      "Player1": {
-        "price": 49.9,
-        "url": "https://player1.it/prodotto/heat/"
-      },
       "UPlay": {
         "price": 67.45,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
@@ -234,7 +230,7 @@
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
       "UPlay": {
-        "price": 28.47,
+        "price": 31.47,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
@@ -257,6 +253,10 @@
       "DungeonDice": {
         "price": 59.99,
         "url": "https://www.dungeondice.it/21782-agricola.html"
+      },
+      "Player1": {
+        "price": 44.9,
+        "url": "https://player1.it/prodotto/agricola/"
       },
       "UPlay": {
         "price": 56.95,
@@ -321,10 +321,6 @@
       "DungeonDice": {
         "price": 64.99,
         "url": "https://www.dungeondice.it/8432-viticulture-essential-edition.html"
-      },
-      "Player1": {
-        "price": 53.9,
-        "url": "https://player1.it/prodotto/viticulture-essential-edition/"
       },
       "LaFeltrinelli": {
         "price": 64.9,
@@ -545,10 +541,6 @@
   {
     "name": "Le Havre",
     "prezzi": {
-      "Player1": {
-        "price": 60.9,
-        "url": "https://player1.it/prodotto/le-havre/"
-      },
       "LaFeltrinelli": {
         "price": 59.99,
         "url": "https://www.lafeltrinelli.it/havre-base-ita-gioco-da-giocattolo-asmodee/e/3558380102182"
@@ -888,10 +880,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
-      "Player1": {
-        "price": 43.9,
-        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
-      },
       "LaFeltrinelli": {
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
@@ -904,10 +892,6 @@
       "DungeonDice": {
         "price": 49.99,
         "url": "https://www.dungeondice.it/23931-dune-imperium.html"
-      },
-      "Player1": {
-        "price": 38.9,
-        "url": "https://player1.it/prodotto/dune-imperium/"
       },
       "LaFeltrinelli": {
         "price": 47.49,
@@ -1057,6 +1041,10 @@
   {
     "name": "Crack List",
     "prezzi": {
+      "DungeonDice": {
+        "price": 22.99,
+        "url": "https://www.dungeondice.it/32612-crack-list.html"
+      },
       "LaFeltrinelli": {
         "price": 21.84,
         "url": "https://www.lafeltrinelli.it/crack-list-gioco-da-tavolo-giocattolo-crack-list/e/3770025813059"
@@ -1073,10 +1061,6 @@
       "Player1": {
         "price": 45.9,
         "url": "https://player1.it/prodotto/le-rovine-perdute-di-arnak/"
-      },
-      "LaFeltrinelli": {
-        "price": 41.99,
-        "url": "https://www.lafeltrinelli.it/rovine-perdute-di-arnak-gioco-giocattolo-cranio-creations/e/8034055582664"
       },
       "DragonStore": {
         "price": 47.99,
