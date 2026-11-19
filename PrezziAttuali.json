@@ -32,6 +32,10 @@
         "price": 34.9,
         "url": "https://player1.it/prodotto/everdell-farshore/"
       },
+      "LaFeltrinelli": {
+        "price": 69.99,
+        "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
+      },
       "DragonStore": {
         "price": 79.99,
         "url": "https://www.dragonstore.it/classici-famiglia-everdell-farshore-italiano.1.1.115.gp.33725.uw"
@@ -44,10 +48,6 @@
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/22226-seti-ricerca-di-intelligenza-extraterrestre.html"
-      },
-      "Player1": {
-        "price": 55.9,
-        "url": "https://player1.it/prodotto/seti-ricerca-di-intelligenza-extraterrestre/"
       },
       "LaFeltrinelli": {
         "price": 74.99,
@@ -83,6 +83,10 @@
       "DungeonDice": {
         "price": 34.99,
         "url": "https://www.dungeondice.it/27178-harmonies.html"
+      },
+      "Player1": {
+        "price": 26.9,
+        "url": "https://player1.it/prodotto/harmonies/"
       },
       "LaFeltrinelli": {
         "price": 35.99,
@@ -166,6 +170,10 @@
         "price": 26.99,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
+      "LaFeltrinelli": {
+        "price": 25.64,
+        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
+      },
       "DragonStore": {
         "price": 21.59,
         "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
@@ -228,10 +236,6 @@
       "LaFeltrinelli": {
         "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
-      },
-      "DragonStore": {
-        "price": 23.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-forest-shuffle-italiano.1.1.115.gp.32727.uw"
       }
     }
   },
@@ -288,6 +292,10 @@
   {
     "name": "Nidavellir",
     "prezzi": {
+      "DungeonDice": {
+        "price": 37.99,
+        "url": "https://www.dungeondice.it/23035-nidavellir.html"
+      },
       "DragonStore": {
         "price": 24.99,
         "url": "https://www.dragonstore.it/fantasy-nidavellir-italiano.1.1.116.gp.27990.uw"
@@ -498,10 +506,6 @@
         "price": 71.0,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-apiary--edizione-italiana-.html"
       },
-      "LaFeltrinelli": {
-        "price": 65.91,
-        "url": "https://www.lafeltrinelli.it/apiary-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609532681"
-      },
       "DragonStore": {
         "price": 63.99,
         "url": "https://www.dragonstore.it/gestionali-apiary-italiano.1.1.385.gp.32653.uw"
@@ -538,7 +542,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 13.9,
+        "price": 37.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -601,6 +605,10 @@
       "Player1": {
         "price": 25.9,
         "url": "https://player1.it/prodotto/cascadia/"
+      },
+      "LaFeltrinelli": {
+        "price": 52.81,
+        "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
       },
       "DragonStore": {
         "price": 31.99,
@@ -679,6 +687,10 @@
       "Player1": {
         "price": 25.9,
         "url": "https://player1.it/prodotto/calico/"
+      },
+      "LaFeltrinelli": {
+        "price": 52.81,
+        "url": "https://www.lafeltrinelli.it/calico-gioco-da-tavolo-giocattolo-dal-tenda/e/0806891590534"
       },
       "DragonStore": {
         "price": 31.99,
@@ -880,10 +892,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
-      "Player1": {
-        "price": 43.9,
-        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
-      },
       "LaFeltrinelli": {
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
@@ -965,7 +973,7 @@
         "url": "https://player1.it/prodotto/spirit-island/"
       },
       "UPlay": {
-        "price": 70.4,
+        "price": 78.39,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-spirit-island--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
@@ -1015,6 +1023,10 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
+      "DungeonDice": {
+        "price": 29.99,
+        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
+      },
       "LaFeltrinelli": {
         "price": 29.9,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
