@@ -132,7 +132,7 @@
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
       },
       "LaFeltrinelli": {
-        "price": 47.4,
+        "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       }
     }
@@ -259,7 +259,7 @@
         "url": "https://player1.it/prodotto/agricola/"
       },
       "UPlay": {
-        "price": 56.95,
+        "price": 62.95,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-agricola--edizione-asmodee-.html"
       },
       "LaFeltrinelli": {
@@ -410,7 +410,7 @@
         "url": "https://player1.it/prodotto/seasons/"
       },
       "UPlay": {
-        "price": 38.23,
+        "price": 42.73,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-seasons.html"
       },
       "LaFeltrinelli": {
@@ -435,7 +435,7 @@
         "url": "https://player1.it/prodotto/studiosi-a-sud-del-tigri/"
       },
       "UPlay": {
-        "price": 44.16,
+        "price": 49.15,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-studiosi-a-sud-del-tigri.html"
       },
       "LaFeltrinelli": {
@@ -494,7 +494,7 @@
     "name": "Village Big Box",
     "prezzi": {
       "UPlay": {
-        "price": 66.23,
+        "price": 74.23,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-village--big-box.html"
       }
     }
@@ -511,7 +511,7 @@
         "url": "https://player1.it/prodotto/apiary/"
       },
       "UPlay": {
-        "price": 71.0,
+        "price": 79.59,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-apiary--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
@@ -554,7 +554,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 60.9,
+        "price": 37.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
@@ -610,10 +610,6 @@
         "price": 39.99,
         "url": "https://www.dungeondice.it/25072-cascadia.html"
       },
-      "Player1": {
-        "price": 25.9,
-        "url": "https://player1.it/prodotto/cascadia/"
-      },
       "LaFeltrinelli": {
         "price": 52.81,
         "url": "https://www.lafeltrinelli.it/cascadia-gioco-da-tavolo-giocattolo-little-rocket-games/e/0806891590596"
@@ -631,10 +627,6 @@
   {
     "name": "Starship Captains",
     "prezzi": {
-      "DungeonDice": {
-        "price": 27.49,
-        "url": "https://www.dungeondice.it/28831-starship-captains.html"
-      },
       "LaFeltrinelli": {
         "price": 41.99,
         "url": "https://www.lafeltrinelli.it/starship-captains-gioco-da-tavola-giocattolo-cranio-creations/e/8034055584170"
@@ -660,10 +652,6 @@
       "DungeonDice": {
         "price": 24.99,
         "url": "https://www.dungeondice.it/30238-terra-nova.html"
-      },
-      "Player1": {
-        "price": 29.9,
-        "url": "https://player1.it/prodotto/terra-nova/"
       }
     }
   },
@@ -810,6 +798,10 @@
   {
     "name": "Splendor",
     "prezzi": {
+      "UPlay": {
+        "price": 33.73,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-splendor.html"
+      },
       "LaFeltrinelli": {
         "price": 35.99,
         "url": "https://www.lafeltrinelli.it/splendor-base-ita-gioco-da-giocattolo-asmodee/e/3558380028383"
@@ -837,7 +829,7 @@
     "name": "Hallertau",
     "prezzi": {
       "UPlay": {
-        "price": 71.99,
+        "price": 79.99,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-hallertau--edizione-italiana-.html"
       }
     }
@@ -904,10 +896,6 @@
         "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
-      "Player1": {
-        "price": 43.9,
-        "url": "https://player1.it/prodotto/dune-imperium-insurrezione/"
-      },
       "LaFeltrinelli": {
         "price": 56.99,
         "url": "https://www.lafeltrinelli.it/asmodee-dune-imperium-insurrezione-gioco-giocattolo-asmodee/e/3558380116011"
@@ -934,7 +922,7 @@
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
       },
       "UPlay": {
-        "price": 46.47,
+        "price": 51.47,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
       }
     }
@@ -984,10 +972,6 @@
   {
     "name": "Spirit Island",
     "prezzi": {
-      "DungeonDice": {
-        "price": 79.99,
-        "url": "https://www.dungeondice.it/21947-spirit-island.html"
-      },
       "Player1": {
         "price": 66.9,
         "url": "https://player1.it/prodotto/spirit-island/"
@@ -1008,10 +992,6 @@
       "DungeonDice": {
         "price": 62.99,
         "url": "https://www.dungeondice.it/6038-scythe.html"
-      },
-      "Player1": {
-        "price": 64.9,
-        "url": "https://player1.it/prodotto/scythe/"
       },
       "UPlay": {
         "price": 87.95,
