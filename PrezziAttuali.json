@@ -24,10 +24,6 @@
         "price": 40.0,
         "url": "https://www.dungeondice.it/24508-everdell-farshore.html"
       },
-      "Player1": {
-        "price": 34.9,
-        "url": "https://player1.it/prodotto/everdell-farshore/"
-      },
       "LaFeltrinelli": {
         "price": 69.99,
         "url": "https://www.lafeltrinelli.it/everdell-farshore-gioco-da-tavolo-giocattolo-asmodee/e/3558380111610"
@@ -482,7 +478,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 60.9,
+        "price": 43.9,
         "url": "https://player1.it/prodotto/le-havre/"
       },
       "LaFeltrinelli": {
