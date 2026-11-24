@@ -5,10 +5,6 @@
       "DungeonDice": {
         "price": 22.99,
         "url": "https://www.dungeondice.it/19692-cartographers.html"
-      },
-      "DragonStore": {
-        "price": 24.99,
-        "url": "https://www.dragonstore.it/classici-famiglia-cartographers-edizione-italiana.1.1.115.gp.26485.uw"
       }
     }
   },
@@ -451,6 +447,10 @@
         "price": 24.0,
         "url": "https://www.dungeondice.it/32199-kutna-hora-la-citta-dell-argento.html"
       },
+      "Player1": {
+        "price": 37.9,
+        "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
+      },
       "UPlay": {
         "price": 38.84,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
@@ -538,7 +538,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 43.9,
+        "price": 41.9,
         "url": "https://player1.it/prodotto/le-havre/"
       }
     }
@@ -871,10 +871,6 @@
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/37657-thunder-road-vendetta.html"
-      },
-      "LaFeltrinelli": {
-        "price": 71.72,
-        "url": "https://www.lafeltrinelli.it/thunder-road-vendetta-gioco-da-giocattolo-dv-giochi/e/8058697272240"
       }
     }
   },
