@@ -130,6 +130,10 @@
       "LaFeltrinelli": {
         "price": 49.9,
         "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
+      },
+      "DragonStore": {
+        "price": 39.99,
+        "url": "https://www.dragonstore.it/gestionali-aeon-s-end-seconda-edizione.1.1.385.gp.32229.uw"
       }
     }
   },
@@ -170,6 +174,10 @@
         "price": 18.89,
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
+      "LaFeltrinelli": {
+        "price": 25.64,
+        "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
+      },
       "DragonStore": {
         "price": 21.59,
         "url": "https://www.dragonstore.it/gestionali-captain-flip-italiano.1.1.385.gp.32738.uw"
@@ -203,6 +211,10 @@
       "UPlay": {
         "price": 67.45,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
+      },
+      "LaFeltrinelli": {
+        "price": 64.99,
+        "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DragonStore": {
         "price": 51.99,
@@ -317,7 +329,12 @@
   },
   {
     "name": "Obsession",
-    "prezzi": {}
+    "prezzi": {
+      "DungeonDice": {
+        "price": 99.99,
+        "url": "https://www.dungeondice.it/30862-obsession.html"
+      }
+    }
   },
   {
     "name": "Viticulture Essential Edition",
@@ -538,7 +555,7 @@
     "name": "Le Havre",
     "prezzi": {
       "Player1": {
-        "price": 41.9,
+        "price": 34.9,
         "url": "https://player1.it/prodotto/le-havre/"
       }
     }
@@ -863,7 +880,12 @@
   },
   {
     "name": "Flip 7",
-    "prezzi": {}
+    "prezzi": {
+      "DragonStore": {
+        "price": 13.6,
+        "url": "https://www.dragonstore.it/classici-famiglia-flip-7-edizione-italiana.1.1.115.gp.34395.uw"
+      }
+    }
   },
   {
     "name": "Thunder Road - Vendetta",
@@ -968,12 +990,20 @@
       "LaFeltrinelli": {
         "price": 70.31,
         "url": "https://www.lafeltrinelli.it/spirit-island-gioco-da-tavolo-giocattolo-ghenos-games/e/8033609531158"
+      },
+      "DragonStore": {
+        "price": 63.99,
+        "url": "https://www.dragonstore.it/gestionali-spirit-island-italiano.1.1.385.gp.27413.uw"
       }
     }
   },
   {
     "name": "Scythe",
     "prezzi": {
+      "DungeonDice": {
+        "price": 62.99,
+        "url": "https://www.dungeondice.it/6038-scythe.html"
+      },
       "Player1": {
         "price": 64.9,
         "url": "https://player1.it/prodotto/scythe/"
@@ -1004,10 +1034,6 @@
   {
     "name": "Looot: Il Bottino dei Vichinghi",
     "prezzi": {
-      "DungeonDice": {
-        "price": 29.99,
-        "url": "https://www.dungeondice.it/19929-looot-il-bottino-dei-vichinghi.html"
-      },
       "LaFeltrinelli": {
         "price": 24.67,
         "url": "https://www.lafeltrinelli.it/looot-gioco-da-tavolo-edizione-giocattolo-ghenos-games/e/8033609532995"
