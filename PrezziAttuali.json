@@ -59,7 +59,7 @@
     "name": "Arcs",
     "prezzi": {
       "DungeonDice": {
-        "price": 38.99,
+        "price": 64.99,
         "url": "https://www.dungeondice.it/22972-arcs.html"
       },
       "DragonStore": {
@@ -74,6 +74,10 @@
       "DungeonDice": {
         "price": 69.99,
         "url": "https://www.dungeondice.it/19785-cyclades-edizione-leggendaria.html"
+      },
+      "DragonStore": {
+        "price": 55.99,
+        "url": "https://www.dragonstore.it/fantasy-cyclades-edizione-leggendaria.1.1.116.gp.33683.uw"
       }
     }
   },
@@ -126,6 +130,10 @@
       "Player1": {
         "price": 33.9,
         "url": "https://player1.it/prodotto/aeons-end-seconda-edizione/"
+      },
+      "LaFeltrinelli": {
+        "price": 49.9,
+        "url": "https://www.lafeltrinelli.it/aeon-s-end-gioco-da-giocattolo-ghenos-games/e/8033609532452"
       },
       "DragonStore": {
         "price": 39.99,
@@ -209,7 +217,7 @@
         "url": "https://www.uplay.it/it/gioco-da-tavolo-heat--pedal-to-the-metal.html"
       },
       "LaFeltrinelli": {
-        "price": 64.99,
+        "price": 61.74,
         "url": "https://www.lafeltrinelli.it/heat-base-ita-gioco-da-giocattolo-asmodee/e/0824968091616"
       },
       "DragonStore": {
@@ -230,12 +238,16 @@
         "url": "https://player1.it/prodotto/forest-shuffle/"
       },
       "UPlay": {
-        "price": 34.47,
+        "price": 28.47,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-forest-shuffle--edizione-italiana-.html"
       },
       "LaFeltrinelli": {
         "price": 28.49,
         "url": "https://www.lafeltrinelli.it/forest-shuffle-base-ita-gioco-giocattolo-asmodee/e/3558380102007"
+      },
+      "DragonStore": {
+        "price": 23.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-forest-shuffle-italiano.1.1.115.gp.32727.uw"
       }
     }
   },
@@ -461,7 +473,7 @@
         "url": "https://player1.it/prodotto/kutna-hora-la-citta-dellargento/"
       },
       "UPlay": {
-        "price": 28.62,
+        "price": 38.84,
         "url": "https://www.uplay.it/it/gioco-da-tavolo-kutn--hora--la-citt--dell-argento.html"
       },
       "LaFeltrinelli": {
@@ -726,6 +738,10 @@
       "LaFeltrinelli": {
         "price": 29.99,
         "url": "https://www.lafeltrinelli.it/mlem-base-gioco-da-tavolo-giocattolo-asmodee/e/5902650618862"
+      },
+      "DragonStore": {
+        "price": 23.99,
+        "url": "https://www.dragonstore.it/classici-famiglia-mlem-agenzia-spaziale.1.1.115.gp.32734.uw"
       }
     }
   },
@@ -892,7 +908,7 @@
     "name": "Dune Imperium - Insurrezione",
     "prezzi": {
       "DungeonDice": {
-        "price": 41.99,
+        "price": 59.99,
         "url": "https://www.dungeondice.it/20855-dune-imperium-insurrezione.html"
       },
       "LaFeltrinelli": {
@@ -919,6 +935,14 @@
       "LaFeltrinelli": {
         "price": 47.49,
         "url": "https://www.lafeltrinelli.it/dune-imperium-base-ita-gioco-giocattolo-asmodee/e/3558380059677"
+      },
+      "UPlay": {
+        "price": 46.47,
+        "url": "https://www.uplay.it/it/gioco-da-tavolo-dune--imperium--edizione-italiana-.html"
+      },
+      "DragonStore": {
+        "price": 39.92,
+        "url": "https://www.dragonstore.it/gestionali-dune-imperium-il-gioco-da-tavolo.1.1.385.gp.28573.uw"
       }
     }
   },
@@ -1053,7 +1077,7 @@
     "name": "Crack List",
     "prezzi": {
       "DungeonDice": {
-        "price": 13.79,
+        "price": 22.99,
         "url": "https://www.dungeondice.it/32612-crack-list.html"
       },
       "LaFeltrinelli": {
