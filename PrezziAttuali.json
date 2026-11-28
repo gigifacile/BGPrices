@@ -175,7 +175,7 @@
         "url": "https://www.dungeondice.it/32757-captain-flip.html"
       },
       "LaFeltrinelli": {
-        "price": 25.64,
+        "price": 26.99,
         "url": "https://www.lafeltrinelli.it/captain-flip-base-gioco-da-giocattolo-asmodee/e/5430003838037"
       },
       "DragonStore": {
@@ -190,6 +190,10 @@
       "DungeonDice": {
         "price": 29.99,
         "url": "https://www.dungeondice.it/29996-port-royal-big-box.html"
+      },
+      "LaFeltrinelli": {
+        "price": 21.38,
+        "url": "https://www.lafeltrinelli.it/port-royal-big-box-gioco-giocattolo-ghenos-games/e/8033609532360"
       }
     }
   },
@@ -305,6 +309,10 @@
   {
     "name": "Dominion - Seconda Edizione",
     "prezzi": {
+      "DungeonDice": {
+        "price": 34.99,
+        "url": "https://www.dungeondice.it/2141-dominion-seconda-edizione.html"
+      },
       "DragonStore": {
         "price": 39.99,
         "url": "https://www.dragonstore.it/gestionali-dominion-nasce-un-regno-seconda-edizione.1.1.385.gp.30463.uw"
@@ -460,10 +468,6 @@
       "LaFeltrinelli": {
         "price": 98.92,
         "url": "https://www.lafeltrinelli.it/hegemony-versione-estesa-gioco-da-giocattolo-ghenos-games/e/8033609532827"
-      },
-      "DragonStore": {
-        "price": 95.99,
-        "url": "https://www.dragonstore.it/gestionali-hegemony-versione-estesa-italiana.1.1.385.gp.32904.uw"
       }
     }
   },
@@ -504,6 +508,10 @@
   {
     "name": "Alta Tensione - Recharged",
     "prezzi": {
+      "DungeonDice": {
+        "price": 32.89,
+        "url": "https://www.dungeondice.it/19629-alta-tensione-recharged.html"
+      },
       "DragonStore": {
         "price": 37.6,
         "url": "https://www.dragonstore.it/gestionali-alta-tensione-recharged-nuova-edizione-italiana.1.1.385.gp.26514.uw"
@@ -565,10 +573,6 @@
       "DungeonDice": {
         "price": 39.99,
         "url": "https://www.dungeondice.it/25072-cascadia.html"
-      },
-      "Player1": {
-        "price": 25.9,
-        "url": "https://player1.it/prodotto/cascadia/"
       },
       "LaFeltrinelli": {
         "price": 52.81,
@@ -738,7 +742,7 @@
         "url": "https://www.dungeondice.it/22687-the-crew.html"
       },
       "LaFeltrinelli": {
-        "price": 16.9,
+        "price": 16.06,
         "url": "https://www.lafeltrinelli.it/crew-gioco-da-tavolo-giocattolo-giochi-uniti/e/8058773206770"
       }
     }
